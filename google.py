@@ -98,21 +98,7 @@ class Google:
     @staticmethod
     def search(query, num=10, start=0, sleep=True, recent=None):
         if sleep:
-            wait(1)
-
-        cacheKey = query + str(num)
-
-        # Check to see if our cache has the appropriate response to this query
-        cacheResult = r.get(cacheKey)
-
-        if cacheResult is not None:
-            results = pickle.loads(cacheResult)
-
-            # Do some sanity checking of the results
-            if len(results['results']) > 0:
-
-                print("Loaded google query from cache.")
-                return results            
+            wait(1)       
 
         print('Querying google.')
 
@@ -145,10 +131,6 @@ class Google:
                 'total_results' : total_results,
         }
 
-        # Save our result in the cache if the result was sane
-        if len(results) > 0:
-            cacheEntry = pickle.dumps(temp)
-            r.set(cacheKey, cacheEntry)
         return temp
 
     @staticmethod
@@ -156,7 +138,7 @@ class Google:
         if sleep:
             wait(1)
         url = generate_news_url(query, str(num), str(start), recent)
-        soup = BeautifulSoup(scraper.get(url).text)
+        soup = BeautifulSoup(requests.get(url).text)
         results = Google.scrape_news_result(soup)
 
         raw_total_results = soup.find('div', attrs = {'class' : 'sd'}).string
@@ -219,4 +201,6 @@ class Google:
             results.append(temp)
         return results
 
-#print(Google.search('food'));
+result = Google.search('food');
+for i in result['results']:
+    print i

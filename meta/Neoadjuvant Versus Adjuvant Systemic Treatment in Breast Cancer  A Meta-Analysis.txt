@@ -1,0 +1,1990 @@
+http://jnci.oxfordjournals.org/content/97/3/188.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Neoadjuvant Versus Adjuvant Systemic Treatment in Breast Cancer: A Meta-Analysis </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/97/3/188" />
+      <meta content="/jnci/97/3/188.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Neoadjuvant Versus Adjuvant Systemic Treatment in Breast Cancer: A Meta-Analysis"
+            name="DC.Title" />
+      <meta content="10.1093/jnci/dji021" name="DC.Identifier" />
+      <meta content="2005-02-02" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Davide Mauri" name="DC.Contributor" />
+      <meta content="Nicholas Pavlidis" name="DC.Contributor" />
+      <meta content="John P. A. Ioannidis" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta name="citation_author" content="Davide Mauri" />
+      <meta name="citation_author" content="Nicholas Pavlidis" />
+      <meta name="citation_author" content="John P. A. Ioannidis" />
+      <meta content="Neoadjuvant Versus Adjuvant Systemic Treatment in Breast Cancer: A Meta-Analysis"
+            name="citation_title" />
+      <meta content="02/02/2005" name="citation_date" />
+      <meta content="97" name="citation_volume" />
+      <meta content="3" name="citation_issue" />
+      <meta content="188" name="citation_firstpage" />
+      <meta content="194" name="citation_lastpage" />
+      <meta content="97/3/188" name="citation_id" />
+      <meta content="97/3/188" name="citation_id_from_sass_path" />
+      <meta content="jnci;97/3/188" name="citation_mjid" />
+      <meta content="10.1093/jnci/dji021" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/97/3/188.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/97/3/188.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/97/3/188.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/97/3/188"
+            name="citation_public_url" />
+      <meta content="15687361" name="citation_pmid" />
+      <meta name="citation_section" content="Article" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/97/3/172.short" rel="prev" />
+      <link href="/content/97/3/195.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d29421876e1">var callbackToken='53720CA2D9A6650';</script><script type="text/javascript" id="session-d29421876e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:14:32.976-07:00';
+            var gSessionId = 'kt249Vv7pA6Ulh4t807J3Q';
+            var gAuthzRequired = 'false';
+            var gAuthnMethods1 = 'ip ip';
+            var gAuthnMethods2 = 'ip,ip';
+            var gAuthnIPs = '18.189.59.169,18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/dji021");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("20050202");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F97%2F3%2F188.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/97/3.toc">
+                  <span xmlns="" class="volume-value">Volume 97</span>
+                  <span xmlns="" class="issue-value"> Issue 3</span></a></li>
+            <li>Pp. <span class="slug-pages">
+                  188-194.
+                  </span></li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/97/3/188.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Neoadjuvant Versus Adjuvant Systemic Treatment in Breast Cancer: A Meta-Analysis</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Davide+Mauri&amp;sortspec=date&amp;submit=Submit">Davide Mauri</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Nicholas+Pavlidis&amp;sortspec=date&amp;submit=Submit">Nicholas Pavlidis</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-3"><span class="name"><a class="name-search"
+                              href="/search?author1=John+P.+A.+Ioannidis&amp;sortspec=date&amp;submit=Submit">John P. A. Ioannidis</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><em>Affiliations of authors:</em> Department of Medical Oncology (DM, NP) and the Clinical Trials and Evidence-Based Medicine Unit, Department of Hygiene and
+                           Epidemiology (JPAI), University of Ioannina School of Medicine, Ioannina, Greece; Institute for Clinical Research and Health
+                           Policy Studies, Department of Medicine, Tufts-New England Medical Center, Tufts University School of Medicine, Boston, MA
+                           (JPAI)
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="fn" id="corresp-1"><em>Correspondence to:</em> John P.A. Ioannidis, MD, Chairman, Department of Hygiene and Epidemiology, University of Ioannina School of Medicine, Ioannina
+                        45110, Greece (e-mail: <span class="em-link"><span class="em-addr">jioannid{at}cc.uoi.gr</span></span>).
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                         hwp:start="2004-08-02"><span class="received-label">Received </span>August 2, 2004.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="rev-recd"
+                         hwp:start="2004-10-14"><span class="rev-recd-label">Revision received </span>October 14, 2004.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="2004-11-23"><span class="accepted-label">Accepted </span>November 23, 2004.
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-1" title="MATERIALS AND METHODS" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Abstract</h2>
+                  
+                  <p id="p-1"><em>Background:</em> Interest in the use of preoperative systemic treatment in the management of breast cancer has increased because such neoadjuvant
+                     therapy appears to reduce the extent of local surgery required. We compared the clinical end points of patients with breast
+                     cancer treated preoperatively with systemic therapy (neoadjuvant therapy) and of those treated postoperatively with the same
+                     regimen (adjuvant therapy) in a meta-analysis of randomized trials. <em>Methods:</em> We evaluated nine randomized studies, including a total of 3946 patients with breast cancer, that compared neoadjuvant therapy
+                     with adjuvant therapy regardless of what additional surgery and/or radiation treatment was used. Fixed and random effects
+                     methods were used to combine data. Primary outcomes were death, disease progression, distant disease recurrence, and loco-regional
+                     disease recurrence. Secondary outcomes were local response and conservative local treatment. All statistical tests were two-sided.
+                     <em>Results:</em> We found no statistically or clinically significant difference between neoadjuvant therapy and adjuvant therapy arms associated
+                     with death (summary risk ratio [RR] = 1.00, 95% confidence interval [CI] = 0.90 to 1.12), disease progression (summary RR
+                     = 0.99, 95% CI = 0.91 to 1.07), or distant disease recurrence (summary RR = 0.94, 95% CI = 0.83 to 1.06). However, neoadjuvant
+                     therapy was statistically significantly associated with an increased risk of loco-regional disease recurrences (RR = 1.22,
+                     95% CI = 1.04 to 1.43), compared with adjuvant therapy, especially in trials where more patients in the neoadjuvant, than
+                     the adjuvant, arm received radiation therapy without surgery (RR = 1.53, 95% CI = 1.11 to 2.10). Across trials, we observed
+                     heterogeneity in the rates of complete clinical response (range = 7%–65%; <em>P</em> for heterogeneity of &lt;.001), pathologic response (range = 4%–29%; <em>P</em> for heterogeneity of &lt;.001), and adoption of conservative local treatment (range = 28%–89% in neoadjuvant arms, <em>P</em> for heterogeneity of &lt;.001). <em>Conclusions:</em> Neoadjuvant therapy was apparently equivalent to adjuvant therapy in terms of survival and overall disease progression. Neoadjuvant
+                     therapy, compared with adjuvant therapy, was associated with a statistically significant increased risk of loco-regional recurrence
+                     when radiotherapy without surgery was adopted.
+                  </p>
+                  
+               </div>
+               <p id="p-2">Non–metastatic breast cancer is increasingly accepted as a systemic disease rather than a local disease, and interest in the
+                  use of systemic preoperative therapy (neoadjuvant chemotherapy and endocrine therapy, also known as primary or induction therapy)
+                  to treat the early systemic aspects of the disease is, therefore, increasing <em>(<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">1</a>)</em>. Systemic neoadjuvant chemotherapy, moreover, may result in local tumor regression or even in a complete pathologic response.
+                  Neoadjuvant therapy may also reduce the extent of local surgery required from radical mastectomy to breast-conserving surgery
+                  (e.g., quadrantectomy, segmentectomy, or lumpectomy) without jeopardizing patient survival because the extent of local surgery
+                  in patients with breast cancer does not appear to influence major patient outcomes, such as survival and disease-free survival
+                  <em>(<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2">2</a>–<a id="xref-ref-4-1" class="xref-bibr" href="#ref-4">4</a>)</em>.
+               </p>
+               <p id="p-3">Neoadjuvant therapy has been found to lead to better control of systemic residual disease in results from animal models <em>(<a id="xref-ref-5-1" class="xref-bibr" href="#ref-5">5</a>–<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">7</a>)</em>. Excision of primary tumors in mice leads to the release of serum growth-stimulating factors from the tumors and of malignant
+                  cells that can form metastatic foci <em>(<a id="xref-ref-6-1" class="xref-bibr" href="#ref-6">6</a>)</em>. When therapy with cyclophosphamide, radiation, tamoxifen, or luteinizing hormone-releasing hormone was preoperatively administrated
+                  to tumor-carrying mice, both tumor-cell proliferation and the release of growth-stimulating factors into the serum were suppressed,
+                  and survival was improved <em>(<a id="xref-ref-5-2" class="xref-bibr" href="#ref-5">5</a>,<a id="xref-ref-7-2" class="xref-bibr" href="#ref-7">7</a>)</em>. Thus, in mice, neoadjuvant therapy appears to be associated with better local and systemic disease control.
+               </p>
+               <p id="p-4">The same regimens administered as neoadjuvant therapy and adjuvant therapy (i.e., postoperative therapy) have been compared
+                  in randomized trials <em>(<a id="xref-ref-8-1" class="xref-bibr" href="#ref-8">8</a>–<a id="xref-ref-24-1" class="xref-bibr" href="#ref-24">24</a>)</em>. We used all available evidence from these trials to assess whether neoadjuvant systemic therapy is associated with any advantage
+                  compared with the same adjuvant systemic therapy for the treatment of breast cancer. The primary outcomes that we considered
+                  included loco-regional disease recurrence, distant disease recurrence, and overall survival; secondary outcomes included local
+                  response and the extent of breast surgery required. To address these issues, we performed a meta-analysis of randomized controlled
+                  trials that compared the same treatment regimen for breast cancer as neoadjuvant therapy and as adjuvant systemic therapy.
+                  We aimed to generate summary estimates, assess the remaining uncertainty, and estimate the between-study heterogeneity for
+                  each clinical outcome.
+               </p>
+               <div class="section" id="sec-1">
+                  <div class="section-nav"><a href="#abstract-1" title="Abstract" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-6" title="RESULTS" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>M<span class="sc">ATERIALS AND</span> M<span class="sc">ETHODS</span></h2>
+                  
+                  
+                  <h3>Identification of Randomized Studies</h3>
+                  
+                  <p id="p-5">We searched MEDLINE and EMBASE by entering the following in the searching algorithm: breast cancer AND (neoadjuvant OR neo-adjuvant
+                     OR pre-operative OR preoperative OR induction) AND (clinical trial OR randomized controlled trial OR double-blind OR single-blind
+                     OR random OR randomized OR placebo). We also searched the Cochrane Central Register of Controlled Trials for randomized trials
+                     that compared neoadjuvant with adjuvant systemic treatment for breast cancer. We set no language restriction. The latest search
+                     was done on October 31, 2003. We also hand-searched for the years 1995 through 2003 several oncology journals that publish
+                     many randomized trials <em>(<a id="xref-ref-25-1" class="xref-bibr" href="#ref-25">25</a>)</em> to ensure that electronic searches would not miss reports of eligible studies <em>(<a id="xref-ref-26-1" class="xref-bibr" href="#ref-26">26</a>)</em>. The reference list of retrieved papers was further screened for additional publications, and, to minimize publication bias,
+                     several investigators in the field were contacted and asked to provide clarifications and, potentially, additional data.
+                  </p>
+                  
+                  
+                  
+                  <h3>Eligibility Criteria</h3>
+                  
+                  <p id="p-6">All randomized controlled studies that compared neoadjuvant with adjuvant systemic treatment (chemotherapy or endocrine therapy)
+                     for breast cancer, in which the same regimen was given preoperatively to one group and postoperatively to another group, were
+                     considered eligible regardless of what additional surgery or radiation treatment was used. We also accepted trials where one
+                     arm received exclusively postoperative therapy while the other arm received some cycles of the same regimen preoperatively
+                     and some other cycles postoperatively. We included trials regardless of the exact chemotherapeutic or endocrine regimens being
+                     used because results in animal models had shown that the beneficial effects of neoadjuvant chemotherapy and endocrine therapy
+                     appeared similar for both treatments <em>(<a id="xref-ref-5-3" class="xref-bibr" href="#ref-5">5</a>,<a id="xref-ref-7-3" class="xref-bibr" href="#ref-7">7</a>)</em>. In addition, all regimens try to reduce tumor burden either by killing cells or by blocking their hormonal stimulation and
+                     proliferation. The emphasis of the meta-analysis is on the timing of administration of the treatment, not on the specific
+                     types of drugs used or drug regimens.
+                  </p>
+                  
+                  <p id="p-7">We excluded meeting abstracts, escalation dose studies, and pseudorandomized trials (e.g., those with alternate allocation
+                     of subjects). If other concomitant anticancer nonsurgical treatments were also used (e.g., hormone therapy and radiation therapy),
+                     these treatments should not have differed systematically between the two arms. Whenever more than one publication reported
+                     results for the same group of patients, we included only the report with the longest follow-up (largest number of events)
+                     to avoid duplication of information. Data from interim analyses were included if no further final report was available.
+                  </p>
+                  
+                  
+                  
+                  <h3>Data Extraction and Outcomes</h3>
+                  
+                  <p id="p-8">We recorded the following information about each eligible trial: authors' names, journal and year of publication, country
+                     of origin of patients, inclusive dates of patient enrollment, number of centers involved, and study design items (including
+                     whether there was a description of the mode of randomization, allocation concealment, number of withdrawals per arm, and blinding).
+                     We recorded the following information from both arms of each eligible trial: the number of patients randomly assigned to treatment
+                     and analyzed per arm, their age, their tumor stage, their menopausal status, regimens used (including type of therapy [endocrine
+                     therapy and/or chemotherapy], timing, number of courses for each arm, and additional treatments given to both arms), and number
+                     of outcome events per arm.
+                  </p>
+                  
+                  <p id="p-9">Primary outcomes included death (from any cause), disease progression, loco-regional disease recurrence, and distant disease
+                     recurrence (metastasis). Disease progression was defined as loco-regional or distant recurrence, occurrence of contralateral
+                     cancer, or death. Loco-regional recurrence was defined as recurrence in the ipsilateral breast or in the ipsilateral regional
+                     lymph nodes or chest wall.
+                  </p>
+                  
+                  <p id="p-10">Secondary outcomes included the local clinical response to neoadjuvant treatment (three categories: complete versus partial
+                     versus none or progressive disease), the pathologic response (complete versus noncomplete) in the neoadjuvant arm, and the
+                     surgical approaches adopted (no surgery needed [radiotherapy only], breast-conserving surgery [e.g., lumpectomy or quadrantectomy],
+                     or mastectomy) in each arm. After preoperative chemotherapy, the absence of clinical evidence of tumor in the breast was defined
+                     as a clinically complete response and a reduction in the clinical tumor size of 50% or more was defined as a partial response.
+                     A complete pathologic response was defined as the absence of tumor in the surgical specimen (primary tumor and lymph node
+                     metastasis); this response was pertinent only for women who had surgery after neoadjuvant treatment.
+                  </p>
+                  
+                  <p id="p-11">Two investigators (DM, JPAI) extracted the relevant data, and consensus was reached on all outcomes. Whenever information
+                     for outcomes was missing, we contacted the primary investigators to obtain additional data and clarifications.
+                  </p>
+                  
+                  
+                  
+                  <h3>Statistical Analysis</h3>
+                  
+                  <p id="p-12">For all primary outcomes in each study, we estimated the risk ratio (RR), with its variance and 95% confidence interval (CI).
+                     In studies that did not provide explicit accounting of the numbers of events for each arm, we derived the pertinent numbers
+                     from the Kaplan-Meier curves presented, from other information available in the published reports, or from communication with
+                     primary investigators. For some outcomes in one study <em>(<a id="xref-ref-8-2" class="xref-bibr" href="#ref-8">8</a>),</em> we used hazard ratio estimates and 95% confidence intervals derived from proportional hazards modeling. Hazard ratios may
+                     be more appropriate than risk ratios for synthesizing data from time-to-event studies, but these ratios were rarely reported
+                     in adequate detail. Heterogeneity between the risk ratios for the same outcome between different studies was assessed by use
+                     of the chi-square-based <em>Q</em> statistic <em>(<a id="xref-ref-27-1" class="xref-bibr" href="#ref-27">27</a>)</em>. Data were then combined across studies by the use of general variance methods with fixed and random effects models <em>(<a id="xref-ref-27-2" class="xref-bibr" href="#ref-27">27</a>)</em>. The fixed effects analysis weighted the natural logarithm of each study's risk ratio by the inverse of its variance. The
+                     random effects analysis weighted the natural logarithm of each study's risk ratio by the inverse of its variance plus an estimate
+                     of the between-study variance in the presence of between-study heterogeneity. In the absence of between-study heterogeneity,
+                     fixed and random effects coincide because the between-study variance is zero. For the secondary outcomes, we estimated whether
+                     there was statistically significant between-study heterogeneity. When very large between-study heterogeneity was detected,
+                     we did not present weighted summary estimates. We also performed subgroup analyses for the primary outcomes on the basis of
+                     whether conservative local management (e.g., lumpectomy or quadrantectomy) or radiotherapy only, without surgery, was used
+                     more often in the neoadjuvant arm than in the adjuvant arm.
+                  </p>
+                  
+                  <p id="p-13">Finally, for the primary outcomes, we evaluated whether small and large studies might have yielded different results from
+                     each other [by use of the Begg-Mazumdar test based on Kendal's tau correlation coefficient <em>(<a id="xref-ref-28-1" class="xref-bibr" href="#ref-28">28</a>)</em>] and whether the summary effect size changed considerably over time as more data accumulated [by use of recursive cumulative
+                     meta-analysis <em>(<a id="xref-ref-29-1" class="xref-bibr" href="#ref-29">29</a>,<a id="xref-ref-30-1" class="xref-bibr" href="#ref-30">30</a>)</em> and evaluation of Kaplan-Meier plots from individual studies for proportionality of hazards]. Analyses were conducted in
+                     Meta-Analyst (Joseph Lau, Boston, MA) and SPSS version 11.0 (SPSS, Inc., Chicago, IL). All statistical tests were two-tailed.
+                  </p>
+                  
+                  
+               </div>
+               <div class="section" id="sec-6">
+                  <div class="section-nav"><a href="#sec-1" title="MATERIALS AND METHODS" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-11" title="DISCUSSION" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>R<span class="sc">ESULTS</span></h2>
+                  
+                  
+                  <h3>Eligible Studies</h3>
+                  
+                  <p id="p-14">We identified 12 potentially eligible studies <em>(<a id="xref-ref-8-3" class="xref-bibr" href="#ref-8">8</a>–<a id="xref-ref-24-2" class="xref-bibr" href="#ref-24">24</a>)</em> of neoadjuvant versus adjuvant therapy for patients with breast cancer. One study was excluded from the meta-analysis because
+                     no peer-reviewed report has been published, although it has been discussed briefly in review articles <em>(<a id="xref-ref-20-1" class="xref-bibr" href="#ref-20">20</a>–<a id="xref-ref-22-1" class="xref-bibr" href="#ref-22">22</a>)</em>. Two more trials <em>(<a id="xref-ref-23-1" class="xref-bibr" href="#ref-23">23</a>,<a id="xref-ref-24-3" class="xref-bibr" href="#ref-24">24</a>)</em> are ongoing, and no peer-reviewed report has been appeared for either.
+                  </p>
+                  
+                  <p id="p-15">Nine trials were thus eligible, as shown in <a id="xref-table-wrap-1-1" class="xref-table" href="#T1">Table 1</a> <em>(<a id="xref-ref-8-4" class="xref-bibr" href="#ref-8">8</a>–<a id="xref-ref-19-1" class="xref-bibr" href="#ref-19">19</a>)</em>. A total of 3946 patients were randomly assigned to treatment (1972 in neoadjuvant arms and 1974 in adjuvant arms), and we
+                     analyzed data from 3861 of them in this study (1933 and 1928 in the two arms, respectively). In four trials <em>(<a id="xref-ref-12-1" class="xref-bibr" href="#ref-12">12</a>–<a id="xref-ref-17-1" class="xref-bibr" href="#ref-17">17</a>),</em> a total of 85 patients did not have analyzable data. The mean or median age ranged between 43 years and 56 years across the
+                     arms of the included trials. There was considerable variability across studies in the eligible stages of breast cancer, tumor
+                     size, and lymph node status (<a id="xref-table-wrap-1-2" class="xref-table" href="#T1">Table 1</a>). With the exception of one trial <em>(<a id="xref-ref-13-1" class="xref-bibr" href="#ref-13">13</a>)</em> that included only premenopausal patients, all trials included both premenopausal and postmenopausal patients. Many regimens
+                     were used (<a id="xref-table-wrap-1-3" class="xref-table" href="#T1">Table 1</a>). The total number of treatment courses in the adjuvant treatment arms varied between four and eight, but the neoadjuvant
+                     courses varied between one and six. In four trials <em>(<a id="xref-ref-11-1" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-12-2" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-15-1" class="xref-bibr" href="#ref-15">15</a>,<a id="xref-ref-18-1" class="xref-bibr" href="#ref-18">18</a>),</em> patients in the neoadjuvant arm received some of the courses before surgery and some after surgery. In the other five trials,
+                     patients in the neoadjuvant arm received all courses before surgery. All nine trials enrolled patients between January 1983
+                     and May 1999. Three of the nine trials were multicentric trials <em>(<a id="xref-ref-8-5" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-16-1" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-19-2" class="xref-bibr" href="#ref-19">19</a>)</em>.
+                  </p>
+                  <div class="table pos-float" id="T1">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="188/T1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="188/T1.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 1.</strong> </span> 
+                        <p id="p-16" class="first-child">Characteristics of eligible trials for this meta-analysis*</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-20">Only one trial <em>(<a id="xref-ref-11-3" class="xref-bibr" href="#ref-11">11</a>)</em> described in detail the mode of randomization, and three trials <em>(<a id="xref-ref-8-7" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-18-3" class="xref-bibr" href="#ref-18">18</a>,<a id="xref-ref-19-4" class="xref-bibr" href="#ref-19">19</a>)</em> described the mode of allocation concealment in detail. Withdrawals were described in detail in seven trials <em>(<a id="xref-ref-8-8" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-9-2" class="xref-bibr" href="#ref-9">9</a>,<a id="xref-ref-12-4" class="xref-bibr" href="#ref-12">12</a>–<a id="xref-ref-17-3" class="xref-bibr" href="#ref-17">17</a>,<a id="xref-ref-19-5" class="xref-bibr" href="#ref-19">19</a>)</em>. None of the nine studies was blinded. The definition of loco-regional recurrence was similar across studies. However, three
+                     studies <em>(<a id="xref-ref-15-3" class="xref-bibr" href="#ref-15">15</a>,<a id="xref-ref-18-4" class="xref-bibr" href="#ref-18">18</a>,<a id="xref-ref-19-6" class="xref-bibr" href="#ref-19">19</a>)</em> did not provide detailed definitions for this outcome but simply separated it from systemic, distant, or metastatic recurrence
+                     or relapse without further specification. Complete pathologic response (no invasive tumor cells) was defined similarly in
+                     all studies in which it was analyzed <em>(<a id="xref-ref-8-9" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-11-4" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-15-4" class="xref-bibr" href="#ref-15">15</a>,<a id="xref-ref-16-3" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-17-4" class="xref-bibr" href="#ref-17">17</a>,<a id="xref-ref-19-7" class="xref-bibr" href="#ref-19">19</a>)</em>.
+                  </p>
+                  
+                  
+                  
+                  <h3>Meta-Analysis: Primary Outcomes</h3>
+                  
+                  <p id="p-21">In the meta-analysis, we included data on 966 deaths from all nine trials <em>(<a id="xref-ref-8-10" class="xref-bibr" href="#ref-8">8</a>–<a id="xref-ref-19-8" class="xref-bibr" href="#ref-19">19</a>)</em>, on 1310 occurrences of disease progression from seven trials <em>(<a id="xref-ref-8-11" class="xref-bibr" href="#ref-8">8</a>–<a id="xref-ref-11-5" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-13-3" class="xref-bibr" href="#ref-13">13</a>–<a id="xref-ref-17-5" class="xref-bibr" href="#ref-17">17</a>, <a id="xref-ref-19-9" class="xref-bibr" href="#ref-19">19</a>),</em> on 520 loco-regional recurrences from all nine trials <em>(<a id="xref-ref-8-12" class="xref-bibr" href="#ref-8">8</a>–<a id="xref-ref-19-10" class="xref-bibr" href="#ref-19">19</a>),</em> and on 745 distant recurrences from seven trials <em>(<a id="xref-ref-9-3" class="xref-bibr" href="#ref-9">9</a>–<a id="xref-ref-11-6" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-13-4" class="xref-bibr" href="#ref-13">13</a>–<a id="xref-ref-19-11" class="xref-bibr" href="#ref-19">19</a>)</em>. Although we contacted the authors, additional data could not be retrieved on disease progression from two trials <em>(<a id="xref-ref-12-5" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-18-5" class="xref-bibr" href="#ref-18">18</a>)</em> and on distant recurrences from two trials <em>(<a id="xref-ref-8-13" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-12-6" class="xref-bibr" href="#ref-12">12</a>)</em>.
+                  </p>
+                  
+                  <p id="p-22">We first used a fixed effects analysis to investigate differences between the compared arms for the outcomes death, disease
+                     progression, distant recurrences, and loco-regional recurrences. We found no difference between the arms for the outcomes
+                     death (summary RR for death = 1.00, 95% CI = 0.90 to 1.12), disease progression (summary RR for disease progression = 0.99,
+                     95% CI = 0.91 to 1.07), and distant recurrences (summary RR for distant recurrence = 0.94, 95% CI = 0.83 to 1.06). However,
+                     we did find a statistically significant 22% increased relative risk for loco-regional recurrences associated with neoadjuvant
+                     treatment (summary RR for loco-regional recurrence = 1.22, 95% CI = 1.04 to 1.43; <em>P</em> = .015) (<a id="xref-fig-1-1" class="xref-fig" href="#F1">Fig. 1</a>). No statistically significant between-study heterogeneity was observed for any of the four primary outcomes.
+                  </p>
+                  <div id="F1" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="188/F1.expansion.html"><img alt="Fig. 1." src="188/F1.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="188/F1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="188/F1.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/97/3/188/F1">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 1.</strong></span> 
+                        <p id="p-23" class="first-child">Meta-analysis for primary outcomes with neoadjuvant therapy compared with adjuvant therapy for breast cancer. In each panel,
+                           each study [Van der Hage et al. <em>(<a id="xref-ref-8-14" class="xref-bibr" href="#ref-8">8</a>)</em>, Avril et al./Mauriac et al. <em>(<a id="xref-ref-9-4" class="xref-bibr" href="#ref-9">9</a>,<a id="xref-ref-10-2" class="xref-bibr" href="#ref-10">10</a>)</em>, Semiglazov et al. <em>(<a id="xref-ref-11-7" class="xref-bibr" href="#ref-11">11</a>)</em>, Scholl et al. <em>(<a id="xref-ref-12-7" class="xref-bibr" href="#ref-12">12</a>)</em>, Scholl et al. <em>(<a id="xref-ref-13-5" class="xref-bibr" href="#ref-13">13</a>)</em>, Broet et al. <em>(<a id="xref-ref-14-2" class="xref-bibr" href="#ref-14">14</a>)</em>, Makris et al. <em>(<a id="xref-ref-15-5" class="xref-bibr" href="#ref-15">15</a>)</em>, NSABP B-18 <em>(<a id="xref-ref-16-4" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-17-6" class="xref-bibr" href="#ref-17">17</a>)</em>, Gazet et al. <em>(<a id="xref-ref-18-6" class="xref-bibr" href="#ref-18">18</a>)</em>, Danforth et al. <em>(<a id="xref-ref-19-12" class="xref-bibr" href="#ref-19">19</a>)</em>] is shown by the point estimate of the risk ratio (square proportional to the weight of each study) and 95% confidence interval
+                           (CI) for the risk ratio (extending lines); the summary risk ratio (ALL) and 95% confidence intervals by fixed effects calculations
+                           are also shown by diamonds. For all panels, values greater than 1 indicate that neoadjuvant treatment has a worse outcome
+                           compared with adjuvant treatment. (A) Death. (B) Disease progression. (C) Distant disease recurrence. (D) Loco-regional disease
+                           recurrence. Arrow = 95% confidence interval extends beyond the depicted range.
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-24">With a random effects analysis, we found no difference between arms compared for death and distant recurrences; in fact, the
+                     results calculated from the random effects analysis were identical to those obtained by fixed effects analysis (between-study
+                     variance = 0). Furthermore, the results for disease progression (summary RR = 0.99, 95% CI = 0.88 to 1.11) and loco-regional
+                     recurrence (summary RR = 1.22, 95% CI = 1.03 to 1.44; <em>P</em> = .018) were very similar to the results for the same outcomes from the fixed effects analysis. The difference in the results
+                     for loco-regional recurrences in the neoadjuvant treatment arms was less than 5% in seven trials <em>(<a id="xref-ref-8-15" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-11-8" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-12-8" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-15-6" class="xref-bibr" href="#ref-15">15</a>–<a id="xref-ref-19-13" class="xref-bibr" href="#ref-19">19</a>),</em> 16.1% in Avril et al. <em>(<a id="xref-ref-9-5" class="xref-bibr" href="#ref-9">9</a>),</em> and 5.6% in Broet et al. <em>(<a id="xref-ref-14-3" class="xref-bibr" href="#ref-14">14</a>)</em>.
+                  </p>
+                  
+                  
+                  
+                  <h3>Secondary Outcomes</h3>
+                  
+                  <p id="p-25">Secondary outcomes are shown in <a id="xref-table-wrap-2-1" class="xref-table" href="#T2">Table 2</a>. The rates of complete clinical response were statistically significantly heterogeneous (ranging from 7% to 65%, <em>P</em> for heterogeneity of &lt;.001) across studies. When both complete and partial clinical responses were considered, the difference
+                     between extremes was smaller, but the rates were still statistically significantly heterogeneous (ranging from 45% to 83%,
+                     <em>P</em> for heterogeneity of &lt;.001). Rates of pathologic response were available in five trials <em>(<a id="xref-ref-8-16" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-11-9" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-15-7" class="xref-bibr" href="#ref-15">15</a>–<a id="xref-ref-17-7" class="xref-bibr" href="#ref-17">17</a>, <a id="xref-ref-19-14" class="xref-bibr" href="#ref-19">19</a>)</em> and were generally low but were still statistically significantly heterogeneous between studies (ranging from 4% to 29%,
+                     <em>P</em> for heterogeneity of &lt;.001). In the other four trials <em>(<a id="xref-ref-9-6" class="xref-bibr" href="#ref-9">9</a>,<a id="xref-ref-10-3" class="xref-bibr" href="#ref-10">10</a>,<a id="xref-ref-12-9" class="xref-bibr" href="#ref-12">12</a>–<a id="xref-ref-14-4" class="xref-bibr" href="#ref-14">14</a>,<a id="xref-ref-18-7" class="xref-bibr" href="#ref-18">18</a>),</em> pathologic response rates were not available because radiotherapy was administered to patients who had a complete clinical
+                     response. Although the rates of pathologic response were not reported, these rates, by definition, would have been lower than
+                     the rates of complete clinical response. Thus, the rates of pathologic response in these four trials should not have exceeded
+                     the rates observed in the other trials and should have been lower than those.
+                  </p>
+                  <div class="table pos-float" id="T2">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="188/T2.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="188/T2.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 2.</strong> </span> 
+                        <p id="p-26" class="first-child">Clinical and pathologic response rates of the studies in this meta-analysis in the neoadjuvant arm and local treatment adopted
+                           in each arm*
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-32">We found large heterogeneity across studies in the rates of conservative local treatment in the adjuvant arms (ranging from
+                     0% to 92%; <em>P</em> for heterogeneity of &lt;.001) and in the neoadjuvant arms (ranging from 28% to 89%; <em>P</em> for heterogeneity of &lt;.001). Overall, we found a statistically significant higher rate of conservative local treatment in
+                     the neoadjuvant arms than in the adjuvant arms of five studies <em>(<a id="xref-ref-8-18" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-9-8" class="xref-bibr" href="#ref-9">9</a>–<a id="xref-ref-11-11" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-15-9" class="xref-bibr" href="#ref-15">15</a>–<a id="xref-ref-17-9" class="xref-bibr" href="#ref-17">17</a>)</em>, a borderline difference in another trial (<em>P</em> = .06) <em>(<a id="xref-ref-12-11" class="xref-bibr" href="#ref-12">12</a>),</em> and no difference between arms in three studies <em>(<a id="xref-ref-13-7" class="xref-bibr" href="#ref-13">13</a>,<a id="xref-ref-18-9" class="xref-bibr" href="#ref-18">18</a>,<a id="xref-ref-19-16" class="xref-bibr" href="#ref-19">19</a>)</em>. Finally, we found that radiotherapy only, without surgery, was administered statistically significantly more often in the
+                     neoadjuvant arms than in the adjuvant arms in three trials <em>(<a id="xref-ref-9-9" class="xref-bibr" href="#ref-9">9</a>,<a id="xref-ref-10-5" class="xref-bibr" href="#ref-10">10</a>,<a id="xref-ref-13-8" class="xref-bibr" href="#ref-13">13</a>,<a id="xref-ref-18-10" class="xref-bibr" href="#ref-18">18</a>)</em>.
+                  </p>
+                  
+                  <p id="p-33">We found no differences in the primary outcomes between the two arms in the subgroup of studies in which there was an excess
+                     rate of conservative local treatment in the neoadjuvant arms (e.g., for loco-regional recurrence, RR by random effects = 1.18,
+                     95% CI = 0.91 to 1.52; <em>P</em> = .22; and RR by fixed effects = 1.19, 95% CI = 0.99 to 1.43; <em>P</em> = .063; no statistically significant between-study heterogeneity) and the subgroup of studies without such an excess in the
+                     former subgroup (e.g., for loco-regional recurrence, RR by both fixed and random effects = 1.31, 95% CI = 0.95 to 1.81; <em>P</em> = .097). However, increased risk of loco-regional recurrence associated with neoadjuvant treatment was driven largely by
+                     the three trials <em>(<a id="xref-ref-9-10" class="xref-bibr" href="#ref-9">9</a>,<a id="xref-ref-10-6" class="xref-bibr" href="#ref-10">10</a>,<a id="xref-ref-13-9" class="xref-bibr" href="#ref-13">13</a>,<a id="xref-ref-18-11" class="xref-bibr" href="#ref-18">18</a>)</em> in which radiotherapy only without surgery was adopted more often in the neoadjuvant than in the adjuvant arms (RR by random
+                     effects = 1.53, 95% CI = 1.11 to 2.10; <em>P</em> = .009; and RR by fixed effects = 1.53, 95% CI = 1.17 to 2.00; <em>P</em> =.002; no statistically significant between-study heterogeneity), whereas no association with loco-regional recurrences was
+                     found in other trials (RR by both fixed and random effects = 1.10, 95% CI = 0.87 to 1.38; <em>P</em> = .44). The strongest association between neoadjuvant treatment and increased risk of loco-regional recurrence was observed
+                     in the study in which the patients in the neoadjuvant arm with a complete clinical response received radiotherapy alone without
+                     any surgical treatment <em>(<a id="xref-ref-9-11" class="xref-bibr" href="#ref-9">9</a>,<a id="xref-ref-10-7" class="xref-bibr" href="#ref-10">10</a>)</em>. Patients who were treated only with radiotherapy had statistically significantly higher rates of loco-regional recurrence
+                     (20 of 44 patients) than patients who were treated with breast-conserving surgery (nine of 40 patients). Subgroup analyses
+                     should be interpreted cautiously because of multiple comparisons.
+                  </p>
+                  
+                  
+                  
+                  <h3>Potential Bias</h3>
+                  
+                  <p id="p-34">Small trials did not differ from larger trials in their results for death (<em>P</em> =.46), distant disease recurrence (<em>P</em> = .45), or loco-regional recurrence (<em>P</em> = .84). However, there was an indication that smaller studies, compared with larger studies, had a relatively more favorable
+                     comparative overall disease progression associated with neoadjuvant treatment (<em>P</em> = .068) than with adjuvant treatment. The first study <em>(<a id="xref-ref-12-12" class="xref-bibr" href="#ref-12">12</a>)</em> did not show different results for any outcome than later studies <em>(<a id="xref-ref-8-19" class="xref-bibr" href="#ref-8">8</a>–<a id="xref-ref-11-12" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-13-10" class="xref-bibr" href="#ref-13">13</a>,<a id="xref-ref-19-17" class="xref-bibr" href="#ref-19">19</a>),</em> and the summary estimates did not change much as more data accumulated over time (data not shown).
+                  </p>
+                  
+                  
+               </div>
+               <div class="section" id="sec-11">
+                  <div class="section-nav"><a href="#sec-6" title="RESULTS" class="prev-section-link"><span>Previous Section</span></a><a href="#fn-group-1" title="Footnotes" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>D<span class="sc">ISCUSSION</span></h2>
+                  
+                  <p id="p-35">We found no difference in overall survival, disease progression, and distant disease recurrence between the neoadjuvant treatment
+                     arms and the adjuvant treatment arms in a meta-analysis of nine trials with a total of approximately 4000 subjects. Moreover,
+                     the cumulative data excluded modest even differences in these outcomes. However, neoadjuvant treatment compared with adjuvant
+                     treatment was statistically significantly associated with an increased risk of loco-regional disease recurrence, and the difference
+                     was greater in trials in which radiotherapy without any surgery was adopted more commonly in the neoadjuvant arm than in the
+                     adjuvant arm. Pathologic response rates were rather low regardless of the regimen used, and rates of conservative local management
+                     varied considerably across studies.
+                  </p>
+                  
+                  <p id="p-36">Primary systemic treatment has been accepted as the standard of care in women with locally advanced breast cancer <em>(<a id="xref-ref-31-1" class="xref-bibr" href="#ref-31">31</a>)</em>. Downstaging (i.e., the possibility of breast-conserving surgery for locally advanced breast cancer and for lesions more
+                     than 3 cm in diameter) and good cosmetic results are considered important advantages of neoadjuvant treatment. The use of
+                     primary systemic treatment for smaller, earlier-stage tumors is less well accepted. No trial included in our meta-analysis
+                     had a difference in survival or disease progression between neoadjuvant arms and adjuvant arms. From the results of the largest
+                     trial <em>(<a id="xref-ref-16-6" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-17-10" class="xref-bibr" href="#ref-17">17</a>)</em> alone, we could exclude differences of 20%–30% between the compared strategies by taking into account the uncertainty of
+                     the observed hazard ratios. In our meta-analysis, we excluded differences of 12% for mortality and differences of 9% for disease
+                     progression on the basis of the uncertainty of the observed summary risk ratios, thus narrowing the potential for differences
+                     of any importance between the two arms. Overall survival is not influenced by the timing of chemotherapy (before or after
+                     surgery) but is more likely to be influenced by the chemosensitivity of the primary lesion <em>(<a id="xref-ref-32-1" class="xref-bibr" href="#ref-32">32</a>–<a id="xref-ref-34-1" class="xref-bibr" href="#ref-34">34</a>)</em>. Thus, this meta-analysis did not confirm that neoadjuvant systemic therapy was associated with better clinical outcomes
+                     than adjuvant systemic therapy.
+                  </p>
+                  
+                  <p id="p-37">In fact, we found that a statistically significantly higher relative risk of loco-regional disease recurrence was associated
+                     with neoadjuvant treatment than with adjuvant treatment. We found no clear association between the risk of loco-regional recurrence
+                     and the use of breast-conserving surgery, although data from individuals are required to address this issue more appropriately.
+                     Large trials <em>(<a id="xref-ref-2-2" class="xref-bibr" href="#ref-2">2</a>,<a id="xref-ref-3-1" class="xref-bibr" href="#ref-3">3</a>)</em> have found a higher risk of loco-regional disease recurrence associated with breast-conserving surgery than with more extensive
+                     surgical approaches. We found, however, that the increased risk in the neoadjuvant arm largely reflected the use of radiotherapy
+                     without any surgery for patients who had an apparently complete clinical response. The loco-regional recurrence problem is
+                     compatible with the low rates of complete pathologic response that we observed in these trials. Similarly, low rates of pathologic
+                     response (&lt;20%) have also been obtained in trials comparing various neoadjuvant regimens with each other <em>(<a id="xref-ref-35-1" class="xref-bibr" href="#ref-35">35</a>,<a id="xref-ref-36-1" class="xref-bibr" href="#ref-36">36</a>)</em>. The lack of pathologic response appears to be associated with an adverse outcome in the neoadjuvant arms <em>(<a id="xref-ref-16-7" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-37-1" class="xref-bibr" href="#ref-37">37</a>)</em>. Consequently, despite gross clinical response, the tumor bed may not be free of malignant cells, and tumor cell foci may
+                     be present in the majority of patients, increasing the risk for subsequent loco-regional disease recurrence. This problem
+                     is probably more important when radiotherapy alone is used. An alternative explanation may be that these women would have
+                     more breast tissue in which to develop a loco-regional recurrence.
+                  </p>
+                  
+                  <p id="p-38">Our meta-analysis has some limitations. We found some evidence that small trials gave different results from larger trials
+                     for disease progression, and publication bias cannot be totally excluded. We have to acknowledge that the meta-analysis is
+                     based on data from trials that have published results in the literature. Use of updated individual patient data may further
+                     enhance the accuracy and reduce the uncertainty of the estimates <em>(<a id="xref-ref-38-1" class="xref-bibr" href="#ref-38">38</a>,<a id="xref-ref-39-1" class="xref-bibr" href="#ref-39">39</a>)</em>. However, we made an effort to include all additional information that we could obtain from the primary investigators, and
+                     definitions for the major outcomes were largely consistent across studies. A meta-analysis of individual-level data may still
+                     be performed with an emphasis on identifying patients who have different risks for the major outcomes <em>(<a id="xref-ref-40-1" class="xref-bibr" href="#ref-40">40</a>)</em>. Another potential limitation is that the results of at least two recently launched randomized studies <em>(<a id="xref-ref-23-2" class="xref-bibr" href="#ref-23">23</a>,<a id="xref-ref-24-4" class="xref-bibr" href="#ref-24">24</a>)</em> with a total of 1315 patients were not available to include in the meta-analysis. However, given the accumulated evidence
+                     to-date, the overall summary estimates for the primary outcomes that we considered are unlikely to change.
+                  </p>
+                  
+                  <p id="p-39">Another limitation of this study is that there was considerable heterogeneity in the design, modes of treatment used in each
+                     study, and response rates. Heterogeneity is not necessarily a disadvantage in meta-analysis <em>(<a id="xref-ref-41-1" class="xref-bibr" href="#ref-41">41</a>)</em>, and in our study, it provided an opportunity to probe the consistency of the treatment effects across the various local
+                     treatment approaches used. In particular, there was large variability in the treatment regimens used across these studies,
+                     and a meta-analysis for specific regimens would not be feasible. We initially hypothesized, on the basis of results from animal
+                     studies and a commonly postulated mechanism, that the relative merits of neoadjuvant and adjuvant therapies do not differ
+                     by the regimen used. This potential limitation should be considered seriously. In the meta-analysis, we found no evidence
+                     of between-study heterogeneity for any primary outcome despite this variability in treatments. Thus, from the available data,
+                     we cannot reject the hypothesis that the specific treatment regimen does not influence the relative merits of neoadjuvant
+                     therapy compared with adjuvant therapy. It may be argued, however, that the effect sizes from this meta-analysis should not
+                     be extrapolated necessarily to agents with much higher potency or very different modes of action. For example, some recent
+                     studies suggest that regimens involving taxanes and/or the monoclonal antibody trastuzumab may be particularly effective as
+                     neoadjuvant regimens <em>(<a id="xref-ref-42-1" class="xref-bibr" href="#ref-42">42</a>–<a id="xref-ref-44-1" class="xref-bibr" href="#ref-44">44</a>)</em>. However, none of these regimens have been evaluated in randomized trials that compared neodjuvant therapy with adjuvant
+                     therapy.
+                  </p>
+                  
+                  <p id="p-40">Despite these caveats, this meta-analysis demonstrates the equivalence of neoadjuvant and adjuvant treatments for breast cancer
+                     in terms of survival, disease progression, and distant recurrence and shows that an increased risk of loco-regional disease
+                     recurrence is associated with neoadjuvant treatment, especially when primary systemic treatment is not accompanied by any
+                     surgical intervention (i.e., radiation therapy alone). Consequently, we recommend avoiding the use of radiotherapy without
+                     any surgical treatment, even in the presence of an apparently good clinical response to neoadjuvant chemotherapy. Some sort
+                     of breast-conserving surgical intervention is likely to be warranted, regardless of whether neoadjuvant or adjuvant treatment
+                     is adopted and regardless of the patient's initial clinical response.
+                  </p>
+                  
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <div class="section-nav"><a href="#sec-11" title="DISCUSSION" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn" id="fn-9">
+                        
+                        <p id="p-41">We are thankful to Drs. V.F. Semiglazov and L. Mauriac for contributing clarifications for their studies.</p>
+                        
+                     </li>
+                  </ul>
+               </div>
+               <ul>
+                  <li class="fn" id="copyright-statement-1"><em>Journal of the National Cancer Institute,</em> Vol. 97, No. 3, © Oxford University Press 2005, all rights reserved.
+                  </li>
+               </ul>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#fn-group-1" title="Footnotes" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">(1)</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference (1) in text"
+                           id="ref-1">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.1" data-doi="10.1002/cncr.11603">
+                           <div class="cit-metadata"><cite>Buchholz TA, Hunt KK, Whitman GJ, Sahin AA, Hortobagyi GN. Neoadjuvant chemotherapy for breast carcinoma: multidisciplinary
+                                 considerations of benefits and risks. <span class="cit-source">Cancer</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">98</span>:<span class="cit-fpage">1150</span>–60.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/cncr.11603&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12973838&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000185276800006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(2)</span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference (2) in text"
+                           id="ref-2">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.2"
+                             data-doi="10.1056/NEJMoa020989">
+                           <div class="cit-metadata"><cite>Veronesi U, Cascinelli N, Mariani L, Greco M, Saccozzi R, Luini A, et al. Twenty-year follow-up of a randomized study comparing
+                                 breast-conserving surgery with radical mastectomy for early breast cancer. <span class="cit-source">N Engl J Med</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">347</span>:<span class="cit-fpage">1227</span>–32.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJMoa020989&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12393819&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000178598300003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(3)</span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference (3) in text"
+                           id="ref-3">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.3"
+                             data-doi="10.1056/NEJMoa022152">
+                           <div class="cit-metadata"><cite>Fisher B, Anderson S, Bryant J, Margolese RG, Deutsch M, Fisher ER, et al. Twenty-year follow-up of a randomized trial comparing
+                                 total mastectomy, lumpectomy, and lumpectomy plus irradiation for the treatment of invasive breast cancer. <span class="cit-source">N Engl J Med</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">347</span>:<span class="cit-fpage">1233</span>–41.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJMoa022152&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12393820&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000178598300004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(4)</span><a class="rev-xref-ref" href="#xref-ref-4-1" title="View reference (4) in text"
+                           id="ref-4">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.4"
+                             data-doi="10.1056/NEJMoa020128">
+                           <div class="cit-metadata"><cite>Fisher B, Jeong JH, Anderson S, Bryant J, Fisher ER, Wolmark N, et al. Twenty-five-year follow-up of a randomized trial comparing
+                                 radical mastectomy, total mastectomy, and total mastectomy followed by irradiation. <span class="cit-source">N Engl J Med</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">347</span>:<span class="cit-fpage">567</span>–75.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJMoa020128&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12192016&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000177675400005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(5)</span><a class="rev-xref-ref" href="#xref-ref-5-1" title="View reference (5) in text"
+                           id="ref-5">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.5">
+                           <div class="cit-metadata"><cite>Fisher B, Gunduz N, Saffer EA. Influence of the interval between primary tumor removal and chemotherapy on kinetics and growth
+                                 of metastases. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">1983</span>;<span class="cit-vol">43</span>:<span class="cit-fpage">1488</span>–92.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=43/4/1488"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(6)</span><a class="rev-xref-ref" href="#xref-ref-6-1" title="View reference (6) in text"
+                           id="ref-6">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.6">
+                           <div class="cit-metadata"><cite>Fisher B, Gunduz N, Coyle J, Rudock C, Saffer E. Presence of a growth-stimulating factor in serum following primary tumor
+                                 removal in mice. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">1989</span>;<span class="cit-vol">49</span>:<span class="cit-fpage">1996</span>–2001.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=49/8/1996"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(7)</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference (7) in text"
+                           id="ref-7">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.7">
+                           <div class="cit-metadata"><cite>Fisher B, Saffer E, Rudock C, Coyle J, Gunduz N. Effect of local or systemic treatment prior to primary tumor removal on the
+                                 production and response to a serum growth-stimulating factor in mice. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">1989</span>;<span class="cit-vol">49</span>:<span class="cit-fpage">2002</span>–4.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=49/8/2002"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(8)</span><a class="rev-xref-ref" href="#xref-ref-8-1" title="View reference (8) in text"
+                           id="ref-8">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.8">
+                           <div class="cit-metadata"><cite>van der Hage JA, van de Velde CJ, Julien JP, Tubiana-Hulin M, Vandervelden C, Duchateau L. Preoperative chemotherapy in primary
+                                 operable breast cancer: results from the European Organization for Research and Treatment of Cancer trial 10902. <span class="cit-source">J Clin Oncol</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">19</span>:<span class="cit-fpage">4224</span>–37.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=19/22/4224"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(9)</span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference (9) in text"
+                           id="ref-9">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.9"
+                             data-doi="10.1016/S0001-4001(98)80116-5">
+                           <div class="cit-metadata"><cite>Avril A, Faucher A, Bussieres E, Stockle E, Durand M, Mauriac L, et al. Results of 10 years of a randomized trial of neoadjuvant
+                                 chemotherapy in breast cancers larger than 3 cm. <span class="cit-source">Chirurgie</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">123</span>:<span class="cit-fpage">247</span>–56. [In French.]</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0001-4001(98)80116-5&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9752515&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(10)</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference (10) in text"
+                           id="ref-10">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.10">
+                           <div class="cit-metadata"><cite>Mauriac L, MacGrogan G, Avril A, Durand M, Floquet A, Debled M, et al. Neoadjuvant chemotherapy for operable breast carcinoma
+                                 larger than 3 cm: a unicentre randomized trial with a 124-month median follow-up. Institut Bergonie Bordeaux Groupe Sein (IBBGS).
+                                 <span class="cit-source">Ann Oncol</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">10</span>:<span class="cit-fpage">47</span>–52.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=annonc&amp;resid=10/1/47"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(11)</span><a class="rev-xref-ref" href="#xref-ref-11-1" title="View reference (11) in text"
+                           id="ref-11">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.11">
+                           <div class="cit-metadata"><cite>Semiglazov VF, Topuzov EE, Bavli JL, Moiseyenko VM, Ivanova OA, Seleznev IK, et al. Primary (neoadjuvant) chemotherapy and
+                                 radiotherapy compared with primary radiotherapy alone in stage IIb-IIIa breast cancer. <span class="cit-source">Ann Oncol</span> <span class="cit-pub-date">1994</span>;<span class="cit-vol">5</span>:<span class="cit-fpage">591</span>–5.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=annonc&amp;resid=5/7/591"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(12)</span><a class="rev-xref-ref" href="#xref-ref-12-1" title="View reference (12) in text"
+                           id="ref-12">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.12">
+                           <div class="cit-metadata"><cite>Scholl SM, Asselain B, Palangie T, Dorval T, Jouve M, Garcia Giralt E, et al. Neoadjuvant chemotherapy in operable breast
+                                 cancer. <span class="cit-source">Eur J Cancer</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">27</span>:<span class="cit-fpage">1668</span>–71.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=1782080&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1991GY58700036&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(13)</span><a class="rev-xref-ref" href="#xref-ref-13-1" title="View reference (13) in text"
+                           id="ref-13">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.13"
+                             data-doi="10.1016/0959-8049(94)90537-1">
+                           <div class="cit-metadata"><cite>Scholl SM, Fourquet A, Asselain B, Pierga JY, Vilcoq JR, Durand JC, et al. Neoadjuvant versus adjuvant chemotherapy in premenopausal
+                                 patients with tumours considered too large for breast conserving surgery: preliminary results of a randomised trial: S6. <span class="cit-source">Eur J Cancer</span> <span class="cit-pub-date">1994</span>;<span class="cit-vol">30A</span>:<span class="cit-fpage">645</span>–52.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0959-8049(94)90537-1&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=8080680&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1994NP81300020&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(14)</span><a class="rev-xref-ref" href="#xref-ref-14-1" title="View reference (14) in text"
+                           id="ref-14">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.14"
+                             data-doi="10.1023/A:1006339918798">
+                           <div class="cit-metadata"><cite>Broet P, Scholl SM, de la Rochefordiere A, Fourquet A, Moreau T, De Rycke Y, et al. Short and long-term effects on survival
+                                 in breast cancer patients treated by primary chemotherapy: an updated analysis of a randomized trial. <span class="cit-source">Breast Cancer Res Treat</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">58</span>:<span class="cit-fpage">151</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1023/A:1006339918798&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10674880&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000084980000009&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(15)</span><a class="rev-xref-ref" href="#xref-ref-15-1" title="View reference (15) in text"
+                           id="ref-15">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.15"
+                             data-doi="10.1023/A:1008400706949">
+                           <div class="cit-metadata"><cite>Makris A, Powles TJ, Ashley SE, Chang J, Hickish T, Tidy VA, et al. A reduction in the requirements for mastectomy in a randomized
+                                 trial of neoadjuvant chemoendocrine therapy in primary breast cancer. <span class="cit-source">Ann Oncol</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">9</span>:<span class="cit-fpage">1179</span>–84.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=annonc&amp;resid=9/11/1179"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(16)</span><a class="rev-xref-ref" href="#xref-ref-16-1" title="View reference (16) in text"
+                           id="ref-16">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.16">
+                           <div class="cit-metadata"><cite>Fisher B, Bryant J, Wolmark N, Mamounas E, Brown A, Fisher ER, et al. Effect of preoperative chemotherapy on the outcome of
+                                 women with operable breast cancer. <span class="cit-source">J Clin Oncol</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">16</span>:<span class="cit-fpage">2672</span>–85.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=16/8/2672"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(17)</span><a class="rev-xref-ref" href="#xref-ref-17-1" title="View reference (17) in text"
+                           id="ref-17">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.17">
+                           <div class="cit-metadata"><cite>Wolmark N, Wang J, Mamounas E, Bryant J, Fisher B. Preoperative chemotherapy in patients with operable breast cancer: nine-year
+                                 results from National Surgical Adjuvant Breast and Bowel Project B-18. <span class="cit-source">J Natl Cancer Inst Monogr</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">30</span>:<span class="cit-fpage">96</span>–102.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(18)</span><a class="rev-xref-ref" href="#xref-ref-18-1" title="View reference (18) in text"
+                           id="ref-18">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.18"
+                             data-doi="10.1023/A:1011115107615">
+                           <div class="cit-metadata"><cite>Gazet JC, Ford HT, Gray R, McConkey C, Sutcliffe R, Quilliam J, et al. Estrogen-receptor-directed neoadjuvant therapy for
+                                 breast cancer: results of a randomised trial using formestane and methotrexate, mitozantrone and mitomycin C (MMM) chemotherapy.
+                                 <span class="cit-source">Ann Oncol</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">12</span>:<span class="cit-fpage">685</span>–91.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=annonc&amp;resid=12/5/685"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(19)</span><a class="rev-xref-ref" href="#xref-ref-19-1" title="View reference (19) in text"
+                           id="ref-19">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.19"
+                             data-doi="10.1245/ASO.2003.12.008">
+                           <div class="cit-metadata"><cite>Danforth DN Jr, Cowan K, Altemus R, Merino M, Chow C, Berman A, et al. Preoperative FLAC/granulocyte-colony-stimulating factor
+                                 chemotherapy for stage II breast cancer: a prospective randomized trial. <span class="cit-source">Ann Surg Oncol</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">10</span>:<span class="cit-fpage">635</span>–44.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1245/ASO.2003.12.008&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12839848&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000183975200009&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(20)</span><a class="rev-xref-ref" href="#xref-ref-20-1" title="View reference (20) in text"
+                           id="ref-20">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.20">
+                           <div class="cit-metadata"><cite>Ragaz J. Emerging modalities for adjuvant therapy of breast cancer: neoadjuvant chemotherapy. <span class="cit-source">NCI Monogr</span> <span class="cit-pub-date">1986</span>;<span class="cit-vol">1</span>:<span class="cit-fpage">145</span>–52.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(21)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-97.3.188.21">
+                           <div class="cit-metadata"><cite>Ragaz J. Preoperative (neoadjuvant) chemotherapy for breast cancer: outline of the British Columbia Trial. <span class="cit-source">Recent Results Cancer Res</span> <span class="cit-pub-date">1986</span>;<span class="cit-vol">103</span>:<span class="cit-fpage">85</span>–94.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=3526477&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(22)</span><a class="rev-xref-ref" href="#xref-ref-22-1" title="View reference (22) in text"
+                           id="ref-22">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.22">
+                           <div class="cit-metadata"><cite>Ragaz J, Baird R, Rebbeck P, Coldman A, Goldie J. Neoadjuvant-preoperative-chemotherapy for breast cancer—preliminary report
+                                 of the Vancouver trial. <span class="cit-source">Prog Clin Biol Res</span> <span class="cit-pub-date">1985</span>;<span class="cit-vol">201</span>:<span class="cit-fpage">77</span>–87.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=3912768&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(23)</span><a class="rev-xref-ref" href="#xref-ref-23-1" title="View reference (23) in text"
+                           id="ref-23">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.23">
+                           <div class="cit-metadata"><cite>Jakesz R, for ABCSG. Comparison of pre- vs. postoperative chemotherapy in breast cancer patients: Four-years results of Austrian
+                                 Breast &amp; Colorectal Cancer Study Group (ABCSG) Trial 7. <span class="cit-source">Proc Am Soc Clin Oncol</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">20</span>:<span class="cit-fpage">125</span>.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(24)</span><a class="rev-xref-ref" href="#xref-ref-24-1" title="View reference (24) in text"
+                           id="ref-24">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.24">
+                           <div class="cit-metadata"><cite>Gianni L, Baselga J, Eiermann W, Porta VG, Semiglazov V, Garcia-Conde J, et al. First report of the European Cooperative Trial
+                                 in Operable Breast Cancer (ECTO): Effects of primary systemic therapy (PST) on loco-regional disease. <span class="cit-source">Proc Am Soc Clin Oncol</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">34a</span>.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(25)</span><a class="rev-xref-ref" href="#xref-ref-25-1" title="View reference (25) in text"
+                           id="ref-25">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.25"
+                             data-doi="10.1016/S0959-8049(02)00239-3">
+                           <div class="cit-metadata"><cite>Grossi F, Belvedere O, Rosso R: Geography of clinical cancer research publications from 1995 to 1999. <span class="cit-source">Eur J Cancer</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">39</span>:<span class="cit-fpage">106</span>–11.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0959-8049(02)00239-3&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12504666&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000181156200016&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(26)</span><a class="rev-xref-ref" href="#xref-ref-26-1" title="View reference (26) in text"
+                           id="ref-26">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.26" data-doi="10.1002/sim.1191">
+                           <div class="cit-metadata"><cite>Hopewell S, Clarke M, Lusher A, Lefebvre C, Westby M. A comparison of handsearching versus MEDLINE searching to identify reports
+                                 of randomized controlled trials. <span class="cit-source">Stat Med</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">1625</span>–34.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/sim.1191&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12111923&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000176016900009&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(27)</span><a class="rev-xref-ref" href="#xref-ref-27-1" title="View reference (27) in text"
+                           id="ref-27">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.27"
+                             data-doi="10.7326/0003-4819-127-9-199711010-00008">
+                           <div class="cit-metadata"><cite>Lau J, Ioannidis JP, Schmid CH. Quantitative synthesis in systematic reviews. <span class="cit-source">Ann Intern Med</span> <span class="cit-pub-date">1997</span>;<span class="cit-vol">127</span>:<span class="cit-fpage">820</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.7326/0003-4819-127-9-199711010-00008&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9382404&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1997YD89800007&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(28)</span><a class="rev-xref-ref" href="#xref-ref-28-1" title="View reference (28) in text"
+                           id="ref-28">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.28" data-doi="10.2307/2533446">
+                           <div class="cit-metadata"><cite>Begg CB, Mazumdar M. Operating characteristics of a rank correlation test for publication bias. <span class="cit-source">Biometrics</span> <span class="cit-pub-date">1994</span>;<span class="cit-vol">50</span>:<span class="cit-fpage">1088</span>–101.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.2307/2533446&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7786990&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1994QP05000016&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(29)</span><a class="rev-xref-ref" href="#xref-ref-29-1" title="View reference (29) in text"
+                           id="ref-29">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.29"
+                             data-doi="10.1016/S0895-4356(98)00159-0">
+                           <div class="cit-metadata"><cite>Ioannidis JP, Contopoulos-Ioannidis DG, Lau J. Recursive cumulative meta-analysis: a diagnostic for the evolution of total
+                                 randomized evidence from group and individual patient data. <span class="cit-source">J Clin Epidemiol</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">52</span>:<span class="cit-fpage">281</span>–91.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0895-4356(98)00159-0&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10235168&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000080058300002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(30)</span><a class="rev-xref-ref" href="#xref-ref-30-1" title="View reference (30) in text"
+                           id="ref-30">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.30"
+                             data-doi="10.1073/pnas.021529998">
+                           <div class="cit-metadata"><cite>Ioannidis J, Lau J. Evolution of treatment effects over time: empirical insight from recursive cumulative metaanalyses. <span class="cit-source">Proc Natl Acad Sci USA</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">98</span>:<span class="cit-fpage">831</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=pnas&amp;resid=98/3/831"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(31)</span><a class="rev-xref-ref" href="#xref-ref-31-1" title="View reference (31) in text"
+                           id="ref-31">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.31"
+                             data-doi="10.1200/JCO.2003.01.136">
+                           <div class="cit-metadata"><cite>Kaufmann M, von Minckwitz G, Smith R, Valero V, Gianni L, Eiermann W, et al. International expert panel on the use of primary
+                                 (preoperative) systemic treatment of operable breast cancer: review and recommendations. <span class="cit-source">J Clin Oncol</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">2600</span>–8.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=21/13/2600"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(32)</span><a class="rev-xref-ref" href="#xref-ref-32-1" title="View reference (32) in text"
+                           id="ref-32">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.32"
+                             data-doi="10.1016/S0959-8049(02)00732-3">
+                           <div class="cit-metadata"><cite>Aas T, Geisler S, Eide GE, Haugen DF, Varhaug JE, Bassoe AM, et al. Predictive value of tumour cell proliferation in locally
+                                 advanced breast cancer treated with neoadjuvant chemotherapy. <span class="cit-source">Eur J Cancer</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">39</span>:<span class="cit-fpage">438</span>–46.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0959-8049(02)00732-3&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12751373&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000181686800015&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(33)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-97.3.188.33"
+                             data-doi="10.1016/S0140-6736(05)61752-7">
+                           <div class="cit-metadata"><cite>Ellis PA, Smith IE, McCarthy K, Detre S, Salter J, Dowsett M. Preoperative chemotherapy induces apoptosis in early breast
+                                 cancer. <span class="cit-source">Lancet</span> <span class="cit-pub-date">1997</span>;<span class="cit-vol">349</span>:<span class="cit-fpage">849</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(05)61752-7&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9121265&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1997WP40300018&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(34)</span><a class="rev-xref-ref" href="#xref-ref-34-1" title="View reference (34) in text"
+                           id="ref-34">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.34"
+                             data-doi="10.1023/A:1006194921139">
+                           <div class="cit-metadata"><cite>Shao ZM, Li J, Wu J, Han QX, Shen ZZ, Fontana JA, Barsky SH. Neo-adjuvant chemotherapy for operable breast cancer induces
+                                 apoptosis. <span class="cit-source">Breast Cancer Res Treat</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">53</span>:<span class="cit-fpage">263</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1023/A:1006194921139&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10369072&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000080273100007&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(35)</span><a class="rev-xref-ref" href="#xref-ref-35-1" title="View reference (35) in text"
+                           id="ref-35">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.35">
+                           <div class="cit-metadata"><cite>von Minckwitz G, Raab G, Shutte M, Hilfrich J, Blohmer JU, Gerber B, et al. Dose-dense versus sequential Adriamycin/docetaxel
+                                 combination as preoperative chemotheraphy (pCHT) in operable breast cancer (T2–3 N0–2 M0): Primary endpoint analysis of the
+                                 GEPARDUO study. <span class="cit-source">Proc Am Soc Clin Oncol</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">43a</span>.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(36)</span><a class="rev-xref-ref" href="#xref-ref-36-1" title="View reference (36) in text"
+                           id="ref-36">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.36">
+                           <div class="cit-metadata"><cite>NSABP: The effect on primary tumor response of adding sequential taxotere to adriamycin and cyclophosphamide: preliminary
+                                 results of the NSABP protocol B-27. <span class="cit-source">Breast Canc Res Treat</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">69</span>:<span class="cit-fpage">210</span>.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(37)</span><a class="rev-xref-ref" href="#xref-ref-37-1" title="View reference (37) in text"
+                           id="ref-37">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.37"
+                             data-doi="10.1054/bjoc.2000.1461">
+                           <div class="cit-metadata"><cite>Pierga JY, Mouret E, Dieras V, Laurence V, Beuzeboc P, Dorval T, et al. Prognostic value of persistent node involvement after
+                                 neoadjuvant chemotherapy in patients with operable breast cancer. <span class="cit-source">Br J Cancer</span> <span class="cit-pub-date">2000</span>;<span class="cit-vol">83</span>:<span class="cit-fpage">1480</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1054/bjoc.2000.1461&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11076657&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000165603000014&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(38)</span><a class="rev-xref-ref" href="#xref-ref-38-1" title="View reference (38) in text"
+                           id="ref-38">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.38"
+                             data-doi="10.1177/0163278702025001006">
+                           <div class="cit-metadata"><cite>Stewart LA, Tierney JF. To IPD or not to IPD? Advantages and disadvantages of systematic reviews using individual patient
+                                 data. <span class="cit-source">Eval Health Prof</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">25</span>:<span class="cit-fpage">76</span>–97.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=spehp&amp;resid=25/1/76"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(39)</span><a class="rev-xref-ref" href="#xref-ref-39-1" title="View reference (39) in text"
+                           id="ref-39">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.39">
+                           <div class="cit-metadata"><cite>Clarke M, Stewart L, Pignon JP, Bijnens L. Individual patient data meta-analysis in cancer. <span class="cit-source">Br J Cancer</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">77</span>:<span class="cit-fpage">2036</span>–44.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=9667689&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000080207600052&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(40)</span><a class="rev-xref-ref" href="#xref-ref-40-1" title="View reference (40) in text"
+                           id="ref-40">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.40"
+                             data-doi="10.1016/S0895-4356(00)00311-5">
+                           <div class="cit-metadata"><cite>Trikalinos TA, Ioannidis JP. Predictive modeling and heterogeneity of baseline risk in meta-analysis of individual patient
+                                 data. <span class="cit-source">J Clin Epidemiol</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">54</span>:<span class="cit-fpage">245</span>–52.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0895-4356(00)00311-5&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11223322&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000167162300005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(41)</span><a class="rev-xref-ref" href="#xref-ref-41-1" title="View reference (41) in text"
+                           id="ref-41">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.41"
+                             data-doi="10.1016/S0140-6736(97)08468-7">
+                           <div class="cit-metadata"><cite>Lau J, Ioannidis JP, Schmid CH. Summing up evidence: one answer is not always enough. <span class="cit-source">Lancet</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">351</span>:<span class="cit-fpage">123</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(97)08468-7&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9439507&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000071591900043&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(42)</span><a class="rev-xref-ref" href="#xref-ref-42-1" title="View reference (42) in text"
+                           id="ref-42">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.42"
+                             data-doi="10.1200/JCO.20.6.1456">
+                           <div class="cit-metadata"><cite>Smith IC, Heys SD, Hutcheon AW, Miller ID, Payne S, Gilbert FJ, et al. Neoadjuvant chemotherapy in breast cancer: significantly
+                                 enhanced response with docetaxel. <span class="cit-source">J Clin Oncol</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">20</span>:<span class="cit-fpage">1456</span>–66.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=20/6/1456"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(43)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-97.3.188.43"
+                             data-doi="10.1200/JCO.2003.12.005">
+                           <div class="cit-metadata"><cite>Bear HD, Anderson S, Brown A, Smith R, Mamounas EP, Fisher B, et al. The effect on tumor response of adding sequential preoperative
+                                 docetaxel to preoperative doxorubicin and cyclophosphamide: preliminary results from National Surgical Adjuvant Breast and
+                                 Bowel Project Protocol B-27. <span class="cit-source">J Clin Oncol</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">4165</span>–74.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=21/22/4165"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(44)</span><a class="rev-xref-ref" href="#xref-ref-44-1" title="View reference (44) in text"
+                           id="ref-44">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.3.188.44">
+                           <div class="cit-metadata"><cite>Buzdar AU, Hunt K, Smith T, Francis D, Ewer D, Booser E, et al. Significantly higher pathological complete remission (PCR)
+                                 rate following neoadjuvant therapy with trastuzumab (H), paclitaxel (P) and antracycline-containing chemotherapy (CT): initial
+                                 results of a randomised trial in operable breast cancer (BC) with HER/2 positive disease. New Orleans, LA: Proc ASCO, 2004
+                                 June 5–8. <span class="cit-source">Proc Am Soc Clin Oncol</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">23</span>:<span class="cit-fpage">7</span>.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div id="related">
+               <h2>Related articles</h2>
+               <ul class="related-list">
+                  <div class="cit">
+                     <div class="cit-metadata"><span class="cit-first-element cit-section">MEMO TO THE MEDIA<span class="cit-sep cit-sep-after-article-section">:</span> </span><ul class="cit-auth-list">
+                           <li class="first-item"><span class="cit-auth cit-auth-type-author">Sarah L. Zielinski</span></li>  
+                        </ul><span class="cit-title">Press Release<span class="cit-sep cit-sep-after-article-title">: </span><span class="cit-subtitle">Neoadjuvant and Adjuvant Systemic Therapy for Breast Cancer Give Equivalent Survival, Study Finds </span> </span> <cite><abbr title="Journal of the National Cancer Institute" class="site-title">JNCI J Natl Cancer Inst</abbr> <span class="cit-print-date"><span class="cit-sep cit-sep-before-article-print-date">(</span>2005<span class="cit-sep cit-sep-after-article-print-date">)</span> </span><span class="cit-vol">97 </span><span class="cit-issue"><span class="cit-sep cit-sep-before-article-issue">(</span>3<span class="cit-sep cit-sep-after-article-issue">):</span> </span><span class="cit-pages"><span class="cit-first-page">157</span> </span><span class="cit-doi"><span class="cit-sep cit-sep-before-article-doi"> doi:</span>10.1093/jnci/97.3.157-a </span><span class="cit-online-date"><span class="cit-sep cit-sep-before-article-online-date">First published online </span>February 1, 2005 </span></cite>  
+                     </div>
+                     <div class="cit-extra"><span class="accesscheck jnci;97/3/157-a extract,full"></span> 
+                        <ul class="cit-views">
+                           <li class="first-item"><a href="/content/97/3/157.1.extract" rel="extract">Extract</a></li>
+                           <li class="last-item"><a href="/content/97/3/157.1.full" rel="full-text">Full Text (HTML)</a></li>
+                        </ul>  
+                     </div> 
+                  </div>
+               </ul>
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/97/3/172.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/97/3/195.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/97/3.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (2005) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    97
+                                    </span><span class="slug-issue">
+                                    (3):
+                                    </span><span class="slug-pages">
+                                    188-194.
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/dji021" class="slug-doi">10.1093/jnci/dji021</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><a href="/content/97/3/188.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/97/3/188.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=ARTICLES&amp;sortspec=date&amp;submit=Submit">Article</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;97/3/188" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B97%2F3%2F188&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/97/3/188.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=97/3/188&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/97/3/188.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3B97%2F3%2F188&amp;citation=Mauri%20et%20al.%2097%20%283%29:%20188&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B97%2F3%2F188&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=15687361&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B97%2F3%2F188">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B97%2F3%2F188">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=Neoadjuvant%20Versus%20Adjuvant%20Systemic%20Treatment%20in%20Breast%20Cancer%3A%20A%20Meta-Analysis%3A%20&amp;publicationDate=02%2F02%2F2005&amp;author=Davide%20Mauri%2C%20Nicholas%20Pavlidis%2C%20John%20P.%20A.%20Ioannidis&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2Fdji021&amp;volumeNum=97&amp;issueNum=3&amp;startPage=188&amp;endPage=194&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/97/3/188.full?cited-by=yes&amp;legid=jnci;97/3/188#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/97/3/188" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/97/3/188?access_num=/jnci/97/3/188" rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F97%2F3%2F188&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/97/3/188.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AMauri%20author%3AD.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Mauri, D.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AIoannidis%20author%3AJ.P.A.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Ioannidis, J. P. A.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/97/3/188.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=15687361&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Mauri%20D&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Mauri, D.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Pavlidis%20N&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Pavlidis, N.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Ioannidis%20JP&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Ioannidis, J. P. A.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="#related">Related articles in this journal</a></li>
+                        <li><a href="/content/97/3/188.full?related-urls=yes&amp;legid=jnci;97/3/188#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B97%2F3%2F188&amp;current-view-path=/content/97/3/188.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/97/3/188&amp;title=Neoadjuvant%20Versus%20Adjuvant%20Systemic%20Treatment%20in%20Breast%20Cancer%3A%20A%20Meta-Analysis+--+Mauri%20et%20al.%2097%20%283%29%3A%20188+--+&amp;doi=10.1093/jnci/dji021&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/97/3/188&amp;title=Neoadjuvant%20Versus%20Adjuvant%20Systemic%20Treatment%20in%20Breast%20Cancer%3A%20A%20Meta-Analysis+--+Mauri%20et%20al.%2097%20%283%29%3A%20188+--+&amp;doi=10.1093/jnci/dji021&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/97/3/188&amp;title=Neoadjuvant%20Versus%20Adjuvant%20Systemic%20Treatment%20in%20Breast%20Cancer%3A%20A%20Meta-Analysis+--+Mauri%20et%20al.%2097%20%283%29%3A%20188+--+&amp;doi=10.1093/jnci/dji021&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/97/3/188&amp;title=Neoadjuvant%20Versus%20Adjuvant%20Systemic%20Treatment%20in%20Breast%20Cancer%3A%20A%20Meta-Analysis+--+Mauri%20et%20al.%2097%20%283%29%3A%20188+--+&amp;doi=10.1093/jnci/dji021&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/97/3/188&amp;title=Neoadjuvant%20Versus%20Adjuvant%20Systemic%20Treatment%20in%20Breast%20Cancer%3A%20A%20Meta-Analysis+--+Mauri%20et%20al.%2097%20%283%29%3A%20188+--+&amp;doi=10.1093/jnci/dji021&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/97/3/188&amp;title=Neoadjuvant%20Versus%20Adjuvant%20Systemic%20Treatment%20in%20Breast%20Cancer%3A%20A%20Meta-Analysis+--+Mauri%20et%20al.%2097%20%283%29%3A%20188+--+&amp;doi=10.1093/jnci/dji021&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#abstract-1">Abstract</a></li>
+                        <li><a href="#sec-1">M<span class="sc">ATERIALS AND</span> M<span class="sc">ETHODS</span></a></li>
+                        <li><a href="#sec-6">R<span class="sc">ESULTS</span></a></li>
+                        <li><a href="#sec-11">D<span class="sc">ISCUSSION</span></a></li>
+                        <li><a href="#fn-group-1">Footnotes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/97/3/188.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/97/3/188.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

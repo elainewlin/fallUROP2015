@@ -1,0 +1,1627 @@
+http://jnci.oxfordjournals.org/content/104/23/1837.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Arterial Thromboembolism in Cancer Patients Treated With Cisplatin: A Systematic Review and Meta-analysis </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/104/23/1837" />
+      <meta content="/jnci/104/23/1837.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Arterial Thromboembolism in Cancer Patients Treated With Cisplatin: A Systematic Review and Meta-analysis"
+            name="DC.Title" />
+      <meta content="10.1093/jnci/djs435" name="DC.Identifier" />
+      <meta content="2012-12-05" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Tracy Proverbs-Singh" name="DC.Contributor" />
+      <meta content="Sophia K. Chiu" name="DC.Contributor" />
+      <meta content="Ziyue Liu" name="DC.Contributor" />
+      <meta content="Sonia Seng" name="DC.Contributor" />
+      <meta content="Guru Sonpavde" name="DC.Contributor" />
+      <meta content="Toni K. Choueiri" name="DC.Contributor" />
+      <meta content="Che-Kai Tsao" name="DC.Contributor" />
+      <meta content="Menggang Yu" name="DC.Contributor" />
+      <meta content="Noah M Hahn" name="DC.Contributor" />
+      <meta content="William K. Oh" name="DC.Contributor" />
+      <meta content="Matthew D. Galsky" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta name="citation_author" content="Tracy Proverbs-Singh" />
+      <meta name="citation_author_institution"
+            content="&#xA;Affiliations of authors:&#xA;Division of Hematology/Oncology, Tisch Cancer Institute, Mount Sinai School of Medicine, New York, NY (TP-S, SKC, C-KT, WKO, MDG); Department of Biostatistics (ZL) and Division of Medical Oncology, Simon Cancer Center (NMH), Indianan University School of Medicine, Indianapolis, IN; Division of Medical Oncology, Southcoast Centers for Cancer Care, Fairhaven, MA (SS); Division of Hematology/Oncology, University of Alabama, Birmingham (GS); Division of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA (TKC); Department of Biostatistics and Medical Informatics, University of Wisconsin School of Medicine, Madison, WI (MY)." />
+      <meta name="citation_author" content="Sophia K. Chiu" />
+      <meta name="citation_author_institution"
+            content="&#xA;Affiliations of authors:&#xA;Division of Hematology/Oncology, Tisch Cancer Institute, Mount Sinai School of Medicine, New York, NY (TP-S, SKC, C-KT, WKO, MDG); Department of Biostatistics (ZL) and Division of Medical Oncology, Simon Cancer Center (NMH), Indianan University School of Medicine, Indianapolis, IN; Division of Medical Oncology, Southcoast Centers for Cancer Care, Fairhaven, MA (SS); Division of Hematology/Oncology, University of Alabama, Birmingham (GS); Division of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA (TKC); Department of Biostatistics and Medical Informatics, University of Wisconsin School of Medicine, Madison, WI (MY)." />
+      <meta name="citation_author" content="Ziyue Liu" />
+      <meta name="citation_author_institution"
+            content="&#xA;Affiliations of authors:&#xA;Division of Hematology/Oncology, Tisch Cancer Institute, Mount Sinai School of Medicine, New York, NY (TP-S, SKC, C-KT, WKO, MDG); Department of Biostatistics (ZL) and Division of Medical Oncology, Simon Cancer Center (NMH), Indianan University School of Medicine, Indianapolis, IN; Division of Medical Oncology, Southcoast Centers for Cancer Care, Fairhaven, MA (SS); Division of Hematology/Oncology, University of Alabama, Birmingham (GS); Division of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA (TKC); Department of Biostatistics and Medical Informatics, University of Wisconsin School of Medicine, Madison, WI (MY)." />
+      <meta name="citation_author" content="Sonia Seng" />
+      <meta name="citation_author_institution"
+            content="&#xA;Affiliations of authors:&#xA;Division of Hematology/Oncology, Tisch Cancer Institute, Mount Sinai School of Medicine, New York, NY (TP-S, SKC, C-KT, WKO, MDG); Department of Biostatistics (ZL) and Division of Medical Oncology, Simon Cancer Center (NMH), Indianan University School of Medicine, Indianapolis, IN; Division of Medical Oncology, Southcoast Centers for Cancer Care, Fairhaven, MA (SS); Division of Hematology/Oncology, University of Alabama, Birmingham (GS); Division of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA (TKC); Department of Biostatistics and Medical Informatics, University of Wisconsin School of Medicine, Madison, WI (MY)." />
+      <meta name="citation_author" content="Guru Sonpavde" />
+      <meta name="citation_author_institution"
+            content="&#xA;Affiliations of authors:&#xA;Division of Hematology/Oncology, Tisch Cancer Institute, Mount Sinai School of Medicine, New York, NY (TP-S, SKC, C-KT, WKO, MDG); Department of Biostatistics (ZL) and Division of Medical Oncology, Simon Cancer Center (NMH), Indianan University School of Medicine, Indianapolis, IN; Division of Medical Oncology, Southcoast Centers for Cancer Care, Fairhaven, MA (SS); Division of Hematology/Oncology, University of Alabama, Birmingham (GS); Division of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA (TKC); Department of Biostatistics and Medical Informatics, University of Wisconsin School of Medicine, Madison, WI (MY)." />
+      <meta name="citation_author" content="Toni K. Choueiri" />
+      <meta name="citation_author_institution"
+            content="&#xA;Affiliations of authors:&#xA;Division of Hematology/Oncology, Tisch Cancer Institute, Mount Sinai School of Medicine, New York, NY (TP-S, SKC, C-KT, WKO, MDG); Department of Biostatistics (ZL) and Division of Medical Oncology, Simon Cancer Center (NMH), Indianan University School of Medicine, Indianapolis, IN; Division of Medical Oncology, Southcoast Centers for Cancer Care, Fairhaven, MA (SS); Division of Hematology/Oncology, University of Alabama, Birmingham (GS); Division of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA (TKC); Department of Biostatistics and Medical Informatics, University of Wisconsin School of Medicine, Madison, WI (MY)." />
+      <meta name="citation_author" content="Che-Kai Tsao" />
+      <meta name="citation_author_institution"
+            content="&#xA;Affiliations of authors:&#xA;Division of Hematology/Oncology, Tisch Cancer Institute, Mount Sinai School of Medicine, New York, NY (TP-S, SKC, C-KT, WKO, MDG); Department of Biostatistics (ZL) and Division of Medical Oncology, Simon Cancer Center (NMH), Indianan University School of Medicine, Indianapolis, IN; Division of Medical Oncology, Southcoast Centers for Cancer Care, Fairhaven, MA (SS); Division of Hematology/Oncology, University of Alabama, Birmingham (GS); Division of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA (TKC); Department of Biostatistics and Medical Informatics, University of Wisconsin School of Medicine, Madison, WI (MY)." />
+      <meta name="citation_author" content="Menggang Yu" />
+      <meta name="citation_author_institution"
+            content="&#xA;Affiliations of authors:&#xA;Division of Hematology/Oncology, Tisch Cancer Institute, Mount Sinai School of Medicine, New York, NY (TP-S, SKC, C-KT, WKO, MDG); Department of Biostatistics (ZL) and Division of Medical Oncology, Simon Cancer Center (NMH), Indianan University School of Medicine, Indianapolis, IN; Division of Medical Oncology, Southcoast Centers for Cancer Care, Fairhaven, MA (SS); Division of Hematology/Oncology, University of Alabama, Birmingham (GS); Division of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA (TKC); Department of Biostatistics and Medical Informatics, University of Wisconsin School of Medicine, Madison, WI (MY)." />
+      <meta name="citation_author" content="Noah M Hahn" />
+      <meta name="citation_author_institution"
+            content="&#xA;Affiliations of authors:&#xA;Division of Hematology/Oncology, Tisch Cancer Institute, Mount Sinai School of Medicine, New York, NY (TP-S, SKC, C-KT, WKO, MDG); Department of Biostatistics (ZL) and Division of Medical Oncology, Simon Cancer Center (NMH), Indianan University School of Medicine, Indianapolis, IN; Division of Medical Oncology, Southcoast Centers for Cancer Care, Fairhaven, MA (SS); Division of Hematology/Oncology, University of Alabama, Birmingham (GS); Division of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA (TKC); Department of Biostatistics and Medical Informatics, University of Wisconsin School of Medicine, Madison, WI (MY)." />
+      <meta name="citation_author" content="William K. Oh" />
+      <meta name="citation_author_institution"
+            content="&#xA;Affiliations of authors:&#xA;Division of Hematology/Oncology, Tisch Cancer Institute, Mount Sinai School of Medicine, New York, NY (TP-S, SKC, C-KT, WKO, MDG); Department of Biostatistics (ZL) and Division of Medical Oncology, Simon Cancer Center (NMH), Indianan University School of Medicine, Indianapolis, IN; Division of Medical Oncology, Southcoast Centers for Cancer Care, Fairhaven, MA (SS); Division of Hematology/Oncology, University of Alabama, Birmingham (GS); Division of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA (TKC); Department of Biostatistics and Medical Informatics, University of Wisconsin School of Medicine, Madison, WI (MY)." />
+      <meta name="citation_author" content="Matthew D. Galsky" />
+      <meta name="citation_author_institution"
+            content="&#xA;Affiliations of authors:&#xA;Division of Hematology/Oncology, Tisch Cancer Institute, Mount Sinai School of Medicine, New York, NY (TP-S, SKC, C-KT, WKO, MDG); Department of Biostatistics (ZL) and Division of Medical Oncology, Simon Cancer Center (NMH), Indianan University School of Medicine, Indianapolis, IN; Division of Medical Oncology, Southcoast Centers for Cancer Care, Fairhaven, MA (SS); Division of Hematology/Oncology, University of Alabama, Birmingham (GS); Division of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA (TKC); Department of Biostatistics and Medical Informatics, University of Wisconsin School of Medicine, Madison, WI (MY)." />
+      <meta content="Arterial Thromboembolism in Cancer Patients Treated With Cisplatin: A Systematic Review and Meta-analysis"
+            name="citation_title" />
+      <meta content="12/05/2012" name="citation_date" />
+      <meta content="104" name="citation_volume" />
+      <meta content="23" name="citation_issue" />
+      <meta content="1837" name="citation_firstpage" />
+      <meta content="1840" name="citation_lastpage" />
+      <meta content="104/23/1837" name="citation_id" />
+      <meta content="104/23/1837" name="citation_id_from_sass_path" />
+      <meta content="jnci;104/23/1837" name="citation_mjid" />
+      <meta content="10.1093/jnci/djs435" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/104/23/1837.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/104/23/1837.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/104/23/1837.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/104/23.cover.gif" name="issue_cover_image" />
+      <meta content="http://jnci.oxfordjournals.org/content/104/23/1837"
+            name="citation_public_url" />
+      <meta content="23093559" name="citation_pmid" />
+      <meta name="citation_section" content="Brief Communication" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/104/23/1825.short" rel="prev" />
+      <link href="/content/104/23/1841.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d28979687e1">var callbackToken='5371D8C1F863D7E';</script><script type="text/javascript" id="session-d28979687e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:13:57.958-07:00';
+            var gSessionId = 'o@M2cBEZUCvB9kuKM0GpYw';
+            var gAuthzRequired = 'false';
+            var gAuthnMethods1 = 'ip ip';
+            var gAuthnMethods2 = 'ip,ip';
+            var gAuthnIPs = '18.189.59.169,18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/djs435");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("20121205");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F104%2F23%2F1837.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/104/23.toc">
+                  <span xmlns="" class="volume-value">Volume 104</span>
+                  <span xmlns="" class="issue-value"> Issue 23</span></a></li>
+            <li>Pp. <span class="slug-pages">
+                  1837-1840.
+                  </span></li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/104/23/1837.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Arterial Thromboembolism in Cancer Patients Treated With Cisplatin: A Systematic Review and Meta-analysis</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Tracy+Proverbs-Singh&amp;sortspec=date&amp;submit=Submit">Tracy Proverbs-Singh</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Sophia+K.+Chiu&amp;sortspec=date&amp;submit=Submit">Sophia K. Chiu</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Ziyue+Liu&amp;sortspec=date&amp;submit=Submit">Ziyue Liu</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Sonia+Seng&amp;sortspec=date&amp;submit=Submit">Sonia Seng</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Guru+Sonpavde&amp;sortspec=date&amp;submit=Submit">Guru Sonpavde</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Toni+K.+Choueiri&amp;sortspec=date&amp;submit=Submit">Toni K. Choueiri</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-7" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Che-Kai+Tsao&amp;sortspec=date&amp;submit=Submit">Che-Kai Tsao</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-8" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Menggang+Yu&amp;sortspec=date&amp;submit=Submit">Menggang Yu</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-9" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Noah+M+Hahn&amp;sortspec=date&amp;submit=Submit">Noah M Hahn</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-10" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=William+K.+Oh&amp;sortspec=date&amp;submit=Submit">William K. Oh</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-11"><span class="name"><a class="name-search"
+                              href="/search?author1=Matthew+D.+Galsky&amp;sortspec=date&amp;submit=Submit">Matthew D. Galsky</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address>
+                           <strong>Affiliations of authors:</strong>
+                           Division of Hematology/Oncology, Tisch Cancer Institute, Mount Sinai School of Medicine, <span class="addr-line">New York, NY</span> (TP-S, SKC, C-KT, WKO, MDG); Department of Biostatistics (ZL) and Division of Medical Oncology, Simon Cancer Center (NMH),
+                           Indianan University School of Medicine, <span class="addr-line">Indianapolis, IN</span>; Division of Medical Oncology, Southcoast Centers for Cancer Care, <span class="addr-line">Fairhaven, MA</span> (SS); Division of Hematology/Oncology, University of Alabama, Birmingham (GS); Division of Medical Oncology, Dana-Farber
+                           Cancer Institute, <span class="addr-line">Boston, MA</span> (TKC); Department of Biostatistics and Medical Informatics, University of Wisconsin School of Medicine, <span class="addr-line">Madison, WI</span> (MY).
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">
+                        <strong>Correspondence to:</strong><br /> Matthew D. Galsky, MD, Tisch Cancer Institute at Mount Sinai Medical Center, Mount Sinai School of Medicine, <span class="addr-line">1 Gustave L Levy Pl, New York, NY 10029</span> (e-mail: <span class="em-link"><span class="em-addr">matthew-galsky{at}mssm.edu</span></span>).
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                         hwp:start="2012-05-23"><span class="received-label">Received </span>May 23, 2012.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="rev-recd"
+                         hwp:start="2012-08-24"><span class="rev-recd-label">Revision received </span>August 24, 2012.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="2012-08-27"><span class="accepted-label">Accepted </span>August 27, 2012.
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-1" title="Funding" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Abstract</h2>
+                  
+                  <p id="p-1">Cisplatin has been associated with an increased risk of arterial thromboembolic events (ATEs). However, because this association
+                     is mostly based on case reports and retrospective studies, we conducted a systemic review and meta-analysis of randomized
+                     controlled trials evaluating the incidence and risk of ATEs associated with cisplatin. Eligible studies included prospective
+                     randomized phase II and III trials evaluating cisplatin-based vs non-cisplatin-based chemotherapy in patients with solid tumors,
+                     which were identified from PubMed articles published between 1990 and 2010. Incidence rates, relative risks (RRs), and 95%
+                     confidence intervals (CIs) were calculated using a random effects model. A total of 8216 patients from 38 trials were included.
+                     Among patients treated with cisplatin-based chemotherapy, the summary incidence of ATEs was 0.67% (95% CI = 0.40% to 0.95%),
+                     and the RR of ATEs was 1.36 (95% CI = 0.86 to 2.17; <em>P</em> = .19). No increase in ATEs was detected in any prespecified subgroup.
+                  </p>
+                  
+               </div>
+               <p id="p-2">Thromboembolic events are a significant cause of morbidity and mortality in patients with cancer (<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">1</a>). Although cancer itself is an established risk factor for thromboembolism, cancer treatments have also been implicated.
+                  Cisplatin, a widely used DNA crosslinking agent, is perhaps the most commonly implicated agent. In a meta-analysis of randomized
+                  trials comparing cisplatin-based and non-cisplatin-based chemotherapy, we demonstrated that cisplatin-based therapy is associated
+                  with a 1.67-fold increased risk for venous thromboembolic events (<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2">2</a>). Case reports and retrospective studies suggest that arterial thromboembolic events (ATEs) also occur more frequently with
+                  cisplatin therapy (<a id="xref-ref-3-1" class="xref-bibr" href="#ref-3">3</a>,<a id="xref-ref-4-1" class="xref-bibr" href="#ref-4">4</a>). Thus, we performed a systemic review and meta-analysis to evaluate the incidence and relative risk (RR) of ATEs in patients
+                  receiving cisplatin-based versus non-cisplatin-based chemotherapy.
+               </p>
+               <p id="p-3" class="indent">Trials were selected from those published in PubMed between January 1, 1990, and December 31, 2010, with “cisplatin,” “cancer,”
+                  and “randomized clinical trial” as keywords. Inclusion criteria included 1) prospective randomized phase II or III trial of
+                  cancer patients, 2) random assignment of participants to treatment with cisplatin or non-cisplatin-containing chemotherapy,
+                  and 3) available data on ATEs. Methodological quality was assessed using the Jadad scale, an instrument based on trial design
+                  elements such as blinding and randomization to rank trials on a 0–5 scale (<a id="xref-ref-5-1" class="xref-bibr" href="#ref-5">5</a>).
+               </p>
+               <p id="p-4" class="indent">Data extraction was independently performed by two investigators (S.K. Chiu and T. Proverbs-Singh), and discrepancies were
+                  resolved by consensus (S. Seng, M.D. Galsky, S.K. Chiu, and T. Proverbs-Singh). For each study, we extracted publication year,
+                  trial phase, treatment arms, underlying malignancy, number of subjects enrolled, number evaluable for toxicity, gender, median
+                  age, cisplatin dose (mg/m<sup>2</sup>), median follow-up time, and toxicity data of interest, including the number of all-grade arterial events. Dose intensity
+                  was calculated by dividing the cisplatin dose by frequency or schedule to standardize cisplatin dosing. All reported ATEs
+                  were captured, regardless of attribution assigned in the original publication, and classified as myocardial infarction (MI),
+                  cerebrovascular accident (CVA), or ATE other/unspecified.
+               </p>
+               <p id="p-5" class="indent">Analyses were performed using R statistical software with the metafor package (<a id="xref-ref-6-1" class="xref-bibr" href="#ref-6">6</a>). Random effects models were used regardless of the actual inter-study heterogeneities, which were quantified using the <em>I</em>
+                  <sup>2</sup> statistic. The <em>I</em>
+                  <sup>2</sup> statistic measures the percentage of overall variability due to between-study heterogeneity. Zero suggests that all variability
+                  arises from within-study sampling errors. Individual trials were pooled and weighted by the DerSimonian–Laird method (<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">7</a>). Continuity corrections with 0.5 were adopted for trials with zero events in either or both arms. The incidence and relative
+                  risk of ATE were calculated for each study along with appropriate 95% confidence intervals (CIs) and <em>P</em> values. A two-sided <em>P</em> less than .05 was considered to indicate statistical significance. Prespecified subgroup analyses were performed with heterogeneity
+                  tests by meta-regression using dummy variables according to Deeks et al (<a id="xref-ref-8-1" class="xref-bibr" href="#ref-8">8</a>).
+               </p>
+               <p id="p-6" class="indent">Of the 2359 publications identified during the initial search, 38 trials (phase 2 = 19; phase 3 = 19) met criteria for inclusion
+                  (<a href="http://jnci.oxfordjournals.org/lookup/suppl/doi:10.1093/jnci/djs435/-/DC1">Supplementary Figure 1</a>, available online). The median Jadad score was 3 (range = 2–3). No evidence of publication bias was detected by the Begg
+                  test (<em>P</em> = .82). A total of 8216 patients (cisplatin, n = 4154; non-cisplatin, n = 4062) were included in the analysis (<a href="http://jnci.oxfordjournals.org/lookup/suppl/doi:10.1093/jnci/djs435/-/DC1">Supplementary Table 1</a>, available online).
+               </p>
+               <p id="p-7" class="indent">In the cisplatin group, 34 patients experienced arterial events (12 MI, 17 CVA, 5 other arterial events) compared with 21
+                  patients (10 MI, 11 CVA) in the non-cisplatin group. The summary incidence of ATEs in patients receiving cisplatin-based chemotherapy
+                  was 0.67% (95% CI = 0.40% to 0.95%; <em>I</em>
+                  <sup>2</sup> = 11.91%). The relative risk of ATE for cisplatin-based versus non-cisplatin-based chemotherapy was 1.36 (95% CI = 0.86 to
+                  2.17; <em>P</em> = .19) (<a id="xref-fig-1-1" class="xref-fig" href="#F1">Figure 1</a>).
+               </p>
+               <div id="F1" class="fig pos-float type-figure odd">
+                  <div class="fig-inline"><a href="1837/F1.expansion.html"><img alt="Figure 1." src="1837/F1.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                           <li><a href="1837/F1.expansion.html">In this window</a></li>
+                           <li><a class="in-nw" href="1837/F1.expansion.html">In a new window</a></li>
+                        </ul>
+                        <ul class="fig-services">
+                           <li class="ppt-link"><a href="/powerpoint/104/23/1837/F1">Download as PowerPoint Slide</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="fig-caption"><span class="fig-label">Figure 1.</span> 
+                     
+                     <p id="p-8" class="first-child">Relative risk of arterial thromboembolism associated with cisplatin-based vs non-cisplatin-based chemotherapy.</p>
+                     
+                     <div class="sb-div caption-clear"></div>
+                  </div>
+               </div>
+               <p id="p-9" class="indent">To better delineate possible relationships between cisplatin and ATEs, we performed several exploratory subgroup analyses
+                  (<a id="xref-table-wrap-1-1" class="xref-table" href="#T1">Table 1</a>). No statistically significant increase in the relative risk of ATE with cisplatin-based chemotherapy was observed according
+                  to cisplatin dose intensity, platinum vs non-platinum comparator, primary tumor site, or publication year.
+               </p>
+               <div class="table pos-float" id="T1">
+                  <div class="table-inline">
+                     <div class="callout"><span>View this table:</span><ul class="callout-links">
+                           <li><a href="1837/T1.expansion.html">In this window</a></li>
+                           <li><a class="in-nw" href="1837/T1.expansion.html">In a new window</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="table-caption"><span class="table-label">Table 1. </span> 
+                     
+                     <p id="p-10" class="first-child">Incidence and relative risk of arterial thromboembolism based on prespecified subgroups*</p>
+                     
+                     <div class="sb-div caption-clear"></div>
+                  </div>
+               </div>
+               <p id="p-12" class="indent">Given the statistically nonsignificant results, we performed a posteriori power analyses (<a id="xref-ref-9-1" class="xref-bibr" href="#ref-9">9</a>). With the ATE incidence fixed at 1.5% [based on historical data (<a id="xref-ref-10-1" class="xref-bibr" href="#ref-10">10</a>)], the powers for relative risk of 1.5 and 2.0 are 0.70 and 0.96, respectively. Although a statistically significant increase
+                  in ATE with cisplatin may have been missed, based on the observed incidence and relative risk, such an increase is very unlikely
+                  to be of clinical significance.
+               </p>
+               <p id="p-13" class="indent">Our analysis revealed a very low event rate of ATE (0.67%) with cisplatin. Prior studies, reporting higher event rates, have
+                  been either small and/or retrospective in nature (<a id="xref-ref-10-2" class="xref-bibr" href="#ref-10">10</a>,<a id="xref-ref-11-1" class="xref-bibr" href="#ref-11">11</a>). Discrepancies in rates of thromboembolism between retrospective and prospective analyses have previously been highlighted
+                  (<a id="xref-ref-12-1" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-13-1" class="xref-bibr" href="#ref-13">13</a>). Strict eligibility criteria in randomized trials may have contributed, at least in part, to the lower incidence of ATE
+                  observed. Notably, this should have impacted both cisplatin and non-cisplatin arms equally.
+               </p>
+               <p id="p-14" class="indent">Several included trials reported zero ATE events in one or both arms. In this setting, using random effects models and continuity
+                  corrections would bias the results towards null (<a id="xref-ref-14-1" class="xref-bibr" href="#ref-14">14</a>), but we felt that including trials reporting zero ATE events would provide the most conservative estimate. A bias toward
+                  null implies that some true differences might have been missed, but again, given the low overall event rate, such a difference
+                  is unlikely to be of clinical significance.
+               </p>
+               <p id="p-15" class="indent">Another limitation involves differences in the treatment regimens aside from cisplatin for some trials, and we cannot rule
+                  out their possible influence on the results. We found that the diagnosis, reporting, and definition of thromboembolic events
+                  varied widely across trials. Severity grading was often missing, precluding an analysis of the risk of high-grade events.
+               </p>
+               <p id="p-16" class="indent">The present study reveals that ATEs in patients treated with cisplatin are uncommon. We did not detect an increase in the
+                  relative risk of ATE with cisplatin-based chemotherapy compared with non- cisplatin-based chemotherapy. Although we cannot
+                  exclude that a statistically significant increase in relative risk was missed, the observed incidence and relative risk suggest
+                  that such a finding would be very unlikely to be of clinical significance. Studies in patients with advanced cancer receiving
+                  chemotherapy that integrate analyses of potential genetic susceptibility loci could be considered in an effort to identify
+                  patients at the highest risk for this uncommon, yet potentially serious, complication.
+               </p>
+               <div class="section" id="sec-1">
+                  <div class="section-nav"><a href="#abstract-1" title="Abstract" class="prev-section-link"><span>Previous Section</span></a><a href="#notes-1" title="Notes" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>Funding</h2>
+                  
+                  <p id="p-17">MDG is supported by a Prostate Cancer Foundation
+                     Young Investigator award.
+                  </p>
+                  
+               </div>
+               <div class="section notes" id="notes-1">
+                  <div class="section-nav"><a href="#sec-1" title="Funding" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-2" title="Next Section" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Notes</h2>
+                  
+                  <div class="section" id="sec-2">
+                     <div class="section-nav"><a href="#notes-1" title="Notes" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                     
+                     <h3>Notes</h3>
+                     
+                     <p id="p-18">S. K. Chiu, Z. Liu, and S. Seng contributed equally to this work.</p>
+                     
+                  </div>
+                  
+               </div>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1">© The Author 2012. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</li>
+               </ul>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#sec-2" title="Previous Section" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">1.</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference 1. in text"
+                           id="ref-1">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.1"
+                             data-doi="10.1111/j.1538-7836.2007.02374.x">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Khorana</span>  <span class="cit-name-given-names">AA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Francis</span>  <span class="cit-name-given-names">CW</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Culakova</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Thromboembolism is a leading cause of death in cancer patients receiving outpatient chemotherapy</span>
+                                 <abbr class="cit-jnl-abbrev">
+                                    J Thromb Haemost.</abbr>
+                                 <span class="cit-pub-date">2007</span>
+                                 <span class="cit-vol">5</span>(<span class="cit-issue">3</span>):<span class="cit-fpage">632</span>–<span class="cit-lpage">634</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1111/j.1538-7836.2007.02374.x&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=17319909&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000244277800037&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Thromboembolism%20is%20a%20leading%20cause%20of%20death%20in%20cancer%20patients%20receiving%20outpatient%20chemotherapy&amp;author=AA%20Khorana&amp;author=CW%20Francis&amp;author=E%20Culakova&amp;publication_year=2007&amp;journal=J%20Thromb%20Haemost.&amp;volume=5&amp;issue=3&amp;pages=632-634">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">2.</span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference 2. in text"
+                           id="ref-2">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.2">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Seng</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Liu</span>  <span class="cit-name-given-names">Z</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Chiu</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Risk of venous thromboembolism in cancer patients treated with cisplatin: a systematic review and meta-analysis</span>
+                                 <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr>. In press.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Risk%20of%20venous%20thromboembolism%20in%20cancer%20patients%20treated%20with%20cisplatin%3A%20a%20systematic%20review%20and%20meta-analysis&amp;author=S%20Seng&amp;author=Z%20Liu&amp;author=S%20Chiu&amp;journal=J%20Clin%20Oncol">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">3.</span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference 3. in text"
+                           id="ref-3">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.3">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Doll</span>  <span class="cit-name-given-names">DC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">List</span>  <span class="cit-name-given-names">AF</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Greco</span>  <span class="cit-name-given-names">FA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Acute vascular ischemic events after cisplatin-based combination chemotherapy for germ-cell tumors of the testis</span>
+                                 <abbr class="cit-jnl-abbrev">Ann Intern Med.</abbr>
+                                 <span class="cit-pub-date">1986</span>
+                                 <span class="cit-vol">105</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">48</span>–<span class="cit-lpage">51</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=2424354&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1986D114300010&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Acute%20vascular%20ischemic%20events%20after%20cisplatin-based%20combination%20chemotherapy%20for%20germ-cell%20tumors%20of%20the%20testis&amp;author=DC%20Doll&amp;author=AF%20List&amp;author=FA%20Greco&amp;publication_year=1986&amp;journal=Ann%20Intern%20Med.&amp;volume=105&amp;issue=1&amp;pages=48-51">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">4.</span><a class="rev-xref-ref" href="#xref-ref-4-1" title="View reference 4. in text"
+                           id="ref-4">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.4"
+                             data-doi="10.1097/CAD.0b013e3283100e9c">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Jafri</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Protheroe</span>  <span class="cit-name-given-names">A.</span></span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Cisplatin-associated thrombosis</span>
+                                 <abbr class="cit-jnl-abbrev">Anticancer Drugs.</abbr>
+                                 <span class="cit-pub-date">2008</span>
+                                 <span class="cit-vol">19</span>(<span class="cit-issue">9</span>):<span class="cit-fpage">927</span>–<span class="cit-lpage">929</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1097/CAD.0b013e3283100e9c&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=18766008&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Cisplatin-associated%20thrombosis&amp;author=M%20Jafri&amp;author=A.%20Protheroe&amp;publication_year=2008&amp;journal=Anticancer%20Drugs.&amp;volume=19&amp;issue=9&amp;pages=927-929">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">5.</span><a class="rev-xref-ref" href="#xref-ref-5-1" title="View reference 5. in text"
+                           id="ref-5">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.5"
+                             data-doi="10.1016/0197-2456(95)00134-4">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Jadad</span>  <span class="cit-name-given-names">AR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Moore</span>  <span class="cit-name-given-names">RA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Carroll</span>  <span class="cit-name-given-names">D.</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Assessing the quality of reports of randomized clinical trials: is blinding necessary?</span>
+                                 <abbr class="cit-jnl-abbrev">Control Clin Trials.</abbr>
+                                 <span class="cit-pub-date">1996</span>
+                                 <span class="cit-vol">17</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">1</span>–<span class="cit-lpage">12</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0197-2456(95)00134-4&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=8721797&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1996UA39800001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Assessing%20the%20quality%20of%20reports%20of%20randomized%20clinical%20trials%3A%20is%20blinding%20necessary%3F&amp;author=AR%20Jadad&amp;author=RA%20Moore&amp;author=D.%20Carroll&amp;publication_year=1996&amp;journal=Control%20Clin%20Trials.&amp;volume=17&amp;issue=1&amp;pages=1-12">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">6.</span><a class="rev-xref-ref" href="#xref-ref-6-1" title="View reference 6. in text"
+                           id="ref-6">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.6">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Viechtbauer</span>  <span class="cit-name-given-names">W.</span></span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Conducting meta-analysis in R with the metafor package</span>
+                                 <abbr class="cit-jnl-abbrev">J Stat Soft w.</abbr>
+                                 <span class="cit-pub-date">2010</span>
+                                 <span class="cit-vol">36</span>(<span class="cit-issue">3</span>):<span class="cit-fpage">1</span>–<span class="cit-lpage">48</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Conducting%20meta-analysis%20in%20R%20with%20the%20metafor%20package&amp;author=W.%20Viechtbauer&amp;publication_year=2010&amp;journal=J%20Stat%20Soft%20w.&amp;volume=36&amp;issue=3&amp;pages=1-48">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">7.</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference 7. in text"
+                           id="ref-7">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.7"
+                             data-doi="10.1016/0197-2456(86)90046-2">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">DerSimonian</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Laird</span>  <span class="cit-name-given-names">N.</span></span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Meta-analysis in clinical trials</span>
+                                 <abbr class="cit-jnl-abbrev">Control Clin Trials.</abbr>
+                                 <span class="cit-pub-date">1986</span>
+                                 <span class="cit-vol">7</span>(<span class="cit-issue">3</span>):<span class="cit-fpage">177</span>–<span class="cit-lpage">188</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0197-2456(86)90046-2&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3802833&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1986F013900001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Meta-analysis%20in%20clinical%20trials&amp;author=R%20DerSimonian&amp;author=N.%20Laird&amp;publication_year=1986&amp;journal=Control%20Clin%20Trials.&amp;volume=7&amp;issue=3&amp;pages=177-188">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">8.</span><a class="rev-xref-ref" href="#xref-ref-8-1" title="View reference 8. in text"
+                           id="ref-8">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-book" id="cit-104.23.1837.8">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Deeks</span>  <span class="cit-name-given-names">JJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Altman</span>  <span class="cit-name-given-names">DG</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bradburn</span>  <span class="cit-name-given-names">MJ.</span></span></li>
+                              </ol><cite>
+                                 <span class="cit-source">Statistical methods for examining heterogeneity and combining results from several studies in meta-analysis</span>
+                                 <span class="cit-publ-loc">London</span>
+                                 <span class="cit-publ-name">BMJ Books</span>; <span class="cit-pub-date">2011</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Statistical%20methods%20for%20examining%20heterogeneity%20and%20combining%20results%20from%20several%20studies%20in%20meta-analysis&amp;author=JJ%20Deeks&amp;author=DG%20Altman&amp;author=MJ.%20Bradburn&amp;publication_year=2011">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">9.</span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference 9. in text"
+                           id="ref-9">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.9"
+                             data-doi="10.1037/1082-989X.6.3.203">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hedges</span>  <span class="cit-name-given-names">LV</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pigott</span>  <span class="cit-name-given-names">TD.</span></span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">The power of statistical tests in meta-analysis</span>
+                                 <abbr class="cit-jnl-abbrev">
+                                    Psychol Methods.
+                                    </abbr>
+                                 <span class="cit-pub-date">2001</span>
+                                 <span class="cit-vol">6</span>(<span class="cit-issue">3</span>):<span class="cit-fpage">203</span>–<span class="cit-lpage">217</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1037/1082-989X.6.3.203&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11570228&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000170927800001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=The%20power%20of%20statistical%20tests%20in%20meta-analysis&amp;author=LV%20Hedges&amp;author=TD.%20Pigott&amp;publication_year=2001&amp;journal=Psychol%20Methods.&amp;volume=6&amp;issue=3&amp;pages=203-217">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">10.</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference 10. in text"
+                           id="ref-10">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.10"
+                             data-doi="10.1200/JCO.2011.35.5669">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Moore</span>  <span class="cit-name-given-names">RA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Adel</span>  <span class="cit-name-given-names">N</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Riedel</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">High incidence of thromboembolic events in patients treated with cisplatin-based chemotherapy: a large retrospective analysis</span>
+                                 <abbr class="cit-jnl-abbrev">
+                                    J Clin Oncol.
+                                    </abbr>
+                                 <span class="cit-pub-date">2011</span>
+                                 <span class="cit-vol"> 29</span>(<span class="cit-issue">25</span>):<span class="cit-fpage">3466</span>–<span class="cit-lpage">3473</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=29/25/3466"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">11.</span><a class="rev-xref-ref" href="#xref-ref-11-1" title="View reference 11. in text"
+                           id="ref-11">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.11"
+                             data-doi="10.1002/cncr.20893">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Numico</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Garrone</span>  <span class="cit-name-given-names">O</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Dongiovanni</span>  <span class="cit-name-given-names">V</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Prospective evaluation of major vascular events in patients with nonsmall cell lung carcinoma treated with cisplatin and gemcitabine</span>
+                                 <abbr class="cit-jnl-abbrev">Cancer.</abbr>
+                                 <span class="cit-pub-date">2005</span>
+                                 <span class="cit-vol">103</span>(<span class="cit-issue">5</span>):<span class="cit-fpage">994</span>–<span class="cit-lpage">999</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/cncr.20893&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15666321&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000227114200016&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Prospective%20evaluation%20of%20major%20vascular%20events%20in%20patients%20with%20nonsmall%20cell%20lung%20carcinoma%20treated%20with%20cisplatin%20and%20gemcitabine&amp;author=G%20Numico&amp;author=O%20Garrone&amp;author=V%20Dongiovanni&amp;publication_year=2005&amp;journal=Cancer.&amp;volume=103&amp;issue=5&amp;pages=994-999">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">12.</span><a class="rev-xref-ref" href="#xref-ref-12-1" title="View reference 12. in text"
+                           id="ref-12">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.12"
+                             data-doi="10.1186/1748-717X-1-14">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Anders</span>  <span class="cit-name-given-names">JC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Grigsby</span>  <span class="cit-name-given-names">PW</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Singh</span>  <span class="cit-name-given-names">AK.</span></span></li>
+                              </ol><cite> <span class="cit-article-title">Cisplatin chemotherapy (without erythropoietin) and risk of life-threatening thromboembolic events  in carcinoma of the uterine
+                                    cervix: the tip of the iceberg? A review of the literature</span>. <abbr class="cit-jnl-abbrev">Radiat Oncol.</abbr> <span class="cit-pub-date">2006</span>;<span class="cit-vol">1</span>:<span class="cit-fpage">14</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1186/1748-717X-1-14&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16722547&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Cisplatin%20chemotherapy%20%28without%20erythropoietin%29%20and%20risk%20of%20life-threatening%20thromboembolic%20events%20%20in%20carcinoma%20of%20the%20uterine%20cervix%3A%20the%20tip%20of%20the%20iceberg%3F%20A%20review%20of%20the%20literature&amp;author=JC%20Anders&amp;author=PW%20Grigsby&amp;author=AK.%20Singh&amp;publication_year=2006&amp;journal=Radiat%20Oncol.&amp;volume=1&amp;pages=14">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">13.</span><a class="rev-xref-ref" href="#xref-ref-13-1" title="View reference 13. in text"
+                           id="ref-13">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.13"
+                             data-doi="10.1185/030079908X261050">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Reynolds</span>  <span class="cit-name-given-names">MW</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Shibata</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Zhao</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Impact of clinical trial design and execution-related factors on incidence of thromboembolic events in cancer patients: a
+                                    systematic review and meta-analysis</span>
+                                 <abbr class="cit-jnl-abbrev">
+                                    Curr Med Res Opin.
+                                    </abbr>
+                                 <span class="cit-pub-date">2008</span>
+                                 <span class="cit-vol">24</span>(<span class="cit-issue">2</span>):<span class="cit-fpage">497</span>–<span class="cit-lpage">505</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1185/030079908X261050&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=18194590&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Impact%20of%20clinical%20trial%20design%20and%20execution-related%20factors%20on%20incidence%20of%20thromboembolic%20events%20in%20cancer%20patients%3A%20a%20systematic%20review%20and%20meta-analysis&amp;author=MW%20Reynolds&amp;author=A%20Shibata&amp;author=S%20Zhao&amp;publication_year=2008&amp;journal=Curr%20Med%20Res%20Opin.&amp;volume=24&amp;issue=2&amp;pages=497-505">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">14.</span><a class="rev-xref-ref" href="#xref-ref-14-1" title="View reference 14. in text"
+                           id="ref-14">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.23.1837.14"
+                             data-doi="10.1002/sim.2528">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bradburn</span>  <span class="cit-name-given-names">MJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Deeks</span>  <span class="cit-name-given-names">JJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Berlin</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Much ado about nothing: a comparison of the performance of meta-analytical methods with rare events</span>
+                                 <abbr class="cit-jnl-abbrev">Stat Med</abbr>
+                                 <span class="cit-pub-date">2007</span>
+                                 <span class="cit-vol">26</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">53</span>–<span class="cit-lpage">77</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/sim.2528&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16596572&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000243455800005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Much%20ado%20about%20nothing%3A%20a%20comparison%20of%20the%20performance%20of%20meta-analytical%20methods%20with%20rare%20events&amp;author=MJ%20Bradburn&amp;author=JJ%20Deeks&amp;author=JA%20Berlin&amp;publication_year=2007&amp;journal=Stat%20Med&amp;volume=26&amp;issue=1&amp;pages=53-77">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/104/23/1825.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/104/23/1841.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/104/23.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (2012) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    104
+                                    </span><span class="slug-issue">
+                                    (23):
+                                    </span><span class="slug-pages">
+                                    1837-1840.
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/djs435" class="slug-doi">10.1093/jnci/djs435</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              <span class="slug-metadata-note ahead-of-print">
+                                 
+                                 First published online
+                                 
+                                 <span class="slug-ahead-of-print-date">October 23, 2012</span>
+                                 </span>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><a href="/content/104/23/1837.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/104/23/1837.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li><a href="/content/104/23/1837/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplementary-data">Supplementary Data</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2012/10/20/jnci.djs435">djs435v1</a></li>
+                                 <li class="current-li"><span>104/23/1837</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=Brief+Communication&amp;sortspec=date&amp;submit=Submit">Brief Communication</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;104/23/1837" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B104%2F23%2F1837&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/104/23/1837.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=104/23/1837&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/104/23/1837.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3Bdjs435&amp;citation=Proverbs-Singh%20et%20al.%20104%20%2823%29:%201837&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B104%2F23%2F1837&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=23093559&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B104%2F23%2F1837">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B104%2F23%2F1837">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=Arterial%20Thromboembolism%20in%20Cancer%20Patients%20Treated%20With%20Cisplatin%3A%20A%20Systematic%20Review%20and%20Meta-analysis%3A%20&amp;publicationDate=12%2F05%2F2012&amp;author=Tracy%20Proverbs-Singh%2C%20Sophia%20K.%20Chiu%2C%20Ziyue%20Liu%2C%20Sonia%20Seng%2C%20Guru%20Sonpavde%2C%20Toni%20K.%20Choueiri%2C%20Che-Kai%20Tsao%2C%20Menggang%20Yu%2C%20Noah%20M%20Hahn%2C%20William%20K.%20Oh%2C%20Matthew%20D.%20Galsky&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2Fdjs435&amp;volumeNum=104&amp;issueNum=23&amp;startPage=1837&amp;endPage=1840&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/104/23/1837.full?cited-by=yes&amp;legid=jnci;104/23/1837#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/104/23/1837" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/104/23/1837?access_num=/jnci/104/23/1837"
+                              rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F104%2F23%2F1837&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/104/23/1837.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AProverbs-Singh%20author%3AT.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Proverbs-Singh, T.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AGalsky%20author%3AM.D.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Galsky, M. D.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/104/23/1837.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=23093559&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Proverbs-Singh%20T&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Proverbs-Singh, T.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Chiu%20SK&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Chiu, S. K.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Liu%20Z&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Liu, Z.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Seng%20S&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Seng, S.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Sonpavde%20G&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Sonpavde, G.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Choueiri%20TK&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Choueiri, T. K.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Tsao%20CK&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Tsao, C. K.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Yu%20M&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Yu, M.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Hahn%20NM&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Hahn, N. M.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Oh%20WK&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Oh, W. K.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Galsky%20MD&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Galsky, M. D.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/104/23/1837.full?related-urls=yes&amp;legid=jnci;104/23/1837#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B104%2F23%2F1837&amp;current-view-path=/content/104/23/1837.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/104/23/1837&amp;title=Arterial%20Thromboembolism%20in%20Cancer%20Patients%20Treated%20With%20Cisplatin%3A%20A%20Systematic%20Review%20and%20Meta-analysis+--+Proverbs-Singh%20et%20al.%20104%20%2823%29%3A%201837+--+jnci.j&amp;doi=10.1093/jnci/djs435&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/104/23/1837&amp;title=Arterial%20Thromboembolism%20in%20Cancer%20Patients%20Treated%20With%20Cisplatin%3A%20A%20Systematic%20Review%20and%20Meta-analysis+--+Proverbs-Singh%20et%20al.%20104%20%2823%29%3A%201837+--+jnci.j&amp;doi=10.1093/jnci/djs435&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/104/23/1837&amp;title=Arterial%20Thromboembolism%20in%20Cancer%20Patients%20Treated%20With%20Cisplatin%3A%20A%20Systematic%20Review%20and%20Meta-analysis+--+Proverbs-Singh%20et%20al.%20104%20%2823%29%3A%201837+--+jnci.j&amp;doi=10.1093/jnci/djs435&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/104/23/1837&amp;title=Arterial%20Thromboembolism%20in%20Cancer%20Patients%20Treated%20With%20Cisplatin%3A%20A%20Systematic%20Review%20and%20Meta-analysis+--+Proverbs-Singh%20et%20al.%20104%20%2823%29%3A%201837+--+jnci.j&amp;doi=10.1093/jnci/djs435&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/104/23/1837&amp;title=Arterial%20Thromboembolism%20in%20Cancer%20Patients%20Treated%20With%20Cisplatin%3A%20A%20Systematic%20Review%20and%20Meta-analysis+--+Proverbs-Singh%20et%20al.%20104%20%2823%29%3A%201837+--+jnci.j&amp;doi=10.1093/jnci/djs435&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/104/23/1837&amp;title=Arterial%20Thromboembolism%20in%20Cancer%20Patients%20Treated%20With%20Cisplatin%3A%20A%20Systematic%20Review%20and%20Meta-analysis+--+Proverbs-Singh%20et%20al.%20104%20%2823%29%3A%201837+--+jnci.j&amp;doi=10.1093/jnci/djs435&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#abstract-1">Abstract</a></li>
+                        <li><a href="#sec-1">Funding</a></li>
+                        <li><a href="#notes-1">Notes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/104/23/1837.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/104/23/1837.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

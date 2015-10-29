@@ -1,0 +1,1848 @@
+http://jnci.oxfordjournals.org/content/100/1/14.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>HER2 Status and Efficacy of Adjuvant Anthracyclines in Early Breast Cancer: A Pooled Analysis of Randomized Trials </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/100/1/14" />
+      <meta content="/jnci/100/1/14.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="HER2 Status and Efficacy of Adjuvant Anthracyclines in Early Breast Cancer: A Pooled Analysis of Randomized Trials"
+            name="DC.Title" />
+      <meta content="10.1093/jnci/djm252" name="DC.Identifier" />
+      <meta content="2008-01-02" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Alessandra Gennari" name="DC.Contributor" />
+      <meta content="Maria Pia Sormani" name="DC.Contributor" />
+      <meta content="Paolo Pronzato" name="DC.Contributor" />
+      <meta content="Matteo Puntoni" name="DC.Contributor" />
+      <meta content="Mariantonietta Colozza" name="DC.Contributor" />
+      <meta content="Ulrich Pfeffer" name="DC.Contributor" />
+      <meta content="Paolo Bruzzi" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta name="citation_author" content="Alessandra Gennari" />
+      <meta name="citation_author" content="Maria Pia Sormani" />
+      <meta name="citation_author" content="Paolo Pronzato" />
+      <meta name="citation_author" content="Matteo Puntoni" />
+      <meta name="citation_author" content="Mariantonietta Colozza" />
+      <meta name="citation_author" content="Ulrich Pfeffer" />
+      <meta name="citation_author" content="Paolo Bruzzi" />
+      <meta content="HER2 Status and Efficacy of Adjuvant Anthracyclines in Early Breast Cancer: A Pooled Analysis of Randomized Trials"
+            name="citation_title" />
+      <meta content="100" name="citation_volume" />
+      <meta content="1" name="citation_issue" />
+      <meta content="14" name="citation_firstpage" />
+      <meta content="20" name="citation_lastpage" />
+      <meta content="100/1/14" name="citation_id" />
+      <meta content="100/1/14" name="citation_id_from_sass_path" />
+      <meta content="jnci;100/1/14" name="citation_mjid" />
+      <meta content="10.1093/jnci/djm252" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/100/1/14.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/100/1/14.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/100/1/14.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/100/1.cover.gif" name="issue_cover_image" />
+      <meta content="http://jnci.oxfordjournals.org/content/100/1/14"
+            name="citation_public_url" />
+      <meta content="18159072" name="citation_pmid" />
+      <meta name="citation_section" content="Article" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/100/1/13.short" rel="prev" />
+      <link href="/content/100/1/21.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d392425737e1">var callbackToken='53789CC5305E436';</script><script type="text/javascript" id="session-d392425737e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:15:25.667-07:00';
+            var gSessionId = 'mvIC@CJL4eKh3UP@32hq@A';
+            var gAuthzRequired = 'false';
+            var gAuthnMethods1 = 'ip ip';
+            var gAuthnMethods2 = 'ip,ip';
+            var gAuthnIPs = '18.189.59.169,18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/djm252");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("20080102");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F100%2F1%2F14.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/100/1.toc">
+                  <span xmlns="" class="volume-value">Volume 100</span>
+                  <span xmlns="" class="issue-value"> Issue 1</span></a></li>
+            <li>Pp. <span class="slug-pages">
+                  14-20.
+                  </span></li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/100/1/14.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline"><em>HER2</em> Status and Efficacy of Adjuvant Anthracyclines in Early Breast Cancer: A Pooled Analysis of Randomized Trials
+               </h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Alessandra+Gennari&amp;sortspec=date&amp;submit=Submit">Alessandra Gennari</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Maria+Pia+Sormani&amp;sortspec=date&amp;submit=Submit">Maria Pia Sormani</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Paolo+Pronzato&amp;sortspec=date&amp;submit=Submit">Paolo Pronzato</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Matteo+Puntoni&amp;sortspec=date&amp;submit=Submit">Matteo Puntoni</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Mariantonietta+Colozza&amp;sortspec=date&amp;submit=Submit">Mariantonietta Colozza</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Ulrich+Pfeffer&amp;sortspec=date&amp;submit=Submit">Ulrich Pfeffer</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-7"><span class="name"><a class="name-search"
+                              href="/search?author1=Paolo+Bruzzi&amp;sortspec=date&amp;submit=Submit">Paolo Bruzzi</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><strong>Affiliations of authors:</strong> National Cancer Research Institute, Genoa, Italy (AG, PP, UP, PB); Department of Health Sciences, University of Genoa, Genoa,
+                           Italy (AG, MPS, MP); Galliera Hospital, Genoa, Italy (MP); Perugia Hospital, Perugia, Italy (MC)
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="fn" id="corresp-1"><strong>Correspondence to:</strong><br /> Alessandra Gennari, MD, PhD, National Cancer Research Institute, Largo Rosanna Benzi, 10 16132 Genoa, Italy (e-mail: <span class="em-link"><span class="em-addr">alessandra.gennari{at}istge.it</span></span>).
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                         hwp:start="2007-04-04"><span class="received-label">Received </span>April 4, 2007.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="rev-recd"
+                         hwp:start="2007-10-23"><span class="rev-recd-label">Revision received </span>October 23, 2007.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="2007-11-09"><span class="accepted-label">Accepted </span>November 9, 2007.
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-11" title="Methods" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Abstract</h2>
+                  <div id="sec-1" class="subsection">
+                     <p id="p-1"><strong>Background</strong> Adjuvant chemotherapy with anthracyclines improves disease-free and overall survival compared with non–anthracycline-based
+                        adjuvant chemotherapy regimens in the treatment of early breast cancer. The role of <em>HER2</em> status as a marker of anthracycline responsiveness has been explored by subset analyses within randomized clinical trials,
+                        with inconsistent results. We performed a pooled analysis of the interaction between <em>HER2</em> status and the efficacy of adjuvant anthracyclines based on the published subset data.
+                     </p>
+                  </div>
+                  <div id="sec-2" class="subsection">
+                     <p id="p-2"><strong>Methods</strong> We searched literature databases to identify randomized trials that compared anthracycline-based with non–anthracycline-based
+                        adjuvant chemotherapy regimens in the treatment of early breast cancer and reported efficacy data according to <em>HER2</em> status. Log hazard ratios (HRs) for disease-free and overall survival were pooled across the studies according to <em>HER2</em> status by inverse variance weighting. A pooled test for treatment by <em>HER2</em> status interaction was performed by weighted linear meta-regression. All statistical tests were two-sided.
+                     </p>
+                  </div>
+                  <div id="sec-3" class="subsection">
+                     <p id="p-3"><strong>Results</strong> Eight studies (with 6564 randomly assigned patients, of whom 5354 had <em>HER2</em> status information available) were eligible for this analysis. In <em>HER2</em>-positive disease (n = 1536 patients), anthracyclines were superior to non–anthracycline-based regimens in terms of disease-free
+                        (pooled HR of relapse = 0.71; 95% confidence interval [CI] = 0.61 to 0.83; <em>P</em> &lt; .001) and overall (pooled HR of death from any cause = 0.73; 95% CI = 0.62 to 0.85; <em>P</em> &lt; .001) survival. In <em>HER2</em>-negative disease (n = 3818 patients), anthracyclines did not improve disease-free (HR = 1.00; 95% CI = 0.90 to 1.11; <em>P</em> = .75) or overall (HR = 1.03; 95% CI = 0.92 to 1.16; <em>P</em> = .60) survival. The test for treatment by <em>HER2</em> status interaction yielded statistically significant results: for disease-free survival, the chi-square statistic for interaction
+                        was 13.7 (<em>P</em> &lt; .001), and for overall survival, it was 12.6 (<em>P</em> &lt; .001).
+                     </p>
+                  </div>
+                  <div id="sec-4" class="subsection">
+                     <p id="p-4"><strong>Conclusions</strong> The added benefits of adjuvant chemotherapy with anthracyclines appear to be confined to women who have <em>HER2</em> overexpressed or amplified breast tumors.
+                     </p>
+                  </div>
+               </div>
+               <p id="p-5">
+                  <div class="boxed-text" id="boxed-text-1">
+                     <div id="sec-5" class="subsection">
+                        <h4>CONTEXT AND CAVEATS</h4>
+                        <div id="sec-6" class="subsection">
+                           <h5>Prior knowledge</h5>
+                           <p id="p-6">In the treatment of early breast cancer, anthracycline-based adjuvant chemotherapy improves disease-free and overall survival
+                              compared with non–anthracycline-based adjuvant chemotherapy. However, it is unclear whether the <em>HER2</em> status of breast tumors is a marker of anthracycline responsiveness.
+                           </p>
+                        </div>
+                        <div id="sec-7" class="subsection">
+                           <h5>Study design</h5>
+                           <p id="p-7">A pooled analysis of data from eight randomized controlled trials that compared anthracycline-based with non–anthracycline-based
+                              adjuvant chemotherapy regimens in the treatment of early breast cancer.
+                           </p>
+                        </div>
+                        <div id="sec-8" class="subsection">
+                           <h5>Contribution</h5>
+                           <p id="p-8">The added benefits of adjuvant chemotherapy with anthracyclines appear to be limited to women whose breast tumors have overexpressed
+                              or amplified <em>HER2</em>.
+                           </p>
+                        </div>
+                        <div id="sec-9" class="subsection">
+                           <h5>Implications</h5>
+                           <p id="p-9">Patients with <em>HER2</em>-negative breast tumors derive no added benefits from adjuvant chemotherapy with anthracyclines.
+                           </p>
+                        </div>
+                        <div id="sec-10" class="subsection">
+                           <h5>Limitations</h5>
+                           <p id="p-10">Only eight randomized clinical trials published data on the effects of adjuvant anthracyclines according to <em>HER2</em> status. Summary results rather than individual patient data were analyzed, and there was no centralized reassessment of <em>HER2</em> status. The methods used to determine <em>HER2</em> status differed among the trials.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+               </p>
+               <p id="p-11">The Early Breast Cancer Trialists' Collaborative Group (EBCTCG) overview of randomized trials of polychemotherapy in early-stage
+                  breast cancer demonstrated that anthracycline-based regimens are superior to non–anthracycline-based regimens with respect
+                  to disease-free and overall survival (<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">1</a>). However, the magnitude of the absolute benefit from adjuvant anthracyclines, although statistically significant, was modest
+                  and not consistent across individual trials (<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2">2</a>–<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">7</a>). An additional concern about the widespread use of anthracyclines as adjuvant treatment for early-stage breast cancer is
+                  related to the small but clinically significant risks of cardiotoxicity and secondary leukemia that are associated with these
+                  agents. Exploratory studies (<a id="xref-ref-8-1" class="xref-bibr" href="#ref-8">8</a>–<a id="xref-ref-15-1" class="xref-bibr" href="#ref-15">15</a>) have suggested that the benefit of adjuvant treatment with anthracyclines is confined mainly to women whose breast tumors
+                  have overexpressed and/or amplified <em>HER2</em>. The association between <em>HER2</em> status and responsiveness to adjuvant anthracyclines may be related to the tumor level of topoisomerase II alpha, the molecular
+                  target of anthracyclines. In fact, the gene encoding topoisomerase II alpha is located adjacent to the <em>HER2</em> oncogene on chromosome 17, and both genes are frequently coamplified in breast tumors (<a id="xref-ref-16-1" class="xref-bibr" href="#ref-16">16</a>). In this regard, some retrospective studies (<a id="xref-ref-8-2" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-9-1" class="xref-bibr" href="#ref-9">9</a>) that have investigated the predictive value of aberrations in the topoisomerase II alpha gene in patients treated with anthracyclines
+                  have suggested that the additional benefit of adjuvant anthracyclines might be limited to women whose breast tumors have amplification
+                  of both the <em>HER2</em> and topoisomerase II alpha genes.
+               </p>
+               <p id="p-12">Data from several randomized clinical trials that compared anthracycline-based adjuvant chemotherapy with non–anthracycline-based
+                  regimens have been subjected to subgroup analysis to examine whether the <em>HER2</em> status of a breast tumor is a predictive marker for response to adjuvant treatment with anthracyclines (<a id="xref-ref-8-3" class="xref-bibr" href="#ref-8">8</a>–<a id="xref-ref-15-2" class="xref-bibr" href="#ref-15">15</a>). Only two of these studies (<a id="xref-ref-10-1" class="xref-bibr" href="#ref-10">10</a>,<a id="xref-ref-15-3" class="xref-bibr" href="#ref-15">15</a>) reported a positive association between <em>HER2</em> positivity and a better response to anthracycline-based regimens than to non–anthracycline-based regimens. Possible reasons
+                  for this inconsistency include differences among the studies in the methods used to assess <em>HER2</em> status, incomplete specimen collection, and the administration, in some trials, of outdated or suboptimal adjuvant regimens.
+                  Furthermore, subset analyses within individual studies that are intended to investigate the effects of an intervention for
+                  specific subgroups of patients are inevitably plagued by chance effects and lack of power and should be regarded as exploratory
+                  (<a id="xref-ref-17-1" class="xref-bibr" href="#ref-17">17</a>).
+               </p>
+               <p id="p-13">To better assess the differential efficacy of adjuvant anthracyclines according to <em>HER2</em> status, we performed a meta-analysis of data from published subset analyses that were conducted in the context of randomized
+                  clinical trials that compared anthracycline-based adjuvant regimens with non–anthracycline-based adjuvant regimens in women
+                  with early-stage breast cancer. The aim of this meta-analysis was to assess the presence and degree of interaction between
+                  <em>HER2</em> status and use of adjuvant anthracyclines in the treatment of early breast cancer.
+               </p>
+               <div class="section" id="sec-11">
+                  <div class="section-nav"><a href="#abstract-1" title="Abstract" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-15" title="Results" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Methods</h2>
+                  <div id="sec-12" class="subsection">
+                     <h3>Identification and Selection of Trials</h3>
+                     <p id="p-14">For this meta-analysis, we sought data from all English-language published (as full papers or as conference abstracts) and
+                        unpublished randomized trials that compared anthracycline-based adjuvant chemotherapy with non–anthracycline-based adjuvant
+                        chemotherapy in the treatment of early breast cancer and reported efficacy data according to <em>HER2</em> status. All trials had to fulfill the following criteria to be included in this meta-analysis: 1) the patients had to have
+                        been randomly assigned; 2) the trial had to be designed to compare anthracycline-based with non–anthracycline-based chemotherapeutic
+                        regimens in the adjuvant treatment of early breast cancer; and 3) hazard ratios for disease-free and overall survival according
+                        to <em>HER2</em> status either had to be reported or could be computed from the data presented. Studies in which hazard ratios for disease-free
+                        and/or overall survival according to <em>HER2</em> status were not reported or could not be computed from the data presented were excluded.
+                     </p>
+                     <p id="p-15">We searched for relevant trials 1) by performing computer-aided literature searches of the MEDLINE and CANCERLIT databases;
+                        2) by examining the reference lists of published trials, review articles, and editorials on <em>HER2</em> status and efficacy of adjuvant anthracyclines; 3) by searching meetings abstracts; and 4) by consulting the US National
+                        Cancer Institute Physicians Data Query Clinical Protocol. For database searches, the following strategy was used: “Breast
+                        Neoplasms” [MeSH] AND “Chemotherapy, Adjuvant” [MeSH] AND (“Anthracyclines” [MeSH] OR “Anthracyclines/therapeutic use” [MeSH])
+                        AND (“Receptor, erbB-2” [MeSH] OR “Genes, erbB-2” [MeSH]). The databases were searched for papers published through November
+                        30, 2006.
+                     </p>
+                  </div>
+                  <div id="sec-13" class="subsection">
+                     <h3>Data Abstraction</h3>
+                     <p id="p-16">The following data were abstracted from each study: the number of randomly assigned patients, the number of patients whose
+                        tumors were assessed for <em>HER2</em>, the description of treatment regimens, the year of publication or disclosure (for data presented as conference abstracts
+                        only), the outcome measures, and the treatment effect estimates. Hazard ratios (HRs) for breast cancer recurrence and all-cause
+                        mortality were extracted (along with 95% confidence intervals [CIs]) by using the non–anthracycline-based adjuvant chemotherapy
+                        arm as the reference group. All data were checked for internal consistency; principal investigators of the studies were contacted
+                        to retrieve missing information or to clarify inconsistencies.
+                     </p>
+                  </div>
+                  <div id="sec-14" class="subsection">
+                     <h3>Statistical Methods</h3>
+                     <p id="p-17">The primary endpoints of this analysis were disease-free and overall survival. This meta-analysis was performed using a fixed-effects
+                        model. All trials reported <em>HER2</em>-specific hazard ratios with 95% confidence intervals. In the Belgian study (<a id="xref-ref-8-4" class="xref-bibr" href="#ref-8">8</a>), which compared two dose levels of epirubicin plus cyclophosphamide with cyclophosphamide, methotrexate, and 5-fluorouracil
+                        (CMF), the hazard ratios for the two epirubicin-containing arms vs CMF were pooled by inverse variance weighting. Log hazard
+                        ratios for disease-free and overall survival were pooled across the studies, both overall and according to <em>HER2</em> status by inverse variance weighting. Formal tests for treatment by <em>HER2</em> status interaction were performed for each study, and the results of such tests were compared with those of interaction tests
+                        reported by the individual studies. A pooled test for treatment by <em>HER2</em> status interaction was performed using a weighted linear meta-regression of the log hazard ratio with <em>HER2</em> status as a binary covariate (positive/negative). Publication bias was assessed by visual inspection of funnel plots for
+                        study size against treatment effect (<a id="xref-ref-18-1" class="xref-bibr" href="#ref-18">18</a>) and with Egger's regression asymmetry test (<a id="xref-ref-19-1" class="xref-bibr" href="#ref-19">19</a>). Sensitivity analyses were performed to examine whether the strength of interaction between <em>HER2</em> status and the efficacy of adjuvant anthracycline treatment was associated with the method of <em>HER2</em> assessment, the type of anthracycline-based regimen used, or the proportion of patients who were assessed for <em>HER2</em> status. All analyses were conducted with the use of Stata statistical software (version 9, Stata Corp., College Station,
+                        TX). All <em>P</em> values were two-sided and the cutoff for statistical significance was .05.
+                     </p>
+                  </div>
+               </div>
+               <div class="section" id="sec-15">
+                  <div class="section-nav"><a href="#sec-11" title="Methods" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-19" title="Discussion" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Results</h2>
+                  <p id="p-18">We identified nine randomized trials (<a id="xref-ref-8-5" class="xref-bibr" href="#ref-8">8</a>–<a id="xref-ref-15-4" class="xref-bibr" href="#ref-15">15</a>,<a id="xref-ref-20-1" class="xref-bibr" href="#ref-20">20</a>) that compared anthracycline-based with non–anthracycline-based regimens and that analyzed outcomes according to <em>HER2</em> status; seven trials (<a id="xref-ref-8-6" class="xref-bibr" href="#ref-8">8</a>–<a id="xref-ref-11-1" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-13-1" class="xref-bibr" href="#ref-13">13</a>–<a id="xref-ref-15-5" class="xref-bibr" href="#ref-15">15</a>) were published as full articles in peer-reviewed journals, and two (<a id="xref-ref-12-1" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-20-2" class="xref-bibr" href="#ref-20">20</a>) were published as conference abstracts. One of the trials published as a conference abstract (<a id="xref-ref-20-3" class="xref-bibr" href="#ref-20">20</a>) was excluded because it reported <em>P</em> values but no other data that would allow us to estimate the hazard ratio according to <em>HER2</em> status. <a id="xref-table-wrap-1-1" class="xref-table" href="#T1">Table 1</a> presents the characteristics of the eight trials included in the meta-analysis.
+                  </p>
+                  <div class="table pos-float" id="T1">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="14/T1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="14/T1.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label">Table 1</span> 
+                        <p id="p-19" class="first-child">Characteristics of the eight studies included in the pooled analysis of anthracycline-based adjuvant chemotherapy vs non–anthracycline-based
+                           adjuvant chemotherapy for early breast cancer*
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  <div id="sec-16" class="subsection">
+                     <h3><em>HER2</em> Status Assessment
+                     </h3>
+                     <p id="p-21">The proportion of randomly assigned patients who had the <em>HER2</em> status of their breast tumors assessed ranged from 46% to 94% (<a id="xref-table-wrap-2-1" class="xref-table" href="#T2">Table 2</a>). Overall, 5354 (82%) of the 6564 randomly assigned patients were assessed for <em>HER2</em> status. Among the patients whose <em>HER2</em> status was assessed, 1536 (29%) had tumors that overexpressed the HER2 protein or had amplification of the <em>HER2</em> gene. <em>HER2</em> status was evaluated by immunohistochemical assay alone in five studies (<a id="xref-ref-10-3" class="xref-bibr" href="#ref-10">10</a>–<a id="xref-ref-14-2" class="xref-bibr" href="#ref-14">14</a>); by fluorescence in situ hybridization alone or as a complement to immunohistochemical assay in two studies (<a id="xref-ref-8-8" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-9-3" class="xref-bibr" href="#ref-9">9</a>); and by immunohistochemical assay, fluorescence in situ hybridization, and the polymerase chain reaction in one study (<a id="xref-ref-15-7" class="xref-bibr" href="#ref-15">15</a>). Despite this heterogeneity, the prevalence of <em>HER2</em>-positive tumors was reasonably constant among the eight studies, ranging from 19% to 37%. Details about <em>HER2</em> testing and the scoring criteria from the individual studies are listed in <a id="xref-table-wrap-2-2" class="xref-table" href="#T2">Table 2</a>.
+                     </p>
+                     <div class="table pos-float" id="T2">
+                        <div class="table-inline">
+                           <div class="callout"><span>View this table:</span><ul class="callout-links">
+                                 <li><a href="14/T2.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="14/T2.expansion.html">In a new window</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="table-caption"><span class="table-label">Table 2</span> 
+                           <p id="p-22" class="first-child">Assessment of <em>HER2</em> status in the eight studies included in the meta-analysis*
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                  </div>
+                  <div id="sec-17" class="subsection">
+                     <h3>Interaction Between <em>HER2</em> Status and Treatment Effect
+                     </h3>
+                     <p id="p-27">Data on disease-free survival were available for six studies (<a id="xref-ref-8-10" class="xref-bibr" href="#ref-8">8</a>–<a id="xref-ref-11-4" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-13-4" class="xref-bibr" href="#ref-13">13</a>,<a id="xref-ref-15-9" class="xref-bibr" href="#ref-15">15</a>) No disease-free survival data were available in the Gruppo Universitario Napoletano 3 study (<a id="xref-ref-12-4" class="xref-bibr" href="#ref-12">12</a>). Methodologic issues concerning an inconsistency between overall survival and disease-free survival data prevented inclusion
+                        of disease-free survival data from the Gruppo Oncologico Italiano di Ricerca Clinica study (<a id="xref-ref-14-4" class="xref-bibr" href="#ref-14">14</a>) in the present analysis. Data on overall survival were reported in all studies except the Belgian study (<a id="xref-ref-8-11" class="xref-bibr" href="#ref-8">8</a>). Overall, compared with non–anthracycline-based adjuvant chemotherapy regimens, anthracycline-based adjuvant chemotherapy
+                        was associated with a statistically significant reduction in the risk of relapse (pooled HR = 0.90; 95% CI = 0.82 to 0.98;
+                        <em>P</em> = .01) and a borderline statistically significant reduction in the risk of death from any cause (pooled HR = 0.91; 95% CI
+                        = 0.79 to 1.04; <em>P</em> = .056) (<a id="xref-fig-1-1" class="xref-fig" href="#F1">Figs. 1</a> and <a id="xref-fig-2-1" class="xref-fig" href="#F2">2</a>). There was no statistically significant heterogeneity among the trials for either outcome variable.
+                     </p>
+                     <div id="F1" class="fig pos-float odd">
+                        <div class="fig-inline"><a href="14/F1.expansion.html"><img alt="Fig. 1" src="14/F1.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="14/F1.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="14/F1.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/100/1/14/F1">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Fig. 1</span> 
+                           <p id="p-28" class="first-child">Disease-free survival. Hazard ratios (HR, <strong>diamonds</strong>) and 95% confidence intervals (CIs, <strong>horizontal bars</strong>) of anthracycline-based vs non–anthracycline-based regimens in <em>HER2</em>-positive (<strong>black diamonds</strong>) and <em>HER2</em>-negative (<strong>gray diamonds</strong>) patients. Hazard ratios and their 95% confidence intervals (CIs) were abstracted from each study and combined to obtain
+                              a pooled estimate (<strong>white diamond, dotted line</strong>) of the effect of anthracycline-based regimens. Chi-square (χ<sup>2</sup>) test statistics were used to test for the presence of heterogeneity across studies both in <em>HER2</em>-positive and in <em>HER2</em>-negative patients. A pooled test for treatment by <em>HER2</em> status interaction was performed using an inverse variance weighted linear meta-regression; the χ<sup>2</sup> statistic assessing the interaction was 13.7, <em>P</em> &lt; .001. NSABP = National Surgical Adjuvant Breast and Bowel Project; DBCG = Danish Breast Cancer Cooperative Group; NCIC
+                              = National Cancer Institute of Canada.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <div id="F2" class="fig pos-float odd">
+                        <div class="fig-inline"><a href="14/F2.expansion.html"><img alt="Fig. 2" src="14/F2.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="14/F2.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="14/F2.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/100/1/14/F2">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Fig. 2</span> 
+                           <p id="p-29" class="first-child">Overall survival. Hazard ratios (HR, <strong>diamonds</strong>) and 95% confidence intervals (CIs, <strong>horizontal bars</strong>) of anthracycline-based vs non–anthracycline-based regimens in <em>HER2</em>-positive (<strong>black diamonds</strong>) and <em>HER2</em>-negative (<strong>gray diamonds</strong>) patients. Hazard ratios and their 95% confidence intervals were abstracted from each study and combined to obtain a pooled
+                              estimate (<strong>white diamond, dotted line</strong>) of the effect of anthracycline-based regimens. Chi-square (χ<sup>2</sup>) test statistics were used to test for the presence of heterogeneity across studies both in <em>HER2</em>-positive and in <em>HER2</em>-negative patients. A pooled test for treatment by <em>HER2</em> status interaction was performed using an inverse variance weighted linear meta-regression; the χ<sup>2</sup> statistic assessing the interaction was 12.6, <em>P</em> &lt; .001. NSABP = National Surgical Adjuvant Breast and Bowel Project; GUN = Gruppo Universitario Napoletano; DBCG = Danish
+                              Breast Cancer Cooperative Group; NCIC = National Cancer Institute of Canada.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <p id="p-30">Among patients with <em>HER2</em>-positive breast tumors, anthracycline-based adjuvant chemotherapy was associated with a marked reduction in the risks of
+                        relapse (pooled HR = 0.71, 95% CI = 0.61 to 0.83; <em>P</em> &lt; .001) and death (pooled HR = 0.73, 95% CI = 0.62 to 0.85; <em>P</em> &lt; .001). Conversely, among patients with <em>HER2</em>-negative breast tumors, there was no difference between those who received anthracycline-based adjuvant chemotherapy and
+                        those who received non–anthracycline-based adjuvant chemotherapy with respect to disease-free (pooled HR of relapse = 1.00,
+                        95% CI = 0.90 to 1.11; <em>P</em> = .75) or overall (pooled HR of death from any cause = 1.03, 95% CI = 0.92 to 1.16; <em>P</em> = .60) survival (<a id="xref-fig-1-2" class="xref-fig" href="#F1">Figs. 1</a> and <a id="xref-fig-2-2" class="xref-fig" href="#F2">2</a>). The test for treatment by <em>HER2</em> status interaction yielded statistically significant results: for disease-free survival, the chi-square statistic for interaction
+                        was 13.7 (<em>P</em> &lt; .001), and for overall survival it was 12.6 (<em>P</em> &lt; .001), allowing us to reject the null hypothesis that the effect of adjuvant anthracyclines is independent of <em>HER2</em> status (<a id="xref-table-wrap-3-1" class="xref-table" href="#T3">Table 3</a>).
+                     </p>
+                     <div class="table pos-float" id="T3">
+                        <div class="table-inline">
+                           <div class="callout"><span>View this table:</span><ul class="callout-links">
+                                 <li><a href="14/T3.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="14/T3.expansion.html">In a new window</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="table-caption"><span class="table-label">Table 3</span> 
+                           <p id="p-31" class="first-child">Test for treatment by <em>HER2</em> status interaction*
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <p id="p-33">Neither a visual assessment of funnel plots nor formal statistical tests (Egger's test for bias <em>P</em> &gt; .3; Begg's rank correlation test <em>P</em> &gt; .5) indicated the existence of publication bias, suggesting that studies in which anthracyclines showed a differential
+                        effect on disease-free and/or overall survival according to <em>HER2</em> status were not more or less likely to be published than those that did not show such an effect.
+                     </p>
+                  </div>
+                  <div id="sec-18" class="subsection">
+                     <h3>Sensitivity Analyses</h3>
+                     <p id="p-34">To examine whether the overall interaction observed between <em>HER2</em> status and the use of anthracyclines was due to an effect that was present only in some groups of trials, we conducted sensitivity
+                        analyses in which patients were grouped according to the assessment method used to determine the <em>HER2</em> status of their tumors (immunohistochemistry vs fluorescence in situ hybridization), the type of anthracycline-based regimen
+                        they received (doxorubicin vs epirubicin), and the proportion that was assessed for <em>HER2</em> status (&gt;60% vs ≤60%). The latter cutpoint was chosen because all but two studies had large proportions (ie, &gt;75%) of patients
+                        assessed for <em>HER2</em> status. The magnitudes of the differential effects of anthracyclines in <em>HER2</em>-positive patients and in <em>HER2</em>-negative patients were remarkably similar across groups of trials (<a id="xref-fig-3-1" class="xref-fig" href="#F3">Fig. 3</a>), suggesting that the interaction between anthracycline use and <em>HER2</em> status is independent of the type of <em>HER2</em> assay, the proportion of patients assessed for <em>HER2</em> status, and the type of anthracycline.
+                     </p>
+                     <div id="F3" class="fig pos-float odd">
+                        <div class="fig-inline"><a href="14/F3.expansion.html"><img alt="Fig. 3" src="14/F3.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="14/F3.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="14/F3.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/100/1/14/F3">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Fig. 3</span> 
+                           <p id="p-35" class="first-child">Sensitivity analyses. <strong>A</strong>) Disease-free survival. <strong>B</strong>) Overall survival. Pooled hazard ratios (HRs, <strong>diamonds</strong>) and 95% confidence intervals (CIs, <strong>horizontal bars</strong>) of anthracycline-based vs non–anthracycline-based regimens for <em>HER2</em>-positive (<strong>black diamonds</strong>) and <em>HER2</em>-negative (<strong>shaded diamonds</strong>) patients in each of the different subgroups examined. IHC = immunohistochemistry; FISH = fluorescent in situ hybridization.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="section" id="sec-19">
+                  <div class="section-nav"><a href="#sec-15" title="Results" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-20" title="Funding" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Discussion</h2>
+                  <p id="p-36">We conducted this meta-analysis to examine whether anthracycline-based adjuvant chemotherapy would be more efficacious than
+                     non–anthracycline-based adjuvant chemotherapy in <em>HER2</em>-positive women but not in <em>HER2</em>-negative women. The pooled estimates of the benefits associated with anthracyclines in all patients included in this meta-analysis
+                     are consistent with those reported by the EBCTCG systematic overview (<a id="xref-ref-1-2" class="xref-bibr" href="#ref-1">1</a>) both in terms of disease-free survival (HR of relapse = 0.90 in our analysis vs 0.89 in the EBCTCG overview) and overall
+                     survival (HR of death from any cause = 0.91 vs 0.84, respectively). Our results confirm that the added benefit of adjuvant
+                     chemotherapy with anthracyclines is confined to women who have breast tumors in which <em>HER2</em> is overexpressed or amplified. Most of the studies included in this analysis showed this association (<a id="xref-ref-8-13" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-9-6" class="xref-bibr" href="#ref-9">9</a>,<a id="xref-ref-11-6" class="xref-bibr" href="#ref-11">11</a>–<a id="xref-ref-14-6" class="xref-bibr" href="#ref-14">14</a>), and two studies (<a id="xref-ref-10-6" class="xref-bibr" href="#ref-10">10</a>,<a id="xref-ref-15-11" class="xref-bibr" href="#ref-15">15</a>) reported a statistically significant interaction between <em>HER2</em> status and adjuvant anthracyclines for disease-free survival. The statistically significant interaction for both disease-free
+                     and overall survival revealed by our meta-analysis provides convincing statistical evidence of a quantitative interaction
+                     between <em>HER2</em> status and responsiveness to adjuvant anthracyclines.
+                  </p>
+                  <p id="p-37">Our study has several limitations that should be considered when interpreting the data. First, as with all meta-analyses,
+                     our findings and interpretations are limited by the quality and quantity of available evidence (ie, trials) on the effects
+                     of adjuvant anthracyclines according to <em>HER2</em> status. Second, we used published summary results rather than individual patient data, and it was not possible to check the
+                     original data and analyses, to undertake additional evaluations, or to perform a centralized reassessment of participants'
+                     <em>HER2</em> status. Third, a number of unpublished studies might exist, which could lead to possible publication bias if studies that
+                     did not show an interaction between <em>HER2</em> status and treatment with anthracyclines were less likely to be published. However, we found no indication of publication
+                     bias by using statistical methods that are designed to detect it. A fourth limitation of our meta-analysis is the variability
+                     in methods used to assess <em>HER2</em> status. However, a sensitivity analysis for methods of <em>HER2</em> assessment (immunohistochemistry vs fluorescence in situ hybridization) showed no substantial differences in the degree of
+                     interaction between <em>HER2</em> status and the efficacy of adjuvant anthracyclines according to type of <em>HER2</em> assay.
+                  </p>
+                  <p id="p-38">Further support for our results comes from studies that have compared different dose intensities of adjuvant anthracyclines
+                     (<a id="xref-ref-8-14" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-21-1" class="xref-bibr" href="#ref-21">21</a>,<a id="xref-ref-22-1" class="xref-bibr" href="#ref-22">22</a>). These studies have shown that the benefit of more intensive anthracycline-based regimens is limited to <em>HER2</em>-positive patients.
+                  </p>
+                  <p id="p-39">Interpretation of our results must also take into account that <em>HER2</em> is not the true anthracycline molecular target and that changes in expression of the topoisomerase II alpha gene or protein
+                     may be a more accurate and biologically related predictive factor of response to anthracyclines. Indeed, several studies have
+                     suggested that the added benefit of adjuvant anthracyclines may be restricted to the small proportion of patients whose tumors
+                     have amplification of or deletions in the topoisomerase II alpha gene itself or in topoisomerase II alpha protein expression
+                     (<a id="xref-ref-8-15" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-9-7" class="xref-bibr" href="#ref-9">9</a>,<a id="xref-ref-23-1" class="xref-bibr" href="#ref-23">23</a>). Furthermore, topoisomerase II alpha protein levels are regulated by gene amplification and by the tumor proliferation rate
+                     (<a id="xref-ref-24-1" class="xref-bibr" href="#ref-24">24</a>), which suggests that anthracycline superiority may also be seen in the subset of <em>HER2</em>-negative tumors that overexpress topoisomerase II alpha protein. Clarification of whether topoisomerase II alpha status rather
+                     than <em>HER2</em> status is actually predictive of increased sensitivity to anthracyclines will require a meta-analysis of individual patient
+                     data from randomized clinical trials that have compared adjuvant anthracyclines with non–anthracycline-based regimens and
+                     that include patients for whom both the <em>HER2</em> status and the topoisomerase II alpha status are known.
+                  </p>
+                  <p id="p-40">In conclusion, our results suggest that <em>HER2</em> status is a predictor of responsiveness to adjuvant anthracycline therapy for early breast cancer. The absence, in our study,
+                     of any effect of anthracyclines observed in patients with <em>HER2</em>-negative disease suggests that this group of patients could be spared unnecessary toxic effects related to the use of this
+                     class of agents and raises questions as to the appropriateness of control arms in randomized clinical trials in which anthracycline-based
+                     regimens are used in unselected patient populations.
+                  </p>
+               </div>
+               <div class="section" id="sec-20">
+                  <div class="section-nav"><a href="#sec-19" title="Discussion" class="prev-section-link"><span>Previous Section</span></a><a href="#fn-group-1" title="Footnotes" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Funding</h2>
+                  <p id="p-41">Italian Association for Cancer Research; University of Genoa, Italy.</p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <div class="section-nav"><a href="#sec-20" title="Funding" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn" id="fn-7">
+                        <p id="p-42">The sponsors had no role in the study design, data collection and analysis, interpretation of the results, the preparation
+                           of the manuscript, or the decision to submit the manuscript for publication.
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <ul>
+                  <li class="fn" id="copyright-statement-1">© The Author 2007. Published by Oxford University Press.</li>
+               </ul>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#fn-group-1" title="Footnotes" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">1.</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference 1. in text"
+                           id="ref-1">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.1"
+                             data-doi="10.1016/S0140-6736(05)66544-0">
+                           <div class="cit-metadata"><cite><span class="cit-auth cit-collab">Early Breast Cancer Trialists' Collaborative Group (EBCTCG)</span>. <span class="cit-article-title">Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the
+                                    randomised trials</span>. <abbr class="cit-jnl-abbrev">Lancet.</abbr> <span class="cit-pub-date">2005</span>;<span class="cit-vol">365</span>:<span class="cit-fpage">1687</span>-<span class="cit-lpage">1717</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(05)66544-0&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15894097&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000229082300022&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">2.</span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference 2. in text"
+                           id="ref-2">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.2">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fisher</span>  <span class="cit-name-given-names">B</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Brown</span>  <span class="cit-name-given-names">AM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Dimitrov</span>  <span class="cit-name-given-names">NV</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Two months of doxorubicin-cyclophosphamide with and without interval reinduction therapy compared with 6 months of cyclophosphamide,
+                                    methotrexate and fluorouracil in positive-node breast cancer patients with tamoxifen non responsive tumours: results from
+                                    the National Surgical Adjuvant Breast and Bowel Project B-15</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol.</abbr> <span class="cit-pub-date">1990</span>;<span class="cit-vol">8</span>:<span class="cit-fpage">1483</span>-<span class="cit-lpage">1496</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=8/9/1483"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">3.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-100.1.14.3">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fisher</span>  <span class="cit-name-given-names">B</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Anderson</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Tan-Chiu</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Tamoxifen and chemotherapy for axillary node-negative, estrogen receptor-negative breast cancer: findings from National Surgical
+                                    Adjuvant Breast and Bowel Project B-23</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol.</abbr> <span class="cit-pub-date">2001</span>;<span class="cit-vol">19</span>:<span class="cit-fpage">931</span>-<span class="cit-lpage">942</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=19/4/931"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">4.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-100.1.14.4">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Piccart</span>  <span class="cit-name-given-names">MJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Di Leo</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Beauduin</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Phase III trial comparing two dose levels of epirubicin combined with cyclophosphamide with cyclophosphamide, methotrexate,
+                                    and fluorouracil in node-positive breast cancer</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">2001</span>;<span class="cit-vol">19</span>:<span class="cit-fpage">3103</span>-<span class="cit-lpage">3110</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=19/12/3103"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">5.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-100.1.14.5"
+                             data-doi="10.1002/1097-0142(20001215)89:12&lt;2521::AID-CNCR2&gt;3.0.CO;2-F">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bang</span>  <span class="cit-name-given-names">SM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Heo</span>  <span class="cit-name-given-names">DS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Lee</span>  <span class="cit-name-given-names">KH</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Adjuvant doxorubicin and cyclophosphamide versus cyclophosphamide, methotrexate, and 5-fluorouracil chemotherapy in premenopausal
+                                    women with axillary lymph node positive breast carcinoma</span>. <abbr class="cit-jnl-abbrev">Cancer.</abbr> <span class="cit-pub-date">2000</span>;<span class="cit-vol">89</span>:<span class="cit-fpage">2521</span>-<span class="cit-lpage">2526</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/1097-0142(20001215)89:12%3C2521::AID-CNCR2%3E3.0.CO;2-F&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11135211&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Adjuvant%20doxorubicin%20and%20cyclophosphamide%20versus%20cyclophosphamide%2C%20methotrexate%2C%20and%205-fluorouracil%20chemotherapy%20in%20premenopausal%20women%20with%20axillary%20lymph%20node%20positive%20breast%20carcinoma&amp;author=SM%20Bang&amp;author=DS%20Heo&amp;author=KH%20Lee&amp;publication_year=2000&amp;journal=Cancer.&amp;volume=89&amp;pages=2521-2526">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">6.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-100.1.14.6"
+                             data-doi="10.1016/S0959-8049(02)00452-5">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Colozza</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bisagni</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mosconi</span>  <span class="cit-name-given-names">AM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Epirubicin versus CMF as adjuvant therapy for stage I and II breast cancer: a prospective randomised study</span>. <abbr class="cit-jnl-abbrev">Eur J Cancer.</abbr> <span class="cit-pub-date">2002</span>;<span class="cit-vol">38</span>:<span class="cit-fpage">2279</span>-<span class="cit-lpage">2288</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0959-8049(02)00452-5&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12441265&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000179783700019&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Epirubicin%20versus%20CMF%20as%20adjuvant%20therapy%20for%20stage%20I%20and%20II%20breast%20cancer%3A%20a%20prospective%20randomised%20study&amp;author=M%20Colozza&amp;author=G%20Bisagni&amp;author=AM%20Mosconi&amp;publication_year=2002&amp;journal=Eur%20J%20Cancer.&amp;volume=38&amp;pages=2279-2288">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">7.</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference 7. in text"
+                           id="ref-7">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.7">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Moliterni</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bonadonna</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Valagussa</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Ferrari</span>  <span class="cit-name-given-names">L</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Zambetti</span>  <span class="cit-name-given-names">M</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Cyclophosphamide, methotrexate and fluorouracil with and without doxorubicin in the adjuvant treatment of resectable breast
+                                    cancer with one to three positive axillary nodes</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol.</abbr> <span class="cit-pub-date">1991</span>;<span class="cit-vol">9</span>:<span class="cit-fpage">1124</span>-<span class="cit-lpage">1130</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=9/7/1124"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">8.</span><a class="rev-xref-ref" href="#xref-ref-8-1" title="View reference 8. in text"
+                           id="ref-8">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.8">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Di Leo</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Gancberg</span>  <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Larsimont</span>  <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">HER-2 amplification and topoisomerase II alpha gene aberrations as predictive markers in node-positive breast cancer patients
+                                    randomly treated either with an anthracycline-based therapy or with cyclophosphamide, methotrexate, and 5-fluorouracil</span>. <abbr class="cit-jnl-abbrev">Clin Cancer Res.</abbr> <span class="cit-pub-date">2002</span>;<span class="cit-vol">8</span>:<span class="cit-fpage">1107</span>-<span class="cit-lpage">1116</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=clincanres&amp;resid=8/5/1107"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">9.</span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference 9. in text"
+                           id="ref-9">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.9"
+                             data-doi="10.1200/JCO.2005.11.007">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Knoop</span>  <span class="cit-name-given-names">AS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Knudsen</span>  <span class="cit-name-given-names">H</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Balslev</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Retrospective analysis of topoisomerase IIa amplifications and deletions as predictive markers in primary breast cancer patients
+                                    randomly assigned to cyclophosphamide, methotrexate, and fluorouracil or cyclophosphamide, epirubicin, and fluorouracil</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">2005</span>;<span class="cit-vol">23</span>:<span class="cit-fpage">7483</span>-<span class="cit-lpage">7490</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=23/30/7483"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">10.</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference 10. in text"
+                           id="ref-10">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.10"
+                             data-doi="10.1093/jnci/90.18.1361">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Paik</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bryant</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Park</span>  <span class="cit-name-given-names">C</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">ErbB-2 and response to doxorubicin in patients with axillary lymph node-positive, hormone receptor-negative breast cancer</span>. <abbr class="cit-jnl-abbrev">J Natl Cancer Inst</abbr> <span class="cit-pub-date">1998</span>;<span class="cit-vol">90</span>:<span class="cit-fpage">1361</span>-<span class="cit-lpage">1370</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=90/18/1361"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">11.</span><a class="rev-xref-ref" href="#xref-ref-11-1" title="View reference 11. in text"
+                           id="ref-11">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.11"
+                             data-doi="10.1093/jnci/92.24.1991">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Paik</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bryant</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Tan-Chiu</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">HER2 and choice of adjuvant chemotherapy for invasive breast cancer: National Surgical Adjuvant Breast and Bowel Project Protocol
+                                    B-15</span>. <abbr class="cit-jnl-abbrev">J Natl Cancer Inst.</abbr> <span class="cit-pub-date">2000</span>;<span class="cit-vol">92</span>:<span class="cit-fpage">1991</span>-<span class="cit-lpage">1998</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=92/24/1991"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">12.</span><a class="rev-xref-ref" href="#xref-ref-12-1" title="View reference 12. in text"
+                           id="ref-12">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.12">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">De Laurentiis</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Caputo</span>  <span class="cit-name-given-names">F</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Massarelli</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Forestieri</span>  <span class="cit-name-given-names">V</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Vernaglia</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Carlomagno</span>  <span class="cit-name-given-names">C</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">HER2 expression and anthracycline effect: results from the Naple GUN 3 randomized trial</span>. <abbr class="cit-jnl-abbrev">Proc Am Soc Clin Oncol.</abbr> <span class="cit-pub-date">2001</span>;<span class="cit-vol">20</span>:<span class="cit-fpage">A133</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=HER2%20expression%20and%20anthracycline%20effect%3A%20results%20from%20the%20Naple%20GUN%203%20randomized%20trial&amp;author=M%20De%20Laurentiis&amp;author=F%20Caputo&amp;author=E%20Massarelli&amp;author=V%20Forestieri&amp;author=A%20Vernaglia&amp;author=C%20Carlomagno&amp;publication_year=2001&amp;journal=Proc%20Am%20Soc%20Clin%20Oncol.&amp;volume=20&amp;pages=A133">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">13.</span><a class="rev-xref-ref" href="#xref-ref-13-1" title="View reference 13. in text"
+                           id="ref-13">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.13"
+                             data-doi="10.1200/JCO.2003.04.021">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Moliterni</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Menard</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Valagussa</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">HER2 overexpression and doxorubicin in adjuvant chemotherapy for resectable breast cancer</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">2003</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">458</span>-<span class="cit-lpage">462</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=21/3/458"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">14.</span><a class="rev-xref-ref" href="#xref-ref-14-1" title="View reference 14. in text"
+                           id="ref-14">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.14">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Colozza</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Sidoni</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mosconi</span>  <span class="cit-name-given-names">AM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">HER2 overexpression as a predictive marker in a randomized trial comparing adjuvant cyclophosphamide/methotrexate/5-fluorouracil
+                                    with epirubicin in patients with stage I/II breast cancer: long-term results</span>. <abbr class="cit-jnl-abbrev">Clin Breast Cancer</abbr> <span class="cit-pub-date">2005</span>;<span class="cit-vol">6</span>:<span class="cit-fpage">253</span>-<span class="cit-lpage">259</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=16137437&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=HER2%20overexpression%20as%20a%20predictive%20marker%20in%20a%20randomized%20trial%20comparing%20adjuvant%20cyclophosphamide%2Fmethotrexate%2F5-fluorouracil%20with%20epirubicin%20in%20patients%20with%20stage%20I%2FII%20breast%20cancer%3A%20long-term%20results&amp;author=M%20Colozza&amp;author=A%20Sidoni&amp;author=AM%20Mosconi&amp;publication_year=2005&amp;journal=Clin%20Breast%20Cancer&amp;volume=6&amp;pages=253-259">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">15.</span><a class="rev-xref-ref" href="#xref-ref-15-1" title="View reference 15. in text"
+                           id="ref-15">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.15"
+                             data-doi="10.1056/NEJMoa054504">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pritchard</span>  <span class="cit-name-given-names">KI</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Shepherd</span>  <span class="cit-name-given-names">LE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">O'Malley</span>  <span class="cit-name-given-names">FP</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">HER2 and responsiveness of breast cancer to adjuvant chemotherapy</span>. <abbr class="cit-jnl-abbrev">N Engl J Med.</abbr> <span class="cit-pub-date">2006</span>;<span class="cit-vol">354</span>:<span class="cit-fpage">2103</span>-<span class="cit-lpage">2111</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJMoa054504&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16707747&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000237575400004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=HER2%20and%20responsiveness%20of%20breast%20cancer%20to%20adjuvant%20chemotherapy&amp;author=KI%20Pritchard&amp;author=LE%20Shepherd&amp;author=FP%20O%27Malley&amp;publication_year=2006&amp;journal=N%20Engl%20J%20Med.&amp;volume=354&amp;pages=2103-2111">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">16.</span><a class="rev-xref-ref" href="#xref-ref-16-1" title="View reference 16. in text"
+                           id="ref-16">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.16"
+                             data-doi="10.1016/S0002-9440(10)64952-8">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Jarvinen</span>  <span class="cit-name-given-names">TAH</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Tanner</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rantanen</span>  <span class="cit-name-given-names">V</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Amplification and deletion of topoisomerase IIa associate with ErbB-2 amplification and affect sensitivity to topoisomerase
+                                    II inhibitor doxorubicin in breast cancer</span>. <abbr class="cit-jnl-abbrev">Am J Pathol.</abbr> <span class="cit-pub-date">2000</span>;<span class="cit-vol">156</span>:<span class="cit-fpage">839</span>-<span class="cit-lpage">847</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0002-9440(10)64952-8&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10702400&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000085702600014&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Amplification%20and%20deletion%20of%20topoisomerase%20IIa%20associate%20with%20ErbB-2%20amplification%20and%20affect%20sensitivity%20to%20topoisomerase%20II%20inhibitor%20doxorubicin%20in%20breast%20cancer&amp;author=TAH%20Jarvinen&amp;author=M%20Tanner&amp;author=V%20Rantanen&amp;publication_year=2000&amp;journal=Am%20J%20Pathol.&amp;volume=156&amp;pages=839-847">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">17.</span><a class="rev-xref-ref" href="#xref-ref-17-1" title="View reference 17. in text"
+                           id="ref-17">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.17"
+                             data-doi="10.7326/0003-4819-116-1-78">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Oxman</span>  <span class="cit-name-given-names">AD</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Guyatt</span>  <span class="cit-name-given-names">GH</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">A consumers' guide to subgroup analyses</span>. <abbr class="cit-jnl-abbrev">Ann Intern Med.</abbr> <span class="cit-pub-date">1992</span>;<span class="cit-vol">116</span>:<span class="cit-fpage">78</span>-<span class="cit-lpage">84</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.7326/0003-4819-116-1-78&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=1530753&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1992GX15700012&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=A%20consumers%27%20guide%20to%20subgroup%20analyses&amp;author=AD%20Oxman&amp;author=GH%20Guyatt&amp;publication_year=1992&amp;journal=Ann%20Intern%20Med.&amp;volume=116&amp;pages=78-84">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">18.</span><a class="rev-xref-ref" href="#xref-ref-18-1" title="View reference 18. in text"
+                           id="ref-18">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.18" data-doi="10.2307/2533446">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Begg</span>  <span class="cit-name-given-names">CB</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mazumdar</span>  <span class="cit-name-given-names">M</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Operating characteristics of a rank correlation test for publication bias</span>. <abbr class="cit-jnl-abbrev">Biometrics</abbr> <span class="cit-pub-date">1994</span>;<span class="cit-vol">50</span>:<span class="cit-fpage">1088</span>-<span class="cit-lpage">1101</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.2307/2533446&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7786990&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1994QP05000016&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Operating%20characteristics%20of%20a%20rank%20correlation%20test%20for%20publication%20bias&amp;author=CB%20Begg&amp;author=M%20Mazumdar&amp;publication_year=1994&amp;journal=Biometrics&amp;volume=50&amp;pages=1088-1101">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">19.</span><a class="rev-xref-ref" href="#xref-ref-19-1" title="View reference 19. in text"
+                           id="ref-19">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.19"
+                             data-doi="10.1136/bmj.315.7109.629">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Egger</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Smith</span>  <span class="cit-name-given-names">GD</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Schneider</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Bias in meta-analysis detected by a simple, graphical test</span>. <abbr class="cit-jnl-abbrev">BMJ</abbr> <span class="cit-pub-date">1997</span>;<span class="cit-vol">315</span>:<span class="cit-fpage">629</span>-<span class="cit-lpage">634</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=bmj&amp;resid=315/7109/629"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">20.</span><a class="rev-xref-ref" href="#xref-ref-20-1" title="View reference 20. in text"
+                           id="ref-20">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.20">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Vera</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Albanell</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Lirola</span>  <span class="cit-name-given-names">JL</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bermejo</span>  <span class="cit-name-given-names">B</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Sole</span>  <span class="cit-name-given-names">LA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Baselga</span>  <span class="cit-name-given-names">J</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">HER2 overexpression as a predictor of survival in a trial comparing adjuvant FAC and CMF in breast cancer</span>. <abbr class="cit-jnl-abbrev">Proc Am Soc Clin Oncol</abbr> <span class="cit-pub-date">1999</span>;<span class="cit-vol">18</span>:<span class="cit-fpage">A265</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=HER2%20overexpression%20as%20a%20predictor%20of%20survival%20in%20a%20trial%20comparing%20adjuvant%20FAC%20and%20CMF%20in%20breast%20cancer&amp;author=R%20Vera&amp;author=J%20Albanell&amp;author=JL%20Lirola&amp;author=B%20Bermejo&amp;author=LA%20Sole&amp;author=J%20Baselga&amp;publication_year=1999&amp;journal=Proc%20Am%20Soc%20Clin%20Oncol&amp;volume=18&amp;pages=A265">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">21.</span><a class="rev-xref-ref" href="#xref-ref-21-1" title="View reference 21. in text"
+                           id="ref-21">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.21"
+                             data-doi="10.1038/sj.bjc.6602660">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Del Mastro</span>  <span class="cit-name-given-names">L</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bruzzi</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Nicolo</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">HER2 expression and efficacy of dose-dense anthracycline-containing adjuvant chemotherapy in breast cancer patients</span>. <abbr class="cit-jnl-abbrev">Br J Cancer.</abbr> <span class="cit-pub-date">2005</span>;<span class="cit-vol">93</span>:<span class="cit-fpage">7</span>-<span class="cit-lpage">14</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1038/sj.bjc.6602660&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15970926&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000230265000002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=HER2%20expression%20and%20efficacy%20of%20dose-dense%20anthracycline-containing%20adjuvant%20chemotherapy%20in%20breast%20cancer%20patients&amp;author=L%20Del%20Mastro&amp;author=P%20Bruzzi&amp;author=G%20Nicolo&amp;publication_year=2005&amp;journal=Br%20J%20Cancer.&amp;volume=93&amp;pages=7-14">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">22.</span><a class="rev-xref-ref" href="#xref-ref-22-1" title="View reference 22. in text"
+                           id="ref-22">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.22"
+                             data-doi="10.1056/NEJM199405053301802">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Muss</span>  <span class="cit-name-given-names">HB</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Thor</span>  <span class="cit-name-given-names">AD</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Berry</span>  <span class="cit-name-given-names">DA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">C-erbB-2 expression and response to adjuvant therapy in women with node-positive early breast cancer</span>. <abbr class="cit-jnl-abbrev">N Engl J Med.</abbr> <span class="cit-pub-date">1994</span>;<span class="cit-vol">330</span>:<span class="cit-fpage">1260</span>-<span class="cit-lpage">1266</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJM199405053301802&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7908410&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1994NJ51200002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=C-erbB-2%20expression%20and%20response%20to%20adjuvant%20therapy%20in%20women%20with%20node-positive%20early%20breast%20cancer&amp;author=HB%20Muss&amp;author=AD%20Thor&amp;author=DA%20Berry&amp;publication_year=1994&amp;journal=N%20Engl%20J%20Med.&amp;volume=330&amp;pages=1260-1266">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">23.</span><a class="rev-xref-ref" href="#xref-ref-23-1" title="View reference 23. in text"
+                           id="ref-23">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.23">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Di Leo</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Claudino</span>  <span class="cit-name-given-names">WM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pestrin</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Licitra</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Biganzoli</span>  <span class="cit-name-given-names">L</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Using specific cytotoxics with a targeted mind</span>. <abbr class="cit-jnl-abbrev">Breast.</abbr> <span class="cit-pub-date">2007</span>;<span class="cit-vol">16</span>:<span class="cit-fpage">S120</span>-<span class="cit-lpage">S126</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=17720501&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Using%20specific%20cytotoxics%20with%20a%20targeted%20mind&amp;author=A%20Di%20Leo&amp;author=WM%20Claudino&amp;author=M%20Pestrin&amp;author=S%20Licitra&amp;author=L%20Biganzoli&amp;publication_year=2007&amp;journal=Breast.&amp;volume=16&amp;pages=S120-S126">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">24.</span><a class="rev-xref-ref" href="#xref-ref-24-1" title="View reference 24. in text"
+                           id="ref-24">↵</a><div class="cit ref-cit ref-journal" id="cit-100.1.14.24">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Jarvinen</span>  <span class="cit-name-given-names">TA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kononen</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pelto-Huikko</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Isola</span>  <span class="cit-name-given-names">J</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Expression of topoisomerase IIa is associated with rapid cell proliferation, aneuploidy, and c-erb B-2 overexpression in breast
+                                    cancer</span>. <abbr class="cit-jnl-abbrev">Am J Pathol.</abbr> <span class="cit-pub-date">1996</span>;<span class="cit-vol">148</span>:<span class="cit-fpage">2073</span>-<span class="cit-lpage">2082</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=8669491&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1996UN46800035&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Expression%20of%20topoisomerase%20IIa%20is%20associated%20with%20rapid%20cell%20proliferation%2C%20aneuploidy%2C%20and%20c-erb%20B-2%20overexpression%20in%20breast%20cancer&amp;author=TA%20Jarvinen&amp;author=J%20Kononen&amp;author=M%20Pelto-Huikko&amp;author=J%20Isola&amp;publication_year=1996&amp;journal=Am%20J%20Pathol.&amp;volume=148&amp;pages=2073-2082">Google Scholar</a></div>
+                        </div>
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div id="related">
+               <h2>Related articles</h2>
+               <ul class="related-list">
+                  <div class="cit">
+                     <div class="cit-metadata"><span class="cit-first-element cit-section">IN THIS ISSUE<span class="cit-sep cit-sep-after-article-section">:</span> </span><span class="cit-title">IN THIS ISSUE </span> <cite><abbr title="Journal of the National Cancer Institute" class="site-title">JNCI J Natl Cancer Inst</abbr> <span class="cit-print-date"><span class="cit-sep cit-sep-before-article-print-date">(</span>2008<span class="cit-sep cit-sep-after-article-print-date">)</span> </span><span class="cit-vol">100 </span><span class="cit-issue"><span class="cit-sep cit-sep-before-article-issue">(</span>1<span class="cit-sep cit-sep-after-article-issue">):</span> </span><span class="cit-pages"><span class="cit-first-page">1</span> </span><span class="cit-doi"><span class="cit-sep cit-sep-before-article-doi"> doi:</span>10.1093/jnci/djm296 </span><span class="cit-online-date"><span class="cit-sep cit-sep-before-article-online-date">First published online </span>January 1, 2008 </span></cite>  
+                     </div>
+                     <div class="cit-extra"><span class="accesscheck jnci;100/1/1 pdf_extract,full,reprint"></span> 
+                        <ul class="cit-views">
+                           <li class="first-item"><a href="/content/100/1/1.1.extract" rel="extract">Extract</a></li>
+                           <li><a href="/content/100/1/1.1.full" rel="full-text">Full Text (HTML)</a></li>
+                           <li><a href="/content/100/1/1.1.full.pdf+html" rel="full-text.pdf">Full Text (PDF)</a></li>
+                           <li class="last-item"><a href="/content/100/1/1.1/suppl/DC1" rel="supplemental-data"
+                                 class="dslink-japanese-translation-data-supplement">Japanese Translation, Data Supplement</a></li>
+                        </ul>  
+                     </div> 
+                  </div>
+                  <div class="cit has-earlier-version">
+                     <div class="cit-metadata"><span class="cit-first-element cit-section">MEMO TO THE MEDIA<span class="cit-sep cit-sep-after-article-section">:</span> </span><ul class="cit-auth-list">
+                           <li class="first-item"><span class="cit-auth cit-auth-type-author">Liz Savage</span><span class="cit-sep cit-sep-two-item-separator"> and</span></li>
+                           <li class="last-item"><span class="cit-auth cit-auth-type-author">Andrea Widener</span></li>  
+                        </ul><span class="cit-title">Anthracyclines Improve Survival in HER2-Positive Breast Cancer Patients </span> <cite><abbr title="Journal of the National Cancer Institute" class="site-title">JNCI J Natl Cancer Inst</abbr> <span class="cit-print-date"><span class="cit-sep cit-sep-before-article-print-date">(</span>2008<span class="cit-sep cit-sep-after-article-print-date">)</span> </span><span class="cit-vol">100 </span><span class="cit-issue"><span class="cit-sep cit-sep-before-article-issue">(</span>1<span class="cit-sep cit-sep-after-article-issue">):</span> </span><span class="cit-pages"><span class="cit-first-page">1</span> </span><span class="cit-doi"><span class="cit-sep cit-sep-before-article-doi"> doi:</span>10.1093/jnci/djm321 </span><span class="cit-ahead-of-print-date"><span class="cit-sep cit-sep-before-article-ahead-of-print-date">first published online </span>December 25, 2007 </span></cite>  
+                     </div>
+                     <div class="cit-extra"><span class="accesscheck jnci;100/1/1-a pdf_extract,full,reprint"></span> 
+                        <ul class="cit-views">
+                           <li class="first-item"><a href="/content/100/1/1.2.extract" rel="extract">Extract</a></li>
+                           <li><a href="/content/100/1/1.2.full" rel="full-text">Full Text (HTML)</a></li>
+                           <li class="last-item"><a href="/content/100/1/1.2.full.pdf+html" rel="full-text.pdf">Full Text (PDF)</a></li>
+                        </ul>  
+                     </div> 
+                  </div>
+               </ul>
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/100/1/13.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/100/1/21.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/100/1.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (2008) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    100
+                                    </span><span class="slug-issue">
+                                    (1):
+                                    </span><span class="slug-pages">
+                                    14-20.
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/djm252" class="slug-doi">10.1093/jnci/djm252</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              <span class="slug-metadata-note ahead-of-print">
+                                 
+                                 First published online
+                                 
+                                 <span class="slug-ahead-of-print-date">December 25, 2007</span>
+                                 </span>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><a href="/content/100/1/14.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/100/1/14.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li><a href="/content/100/1/14/suppl/DC1" rel="supplemental-data"
+                              class="dslink-jnci-podcast">JNCI Podcast</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2007/12/25/jnci.djm252">djm252v1</a></li>
+                                 <li class="current-li"><span>100/1/14</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=ARTICLES&amp;sortspec=date&amp;submit=Submit">Article</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;100/1/14" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B100%2F1%2F14&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/100/1/14.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=100/1/14&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/100/1/14.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3Bdjm252&amp;citation=Gennari%20et%20al.%20100%20%281%29:%2014&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B100%2F1%2F14&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=18159072&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B100%2F1%2F14">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B100%2F1%2F14">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=HER2%20Status%20and%20Efficacy%20of%20Adjuvant%20Anthracyclines%20in%20Early%20Breast%20Cancer%3A%20A%20Pooled%20Analysis%20of%20Randomized%20Trials%3A%20&amp;publicationDate=01%2F02%2F2008&amp;author=Alessandra%20Gennari%2C%20Maria%20Pia%20Sormani%2C%20Paolo%20Pronzato%2C%20Matteo%20Puntoni%2C%20Mariantonietta%20Colozza%2C%20Ulrich%20Pfeffer%2C%20Paolo%20Bruzzi&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2Fdjm252&amp;volumeNum=100&amp;issueNum=1&amp;startPage=14&amp;endPage=20&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/100/1/14.full?cited-by=yes&amp;legid=jnci;100/1/14#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/100/1/14" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/100/1/14?access_num=/jnci/100/1/14" rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F100%2F1%2F14&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/100/1/14.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AGennari%20author%3AA.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Gennari, A.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ABruzzi%20author%3AP.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Bruzzi, P.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/100/1/14.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=18159072&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Gennari%20A&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Gennari, A.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Sormani%20MP&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Sormani, M. P.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Pronzato%20P&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Pronzato, P.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Puntoni%20M&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Puntoni, M.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Colozza%20M&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Colozza, M.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Pfeffer%20U&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Pfeffer, U.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Bruzzi%20P&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Bruzzi, P.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="#related">Related articles in this journal</a></li>
+                        <li><a href="/content/100/1/14.full?related-urls=yes&amp;legid=jnci;100/1/14#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B100%2F1%2F14&amp;current-view-path=/content/100/1/14.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/100/1/14&amp;title=HER2%20Status%20and%20Efficacy%20of%20Adjuvant%20Anthracyclines%20in%20Early%20Breast%20Cancer%3A%20A%20Pooled%20Analysis%20of%20Randomized%20Trials+--+Gennari%20et%20al.%20100%20%281%29%3A%2014+--+Journal%20of%20the%20National%20Cancer%20Institute&amp;doi=10.1093/jnci/djm252&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/100/1/14&amp;title=HER2%20Status%20and%20Efficacy%20of%20Adjuvant%20Anthracyclines%20in%20Early%20Breast%20Cancer%3A%20A%20Pooled%20Analysis%20of%20Randomized%20Trials+--+Gennari%20et%20al.%20100%20%281%29%3A%2014+--+Journal%20of%20the%20National%20Cancer%20Institute&amp;doi=10.1093/jnci/djm252&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/100/1/14&amp;title=HER2%20Status%20and%20Efficacy%20of%20Adjuvant%20Anthracyclines%20in%20Early%20Breast%20Cancer%3A%20A%20Pooled%20Analysis%20of%20Randomized%20Trials+--+Gennari%20et%20al.%20100%20%281%29%3A%2014+--+Journal%20of%20the%20National%20Cancer%20Institute&amp;doi=10.1093/jnci/djm252&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/100/1/14&amp;title=HER2%20Status%20and%20Efficacy%20of%20Adjuvant%20Anthracyclines%20in%20Early%20Breast%20Cancer%3A%20A%20Pooled%20Analysis%20of%20Randomized%20Trials+--+Gennari%20et%20al.%20100%20%281%29%3A%2014+--+Journal%20of%20the%20National%20Cancer%20Institute&amp;doi=10.1093/jnci/djm252&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/100/1/14&amp;title=HER2%20Status%20and%20Efficacy%20of%20Adjuvant%20Anthracyclines%20in%20Early%20Breast%20Cancer%3A%20A%20Pooled%20Analysis%20of%20Randomized%20Trials+--+Gennari%20et%20al.%20100%20%281%29%3A%2014+--+Journal%20of%20the%20National%20Cancer%20Institute&amp;doi=10.1093/jnci/djm252&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/100/1/14&amp;title=HER2%20Status%20and%20Efficacy%20of%20Adjuvant%20Anthracyclines%20in%20Early%20Breast%20Cancer%3A%20A%20Pooled%20Analysis%20of%20Randomized%20Trials+--+Gennari%20et%20al.%20100%20%281%29%3A%2014+--+Journal%20of%20the%20National%20Cancer%20Institute&amp;doi=10.1093/jnci/djm252&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#abstract-1">Abstract</a></li>
+                        <li><a href="#sec-11">Methods</a></li>
+                        <li><a href="#sec-15">Results</a></li>
+                        <li><a href="#sec-19">Discussion</a></li>
+                        <li><a href="#sec-20">Funding</a></li>
+                        <li><a href="#fn-group-1">Footnotes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/100/1/14.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/100/1/14.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

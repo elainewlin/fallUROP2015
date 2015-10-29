@@ -1,0 +1,2206 @@
+http://jnci.oxfordjournals.org/content/99/1/64.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Folate and Risk of Breast Cancer: A Meta-analysis </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/99/1/64" />
+      <meta content="/jnci/99/1/64.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Folate and Risk of Breast Cancer: A Meta-analysis" name="DC.Title" />
+      <meta content="10.1093/jnci/djk006" name="DC.Identifier" />
+      <meta content="2007-01-03" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Susanna C. Larsson" name="DC.Contributor" />
+      <meta content="Edward Giovannucci" name="DC.Contributor" />
+      <meta content="Alicja Wolk" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta name="citation_author" content="Susanna C. Larsson" />
+      <meta name="citation_author" content="Edward Giovannucci" />
+      <meta name="citation_author" content="Alicja Wolk" />
+      <meta content="Folate and Risk of Breast Cancer: A Meta-analysis"
+            name="citation_title" />
+      <meta content="01/03/2007" name="citation_date" />
+      <meta content="99" name="citation_volume" />
+      <meta content="1" name="citation_issue" />
+      <meta content="64" name="citation_firstpage" />
+      <meta content="76" name="citation_lastpage" />
+      <meta content="99/1/64" name="citation_id" />
+      <meta content="99/1/64" name="citation_id_from_sass_path" />
+      <meta content="jnci;99/1/64" name="citation_mjid" />
+      <meta content="10.1093/jnci/djk006" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/99/1/64.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/99/1/64.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/99/1/64.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/99/1/64"
+            name="citation_public_url" />
+      <meta content="17202114" name="citation_pmid" />
+      <meta name="citation_section" content="Article" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/99/1/53.short" rel="prev" />
+      <link href="/content/99/1/77.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d392294255e1">var callbackToken='537B7F75434F191';</script><script type="text/javascript" id="session-d392294255e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:13:38.833-07:00';
+            var gSessionId = '0qumMf85-1vlqfPU27HVXQ';
+            var gAuthzRequired = 'false';
+            var gAuthnMethods1 = 'ip ip';
+            var gAuthnMethods2 = 'ip,ip';
+            var gAuthnIPs = '18.189.59.169,18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/djk006");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("3 January 2007");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F99%2F1%2F64.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/99/1.toc">
+                  <span xmlns="" class="volume-value">Volume 99</span>
+                  <span xmlns="" class="issue-value"> Issue 1</span></a></li>
+            <li>Pp. <span class="slug-pages">
+                  64-76.
+                  </span></li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/99/1/64.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Folate and Risk of Breast Cancer: A Meta-analysis</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Susanna+C.+Larsson&amp;sortspec=date&amp;submit=Submit">Susanna C. Larsson</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Edward+Giovannucci&amp;sortspec=date&amp;submit=Submit">Edward Giovannucci</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-3"><span class="name"><a class="name-search"
+                              href="/search?author1=Alicja+Wolk&amp;sortspec=date&amp;submit=Submit">Alicja Wolk</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><strong>Affiliations of authors:</strong> Division of Nutritional Epidemiology, The National Institute of Environmental Medicine, Karolinska Institutet, Stockholm,
+                           Sweden (SCL, AW); Departments of Epidemiology and Nutrition, Harvard School of Public Health, Boston, MA (EG); Channing Laboratory,
+                           Department of Medicine, Harvard Medical School and Brigham and Women's Hospital, Boston, MA (EG).
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="fn" id="corresp-1"><strong>Correspondence to:</strong><br /> Susanna C. Larsson, PhD, Division of Nutritional Epidemiology, The National Institute of Environmental Medicine, Karolinska
+                        Institutet, PO Box 210, SE-171 77 Stockholm, Sweden (e-mail: <span class="em-link"><span class="em-addr">susanna.larsson{at}ki.se</span></span>).
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                         hwp:start="2006-06-26"><span class="received-label">Received </span>June 26, 2006.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="rev-recd"
+                         hwp:start="2006-10-20"><span class="rev-recd-label">Revision received </span>October 20, 2006.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="2006-11-15"><span class="accepted-label">Accepted </span>November 15, 2006.
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-11" title="Methods" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Abstract</h2>
+                  
+                  
+                  
+                  <p id="p-1"><strong>Background</strong> Epidemiologic findings are inconsistent concerning risk for breast cancer associated with low folate intake or blood folate
+                     levels. We performed a meta-analysis of prospective and case–control studies to examine folate intake and levels in relation
+                     to risk of breast cancer.
+                  </p>
+                  
+                  
+                  
+                  
+                  <p id="p-2"><strong>Methods</strong> We searched MEDLINE for studies of this association that were published in any language from January 1, 1966, through November
+                     1, 2006. Study-specific risk estimates were pooled by use of a random-effects model. All statistical tests were two-sided.
+                  </p>
+                  
+                  
+                  
+                  
+                  <p id="p-3"><strong>Results</strong> Folate intake in increments of 200 μg/day was not associated with the risk of breast cancer in prospective studies (estimated
+                     summary relative risk [RR] = 0.97, 95% confidence interval [CI] = 0.88 to 1.07, for dietary folate [eight studies; 302 959
+                     participants and 8367 patients with breast cancer], and RR = 1.01, 95% CI = 0.97 to 1.05, for total folate [six studies; 306
+                     209 participants and 8165 patients with breast cancer]) but was statistically significantly inversely associated with risk
+                     in case–control studies (estimated summary odds ratio [OR] = 0.80, 95% CI = 0.72 to 0.89, for dietary folate [13 studies;
+                     8558 case patients and 10 812 control subjects], and OR = 0.93, 95% CI = 0.81 to 1.07, for total folate [three studies; 2184
+                     case patients and 3233 control subjects]). High blood folate levels versus low levels were not statistically significantly
+                     associated with the risk of breast cancer in prospective studies (OR = 0.81, 95% CI = 0.59 to 1.10 [three studies]) or in
+                     case–control studies (OR = 0.41, 95% CI = 0.15 to 1.10 [two studies]). Among the two prospective studies and two case–control
+                     studies that stratified by alcohol consumption, high folate intake (comparing the highest with the lowest category) was associated
+                     with a statistically significant decreased risk of breast cancer among women with moderate or high alcohol consumption (summary
+                     estimate = 0.51, 95% CI = 0.41 to 0.63) but not among women with low or no alcohol consumption (summary estimate = 0.95, 95%
+                     CI = 0.78 to 1.15). Few studies examined whether the relation between folate intake and breast cancer was modified by intakes
+                     of methionine or vitamins B<sub>6</sub> and B<sub>12</sub>, and the findings were inconsistent.
+                  </p>
+                  
+                  
+                  
+                  
+                  <p id="p-4"><strong>Conclusion</strong> No clear support for an overall relationship between folate intake or blood folate levels and breast cancer risk was found.
+                     Adequate folate intake may reduce the increased risk of breast cancer that has been associated with moderate or high alcohol
+                     consumption.
+                  </p>
+                  
+                  
+               </div>
+               <p id="p-5">
+                  
+                  <div class="boxed-text" id="boxed-text-1">
+                     
+                     
+                     <h4>CONTEXT AND CAVEATS</h4>
+                     
+                     
+                     <h5>Prior knowledge</h5>
+                     
+                     <p id="p-6">Reports of the association between risk of breast cancer and folate intake or blood levels have been inconsistent.</p>
+                     
+                     
+                     
+                     <h5>Study type</h5>
+                     
+                     <p id="p-7">Meta-analysis of prospective cohort and retrospective case–control studies.</p>
+                     
+                     
+                     
+                     <h5>Contribution</h5>
+                     
+                     <p id="p-8">Dietary folate intake was statistically significantly inversely associated with risk of breast cancer in case–control studies
+                        but was not associated with risk in prospective studies. Blood folate levels were not associated with risk in either type
+                        of study.
+                     </p>
+                     
+                     
+                     
+                     <h5>Implications</h5>
+                     
+                     <p id="p-9">No clear overall association between folate intake or folate blood levels and breast cancer risk was found. Prospective and
+                        retrospective studies can give different estimates for associations between dietary exposures and cancer risk.
+                     </p>
+                     
+                     
+                     
+                     <h5>Limitations</h5>
+                     
+                     <p id="p-10">Misclassification of folate intake may have been introduced in prospective studies that assessed dietary intake only at baseline
+                        because of the folate fortification of flour and cereal-grain products in the United States since 1998. Case-control studies
+                        may be affected by inaccurate recall of dietary intake.
+                     </p>
+                     
+                     
+                     
+                  </div>
+                  
+               </p>
+               <p id="p-11">Breast cancer is the most common malignancy among women in the United States and in other Western countries (<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">1</a>). Dietary factors may modulate the risk of this malignancy; yet, the only dietary factor that has been consistently associated
+                  with increased breast cancer risk is alcohol (<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2">2</a>–<a id="xref-ref-4-1" class="xref-bibr" href="#ref-4">4</a>).
+               </p>
+               <p id="p-12">For the past two decades, a mounting body of epidemiologic and experimental studies has indicated that low folate intake or
+                  status was associated with elevated risk of several cancers, including breast cancer (<a id="xref-ref-5-1" class="xref-bibr" href="#ref-5">5</a>–<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">7</a>). The biologic mechanisms whereby folate deficiency may enhance carcinogenesis may be related to the role of this vitamin
+                  in one-carbon metabolism. In this role, folate provides one-carbon groups for the formation of <em>S</em>-adenosylmethionine (the molecule that is primarily responsible for DNA methylation) as well as for the de novo biosynthesis
+                  of nucleotides (purines and thymidylate) needed for DNA synthesis and repair (<a id="xref-ref-5-2" class="xref-bibr" href="#ref-5">5</a>,<a id="xref-ref-8-1" class="xref-bibr" href="#ref-8">8</a>). Other nutrients that are involved in one-carbon metabolism and thus might modify the association between folate and breast
+                  cancer risk include methionine (a one-carbon donor) and vitamins B<sub>6</sub> and B<sub>12</sub> (cofactors for one-carbon metabolism). Alcohol consumption can negatively influence folate absorption and metabolism (<a id="xref-ref-9-1" class="xref-bibr" href="#ref-9">9</a>,<a id="xref-ref-10-1" class="xref-bibr" href="#ref-10">10</a>). Several prospective studies have found that the increase in the risk of breast cancer that was associated with alcohol
+                  consumption may be reduced by adequate folate intake (<a id="xref-ref-11-1" class="xref-bibr" href="#ref-11">11</a>–<a id="xref-ref-16-1" class="xref-bibr" href="#ref-16">16</a>).
+               </p>
+               <p id="p-13">Results of epidemiologic studies that have examined the relationship between folate intake or folate levels in the blood and
+                  the risk of breast cancer have been inconsistent. The purpose of this review was to evaluate the epidemiologic evidence from
+                  prospective and case–control studies on folate and risk of breast cancer by summarizing it quantitatively with a meta-analytic
+                  approach. We also investigated whether the relation between folate and breast cancer risk was modified by intakes of alcohol,
+                  methionine, and vitamins B<sub>6</sub> and B<sub>12</sub>.
+               </p>
+               <div class="section" id="sec-11">
+                  <div class="section-nav"><a href="#abstract-1" title="Abstract" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-16" title="Results" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>Methods</h2>
+                  
+                  
+                  <h3>Search Strategy</h3>
+                  
+                  <p id="p-14">Studies were identified by a literature search of MEDLINE (from January 1, 1966, through November 1, 2006) by use of the search
+                     terms “folate” or “folic acid” in combination with “breast cancer” or “breast neoplasm.” We also reviewed the reference lists
+                     of retrieved articles to identify additional studies. No language restrictions were imposed.
+                  </p>
+                  
+                  
+                  
+                  <h3>Study Selection</h3>
+                  
+                  <p id="p-15">For inclusion, studies had to fulfill the following criteria: 1) have a prospective or case–control study design; 2) present
+                     data on breast cancer incidence or mortality; 3) report results on dietary folate intake (i.e., folate from foods only), total
+                     folate intake (i.e., folate from foods and supplements), or serum or plasma folate levels; and 4) provide relative risk (RR)
+                     estimates (or odds ratios [ORs] in case–control studies) with confidence intervals (CIs) or sufficient data to allow calculation
+                     of these effect measures.
+                  </p>
+                  
+                  
+                  
+                  <h3>Data Extraction</h3>
+                  
+                  <p id="p-16">We extracted the following data from each publication: the first author's last name, the year of publication, the study design,
+                     the country in which the study was performed, the sample size, the age range of study participants, menopausal status, the
+                     measure of exposure, the range of exposure, the covariates controlled for in the analysis, and the risk estimates with corresponding
+                     confidence intervals for folate intake or blood folate levels. We extracted the risk estimates that reflected the greatest
+                     degree of control for potential confounders.
+                  </p>
+                  
+                  
+                  
+                  <h3>Statistical Analysis</h3>
+                  
+                  <p id="p-17">We weighted the study-specific log relative risks for cohort studies and log odds ratios for case–control studies by the inverse
+                     of their variance to calculate a summary estimate and its 95% confidence interval. Studies were combined by use of the DerSimonian
+                     and Laird random-effects model, which considers both within- and between-study variation (<a id="xref-ref-17-1" class="xref-bibr" href="#ref-17">17</a>).
+                  </p>
+                  
+                  <p id="p-18">For the dose–response meta-analysis of folate intake, we used the method proposed by Greenland and Longnecker (<a id="xref-ref-18-1" class="xref-bibr" href="#ref-18">18</a>) and Orsini et al. (<a id="xref-ref-19-1" class="xref-bibr" href="#ref-19">19</a>) to compute study-specific slopes (linear trends) from the correlated log risk estimates across categories of folate intake.
+                     This method requires that the distributions of case patients and control subjects (or person-time) and the risk estimates
+                     with their variance estimates for three or more quantitative exposure categories be known. For three studies (<a id="xref-ref-20-1" class="xref-bibr" href="#ref-20">20</a>–<a id="xref-ref-22-1" class="xref-bibr" href="#ref-22">22</a>) that did not provide the distribution of case patients and control subjects by exposure category, we estimated the slopes
+                     by use of variance-weighted least squares regression models. For each study, the median or mean level of folate intake for
+                     each category of intake was assigned to each corresponding relative risk estimate. When the median or mean intake per category
+                     was not provided in the article, we assigned the midpoint of the upper and lower boundaries in each category as the average
+                     intake. If the lower boundary of the lowest category or the upper boundary of the highest category was not provided, we assumed
+                     that both boundaries had the same amplitude as the closest category.
+                  </p>
+                  
+                  <p id="p-19">We used the <em>Q</em> and <em>I</em><sup>2</sup> statistics (<a id="xref-ref-23-1" class="xref-bibr" href="#ref-23">23</a>) to examine statistical heterogeneity among studies. For the <em>Q</em> statistic, a <em>P</em> value of less than .1 was considered representative of statistically significant heterogeneity. <em>I</em><sup>2</sup> is the proportion of total variation contributed by between-study variation (<a id="xref-ref-23-2" class="xref-bibr" href="#ref-23">23</a>). Publication bias was evaluated with the use of funnel plots and with Egger's regression asymmetry test (<em>P</em>&lt;.1 was considered representative of statistically significant publication bias) (<a id="xref-ref-24-1" class="xref-bibr" href="#ref-24">24</a>). All statistical analyses were performed with Stata, version 9.0 (StataCorp, College Station, TX). All statistical tests
+                     were two-sided.
+                  </p>
+                  
+                  
+               </div>
+               <div class="section" id="sec-16">
+                  <div class="section-nav"><a href="#sec-11" title="Methods" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-21" title="Discussion" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>Results</h2>
+                  
+                  
+                  <h3>Folate Intake</h3>
+                  
+                  <p id="p-20">We identified nine prospective studies (<a id="xref-ref-11-2" class="xref-bibr" href="#ref-11">11</a>–<a id="xref-ref-16-2" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-20-2" class="xref-bibr" href="#ref-20">20</a>,<a id="xref-ref-25-1" class="xref-bibr" href="#ref-25">25</a>,<a id="xref-ref-26-1" class="xref-bibr" href="#ref-26">26</a>) (<a id="xref-table-wrap-1-1" class="xref-table" href="#T1">Table 1</a>) and 14 case–control studies (<a id="xref-ref-21-1" class="xref-bibr" href="#ref-21">21</a>,<a id="xref-ref-22-2" class="xref-bibr" href="#ref-22">22</a>,<a id="xref-ref-27-1" class="xref-bibr" href="#ref-27">27</a>–<a id="xref-ref-38-1" class="xref-bibr" href="#ref-38">38</a>) (<a id="xref-table-wrap-2-1" class="xref-table" href="#T2">Table 2</a>) of folate intake and risk of breast cancer. Five of the nine prospective studies were conducted in the United States, one
+                     was carried out in Canada, one in Australia, one in Denmark, and one in France. Of the 14 case–control studies, five were
+                     from the United States, five from Europe, one from Uruguay, one from China, one from Mexico, and one from Taiwan.
+                     
+                     
+                  </p>
+                  <div class="table pos-float" id="T1">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="64/T1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="64/T1.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 1.</strong> </span> 
+                        <p id="p-21" class="first-child">Characteristics of eight prospective studies included in the meta-analysis of folate intake and breast cancer risk*</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  <div class="table pos-float" id="T2">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="64/T2.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="64/T2.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 2.</strong> </span> 
+                        <p id="p-26" class="first-child">Characteristics of 14 case-control studies included in the meta-analysis of folate intake and breast cancer risk*</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-34">Eight prospective studies (<a id="xref-ref-12-2" class="xref-bibr" href="#ref-12">12</a>–<a id="xref-ref-16-4" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-20-4" class="xref-bibr" href="#ref-20">20</a>,<a id="xref-ref-25-3" class="xref-bibr" href="#ref-25">25</a>,<a id="xref-ref-26-3" class="xref-bibr" href="#ref-26">26</a>) (including 302 959 participants and 8367 patients with breast cancer) and 13 case–control studies (<a id="xref-ref-21-3" class="xref-bibr" href="#ref-21">21</a>,<a id="xref-ref-22-4" class="xref-bibr" href="#ref-22">22</a>,<a id="xref-ref-27-3" class="xref-bibr" href="#ref-27">27</a>–<a id="xref-ref-37-2" class="xref-bibr" href="#ref-37">37</a>) (including 8558 case patients and 10 812 control subjects) provided results on dietary folate intake. The risk estimates
+                     of breast cancer for the highest versus the lowest category of dietary folate intake in individual prospective and case–control
+                     studies and summary estimates are shown in <a id="xref-fig-1-1" class="xref-fig" href="#F1">Fig. 1</a>. Only one of the eight prospective studies reported a statistically significant inverse association between dietary folate
+                     intake and risk of breast cancer. The summary relative risk for prospective studies was approximately 1.0, but there was some
+                     indication of heterogeneity among studies (<a id="xref-fig-1-2" class="xref-fig" href="#F1">Fig. 1</a>). Of the 13 case–control studies, five (<a id="xref-ref-21-4" class="xref-bibr" href="#ref-21">21</a>,<a id="xref-ref-32-2" class="xref-bibr" href="#ref-32">32</a>,<a id="xref-ref-33-2" class="xref-bibr" href="#ref-33">33</a>,<a id="xref-ref-35-2" class="xref-bibr" href="#ref-35">35</a>,<a id="xref-ref-37-3" class="xref-bibr" href="#ref-37">37</a>) found a statistically significant inverse relation between dietary folate intake and breast cancer risk. Overall, high versus
+                     low dietary folate intake was associated with a statistically significant 27% reduced risk of breast cancer in case–control
+                     studies; there was no statistically significant heterogeneity among studies (<a id="xref-fig-1-3" class="xref-fig" href="#F1">Fig. 1</a>). Egger's test suggested no statistically significant asymmetry of the funnel plot for prospective (<em>P</em> = .63) or case–control (<em>P</em> = .37) studies, indicating no evidence of substantial publication bias.
+                     
+                  </p>
+                  <div id="F1" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="64/F1.expansion.html"><img alt="Fig. 1." src="64/F1.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="64/F1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="64/F1.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/99/1/64/F1">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 1.</strong></span> 
+                        <p id="p-35" class="first-child">Relative risks (RRs; in prospective studies) or odds ratios (ORs; in case–control studies) of breast cancer comparing the
+                           highest with the lowest dietary folate intake categories. <strong>Squares</strong> indicate study-specific risk estimates (<strong>size of the square</strong> reflects the study-specific statistical weight, i.e., the inverse of the variance); <strong>horizontal lines</strong> indicate 95% confidence intervals (CIs); <strong>diamond</strong> indicates summary estimate with its corresponding 95% confidence interval. Test for heterogeneity: prospective studies, <em>Q</em> = 12.65, <em>P</em> = .08, and <em>I</em><sup>2</sup> = 44.6%; case–control studies, <em>Q</em> = 16.61, <em>P</em> = .17, and <em>I</em><sup>2</sup> = 27.8%.
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-36">The association between total folate intake and breast cancer risk was examined in six prospective studies (<a id="xref-ref-11-4" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-13-2" class="xref-bibr" href="#ref-13">13</a>,<a id="xref-ref-15-2" class="xref-bibr" href="#ref-15">15</a>,<a id="xref-ref-16-5" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-20-5" class="xref-bibr" href="#ref-20">20</a>,<a id="xref-ref-25-4" class="xref-bibr" href="#ref-25">25</a>) (involving 306 209 participants and 8165 patients with breast cancer) and three case–control studies (<a id="xref-ref-30-2" class="xref-bibr" href="#ref-30">30</a>,<a id="xref-ref-36-2" class="xref-bibr" href="#ref-36">36</a>,<a id="xref-ref-38-3" class="xref-bibr" href="#ref-38">38</a>) (involving 2184 case patients and 3233 control subjects). Overall, no statistically significant association was observed
+                     between total folate intake and risk of breast cancer in either prospective or case–control studies; there was statistically
+                     significant heterogeneity among studies within each study design (<a id="xref-fig-2-1" class="xref-fig" href="#F2">Fig. 2</a>). There was no evidence of publication bias (<em>P</em> = .82, for prospective studies, and <em>P</em> = .41, for case–control studies).
+                     
+                  </p>
+                  <div id="F2" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="64/F2.expansion.html"><img alt="Fig. 2." src="64/F2.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="64/F2.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="64/F2.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/99/1/64/F2">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 2.</strong></span> 
+                        <p id="p-37" class="first-child">Relative risks (RRs; in prospective studies) or odds ratios (ORs; in case–control studies) of breast cancer comparing the
+                           highest with the lowest total folate intake categories. <strong>Squares</strong> indicate study-specific risk estimates (<strong>size of the square</strong> reflects the study-specific statistical weight, i.e., the inverse of the variance); <strong>horizontal lines</strong> indicate 95% confidence intervals (CIs); <strong>diamond</strong> indicates summary estimate with its corresponding 95% confidence interval. Test for heterogeneity: prospective studies, <em>Q</em> = 11.62, <em>P</em> = .04, and <em>I</em><sup>2</sup> = 57.0%; case–control studies, <em>Q</em> = 6.14, <em>P</em> = .05, and <em>I</em><sup>2</sup> = 67.4%.
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-38">There was a large variation among studies in the difference in folate intake between the highest and lowest exposure categories
+                     (<a id="xref-table-wrap-1-2" class="xref-table" href="#T1">Tables 1</a> and <a id="xref-table-wrap-2-2" class="xref-table" href="#T2">2</a>). To normalize this variability, for each study, we calculated a risk estimate for an increment of folate intake of 200 μg/day.
+                     Overall, we found that an increment of dietary folate intake of 200 μg/day was not associated with breast cancer risk among
+                     prospective studies (summary estimate = 0.97, 95% CI = 0.88 to 1.07) but was statistically significantly inversely associated
+                     with breast cancer risk among case–control studies (summary estimate = 0.80, 95% CI = 0.72 to 0.89); there was statistically
+                     significant heterogeneity among the prospective studies but not among the case–control studies (<a id="xref-table-wrap-3-1" class="xref-table" href="#T3">Table 3</a>). Stratified analysis (within each study design) by geographic region, menopausal status, or adjustment for alcohol intake
+                     did not show any statistically significant difference in summary estimates between strata (<a id="xref-table-wrap-3-2" class="xref-table" href="#T3">Table 3</a>). In case–control studies, the type of control group, the response rate among control subjects, and type of dietary assessment
+                     method did not statistically significantly affect the magnitude of the association between dietary folate intake and risk
+                     of breast cancer (<a id="xref-table-wrap-3-3" class="xref-table" href="#T3">Table 3</a>). Total folate was not associated with the risk of breast cancer in either prospective studies (for a folate intake increment
+                     of 200 μg/day, summary estimate = 1.01, 95% CI = 0.97 to 1.05) or in case–control studies (summary estimate = 0.93, 95% CI
+                     = 0.81 to 1.07); statistically significant heterogeneity was found among the prospective studies and among the case–control
+                     studies (<a id="xref-table-wrap-3-4" class="xref-table" href="#T3">Table 3</a>).
+                     
+                  </p>
+                  <div class="table pos-float" id="T3">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="64/T3.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="64/T3.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 3.</strong> </span> 
+                        <p id="p-39" class="first-child">Summary relative risk (RR) or odds ratio (OR) estimates of the association between folate intake (in increments of 200 μg/day)
+                           and breast cancer risk for prospective and case-control studies*
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  
+                  
+                  <h3>Blood Folate Levels</h3>
+                  
+                  <p id="p-45">Of the three prospective studies (including two nested case–control studies) (<a id="xref-ref-39-1" class="xref-bibr" href="#ref-39">39</a>–<a id="xref-ref-41-1" class="xref-bibr" href="#ref-41">41</a>) and two case–control studies (<a id="xref-ref-38-4" class="xref-bibr" href="#ref-38">38</a>,<a id="xref-ref-42-1" class="xref-bibr" href="#ref-42">42</a>) of blood folate levels and breast cancer risk, two were carried out in the United States, two in Australia, and one in Taiwan
+                     (<a id="xref-table-wrap-4-1" class="xref-table" href="#T4">Table 4</a>). High blood folate levels versus low levels were not statistically significantly associated with the risk of breast cancer
+                     in prospective studies (summary estimate = 0.81, 95% CI = 0.59 to 1.10) or in case–control studies (summary estimate = 0.41,
+                     95% CI = 0.15 to 1.10); there was statistically significant heterogeneity among the case–control studies but not among the
+                     prospective studies (<a id="xref-fig-3-1" class="xref-fig" href="#F3">Fig. 3</a>). The Egger's test for publication bias was not statistically significant (<em>P</em> = .68, for prospective studies, and <em>P</em> = .72, for all studies).
+                     
+                     
+                  </p>
+                  <div id="F3" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="64/F3.expansion.html"><img alt="Fig. 3." src="64/F3.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="64/F3.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="64/F3.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/99/1/64/F3">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 3.</strong></span> 
+                        <p id="p-46" class="first-child">Relative risks (RRs; in prospective studies) or odds ratios (ORs; in case–control studies) of breast cancer comparing the
+                           highest with the lowest blood folate level categories. <strong>Squares</strong> indicate study-specific risk estimates (<strong>size of the square</strong> reflects the study-specific statistical weight, i.e., the inverse of the variance); <strong>horizontal lines</strong> indicate 95% confidence intervals (CIs); <strong>diamond</strong> indicates summary estimate with its corresponding 95% confidence interval. Test for heterogeneity: prospective studies, <em>Q</em> = 1.66, <em>P</em> = .65, and <em>I</em><sup>2</sup> = 0%; case–control studies, <em>Q</em> = 3.45, <em>P</em> = .06, and <em>I</em><sup>2</sup> = 71.0%. * = 1974 cohort; † = 1989 cohort.
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  <div class="table pos-float" id="T4">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="64/T4.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="64/T4.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 4.</strong> </span> 
+                        <p id="p-47" class="first-child">Characteristics of three prospective studies and two case–control studies included in the meta-analysis of blood folate levels
+                           and breast cancer risk*
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  
+                  
+                  <h3>Statistical Interaction of Folate and Alcohol</h3>
+                  
+                  <p id="p-54">Two prospective studies (<a id="xref-ref-11-5" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-12-3" class="xref-bibr" href="#ref-12">12</a>) and two case–control studies (<a id="xref-ref-21-5" class="xref-bibr" href="#ref-21">21</a>,<a id="xref-ref-32-3" class="xref-bibr" href="#ref-32">32</a>) presented results on folate intake in relation to breast cancer risk that were stratified by alcohol consumption. In all
+                     four studies, there was a statistically significant reduction in breast cancer risk for high versus low folate intake among
+                     women who consumed moderate or high amounts of alcohol (summary estimate = 0.51, 95% CI = 0.41 to 0.63) but not among women
+                     with low or no alcohol consumption (summary estimate = 0.95, 95% CI = 0.78 to 1.15) (<a id="xref-fig-4-1" class="xref-fig" href="#F4">Fig. 4</a>). The association between folate intake and breast cancer risk did not vary by stratum of alcohol consumption in two other
+                     prospective studies (<a id="xref-ref-20-6" class="xref-bibr" href="#ref-20">20</a>,<a id="xref-ref-26-4" class="xref-bibr" href="#ref-26">26</a>) (these studies did not provide relative risk estimates by strata of alcohol consumption). The Egger's test provided no indication
+                     of publication bias (<em>P</em> = .23, for the high alcohol intake strata; <em>P</em> = .59, for the low alcohol intake strata).
+                     
+                  </p>
+                  <div id="F4" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="64/F4.expansion.html"><img alt="Fig. 4." src="64/F4.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="64/F4.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="64/F4.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/99/1/64/F4">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 4.</strong></span> 
+                        <p id="p-55" class="first-child">Relative risks (RRs; in prospective studies) or odds ratios (ORs; in case–control studies) of breast cancer comparing the
+                           highest with the lowest folate intake categories, stratified by alcohol consumption. <strong>Squares</strong> indicate study-specific risk estimates (<strong>size of the square</strong> reflects the study-specific statistical weight, i.e., the inverse of the variance); <strong>horizontal lines</strong> indicate 95% confidence intervals (CIs); <strong>diamond</strong> indicates summary estimate with its corresponding 95% confidence interval. Test for heterogeneity: high alcohol, <em>Q</em> = 2.12, <em>P</em> = .55, and <em>I</em><sup>2</sup> = 0%; low alcohol, <em>Q</em> = 7.06, <em>P</em> = .07, and <em>I</em><sup>2</sup> = 57.5%. * = Prospective study; † = case–control study.
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-56">Whether the association between alcohol consumption and risk of breast cancer was modified by folate intake was investigated
+                     in five prospective studies (<a id="xref-ref-13-3" class="xref-bibr" href="#ref-13">13</a>–<a id="xref-ref-16-6" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-25-5" class="xref-bibr" href="#ref-25">25</a>). Four of these studies observed that the increased risk of breast cancer associated with alcohol consumption was greatest
+                     in or limited to women with low folate intake (<a id="xref-ref-13-4" class="xref-bibr" href="#ref-13">13</a>–<a id="xref-ref-16-7" class="xref-bibr" href="#ref-16">16</a>); one study observed no interaction between folate and alcohol intake (<a id="xref-ref-25-6" class="xref-bibr" href="#ref-25">25</a>).
+                  </p>
+                  
+                  
+                  
+                  <h3>Statistical Interaction of Folate and Other Nutrients</h3>
+                  
+                  <p id="p-57">Three prospective studies (<a id="xref-ref-11-6" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-12-4" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-25-7" class="xref-bibr" href="#ref-25">25</a>) and one case–control study (<a id="xref-ref-33-3" class="xref-bibr" href="#ref-33">33</a>) have examined whether the association between folate intake and risk of breast cancer is modified by methionine intake.
+                     In the Nurses' Health Study (<a id="xref-ref-11-7" class="xref-bibr" href="#ref-11">11</a>), total folate intake was statistically significantly inversely associated with breast cancer risk among women in the two
+                     lowest quintiles of methionine intake (<em>P</em><sub>trend</sub> = .03, for quintile 1, and <em>P</em><sub>trend</sub> = .01, for quintile 2) but was not associated with risk among women in the three highest quintiles of methionine intake (<em>P</em><sub>trend</sub> = .88, for quintile 3; <em>P</em><sub>trend</sub> = .23, for quintile 4; and <em>P</em><sub>trend</sub> = .63, for quintile 5). In contrast, in a case–control study in China (<a id="xref-ref-33-4" class="xref-bibr" href="#ref-33">33</a>), the inverse association between dietary folate intake and breast cancer risk was stronger among women in the highest tertile
+                     of methionine intake than among those in the lowest tertile; however, a test for interaction was not statistically significant
+                     (<em>P</em> = .15). There was no interaction between folate and methionine intake in relation to breast cancer in two other prospective
+                     studies (<a id="xref-ref-12-5" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-25-8" class="xref-bibr" href="#ref-25">25</a>).
+                  </p>
+                  
+                  <p id="p-58">One prospective study (<a id="xref-ref-26-5" class="xref-bibr" href="#ref-26">26</a>) and two case–control studies (<a id="xref-ref-33-5" class="xref-bibr" href="#ref-33">33</a>,<a id="xref-ref-37-4" class="xref-bibr" href="#ref-37">37</a>) have evaluated the association between dietary folate intake and risk of breast cancer by strata of intakes of vitamin B<sub>6</sub> and/or vitamin B<sub>12</sub>. Two studies (<a id="xref-ref-26-6" class="xref-bibr" href="#ref-26">26</a>,<a id="xref-ref-37-5" class="xref-bibr" href="#ref-37">37</a>) found that folate intake was statistically significantly inversely associated with breast cancer risk among women with high
+                     vitamin B<sub>12</sub> intake but not among those with low vitamin B<sub>12</sub> intake; the test for interaction between intakes of folate and vitamin B<sub>12</sub> was statistically significant in one of these studies (<em>P</em><sub>interaction</sub>&lt;.001) (<a id="xref-ref-37-6" class="xref-bibr" href="#ref-37">37</a>) but not in the other (<em>P</em><sub>interaction</sub> = .28) (<a id="xref-ref-26-7" class="xref-bibr" href="#ref-26">26</a>). No statistically significant interaction was observed between folate and vitamin B<sub>6</sub> intake in relation to breast cancer risk (<a id="xref-ref-12-6" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-25-9" class="xref-bibr" href="#ref-25">25</a>).
+                  </p>
+                  
+                  
+               </div>
+               <div class="section" id="sec-21">
+                  <div class="section-nav"><a href="#sec-16" title="Results" class="prev-section-link"><span>Previous Section</span></a><a href="#fn-group-1" title="Footnotes" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>Discussion</h2>
+                  
+                  <p id="p-59">In this meta-analysis, we found no clear support for an overall relationship between folate intake or blood folate levels
+                     and breast cancer risk. We also found that there were discrepancies between the summary results of prospective and case–control
+                     studies regarding the association between dietary folate intake and breast cancer risk. Although summary results of prospective
+                     studies did not support an overall association between dietary folate intake and risk of breast cancer, those of case–control
+                     studies indicated that an increase of 200 μg/day in dietary folate intake was associated with a statistically significant
+                     20% lower risk of breast cancer. The two types of studies are in agreement in not finding a statistically significant association
+                     of total folate intake or blood folate levels with breast cancer risk, but there was heterogeneity among studies within each
+                     study design. Findings from two prospective studies and two case–control studies indicated that high folate intake might be
+                     associated with a reduced risk of breast cancer in women with moderate or high consumption of alcohol. Likewise, results from
+                     four of five prospective studies indicated that adequate folate intake may attenuate the increased risk of breast cancer associated
+                     with alcohol consumption. The few studies that have investigated whether the relationship between folate intake and breast
+                     cancer risk is modified by intakes of methionine or vitamins B<sub>6</sub> and B<sub>12</sub> have yielded inconclusive results.
+                  </p>
+                  
+                  <p id="p-60">As a meta-analysis of observational studies, our findings have several limitations. First, this type of meta-analysis is susceptible
+                     to potential bias inherent in the original studies. The reason for the disparate results from prospective and case–control
+                     studies on the association of dietary folate intake with breast cancer risk is unclear. However, it is possible that the inverse
+                     associations reported from the case–control studies may have been overstated because of recall or interviewer bias and, possibly,
+                     because early symptoms in patients may have resulted in a change in dietary habits. Furthermore, selection bias is a problem
+                     in the studies with low response rates among control subjects (<a id="xref-ref-27-4" class="xref-bibr" href="#ref-27">27</a>–<a id="xref-ref-29-2" class="xref-bibr" href="#ref-29">29</a>,<a id="xref-ref-34-2" class="xref-bibr" href="#ref-34">34</a>,<a id="xref-ref-36-3" class="xref-bibr" href="#ref-36">36</a>) because those who agree to participate are likely to be more health conscious and, therefore, may consume more folate-rich
+                     foods (e.g., fruits, vegetables, and whole-grain cereals) than those who do not participate. Nevertheless, we did not detect
+                     any appreciable difference between summary results from case–control studies with low versus high response rates among control
+                     subjects.
+                  </p>
+                  
+                  <p id="p-61">Second, a meta-analysis is not able to solve problems with confounding factors that could be inherent in the included studies.
+                     Inadequate control for confounders may bias the results in either direction, toward exaggeration or underestimation of risk
+                     estimates. However, most studies in this meta-analysis adjusted for other known and potential risk factors for breast cancer.
+                  </p>
+                  
+                  <p id="p-62">Third, heterogeneity may be introduced because of methodologic differences among studies, including different exposure levels
+                     for the lowest and highest folate intake category, range of exposure, and dietary assessment methods. If only very low folate
+                     intakes are related to increased risk of breast cancer, no association between folate intake and breast cancer would be expected
+                     in studies in which the population being studied has an adequate folate intake. The estimated intakes of folate that are based
+                     on different questionnaires and different nutrient databases may not be comparable. Dietary intake was assessed with a self-administered
+                     food-frequency questionnaire in all prospective studies, whereas interviewer-administered questionnaires were used in 11 of
+                     the 14 case–control studies. Using an interviewer to administer a questionnaire may reduce error by increasing the subjects'
+                     participation and motivating them to respond more accurately. However, interviewers may also introduce error if they affect
+                     the subjects' responses. The difference in risk estimates from prospective and case–control studies could theoretically be
+                     related to different extent of errors in the measurement of folate intake and confounders. In a multivariable model with more
+                     than one variable measured with error, correlation between variables and their errors could bias the results in either direction.
+                  </p>
+                  
+                  <p id="p-63">Fourth, only two (<a id="xref-ref-11-8" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-20-7" class="xref-bibr" href="#ref-20">20</a>) of the eight prospective studies updated the information about diet during follow-up. Misclassification of folate intake
+                     may have been introduced in the six prospective studies (<a id="xref-ref-12-7" class="xref-bibr" href="#ref-12">12</a>–<a id="xref-ref-16-8" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-25-10" class="xref-bibr" href="#ref-25">25</a>) that assessed dietary intake at baseline only, which could lead to an underestimation of the risk estimates. Since 1998,
+                     flour and cereal-grain products in the United States have been fortified with folic acid. This could have introduced misclassification
+                     of long-term folate intake in the US studies that covered both pre- and postfortification periods (<a id="xref-ref-16-9" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-20-8" class="xref-bibr" href="#ref-20">20</a>).
+                  </p>
+                  
+                  <p id="p-64">Finally, inherent in any review process of published studies is the possibility of publication bias. In this meta-analysis,
+                     we found no evidence of substantial publication bias.
+                  </p>
+                  
+                  <p id="p-65">An increased risk of breast cancer associated with moderate alcohol consumption has been consistently observed in epidemiologic
+                     studies (<a id="xref-ref-2-2" class="xref-bibr" href="#ref-2">2</a>–<a id="xref-ref-4-2" class="xref-bibr" href="#ref-4">4</a>). Elevated estrogen and androgen concentrations in women who drink alcohol have been suggested as the most likely mechanisms
+                     underlying the relation between alcohol intake and breast cancer risk (<a id="xref-ref-3-1" class="xref-bibr" href="#ref-3">3</a>). The effect of high alcohol consumption on breast cancer risk may also partly be related to the negative influence of alcohol
+                     on folate absorption and metabolism (<a id="xref-ref-9-2" class="xref-bibr" href="#ref-9">9</a>,<a id="xref-ref-10-2" class="xref-bibr" href="#ref-10">10</a>).
+                  </p>
+                  
+                  <p id="p-66">In addition to alcohol consumption, functional polymorphisms in genes encoding folate-metabolizing enzymes may modify the
+                     relation between folate and risk of breast cancer. Methylenetetrahydrofolate reductase (MTHFR) is a central enzyme in one-carbon
+                     metabolism. A recent meta-analysis (<a id="xref-ref-43-1" class="xref-bibr" href="#ref-43">43</a>) showed no overall association between two functional polymorphisms of the MTHFR (C677T and A1298C) gene and breast cancer
+                     risk; however, the 677TT (variant) genotype, compared with the CC genotype, was associated with a statistically significant
+                     increased risk of breast cancer among premenopausal women, but this finding was based on only five studies (<a id="xref-ref-43-2" class="xref-bibr" href="#ref-43">43</a>). Of three studies that have investigated the potential interaction between folate and the MTHFR C677T polymorphism in relation
+                     to breast cancer risk (<a id="xref-ref-36-4" class="xref-bibr" href="#ref-36">36</a>,<a id="xref-ref-44-1" class="xref-bibr" href="#ref-44">44</a>,<a id="xref-ref-45-2" class="xref-bibr" href="#ref-45">45</a>), two found that the increase in breast cancer risk associated with low folate intake was stronger among women with the 677TT
+                     genotype (<a id="xref-ref-44-2" class="xref-bibr" href="#ref-44">44</a>,<a id="xref-ref-45-3" class="xref-bibr" href="#ref-45">45</a>).
+                  </p>
+                  
+                  <p id="p-67">Two prospective studies have examined folate intake in relation to breast cancer risk according to estrogen receptor (ER)
+                     status of the tumor (<a id="xref-ref-46-1" class="xref-bibr" href="#ref-46">46</a>,<a id="xref-ref-47-1" class="xref-bibr" href="#ref-47">47</a>). In the Nurses' Health Study, high total folate intake was associated with a statistically significantly reduced risk of
+                     developing ER-negative, but not ER-positive, breast cancer (<a id="xref-ref-47-2" class="xref-bibr" href="#ref-47">47</a>). The inverse association between folate intake and ER-negative breast cancer was primarily present among women who consumed
+                     alcohol at 15 g/day or more. In the Iowa Women's Health Study (<a id="xref-ref-46-2" class="xref-bibr" href="#ref-46">46</a>), there was no overall association of dietary or total folate intake with ER-negative or ER-positive breast cancer, but there
+                     was a statistically significant increased risk of ER-negative tumors among women who had a low total folate intake and high
+                     alcohol consumption.
+                  </p>
+                  
+                  <p id="p-68">Although most epidemiologic studies included in this meta-analysis have reported either an inverse or no association between
+                     dietary folate intake or blood folate levels and breast cancer risk, one prospective study found a statistically significant
+                     increased risk of breast cancer of approximately 30% associated with high total folate intake (from foods and supplements)
+                     (<a id="xref-ref-16-10" class="xref-bibr" href="#ref-16">16</a>). In a study of women involved in a trial of folic acid supplementation in pregnancy with more than 30 years of follow-up
+                     (<a id="xref-ref-48-1" class="xref-bibr" href="#ref-48">48</a>), women who had been randomly assigned to the highest folic acid dose (5 mg/day) had a nonstatistically significant twofold
+                     elevated risk of breast cancer (RR = 2.02, 95% CI = 0.88 to 4.72) compared with women in the placebo group. Moreover, studies
+                     in rodents have demonstrated that mild dietary folate deficiency suppresses chemically induced mammary cancer (<a id="xref-ref-49-1" class="xref-bibr" href="#ref-49">49</a>–<a id="xref-ref-51-1" class="xref-bibr" href="#ref-51">51</a>).
+                  </p>
+                  
+                  <p id="p-69">In summary, findings from this meta-analysis show an inverse association between dietary folate intake and risk of breast
+                     cancer in case–control studies but no association in prospective studies. Nevertheless, there was evidence from prospective
+                     studies that adequate folate intake may attenuate the increased risk of breast cancer associated with alcohol consumption.
+                     Large prospective studies that investigate interactions between folate and other nutrients involved in one-carbon metabolism,
+                     alcohol consumption, and functional polymorphisms in genes encoding folate-metabolizing enzymes are needed to further clarify
+                     the role of folate in breast cancer etiology. Future studies should also examine whether the relation between folate and breast
+                     cancer risk varies according to the ER status of the tumor.
+                  </p>
+                  
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <div class="section-nav"><a href="#sec-21" title="Discussion" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn" id="fn-23">
+                        
+                        <p id="p-70">This study was supported by research grants from the Swedish Cancer Society and the Swedish Research Council/Longitudinal
+                           Studies. The study sponsors had no role in the design, collection, analysis, or interpretation of the data or in the writing
+                           or decision to submit the manuscript.
+                        </p>
+                        
+                     </li>
+                  </ul>
+               </div>
+               <ul>
+                  <li class="fn" id="copyright-statement-1">© The Author 2007. Published by Oxford University Press.</li>
+               </ul>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#fn-group-1" title="Footnotes" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">(1)</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference (1) in text"
+                           id="ref-1">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.1"
+                             data-doi="10.3322/canjclin.55.2.74">
+                           <div class="cit-metadata"><cite>Parkin DM, Bray F, Ferlay J, Pisani P. Global cancer statistics, 2002. <span class="cit-source">CA Cancer J Clin</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">55</span>:<span class="cit-fpage">74</span>–108.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.3322/canjclin.55.2.74&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15761078&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000231484000005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(2)</span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference (2) in text"
+                           id="ref-2">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.2"
+                             data-doi="10.1001/jama.279.7.535">
+                           <div class="cit-metadata"><cite>Smith-Warner SA, Spiegelman D, Yaun SS, van den Brandt PA, Folsom AR, Goldbohm RA, et al. Alcohol and breast cancer in women:
+                                 a pooled analysis of cohort studies. <span class="cit-source">JAMA</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">279</span>:<span class="cit-fpage">535</span>–40.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.279.7.535&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9480365&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000071938900036&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(3)</span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference (3) in text"
+                           id="ref-3">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.3"
+                             data-doi="10.1001/jama.286.17.2143">
+                           <div class="cit-metadata"><cite>Singletary KW, Gapstur SM. Alcohol and breast cancer: review of epidemiologic and experimental evidence and potential mechanisms.
+                                 <span class="cit-source">JAMA</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">286</span>:<span class="cit-fpage">2143</span>–51.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.286.17.2143&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11694156&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000172032100034&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(4)</span><a class="rev-xref-ref" href="#xref-ref-4-1" title="View reference (4) in text"
+                           id="ref-4">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.4"
+                             data-doi="10.1007/s10552-006-0011-0">
+                           <div class="cit-metadata"><cite>Key J, Hodgson S, Omar RZ, Jensen TK, Thompson SG, Boobis AR, et al. Meta-analysis of studies of alcohol and breast cancer
+                                 with consideration of the methodological issues. <span class="cit-source">Cancer Causes Control</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">17</span>:<span class="cit-fpage">759</span>–70.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/s10552-006-0011-0&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16783604&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000238340000002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(5)</span><a class="rev-xref-ref" href="#xref-ref-5-1" title="View reference (5) in text"
+                           id="ref-5">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.5"
+                             data-doi="10.1016/S0955-2863(98)00074-6">
+                           <div class="cit-metadata"><cite>Kim YI. Folate and carcinogenesis: evidence, mechanisms, and implications. <span class="cit-source">J Nutr Biochem</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">10</span>:<span class="cit-fpage">66</span>–88.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0955-2863(98)00074-6&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15539274&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000078362900001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(6)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-99.1.64.6"
+                             data-doi="10.1007/PL00007387">
+                           <div class="cit-metadata"><cite>Prinz-Langenohl R, Fohr I, Pietrzik K. Beneficial role for folate in the prevention of colorectal and breast cancer. <span class="cit-source">Eur J Nutr</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">40</span>:<span class="cit-fpage">98</span>–105.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/PL00007387&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11697447&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000171590900002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(7)</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference (7) in text"
+                           id="ref-7">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.7"
+                             data-doi="10.1053/j.gastro.2006.08.010">
+                           <div class="cit-metadata"><cite>Larsson SC, Giovannucci E, Wolk A. Folate intake, MTHFR polymorphisms, and risk of esophageal, gastric, and pancreatic cancer:
+                                 a meta-analysis. <span class="cit-source">Gastroenterology</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">131</span>:<span class="cit-fpage">1271</span>–83.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1053/j.gastro.2006.08.010&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=17030196&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000241246800036&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(8)</span><a class="rev-xref-ref" href="#xref-ref-8-1" title="View reference (8) in text"
+                           id="ref-8">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.8">
+                           <div class="cit-metadata"><cite>Choi SW, Mason JB. Folate status: effects on pathways of colorectal carcinogenesis. <span class="cit-source">J Nutr</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">132</span>:<span class="cit-fpage">2413S</span>–8S.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=nutrition&amp;resid=132/8/2413S"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(9)</span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference (9) in text"
+                           id="ref-9">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.9"
+                             data-doi="10.1146/annurev.me.33.020182.002021">
+                           <div class="cit-metadata"><cite>Hillman RS, Steinberg SE. The effects of alcohol on folate metabolism. <span class="cit-source">Annu Rev Med</span> <span class="cit-pub-date">1982</span>;<span class="cit-vol">33</span>:<span class="cit-fpage">345</span>–54.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1146/annurev.me.33.020182.002021&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=6805415&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1982NJ65500025&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(10)</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference (10) in text"
+                           id="ref-10">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.10">
+                           <div class="cit-metadata"><cite>Halsted CH, Villanueva JA, Devlin AM, Chandler CJ. Metabolic interactions of alcohol and folate. <span class="cit-source">J Nutr</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">132</span>:<span class="cit-fpage">2367S</span>–72S.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=nutrition&amp;resid=132/8/2367S"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(11)</span><a class="rev-xref-ref" href="#xref-ref-11-1" title="View reference (11) in text"
+                           id="ref-11">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.11"
+                             data-doi="10.1001/jama.281.17.1632">
+                           <div class="cit-metadata"><cite>Zhang S, Hunter DJ, Hankinson SE, Giovannucci EL, Rosner BA, Colditz GA, et al. A prospective study of folate intake and the
+                                 risk of breast cancer. <span class="cit-source">JAMA</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">281</span>:<span class="cit-fpage">1632</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.281.17.1632&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10235158&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000080025900029&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(12)</span><a class="rev-xref-ref" href="#xref-ref-12-1" title="View reference (12) in text"
+                           id="ref-12">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.12"
+                             data-doi="10.1093/jnci/92.3.266">
+                           <div class="cit-metadata"><cite>Rohan TE, Jain MG, Howe GR, Miller AB. Dietary folate consumption and breast cancer risk. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">2000</span>;<span class="cit-vol">92</span>:<span class="cit-fpage">266</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=FULL&amp;journalCode=jnci&amp;resid=92/3/266"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(13)</span><a class="rev-xref-ref" href="#xref-ref-13-1" title="View reference (13) in text"
+                           id="ref-13">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.13"
+                             data-doi="10.1097/00001648-200107000-00012">
+                           <div class="cit-metadata"><cite>Sellers TA, Kushi LH, Cerhan JR, Vierkant RA, Gapstur SM, Vachon CM, et al. Dietary folate intake, alcohol, and risk of breast
+                                 cancer in a prospective study of postmenopausal women. <span class="cit-source">Epidemiology</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">12</span>:<span class="cit-fpage">420</span>–8.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1097/00001648-200107000-00012&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11416780&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000169334500012&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(14)</span><a class="rev-xref-ref" href="#xref-ref-14-1" title="View reference (14) in text"
+                           id="ref-14">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.14"
+                             data-doi="10.1136/bmj.38551.446470.06">
+                           <div class="cit-metadata"><cite>Baglietto L, English DR, Gertig DM, Hopper JL, Giles GG. Does dietary folate intake modify effect of alcohol consumption on
+                                 breast cancer risk? Prospective cohort study. <span class="cit-source">BMJ</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">331</span>:<span class="cit-fpage">807</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=bmj&amp;resid=331/7520/807"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(15)</span><a class="rev-xref-ref" href="#xref-ref-15-1" title="View reference (15) in text"
+                           id="ref-15">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.15"
+                             data-doi="10.1038/sj.ejcn.1602313">
+                           <div class="cit-metadata"><cite>Tjønneland A, Christensen J, Olsen A, Stripp C, Nissen SB, Overvad K, et al. Folate intake, alcohol and risk of breast cancer
+                                 among postmenopausal women in Denmark. <span class="cit-source">Eur J Clin Nutr</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">60</span>:<span class="cit-fpage">280</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1038/sj.ejcn.1602313&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16234832&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000235011000018&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(16)</span><a class="rev-xref-ref" href="#xref-ref-16-1" title="View reference (16) in text"
+                           id="ref-16">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.16">
+                           <div class="cit-metadata"><cite>Stolzenberg-Solomon RZ, Chang SC, Leitzmann MF, Johnson KA, Johnson C, Buys SS, et al. Folate intake, alcohol use, and postmenopausal
+                                 breast cancer risk in the Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial. <span class="cit-source">Am J Clin Nutr</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">83</span>:<span class="cit-fpage">895</span>–904.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=ajcn&amp;resid=83/4/895"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(17)</span><a class="rev-xref-ref" href="#xref-ref-17-1" title="View reference (17) in text"
+                           id="ref-17">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.17"
+                             data-doi="10.1016/0197-2456(86)90046-2">
+                           <div class="cit-metadata"><cite>DerSimonian R, Laird N. Meta-analysis in clinical trials. <span class="cit-source">Control Clin Trials</span> <span class="cit-pub-date">1986</span>;<span class="cit-vol">7</span>:<span class="cit-fpage">177</span>–88.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0197-2456(86)90046-2&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3802833&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1986F013900001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(18)</span><a class="rev-xref-ref" href="#xref-ref-18-1" title="View reference (18) in text"
+                           id="ref-18">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.18">
+                           <div class="cit-metadata"><cite>Greenland S, Longnecker MP. Methods for trend estimation from summarized dose-response data, with applications to meta-analysis.
+                                 <span class="cit-source">Am J Epidemiol</span> <span class="cit-pub-date">1992</span>;<span class="cit-vol">135</span>:<span class="cit-fpage">1301</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=amjepid&amp;resid=135/11/1301"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(19)</span><a class="rev-xref-ref" href="#xref-ref-19-1" title="View reference (19) in text"
+                           id="ref-19">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.19">
+                           <div class="cit-metadata"><cite>Orsini N, Bellocco R, Greenland S. Generalized least squares for trend estimation of summarized dose-response data. <span class="cit-source">Stata J</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">6</span>:<span class="cit-fpage">40</span>–57.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(20)</span><a class="rev-xref-ref" href="#xref-ref-20-1" title="View reference (20) in text"
+                           id="ref-20">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.20">
+                           <div class="cit-metadata"><cite>Cho E, Spiegelman D, Hunter DJ, Chen WY, Zhang SM, Colditz GA, et al. Premenopausal intakes of vitamins A, C, and E, folate,
+                                 and carotenoids, and risk of breast cancer. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">12</span>:<span class="cit-fpage">713</span>–20.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=12/8/713"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(21)</span><a class="rev-xref-ref" href="#xref-ref-21-1" title="View reference (21) in text"
+                           id="ref-21">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.21"
+                             data-doi="10.1002/1097-0215(200002)9999:9999&lt;::AID-IJC1041&gt;3.3.CO;2-R">
+                           <div class="cit-metadata"><cite>Levi F, Pasche C, Lucchini F, La Vecchia C. Dietary intake of selected micronutrients and breast-cancer risk. <span class="cit-source">Int J Cancer</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">91</span>:<span class="cit-fpage">260</span>–3.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/1097-0215(200002)9999:9999%3C::AID-IJC1041%3E3.3.CO;2-R&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11146455&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000166159200019&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(22)</span><a class="rev-xref-ref" href="#xref-ref-22-1" title="View reference (22) in text"
+                           id="ref-22">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.22"
+                             data-doi="10.1023/B:CACO.0000003823.97506.be">
+                           <div class="cit-metadata"><cite>Zhu K, Davidson NE, Hunter S, Yang X, Payne-Wilks K, Roland CL, et al. Methyl-group dietary intake and risk of breast cancer
+                                 among African-American women: a case-control study by methylation status of the estrogen receptor alpha genes. <span class="cit-source">Cancer Causes Control</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">14</span>:<span class="cit-fpage">827</span>–36.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1023/B:CACO.0000003823.97506.be&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=14682440&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000186609300003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(23)</span><a class="rev-xref-ref" href="#xref-ref-23-1" title="View reference (23) in text"
+                           id="ref-23">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.23" data-doi="10.1002/sim.1186">
+                           <div class="cit-metadata"><cite>Higgins JP, Thompson SG. Quantifying heterogeneity in a meta-analysis. <span class="cit-source">Stat Med</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">1539</span>–58.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/sim.1186&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12111919&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000176016900005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(24)</span><a class="rev-xref-ref" href="#xref-ref-24-1" title="View reference (24) in text"
+                           id="ref-24">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.24"
+                             data-doi="10.1136/bmj.315.7109.629">
+                           <div class="cit-metadata"><cite>Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-analysis detected by a simple, graphical test. <span class="cit-source">BMJ</span> <span class="cit-pub-date">1997</span>;<span class="cit-vol">315</span>:<span class="cit-fpage">629</span>–34.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=bmj&amp;resid=315/7109/629"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(25)</span><a class="rev-xref-ref" href="#xref-ref-25-1" title="View reference (25) in text"
+                           id="ref-25">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.25">
+                           <div class="cit-metadata"><cite>Feigelson HS, Jonas CR, Robertson AS, McCullough ML, Thun MJ, Calle EE. Alcohol, folate, methionine, and risk of incident
+                                 breast cancer in the American Cancer Society Cancer Prevention Study II Nutrition Cohort. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">12</span>:<span class="cit-fpage">161</span>–4.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=12/2/161"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(26)</span><a class="rev-xref-ref" href="#xref-ref-26-1" title="View reference (26) in text"
+                           id="ref-26">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.26"
+                             data-doi="10.1007/s10552-006-0053-3">
+                           <div class="cit-metadata"><cite>Lajous M, Romieu I, Sabia S, Boutron-Ruault MC, Clavel-Chapelon F. Folate, vitamin B12 and postmenopausal breast cancer in
+                                 a prospective study of French women. <span class="cit-source">Cancer Causes Control</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">17</span>:<span class="cit-fpage">1209</span>–13.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/s10552-006-0053-3&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=17006726&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000240856600011&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(27)</span><a class="rev-xref-ref" href="#xref-ref-27-1" title="View reference (27) in text"
+                           id="ref-27">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.27">
+                           <div class="cit-metadata"><cite>Graham S, Hellmann R, Marshall J, Freudenheim J, Vena J, Swanson M, et al. Nutritional epidemiology of postmenopausal breast
+                                 cancer in western New York. <span class="cit-source">Am J Epidemiol</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">134</span>:<span class="cit-fpage">552</span>–66.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=amjepid&amp;resid=134/6/552"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(28)</span><a class="rev-xref-ref" href="#xref-ref-28-1" title="View reference (28) in text"
+                           id="ref-28">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.28"
+                             data-doi="10.1093/jnci/88.6.340">
+                           <div class="cit-metadata"><cite>Freudenheim JL, Marshall JR, Vena JE, Laughlin R, Brasure JR, Swanson MK, et al. Premenopausal breast cancer risk and intake
+                                 of vegetables, fruits, and related nutrients. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">1996</span>;<span class="cit-vol">88</span>:<span class="cit-fpage">340</span>–8.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=88/6/340"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(29)</span><a class="rev-xref-ref" href="#xref-ref-29-1" title="View reference (29) in text"
+                           id="ref-29">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.29"
+                             data-doi="10.1079/PHN19980024">
+                           <div class="cit-metadata"><cite>Thorand B, Kohlmeier L, Simonsen N, Croghan C, Thamm M. Intake of fruits, vegetables, folic acid and related nutrients and
+                                 risk of breast cancer in postmenopausal women. <span class="cit-source">Public Health Nutr</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">1</span>:<span class="cit-fpage">147</span>–56.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1079/PHN19980024&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10933412&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(30)</span><a class="rev-xref-ref" href="#xref-ref-30-1" title="View reference (30) in text"
+                           id="ref-30">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.30"
+                             data-doi="10.1002/(SICI)1097-0215(19990730)82:3&lt;315::AID-IJC1&gt;3.0.CO;2-N">
+                           <div class="cit-metadata"><cite>Potischman N, Swanson CA, Coates RJ, Gammon MD, Brogan DR, Curtin J, et al. Intake of food groups and associated micronutrients
+                                 in relation to risk of early-stage breast cancer. <span class="cit-source">Int J Cancer</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">82</span>:<span class="cit-fpage">315</span>–21.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/(SICI)1097-0215(19990730)82:3%3C315::AID-IJC1%3E3.0.CO;2-N&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10399945&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000081189200001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(31)</span><a class="rev-xref-ref" href="#xref-ref-31-1" title="View reference (31) in text"
+                           id="ref-31">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.31"
+                             data-doi="10.1207/S15327914NC352_3">
+                           <div class="cit-metadata"><cite>Ronco A, De Stefani E, Boffetta P, Deneo-Pellegrini H, Mendilaharsu M, Leborgne F. Vegetables, fruits, and related nutrients
+                                 and risk of breast cancer: a case-control study in Uruguay. <span class="cit-source">Nutr Cancer</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">35</span>:<span class="cit-fpage">111</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1207/S15327914NC352_3&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10693163&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000085346200003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(32)</span><a class="rev-xref-ref" href="#xref-ref-32-1" title="View reference (32) in text"
+                           id="ref-32">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.32"
+                             data-doi="10.1093/jnci/92.15.1270">
+                           <div class="cit-metadata"><cite>Negri E, La Vecchia C, Franceschi S. Re: dietary folate consumption and breast cancer risk. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">2000</span>;<span class="cit-vol">92</span>:<span class="cit-fpage">1270</span>–1.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1093/jnci/92.15.1270&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10922415&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000088521400017&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(33)</span><a class="rev-xref-ref" href="#xref-ref-33-1" title="View reference (33) in text"
+                           id="ref-33">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.33">
+                           <div class="cit-metadata"><cite>Shrubsole MJ, Jin F, Dai Q, Shu XO, Potter JD, Hebert JR, et al. Dietary folate intake and breast cancer risk: results from
+                                 the Shanghai Breast Cancer Study. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">61</span>:<span class="cit-fpage">7136</span>–41.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=61/19/7136"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(34)</span><a class="rev-xref-ref" href="#xref-ref-34-1" title="View reference (34) in text"
+                           id="ref-34">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.34"
+                             data-doi="10.1016/S0304-3835(02)00030-7">
+                           <div class="cit-metadata"><cite>Sharp L, Little J, Schofield AC, Pavlidou E, Cotton SC, Miedzybrodzka Z, et al. Folate and breast cancer: the role of polymorphisms
+                                 in methylenetetrahydrofolate reductase (MTHFR). <span class="cit-source">Cancer Lett</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">181</span>:<span class="cit-fpage">65</span>–71.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0304-3835(02)00030-7&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12430180&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000176629800008&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(35)</span><a class="rev-xref-ref" href="#xref-ref-35-1" title="View reference (35) in text"
+                           id="ref-35">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.35"
+                             data-doi="10.1207/S15327914NC4602_05">
+                           <div class="cit-metadata"><cite>Adzersen KH, Jess P, Freivogel KW, Gerhard I, Bastert G. Raw and cooked vegetables, fruits, selected micronutrients, and breast
+                                 cancer risk: a case-control study in Germany. <span class="cit-source">Nutr Cancer</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">46</span>:<span class="cit-fpage">131</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1207/S15327914NC4602_05&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=14690788&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000186980800005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(36)</span><a class="rev-xref-ref" href="#xref-ref-36-1" title="View reference (36) in text"
+                           id="ref-36">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.36"
+                             data-doi="10.1158/0008-5472.CAN-04-2630">
+                           <div class="cit-metadata"><cite>Chen J, Gammon MD, Chan W, Palomeque C, Wetmur JG, Kabat GC, et al. One-carbon metabolism, MTHFR polymorphisms, and risk of
+                                 breast cancer. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">65</span>:<span class="cit-fpage">1606</span>–14.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=65/4/1606"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(37)</span><a class="rev-xref-ref" href="#xref-ref-37-1" title="View reference (37) in text"
+                           id="ref-37">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.37"
+                             data-doi="10.1158/1055-9965.EPI-05-0532">
+                           <div class="cit-metadata"><cite>Lajous M, Lazcano-Ponce E, Hernandez-Avila M, Willett W, Romieu I. Folate, vitamin B(6), and vitamin B(12) intake and the
+                                 risk of breast cancer among Mexican women. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">15</span>:<span class="cit-fpage">443</span>–8.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=15/3/443"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(38)</span><a class="rev-xref-ref" href="#xref-ref-38-1" title="View reference (38) in text"
+                           id="ref-38">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.38">
+                           <div class="cit-metadata"><cite>Chou YC, Lee MS, Wu MH, Shih HL, Yang T, Yu CP, et al. Plasma homocysteine as a metabolic risk factor for breast cancer: findings
+                                 from a case-control study in Taiwan. <span class="cit-source">Breast Cancer Res Treat</span> <span class="cit-pub-date">2006</span>. [July 19 Epub ahead of print].</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(39)</span><a class="rev-xref-ref" href="#xref-ref-39-1" title="View reference (39) in text"
+                           id="ref-39">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.39">
+                           <div class="cit-metadata"><cite>Wu K, Helzlsouer KJ, Comstock GW, Hoffman SC, Nadeau MR, Selhub J. A prospective study on folate, B12, and pyridoxal 5′-phosphate
+                                 (B6) and breast cancer. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">8</span>:<span class="cit-fpage">209</span>–17.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=8/3/209"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(40)</span><a class="rev-xref-ref" href="#xref-ref-40-1" title="View reference (40) in text"
+                           id="ref-40">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.40"
+                             data-doi="10.1093/jnci/95.5.373">
+                           <div class="cit-metadata"><cite>Zhang SM, Willett WC, Selhub J, Hunter DJ, Giovannucci EL, Holmes MD, et al. Plasma folate, vitamin B6, vitamin B12, homocysteine,
+                                 and risk of breast cancer. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">95</span>:<span class="cit-fpage">373</span>–80.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=95/5/373"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(41)</span><a class="rev-xref-ref" href="#xref-ref-41-1" title="View reference (41) in text"
+                           id="ref-41">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.41"
+                             data-doi="10.1016/j.annepidem.2005.03.010">
+                           <div class="cit-metadata"><cite>Rossi E, Hung J, Beilby JP, Knuiman MW, Divitini ML, Bartholomew H. Folate levels and cancer morbidity and mortality: prospective
+                                 cohort study from Busselton, Western Australia. <span class="cit-source">Ann Epidemiol</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">16</span>:<span class="cit-fpage">206</span>–12.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/j.annepidem.2005.03.010&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16343942&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000235984700006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(42)</span><a class="rev-xref-ref" href="#xref-ref-42-1" title="View reference (42) in text"
+                           id="ref-42">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.42"
+                             data-doi="10.1016/j.ejca.2004.01.026">
+                           <div class="cit-metadata"><cite>Beilby J, Ingram D, Hahnel R, Rossi E. Reduced breast cancer risk with increasing serum folate in a case-control study of
+                                 the C677T genotype of the methylenetetrahydrofolate reductase gene. <span class="cit-source">Eur J Cancer</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">40</span>:<span class="cit-fpage">1250</span>–4.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/j.ejca.2004.01.026&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15110890&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000221501400032&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(43)</span><a class="rev-xref-ref" href="#xref-ref-43-1" title="View reference (43) in text"
+                           id="ref-43">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.43"
+                             data-doi="10.1111/j.1399-0004.2006.00605.x">
+                           <div class="cit-metadata"><cite>Zintzaras E. Methylenetetrahydrofolate reductase gene and susceptibility to breast cancer: a meta-analysis. <span class="cit-source">Clin Genet</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">69</span>:<span class="cit-fpage">327</span>–36.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1111/j.1399-0004.2006.00605.x&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16630166&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000236393500005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(44)</span><a class="rev-xref-ref" href="#xref-ref-44-1" title="View reference (44) in text"
+                           id="ref-44">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.44"
+                             data-doi="10.1158/1055-9965.EPI-03-0273">
+                           <div class="cit-metadata"><cite>Shrubsole MJ, Gao YT, Cai Q, Shu XO, Dai Q, Hebert JR, et al. MTHFR polymorphisms, dietary folate intake, and breast cancer
+                                 risk: results from the Shanghai Breast Cancer Study. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">13</span>:<span class="cit-fpage">190</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=13/2/190"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(45)</span><a class="rev-xref-ref" href="#xref-ref-45-1" title="View reference (45) in text"
+                           id="ref-45">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.45">
+                           <div class="cit-metadata"><cite>Le Marchand L, Haiman CA, Wilkens LR, Kolonel LN, Henderson BE. MTHFR polymorphisms, diet, HRT, and breast cancer risk: the
+                                 multiethnic cohort study. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">13</span>:<span class="cit-fpage">2071</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=13/12/2071"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(46)</span><a class="rev-xref-ref" href="#xref-ref-46-1" title="View reference (46) in text"
+                           id="ref-46">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.46">
+                           <div class="cit-metadata"><cite>Sellers TA, Vierkant RA, Cerhan JR, Gapstur SM, Vachon CM, Olson JE, et al. Interaction of dietary folate intake, alcohol,
+                                 and risk of hormone receptor-defined breast cancer in a prospective study of postmenopausal women. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">11</span>:<span class="cit-fpage">1104</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=11/10/1104"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(47)</span><a class="rev-xref-ref" href="#xref-ref-47-1" title="View reference (47) in text"
+                           id="ref-47">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.47"
+                             data-doi="10.1158/1055-9965.EPI-05-0083">
+                           <div class="cit-metadata"><cite>Zhang SM, Hankinson SE, Hunter DJ, Giovannucci EL, Colditz GA, Willett WC. Folate intake and risk of breast cancer characterized
+                                 by hormone receptor status. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">14</span>:<span class="cit-fpage">2004</span>–8.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=14/8/2004"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(48)</span><a class="rev-xref-ref" href="#xref-ref-48-1" title="View reference (48) in text"
+                           id="ref-48">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.48"
+                             data-doi="10.1136/bmj.329.7479.1375">
+                           <div class="cit-metadata"><cite>Charles D, Ness AR, Campbell D, Davey Smith G, Hall MH. Taking folate in pregnancy and risk of maternal breast cancer. <span class="cit-source">BMJ</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">329</span>:<span class="cit-fpage">1375</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=FULL&amp;journalCode=bmj&amp;resid=329/7479/1375"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(49)</span><a class="rev-xref-ref" href="#xref-ref-49-1" title="View reference (49) in text"
+                           id="ref-49">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.49"
+                             data-doi="10.1093/carcin/bgi117">
+                           <div class="cit-metadata"><cite>Kotsopoulos J, Medline A, Renlund R, Sohn KJ, Martin R, Hwang SW, et al. Effects of dietary folate on the development and
+                                 progression of mammary tumors in rats. <span class="cit-source">Carcinogenesis</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">26</span>:<span class="cit-fpage">1603</span>–12.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=carcin&amp;resid=26/9/1603"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(50)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-99.1.64.50"
+                             data-doi="10.1093/carcin/bgg036">
+                           <div class="cit-metadata"><cite>Kotsopoulos J, Sohn KJ, Martin R, Choi M, Renlund R, McKerlie C, et al. Dietary folate deficiency suppresses N-methyl-N-nitrosourea-induced
+                                 mammary tumorigenesis in rats. <span class="cit-source">Carcinogenesis</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">24</span>:<span class="cit-fpage">937</span>–44.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=carcin&amp;resid=24/5/937"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(51)</span><a class="rev-xref-ref" href="#xref-ref-51-1" title="View reference (51) in text"
+                           id="ref-51">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-99.1.64.51"
+                             data-doi="10.1093/jnci/84.22.1740">
+                           <div class="cit-metadata"><cite>Baggott JE, Vaughn WH, Juliana MM, Eto I, Krumdieck CL, Grubbs CJ. Effects of folate deficiency and supplementation on methylnitrosourea-induced
+                                 rat mammary tumors. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">1992</span>;<span class="cit-vol">84</span>:<span class="cit-fpage">1740</span>–4.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=84/22/1740"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/99/1/53.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/99/1/77.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/99/1.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (3 January 2007) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    99
+                                    </span><span class="slug-issue">
+                                    (1):
+                                    </span><span class="slug-pages">
+                                    64-76.
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/djk006" class="slug-doi">10.1093/jnci/djk006</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><a href="/content/99/1/64.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/99/1/64.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=ARTICLES&amp;sortspec=date&amp;submit=Submit">Article</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;99/1/64" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B99%2F1%2F64&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/99/1/64.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=99/1/64&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/99/1/64.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3B99%2F1%2F64&amp;citation=Larsson%20et%20al.%2099%20%281%29:%2064&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B99%2F1%2F64&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=17202114&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B99%2F1%2F64">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B99%2F1%2F64">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=Folate%20and%20Risk%20of%20Breast%20Cancer%3A%20A%20Meta-analysis%3A%20&amp;publicationDate=3%20January%202007&amp;author=Susanna%20C.%20Larsson%2C%20Edward%20Giovannucci%2C%20Alicja%20Wolk&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2Fdjk006&amp;volumeNum=99&amp;issueNum=1&amp;startPage=64&amp;endPage=76&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/99/1/64.full?cited-by=yes&amp;legid=jnci;99/1/64#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/99/1/64" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/99/1/64?access_num=/jnci/99/1/64" rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F99%2F1%2F64&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/99/1/64.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ALarsson%20author%3AS.C.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Larsson, S. C.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AWolk%20author%3AA.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Wolk, A.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/99/1/64.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=17202114&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Larsson%20SC&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Larsson, S. C.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Giovannucci%20E&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Giovannucci, E.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Wolk%20A&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Wolk, A.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/99/1/64.full?related-urls=yes&amp;legid=jnci;99/1/64#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B99%2F1%2F64&amp;current-view-path=/content/99/1/64.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/99/1/64&amp;title=Folate%20and%20Risk%20of%20Breast%20Cancer%3A%20A%20Meta-analysis+--+Larsson%20et%20al.%2099%20%281%29%3A%2064+--+&amp;doi=10.1093/jnci/djk006&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/99/1/64&amp;title=Folate%20and%20Risk%20of%20Breast%20Cancer%3A%20A%20Meta-analysis+--+Larsson%20et%20al.%2099%20%281%29%3A%2064+--+&amp;doi=10.1093/jnci/djk006&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/99/1/64&amp;title=Folate%20and%20Risk%20of%20Breast%20Cancer%3A%20A%20Meta-analysis+--+Larsson%20et%20al.%2099%20%281%29%3A%2064+--+&amp;doi=10.1093/jnci/djk006&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/99/1/64&amp;title=Folate%20and%20Risk%20of%20Breast%20Cancer%3A%20A%20Meta-analysis+--+Larsson%20et%20al.%2099%20%281%29%3A%2064+--+&amp;doi=10.1093/jnci/djk006&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/99/1/64&amp;title=Folate%20and%20Risk%20of%20Breast%20Cancer%3A%20A%20Meta-analysis+--+Larsson%20et%20al.%2099%20%281%29%3A%2064+--+&amp;doi=10.1093/jnci/djk006&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/99/1/64&amp;title=Folate%20and%20Risk%20of%20Breast%20Cancer%3A%20A%20Meta-analysis+--+Larsson%20et%20al.%2099%20%281%29%3A%2064+--+&amp;doi=10.1093/jnci/djk006&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#abstract-1">Abstract</a></li>
+                        <li><a href="#sec-11">Methods</a></li>
+                        <li><a href="#sec-16">Results</a></li>
+                        <li><a href="#sec-21">Discussion</a></li>
+                        <li><a href="#fn-group-1">Footnotes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/99/1/64.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/99/1/64.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

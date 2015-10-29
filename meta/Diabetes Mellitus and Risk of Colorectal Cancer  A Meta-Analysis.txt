@@ -1,0 +1,2049 @@
+http://jnci.oxfordjournals.org/content/97/22/1679.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Diabetes Mellitus and Risk of Colorectal Cancer: A Meta-Analysis </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/97/22/1679" />
+      <meta content="/jnci/97/22/1679.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Diabetes Mellitus and Risk of Colorectal Cancer: A Meta-Analysis"
+            name="DC.Title" />
+      <meta content="10.1093/jnci/dji375" name="DC.Identifier" />
+      <meta content="2005-11-16" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Susanna C. Larsson" name="DC.Contributor" />
+      <meta content="Nicola Orsini" name="DC.Contributor" />
+      <meta content="Alicja Wolk" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta name="citation_author" content="Susanna C. Larsson" />
+      <meta name="citation_author" content="Nicola Orsini" />
+      <meta name="citation_author" content="Alicja Wolk" />
+      <meta content="Diabetes Mellitus and Risk of Colorectal Cancer: A Meta-Analysis"
+            name="citation_title" />
+      <meta content="11/16/2005" name="citation_date" />
+      <meta content="97" name="citation_volume" />
+      <meta content="22" name="citation_issue" />
+      <meta content="1679" name="citation_firstpage" />
+      <meta content="1687" name="citation_lastpage" />
+      <meta content="97/22/1679" name="citation_id" />
+      <meta content="97/22/1679" name="citation_id_from_sass_path" />
+      <meta content="jnci;97/22/1679" name="citation_mjid" />
+      <meta content="10.1093/jnci/dji375" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/97/22/1679.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/97/22/1679.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/97/22/1679.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/97/22/1679"
+            name="citation_public_url" />
+      <meta content="16288121" name="citation_pmid" />
+      <meta name="citation_section" content="Article" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/97/22/1671.short" rel="prev" />
+      <link href="/content/97/22/1688.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d27333838e1">var callbackToken='537A44727D5A309';</script><script type="text/javascript" id="session-d27333838e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:13:25.29-07:00';
+            var gSessionId = 'xOb7FElTmRAx8Ba-n0bJag';
+            var gAuthzRequired = 'false';
+            var gAuthnMethods1 = 'ip ip';
+            var gAuthnMethods2 = 'ip,ip';
+            var gAuthnIPs = '18.189.59.169,18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/dji375");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("16 November 2005");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F97%2F22%2F1679.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/97/22.toc">
+                  <span xmlns="" class="volume-value">Volume 97</span>
+                  <span xmlns="" class="issue-value"> Issue 22</span></a></li>
+            <li>Pp. <span class="slug-pages">
+                  1679-1687.
+                  </span></li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/97/22/1679.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Diabetes Mellitus and Risk of Colorectal Cancer: A Meta-Analysis</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Susanna+C.+Larsson&amp;sortspec=date&amp;submit=Submit">Susanna C. Larsson</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Nicola+Orsini&amp;sortspec=date&amp;submit=Submit">Nicola Orsini</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-3"><span class="name"><a class="name-search"
+                              href="/search?author1=Alicja+Wolk&amp;sortspec=date&amp;submit=Submit">Alicja Wolk</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><em>Affiliation of authors:</em> Division of Nutritional Epidemiology, The National Institute of Environmental Medicine, Karolinska Institutet, Stockholm,
+                           Sweden
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="fn" id="corresp-1"><em>Correspondence to:</em> Susanna C. Larsson, LicMSc, Division of Nutritional Epidemiology, The National Institute of Environmental Medicine, Karolinska
+                        Institutet, P.O. Box 210, SE-171 77 Stockholm, Sweden (e-mail: <span class="em-link"><span class="em-addr">susanna.larsson{at}ki.se</span></span>).
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                         hwp:start="2005-05-04"><span class="received-label">Received </span>May 4, 2005.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="rev-recd"
+                         hwp:start="2005-09-12"><span class="rev-recd-label">Revision received </span>September 12, 2005.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="2005-09-30"><span class="accepted-label">Accepted </span>September 30, 2005.
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-1" title="MATERIALS AND METHODS" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Abstract</h2>
+                  
+                  <p id="p-1"><em>Background:</em> Diabetes has been associated with an increased risk of colorectal cancer in most, but not all, studies. Findings have also
+                     been inconclusive with regard to sex and subsite in the colorectum. To resolve these inconsistencies, we conducted a meta-analysis
+                     of published data on the association between diabetes and the incidence and mortality of colorectal cancer. <em>Methods:</em> We identified studies by a literature search of Medline from January 1, 1966, through July 31, 2005, and by searching the
+                     reference lists of pertinent articles. Summary relative risks (RRs) with 95% confidence intervals (CIs) were calculated with
+                     a random-effects model. All statistical tests were two-sided. <em>Results:</em> Analysis of 15 studies (six case–control and nine cohort studies), including 2 593 935 participants, found that diabetes
+                     was associated with an increased risk of colorectal cancer, compared with no diabetes (summary RR of colorectal cancer incidence
+                     = 1.30, 95% CI = 1.20 to 1.40), without heterogeneity between studies (<em>P</em><sub>heterogeneity</sub> = .21). These results were consistent between case–control and cohort studies and between studies conducted in the United
+                     States and in Europe. The association between diabetes and colorectal cancer incidence did not differ statistically significantly
+                     by sex (summary RR among women = 1.33, 95% CI = 1.23 to 1.44; summary RR among men = 1.29, 95% CI = 1.15 to 1.44; <em>P</em><sub>heterogeneity</sub> = .26) or by cancer subsite (summary RR for colon = 1.43, 95% CI = 1.28 to 1.60; summary RR for rectum = 1.33, 95% CI = 1.14
+                     to 1.54; <em>P</em><sub>heterogeneity</sub> = .42). Diabetes was positively associated with colorectal cancer mortality (summary RR = 1.26, 95% CI = 1.05 to 1.50), but
+                     there was evidence for heterogeneity between studies (<em>P</em><sub>heterogeneity</sub> = .04). <em>Conclusions:</em> Our findings strongly support a relationship between diabetes and increased risk of colon and rectal cancer in both women
+                     and men.
+                  </p>
+                  
+               </div>
+               <p id="p-2">Type 2 diabetes mellitus and colorectal cancer are major causes of morbidity and mortality in the United States and other
+                  Western countries <em>(<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">1</a>–<a id="xref-ref-3-1" class="xref-bibr" href="#ref-3">3</a>)</em>. Dietary and lifestyle risk factors for developing insulin resistance and type 2 diabetes, such as Western diet, physical
+                  inactivity, and obesity, have also been linked to an increased risk of colon cancer <em>(<a id="xref-ref-4-1" class="xref-bibr" href="#ref-4">4</a>–<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">7</a>)</em>. On the basis of the overlapping risk factors, it has been hypothesized that diabetes itself may be a risk factor for colon
+                  cancer <em>(<a id="xref-ref-8-1" class="xref-bibr" href="#ref-8">8</a>)</em>.
+               </p>
+               <p id="p-3">Although epidemiologic studies of the relationship of diabetes with the risk of colorectal cancer are not entirely consistent,
+                  most studies are compatible with a positive association. In some studies, the association appeared to be stronger for colon
+                  cancer than for rectal cancer <em>(<a id="xref-ref-9-1" class="xref-bibr" href="#ref-9">9</a>–<a id="xref-ref-12-1" class="xref-bibr" href="#ref-12">12</a>)</em>, or the association was observed only in women <em>(<a id="xref-ref-10-1" class="xref-bibr" href="#ref-10">10</a>,<a id="xref-ref-13-1" class="xref-bibr" href="#ref-13">13</a>,<a id="xref-ref-14-1" class="xref-bibr" href="#ref-14">14</a>)</em>. The interpretation of these findings, however, has been hampered by the low frequency at which both diseases occur in the
+                  same individual, which results in the lack of statistical power to adequately analyze this association.
+               </p>
+               <p id="p-4">To provide a quantitative assessment of the association between diabetes and risk of colorectal cancer, we conducted a meta-analysis
+                  of case–control and cohort studies. We also evaluated whether the association varied by sex and by cancer subsite (colon versus
+                  rectum and proximal colon versus distal colon).
+               </p>
+               <div class="section" id="sec-1">
+                  <div class="section-nav"><a href="#abstract-1" title="Abstract" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-6" title="RESULTS" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>M<span class="sc">ATERIALS AND</span> M<span class="sc">ETHODS</span></h2>
+                  
+                  
+                  <h3>Search Strategy</h3>
+                  
+                  <p id="p-5">We identified studies by a literature search of the Medline database (from January 1, 1966, through July 31, 2005) with the
+                     following medical subject heading terms and/or text words: “diabetes mellitus,” “diabetes,” “colorectal cancer,” “colorectal
+                     neoplasm,” “colon cancer,” “colon neoplasm,” “rectal cancer,” and “rectal neoplasm.” We also reviewed reference lists of the
+                     identified publications for additional pertinent studies. No language restrictions were imposed.
+                  </p>
+                  
+                  
+                  
+                  <h3>Inclusion and Exclusion Criteria</h3>
+                  
+                  <p id="p-6">The 25 studies considered for inclusion in this meta-analysis were case–control and cohort studies on the association between
+                     diabetes and the incidence of or mortality from colon, rectal, or colorectal cancer <em>(<a id="xref-ref-9-2" class="xref-bibr" href="#ref-9">9</a>–<a id="xref-ref-33-1" class="xref-bibr" href="#ref-33">33</a>)</em>. Studies were excluded if they provided only an estimate of effect with no means to calculate a confidence interval or if
+                     the estimates were not adjusted by age. When there were multiple publications from the same population or cohort, only data
+                     from the most recent report were included. We excluded three candidate studies <em>(<a id="xref-ref-15-1" class="xref-bibr" href="#ref-15">15</a>–<a id="xref-ref-17-1" class="xref-bibr" href="#ref-17">17</a>)</em> because of overlapping publications and one study <em>(<a id="xref-ref-18-1" class="xref-bibr" href="#ref-18">18</a>)</em> that reported only crude data that were not adjusted by age.
+                  </p>
+                  
+                  
+                  
+                  <h3>Data Extraction</h3>
+                  
+                  <p id="p-7">The data that we extracted included publication data (the first author's last name, year of publication, and country of population
+                     studied), study design, number of exposed and unexposed subjects, control source (in case–control studies), follow-up period
+                     (for cohort studies), type of diabetes (type 1 or 2), risk estimates with their corresponding confidence intervals, and variables
+                     controlled for by matching or in the multivariable model. From each study, we extracted the risk estimates that reflected
+                     the greatest degree of control for potential confounders.
+                  </p>
+                  
+                  
+                  
+                  <h3>Statistical Analysis</h3>
+                  
+                  <p id="p-8">We divided epidemiologic studies of the relationship between diabetes and colorectal cancer risk into three general types
+                     according to measure of relative risk (RR): case–control studies (odds ratio), cohort studies (incidence and/or mortality
+                     rate ratio), and cohort studies with an external comparison group (standardized incidence and/or mortality ratio). We conducted
+                     separate meta-analyses of colorectal cancer incidence and mortality. The measure of effect of interest is the relative risk.
+                     Because colorectal cancer is rare, the odds ratio in case–control studies and rate ratios in cohort studies yield similar
+                     estimates of relative risk <em>(<a id="xref-ref-34-1" class="xref-bibr" href="#ref-34">34</a>)</em>. Cohort studies that reported standardized incidence/mortality ratio were analyzed separately.
+                  </p>
+                  
+                  <p id="p-9">Summary relative risk estimates with their corresponding 95% confidence intervals (CIs) were derived with the method of DerSimonian
+                     and Laird <em>(<a id="xref-ref-35-1" class="xref-bibr" href="#ref-35">35</a>)</em> by use of the assumptions of a random effects model, which incorporates between-study variability. We calculated a pooled
+                     relative risk and its corresponding 95% confidence interval for studies that reported only sex- and/or subsite-specific relative
+                     risks. Statistical heterogeneity between studies was evaluated with Cochran's <em>Q</em> test and the <em>I</em><sup>2</sup> statistic <em>(<a id="xref-ref-36-1" class="xref-bibr" href="#ref-36">36</a>)</em>. Publication bias was assessed by constructing a funnel plot <em>(<a id="xref-ref-37-1" class="xref-bibr" href="#ref-37">37</a>)</em>, by Begg's adjusted rank correlation test, and by Egger's regression asymmetry test <em>(<a id="xref-ref-38-1" class="xref-bibr" href="#ref-38">38</a>)</em>.
+                  </p>
+                  
+                  <p id="p-10">For case–control studies and cohort studies that reported incidence rate ratios, we conducted subgroup meta-analyses to examine
+                     potential sources of heterogeneity, including study design, type of control subjects in case–control studies, sex, cancer
+                     subsite, and duration of follow-up for cohort studies. Statistical analyses were carried out with Stata, version 8.0 (Stata
+                     Corp, College Station, TX). <em>P</em> values that were less than .05 were considered statistically significant. All statistical tests were two-sided.
+                  </p>
+                  
+                  
+               </div>
+               <div class="section" id="sec-6">
+                  <div class="section-nav"><a href="#sec-1" title="MATERIALS AND METHODS" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-11" title="DISCUSSION" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>R<span class="sc">ESULTS</span></h2>
+                  
+                  
+                  <h3>Study Characteristics</h3>
+                  
+                  <p id="p-11">Twenty-one independent studies met the predefined inclusion criteria. Of these 21 studies, six were case–control studies <em>(<a id="xref-ref-10-2" class="xref-bibr" href="#ref-10">10</a>,<a id="xref-ref-13-2" class="xref-bibr" href="#ref-13">13</a>,<a id="xref-ref-19-1" class="xref-bibr" href="#ref-19">19</a>,<a id="xref-ref-26-1" class="xref-bibr" href="#ref-26">26</a>,<a id="xref-ref-27-1" class="xref-bibr" href="#ref-27">27</a>,<a id="xref-ref-33-2" class="xref-bibr" href="#ref-33">33</a>)</em> (<a id="xref-table-wrap-1-1" class="xref-table" href="#T1">Table 1</a>), 11 were cohort studies that used incidence and/or mortality rate ratios as the measure of relative risk <em>(<a id="xref-ref-9-3" class="xref-bibr" href="#ref-9">9</a>,<a id="xref-ref-11-1" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-14-2" class="xref-bibr" href="#ref-14">14</a>,<a id="xref-ref-20-1" class="xref-bibr" href="#ref-20">20</a>,<a id="xref-ref-22-1" class="xref-bibr" href="#ref-22">22</a>–<a id="xref-ref-24-1" class="xref-bibr" href="#ref-24">24</a>,<a id="xref-ref-28-1" class="xref-bibr" href="#ref-28">28</a>,<a id="xref-ref-30-1" class="xref-bibr" href="#ref-30">30</a>–<a id="xref-ref-32-1" class="xref-bibr" href="#ref-32">32</a>)</em> (<a id="xref-table-wrap-2-1" class="xref-table" href="#T2">Table 2</a>), and four were cohort studies that used standardized incidence and/or mortality ratio as the measure of relative risk <em>(<a id="xref-ref-12-2" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-21-1" class="xref-bibr" href="#ref-21">21</a>,<a id="xref-ref-25-1" class="xref-bibr" href="#ref-25">25</a>,<a id="xref-ref-29-1" class="xref-bibr" href="#ref-29">29</a>)</em> (<a id="xref-table-wrap-3-1" class="xref-table" href="#T3">Table 3</a>). Eleven studies were conducted in the United States, eight in Europe, one in Australia, and one in Korea. Of the 15 cohort
+                     studies, incident colorectal cancer was the outcome in seven, mortality from colon, rectal, or colorectal cancer was the outcome
+                     in three, and colorectal cancer incidence and mortality were reported in five. In the primary meta-analysis of diabetes and
+                     colorectal cancer incidence, we included all six case–control studies <em>(<a id="xref-ref-10-3" class="xref-bibr" href="#ref-10">10</a>,<a id="xref-ref-13-3" class="xref-bibr" href="#ref-13">13</a>,<a id="xref-ref-19-2" class="xref-bibr" href="#ref-19">19</a>,<a id="xref-ref-26-2" class="xref-bibr" href="#ref-26">26</a>,<a id="xref-ref-27-2" class="xref-bibr" href="#ref-27">27</a>,<a id="xref-ref-33-3" class="xref-bibr" href="#ref-33">33</a>)</em> and the nine cohort studies that reported incidence rate ratios <em>(<a id="xref-ref-9-4" class="xref-bibr" href="#ref-9">9</a>,<a id="xref-ref-11-2" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-14-3" class="xref-bibr" href="#ref-14">14</a>,<a id="xref-ref-20-2" class="xref-bibr" href="#ref-20">20</a>,<a id="xref-ref-22-2" class="xref-bibr" href="#ref-22">22</a>,<a id="xref-ref-24-2" class="xref-bibr" href="#ref-24">24</a>,<a id="xref-ref-28-2" class="xref-bibr" href="#ref-28">28</a>,<a id="xref-ref-30-2" class="xref-bibr" href="#ref-30">30</a>,<a id="xref-ref-31-1" class="xref-bibr" href="#ref-31">31</a>)</em>. These 15 studies included a total of 2 593 935 participants. The three cohort studies <em>(<a id="xref-ref-12-3" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-21-2" class="xref-bibr" href="#ref-21">21</a>,<a id="xref-ref-25-2" class="xref-bibr" href="#ref-25">25</a>)</em> that reported standardized incidence ratio were analyzed separately. For the meta-analysis of diabetes and colorectal cancer
+                     mortality, we included the six cohort studies that reported mortality rate ratio <em>(<a id="xref-ref-11-3" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-20-3" class="xref-bibr" href="#ref-20">20</a>,<a id="xref-ref-23-1" class="xref-bibr" href="#ref-23">23</a>,<a id="xref-ref-28-3" class="xref-bibr" href="#ref-28">28</a>,<a id="xref-ref-30-3" class="xref-bibr" href="#ref-30">30</a>,<a id="xref-ref-32-2" class="xref-bibr" href="#ref-32">32</a>)</em>. These six studies enrolled a total of 2 523 580 participants.
+                     
+                     
+                     
+                  </p>
+                  <div class="table pos-float" id="T1">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1679/T1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1679/T1.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 1.</strong> </span> 
+                        <p id="p-12" class="first-child">Characteristics of case–control studies of diabetes and colorectal cancer incidence*</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  <div class="table pos-float" id="T2">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1679/T2.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1679/T2.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 2.</strong> </span> 
+                        <p id="p-18" class="first-child">Characteristics of cohort studies of diabetes and colorectal cancer incidence and mortality*</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  <div class="table pos-float" id="T3">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1679/T3.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1679/T3.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 3.</strong> </span> 
+                        <p id="p-24" class="first-child">Characteristics of cohort studies of diabetes and colorectal cancer based on standardized incidence/mortality ratio*</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  
+                  
+                  <h3>Colorectal Cancer Incidence</h3>
+                  
+                  <p id="p-29">Individual study results and the overall summary results for the six case–control and nine cohort studies of diabetes and
+                     colorectal cancer incidence are shown in <a id="xref-fig-1-1" class="xref-fig" href="#F1">Fig. 1</a>. Eight of these 15 studies found a statistically significant positive association between diabetes and colorectal cancer
+                     incidence (range of individual RRs = 1.02 to 2.78; summary RR for all 15 studies = 1.30, 95% CI = 1.20 to 1.40). No heterogeneity
+                     among studies was found (<em>Q</em> = 17.9; <em>P</em><sub>heterogeneity</sub> = .21; <em>I</em><sup>2</sup> = 21.8%). In a sensitivity analysis in which one study at a time was excluded and the rest were analyzed, we detected a statistically
+                     significant positive association between diabetes and colorectal cancer incidence (range of summary RRs = 1.25 to 1.36; the
+                     lower limit of the 95% CI never crossed 1.0).
+                     
+                  </p>
+                  <div id="F1" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="1679/F1.expansion.html"><img alt="Fig. 1." src="1679/F1.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="1679/F1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1679/F1.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/97/22/1679/F1">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 1.</strong></span> 
+                        <p id="p-30" class="first-child">Association between diabetes and colorectal cancer incidence in case–control and cohort studies. Studies are ordered by study
+                           design and publication year. RR = relative risk; CI = confidence interval; squares = study-specific RR estimate (size of the
+                           <strong>square</strong> reflects the study-specific statistical weight, i.e., the inverse of the variance); <strong>horizontal lines</strong> = 95% CI; <strong>diamond</strong> = summary relative risk estimate and its corresponding 95% CI. All statistical tests were two-sided. Statistical heterogeneity
+                           between studies was assessed with Cochran's <em>Q</em> test.
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-31">We then conducted subgroup meta-analyses by study design, geographical area, sex, cancer subsite, and duration of follow-up
+                     (<a id="xref-table-wrap-4-1" class="xref-table" href="#T4">Table 4</a>). The association between diabetes and colorectal cancer incidence was somewhat stronger in case–control studies (summary
+                     RR = 1.36; 95% CI = 1.23 to 1.50) than in cohort studies (summary RR = 1.29; 95% CI = 1.16 to 1.43), but there was no heterogeneity
+                     among study types (<em>P</em><sub>heterogeneity</sub> = .08). In case–control studies, the source of control subjects did not statistically significantly affect the magnitude
+                     of the association. Results were consistent for studies conducted in the United States and in Europe. Results were also consistent
+                     for studies in women (summary RR among women = 1.33, 95% CI = 1.23 to 1.44) and in men (summary RR among men = 1.29, 95% CI
+                     = 1.15 to 1.44) (<em>P</em><sub>heterogeneity</sub> = .26). For cancer subsites, the summary estimate was similar for colon cancer (RR = 1.43, 95% CI = 1.28 to 1.60) and for
+                     rectal cancer (RR = 1.33, 95% CI = 1.14 to 1.54) (<em>P</em><sub>heterogeneity</sub> = .42). There was also no statistically significant difference between subsites in the colon (i.e., proximal colon versus
+                     distal colon). Stratifying cohort studies by duration of follow-up resulted in no evidence of heterogeneity. Finally, the
+                     summary estimate was similar (<em>P</em><sub>heterogeneity</sub> = .73) for studies (four case–control and four cohort) published before 2000 (RR = 1.28, 95% CI = 1.16 to 1.42) and for studies
+                     (two case–control and five cohort) published after 2000 (RR = 1.36, 95% CI = 1.17 to 1.58).
+                     
+                  </p>
+                  <div class="table pos-float" id="T4">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1679/T4.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1679/T4.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 4.</strong> </span> 
+                        <p id="p-32" class="first-child">Summary relative risk (RR) estimates and 95% confidence intervals (CIs) for case–control and cohort studies of the association
+                           between diabetes and colorectal cancer incidence by study design, geographical area, sex, cancer subsite, and duration of
+                           follow-up
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-38">Physical activity and body mass index are potentially the most important known confounders of the positive association between
+                     diabetes and colorectal cancer risk. When we restricted the meta-analysis to studies that controlled for these variables <em>(<a id="xref-ref-10-5" class="xref-bibr" href="#ref-10">10</a>,<a id="xref-ref-11-7" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-14-5" class="xref-bibr" href="#ref-14">14</a>,<a id="xref-ref-20-6" class="xref-bibr" href="#ref-20">20</a>,<a id="xref-ref-22-4" class="xref-bibr" href="#ref-22">22</a>,<a id="xref-ref-31-3" class="xref-bibr" href="#ref-31">31</a>,<a id="xref-ref-33-5" class="xref-bibr" href="#ref-33">33</a>)</em>, we found a positive association between diabetes and colorectal cancer (summary RR = 1.34, 95% CI = 1.20 to 1.49), without
+                     statistically significant heterogeneity among studies (<em>Q</em> = 2.05; <em>P</em><sub>heterogeneity</sub> = 0.91). Three studies reported both age-adjusted and multivariable-adjusted relative risks <em>(<a id="xref-ref-11-8" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-20-7" class="xref-bibr" href="#ref-20">20</a>,<a id="xref-ref-31-4" class="xref-bibr" href="#ref-31">31</a>)</em>. When we restricted the meta-analysis to those studies, the positive association between diabetes and colorectal cancer remained
+                     (summary RR adjusted for age only = 1.34, 95% CI = 1.12 to 1.60), and the estimate was identical to estimates that were adjusted
+                     for physical activity and body mass index, as well as other potential confounders (RR = 1.34, 95% CI = 1.18 to 1.53), indicating
+                     a lack of confounding.
+                  </p>
+                  
+                  <p id="p-39">A positive association was observed between diabetes and colorectal cancer incidence in the three cohort studies that reported
+                     standardized incidence ratios (summary RR = 1.22, 95% CI = 1.07 to 1.40) (<a id="xref-table-wrap-3-2" class="xref-table" href="#T3">Table 3</a>). The test for heterogeneity among these three studies was not statistically significant (<em>Q</em> = 4.52; <em>P</em><sub>heterogeneity</sub> = .10; <em>I</em><sup>2</sup> = 55.8%).
+                  </p>
+                  
+                  
+                  
+                  <h3>Colorectal Cancer Mortality</h3>
+                  
+                  <p id="p-40">Of six cohort studies of diabetes and mortality from colon <em>(<a id="xref-ref-23-3" class="xref-bibr" href="#ref-23">23</a>)</em> or colorectal <em>(<a id="xref-ref-11-9" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-20-8" class="xref-bibr" href="#ref-20">20</a>,<a id="xref-ref-28-6" class="xref-bibr" href="#ref-28">28</a>,<a id="xref-ref-30-6" class="xref-bibr" href="#ref-30">30</a>,<a id="xref-ref-32-4" class="xref-bibr" href="#ref-32">32</a>)</em> cancer, three <em>(<a id="xref-ref-11-10" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-30-7" class="xref-bibr" href="#ref-30">30</a>,<a id="xref-ref-32-5" class="xref-bibr" href="#ref-32">32</a>)</em> reported a statistically significant positive association, and one <em>(<a id="xref-ref-28-7" class="xref-bibr" href="#ref-28">28</a>)</em> observed a nonstatistically significant 3.6-fold (RR = 3.60, 95% CI = 0.81 to 15.89) increase in colorectal cancer risk associated
+                     with diabetes (<a id="xref-table-wrap-2-2" class="xref-table" href="#T2">Table 2</a>). When all six studies were analyzed, a positive association between diabetes and mortality from colorectal cancer was found
+                     (summary RR = 1.26, 95% CI = 1.05 to 1.50). However, there was statistically significant heterogeneity among studies (<em>Q</em> = 11.59; <em>P</em><sub>heterogeneity</sub> = .04; <em>I</em><sup> 2</sup> = 56.8%). A sensitivity analysis identified the study by Hu et al. <em>(<a id="xref-ref-11-11" class="xref-bibr" href="#ref-11">11</a>)</em> as contributing most to the heterogeneity. In an analysis excluding this study, the association between diabetes and mortality
+                     from colorectal cancer was weaker (summary RR = 1.19, 95% CI = 1.10 to 1.28), and the test for heterogeneity was not statistically
+                     significant (<em>Q</em> = 4.03; <em>P</em><sub>heterogeneity</sub> = .40; <em>I</em><sup> 2</sup> = 0.6%). The association between diabetes and colorectal cancer mortality did not differ statistically significantly by sex
+                     (<em>Q</em> = 0.10; <em>P</em><sub>heterogeneity</sub> = .75).
+                  </p>
+                  
+                  <p id="p-41">Of two cohort studies that reported standardized mortality ratios <em>(<a id="xref-ref-21-5" class="xref-bibr" href="#ref-21">21</a>,<a id="xref-ref-29-3" class="xref-bibr" href="#ref-29">29</a>)</em> (<a id="xref-table-wrap-3-3" class="xref-table" href="#T3">Table 3</a>), one <em>(<a id="xref-ref-21-6" class="xref-bibr" href="#ref-21">21</a>)</em> reported a statistically significant approximately 1.5-fold increased risk of death from colorectal cancer among diabetic
+                     patients. The other study found no statistically significant association between diabetes and rectal cancer mortality <em>(<a id="xref-ref-29-4" class="xref-bibr" href="#ref-29">29</a>)</em>.
+                  </p>
+                  
+                  
+                  
+                  <h3>Publication Bias</h3>
+                  
+                  <p id="p-42">There was no funnel plot asymmetry for the association between diabetes and colorectal cancer risk (data not shown). <em>P</em> values for Begg's adjusted rank correlation test and Egger's regression asymmetry test were .79 and .28, respectively, indicating
+                     a low probability of publication bias.
+                  </p>
+                  
+                  
+               </div>
+               <div class="section" id="sec-11">
+                  <div class="section-nav"><a href="#sec-6" title="RESULTS" class="prev-section-link"><span>Previous Section</span></a><a href="#fn-group-1" title="Footnotes" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>D<span class="sc">ISCUSSION</span></h2>
+                  
+                  <p id="p-43">Findings from this meta-analysis indicate that individuals with diabetes have an approximately 30% increased relative risk
+                     of developing colorectal cancer compared with nondiabetic individuals. The results were consistent for case–control and cohort
+                     studies and for studies carried out in the United States and in Europe. The association was observed in both women and men
+                     and for all subsites in the colorectum.
+                  </p>
+                  
+                  <p id="p-44">Our analysis must be interpreted in the context of the limitations of the available data. Most of the studies did not distinguish
+                     between type 1 and type 2 diabetes. Because type 1 diabetes [which accounts for 5% to 10% of all diagnosed cases of diabetes
+                     <em>(<a id="xref-ref-1-2" class="xref-bibr" href="#ref-1">1</a>)</em>] may not be related to colorectal cancer <em>(<a id="xref-ref-12-5" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-39-1" class="xref-bibr" href="#ref-39">39</a>)</em>, the magnitude of the association between diabetes and colorectal cancer risk may have been slightly underestimated. In addition,
+                     because diabetes is an underdiagnosed disease, some degree of misclassification of exposure to diabetes is likely to have
+                     occurred. Such nondifferential misclassification would also tend to attenuate the true relationship between diabetes and colorectal
+                     cancer. As in any meta-analysis, the possibility of publication bias is of concern. However, the results obtained from funnel
+                     plot analysis and formal statistical tests did not provide evidence for such bias.
+                  </p>
+                  
+                  <p id="p-45">Type 2 diabetes and colorectal cancer share similar risk factors, including physical inactivity and obesity <em>(<a id="xref-ref-8-2" class="xref-bibr" href="#ref-8">8</a>)</em>. Thus, the observed increased risk of colorectal cancer associated with a history of diabetes may reflect confounding by
+                     these risk factors. However, a positive association between diabetes and colorectal cancer risk remained when we limited the
+                     meta-analysis to studies that controlled for physical activity and body mass index (summary RR = 1.34, 95% CI = 1.20 to 1.49).
+                  </p>
+                  
+                  <p id="p-46">Discrepancies among studies investigating the relationship of diabetes with colorectal cancer risk according to sex and cancer
+                     subsite may be attributable to small sample sizes that resulted in insufficient statistical power to detect some relationships
+                     in the individual studies. Because this meta-analysis included a large number of studies, we could assess the association
+                     according to sex and cancer subsite with high precision.
+                  </p>
+                  
+                  <p id="p-47">A relationship between diabetes and risk of colorectal cancer is biologically plausible. Type 2 diabetes is characterized
+                     by increased insulin concentrations during the early stage of the disease. Hyperinsulinemia <em>(<a id="xref-ref-8-3" class="xref-bibr" href="#ref-8">8</a>)</em> or factors related to insulin resistance, such as hyperglycemia or hypertriglyceridemia <em>(<a id="xref-ref-40-1" class="xref-bibr" href="#ref-40">40</a>)</em>, have been associated with colorectal carcinogenesis. Insulin can stimulate cell proliferation through a minor pathway that
+                     involves the direct activation of the insulin receptor or insulin-like growth factor (IGF)-I receptor and a major pathway
+                     that acts through the inhibition of IGF binding proteins (in particular, IGFBP-1 and IGFBP-2), which may result in increased
+                     free and bioavailable IGF-I <em>(<a id="xref-ref-41-1" class="xref-bibr" href="#ref-41">41</a>)</em>. An important role of insulin and IGF-I in colorectal carcinogenesis is supported by in vitro studies, animal models, and
+                     epidemiologic studies <em>(<a id="xref-ref-41-2" class="xref-bibr" href="#ref-41">41</a>–<a id="xref-ref-44-1" class="xref-bibr" href="#ref-44">44</a>)</em>. Epidemiologic studies of circulating concentrations of insulin, C-peptide (a marker of insulin secretion), or IGF-I have
+                     shown two- to threefold increased risks of colorectal cancer for individuals in the highest exposure categories, compared
+                     with those in the lowest exposure categories <em>(<a id="xref-ref-24-4" class="xref-bibr" href="#ref-24">24</a>,<a id="xref-ref-45-1" class="xref-bibr" href="#ref-45">45</a>–<a id="xref-ref-48-1" class="xref-bibr" href="#ref-48">48</a>)</em>. Furthermore, a recent study reported that chronic insulin therapy was associated with a statistically significant increase
+                     in colorectal cancer risk among patients with type 2 diabetes <em>(<a id="xref-ref-49-1" class="xref-bibr" href="#ref-49">49</a>)</em>. Other mechanisms through which diabetes may be linked with the risk of colorectal cancer include slower bowel transit times
+                     in patients with diabetes, which could contribute to the increased exposure of colonic mucosa to potential carcinogens, and
+                     elevated concentrations of fecal bile acids associated with increased blood glucose and triglyceride concentrations <em>(<a id="xref-ref-20-9" class="xref-bibr" href="#ref-20">20</a>,<a id="xref-ref-50-1" class="xref-bibr" href="#ref-50">50</a>–<a id="xref-ref-52-1" class="xref-bibr" href="#ref-52">52</a>)</em>. Fecal bile acids have been shown to promote colorectal cancer in animal models <em>(<a id="xref-ref-53-1" class="xref-bibr" href="#ref-53">53</a>)</em>.
+                  </p>
+                  
+                  <p id="p-48">Our results have important clinical and public health implications. In the United States, about 8% of adults have diabetes
+                     <em>(<a id="xref-ref-54-1" class="xref-bibr" href="#ref-54">54</a>)</em>, and it has been predicted that the number of Americans with diagnosed diabetes will increase 165%, from 11 million in 2000
+                     (prevalence of 4.0%) to 29 million in 2050 (prevalence of 7.2%) <em>(<a id="xref-ref-55-1" class="xref-bibr" href="#ref-55">55</a>)</em>. Colorectal cancer is the second leading cause of cancer death in the United States and other Western countries <em>(<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2">2</a>,<a id="xref-ref-3-2" class="xref-bibr" href="#ref-3">3</a>)</em>. The prevalence of diabetes will probably increase as a result of the growing obesity epidemic, and thus this disease may
+                     contribute to the development of additional cases of colorectal cancers.
+                  </p>
+                  
+                  <p id="p-49">In summary, the results from this meta-analysis strongly support an association between diabetes and increased risk of colon
+                     and rectal cancer in both women and men. These findings provide evidence for a role of hyperinsulinemia or factors related
+                     to insulin resistance in colorectal carcinogenesis.
+                  </p>
+                  
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <div class="section-nav"><a href="#sec-11" title="DISCUSSION" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn" id="fn-20">
+                        
+                        <p id="p-50">Supported by grants from the Swedish Research Council/Longitudinal Studies and the Swedish Cancer Foundation.</p>
+                        
+                     </li>
+                  </ul>
+               </div>
+               <ul>
+                  <li class="fn" id="copyright-statement-1">© The Author 2005. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oxfordjournals.org.</li>
+               </ul>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#fn-group-1" title="Footnotes" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">(1)</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference (1) in text"
+                           id="ref-1">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.1"
+                             data-doi="10.7326/0003-4819-140-11-200406010-00035">
+                           <div class="cit-metadata"><cite>Engelgau MM, Geiss LS, Saaddine JB, Boyle JP, Benjamin SM, Gregg EW, et al. The evolving diabetes burden in the United States.
+                                 <span class="cit-source">Ann Intern Med</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">140</span>:<span class="cit-fpage">945</span>–50.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.7326/0003-4819-140-11-200406010-00035&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15172919&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000221680600025&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(2)</span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference (2) in text"
+                           id="ref-2">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.2"
+                             data-doi="10.3322/canjclin.55.1.10">
+                           <div class="cit-metadata"><cite>Jemal A, Murray T, Ward E, Samuels A, Tiwari RC, Ghafoor A, et al. Cancer statistics, 2005. <span class="cit-source">CA Cancer J Clin</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">55</span>:<span class="cit-fpage">10</span>–30.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.3322/canjclin.55.1.10&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15661684&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000231483900007&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(3)</span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference (3) in text"
+                           id="ref-3">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.3"
+                             data-doi="10.3322/canjclin.55.2.74">
+                           <div class="cit-metadata"><cite>Parkin DM, Bray F, Ferlay J, Pisani P. Global cancer statistics, 2002. <span class="cit-source">CA Cancer J Clin</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">55</span>:<span class="cit-fpage">74</span>–108.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.3322/canjclin.55.2.74&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15761078&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000231484000005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(4)</span><a class="rev-xref-ref" href="#xref-ref-4-1" title="View reference (4) in text"
+                           id="ref-4">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.4"
+                             data-doi="10.1146/annurev.publhealth.26.021304.144532">
+                           <div class="cit-metadata"><cite>Schulze MB, Hu FB. Primary prevention of diabetes: what can be done and how much can be prevented? <span class="cit-source">Annu Rev Public Health</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">26</span>:<span class="cit-fpage">445</span>–67.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1146/annurev.publhealth.26.021304.144532&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15760297&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000228981500020&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(5)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-97.22.1679.5"
+                             data-doi="10.1001/archinte.164.20.2235">
+                           <div class="cit-metadata"><cite>Fung TT, Schulze M, Manson JE, Willett WC, Hu FB. Dietary patterns, meat intake, and the risk of type 2 diabetes in women.
+                                 <span class="cit-source">Arch Intern Med</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">164</span>:<span class="cit-fpage">2235</span>–40.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/archinte.164.20.2235&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15534160&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000224965600008&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(6)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-97.22.1679.6">
+                           <div class="cit-metadata"><cite>World Cancer Research Fund/American Institute for Cancer Research (WCRF/AICR). Food, nutrition and the prevention of cancer:
+                                 a global perspective. Washington (DC): WCRF/AICR; <span class="cit-pub-date">1997</span>.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(7)</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference (7) in text"
+                           id="ref-7">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.7"
+                             data-doi="10.1016/S0889-8553(02)00057-2">
+                           <div class="cit-metadata"><cite>Giovannucci E. Modifiable risk factors for colon cancer. <span class="cit-source">Gastroenterol Clin North Am</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">31</span>:<span class="cit-fpage">925</span>–43.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0889-8553(02)00057-2&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12489270&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(8)</span><a class="rev-xref-ref" href="#xref-ref-8-1" title="View reference (8) in text"
+                           id="ref-8">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.8"
+                             data-doi="10.1007/BF00052777">
+                           <div class="cit-metadata"><cite>Giovannucci E. Insulin and colon cancer. <span class="cit-source">Cancer Causes Control</span> <span class="cit-pub-date">1995</span>;<span class="cit-vol">6</span>:<span class="cit-fpage">164</span>–79.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/BF00052777&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7749056&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995QL73000010&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(9)</span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference (9) in text"
+                           id="ref-9">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.9">
+                           <div class="cit-metadata"><cite>Limburg PJ, Anderson KE, Johnson TW, Jacobs DR, Jr., Lazovich D, Hong CP, et al. Diabetes mellitus and subsite-specific colorectal
+                                 cancer risks in the Iowa Women's Health Study. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">14</span>:<span class="cit-fpage">133</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=14/1/133"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(10)</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference (10) in text"
+                           id="ref-10">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.10">
+                           <div class="cit-metadata"><cite>Le Marchand L, Wilkens LR, Kolonel LN, Hankin JH, Lyu LC. Associations of sedentary lifestyle, obesity, smoking, alcohol use,
+                                 and diabetes with the risk of colorectal cancer. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">1997</span>;<span class="cit-vol">57</span>:<span class="cit-fpage">4787</span>–94.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=57/21/4787"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(11)</span><a class="rev-xref-ref" href="#xref-ref-11-1" title="View reference (11) in text"
+                           id="ref-11">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.11"
+                             data-doi="10.1093/jnci/91.6.542">
+                           <div class="cit-metadata"><cite>Hu FB, Manson JE, Liu S, Hunter D, Colditz GA, Michels KB, et al. Prospective study of adult onset diabetes mellitus (type
+                                 2) and risk of colorectal cancer in women. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">91</span>:<span class="cit-fpage">542</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=91/6/542"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(12)</span><a class="rev-xref-ref" href="#xref-ref-12-1" title="View reference (12) in text"
+                           id="ref-12">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.12"
+                             data-doi="10.1093/jnci/89.18.1360">
+                           <div class="cit-metadata"><cite>Wideroff L, Gridley G, Mellemkjaer L, Chow WH, Linet M, Keehn S, et al. Cancer incidence in a population-based cohort of patients
+                                 hospitalized with diabetes mellitus in Denmark. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">1997</span>;<span class="cit-vol">89</span>:<span class="cit-fpage">1360</span>–5.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=89/18/1360"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(13)</span><a class="rev-xref-ref" href="#xref-ref-13-1" title="View reference (13) in text"
+                           id="ref-13">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.13"
+                             data-doi="10.1136/jech.56.6.479">
+                           <div class="cit-metadata"><cite>Levi F, Pasche C, Lucchini F, La Vecchia C. Diabetes mellitus, family history, and colorectal cancer. <span class="cit-source">J Epidemiol Community Health</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">56</span>:<span class="cit-fpage">479</span>–80; author reply 480.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=FULL&amp;journalCode=jech&amp;resid=56/6/479"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(14)</span><a class="rev-xref-ref" href="#xref-ref-14-1" title="View reference (14) in text"
+                           id="ref-14">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.14"
+                             data-doi="10.1054/bjoc.2000.1582">
+                           <div class="cit-metadata"><cite>Nilsen TI, Vatten LJ. Prospective study of colorectal cancer risk and physical activity, diabetes, blood glucose and BMI:
+                                 exploring the hyperinsulinaemia hypothesis. <span class="cit-source">Br J Cancer</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">84</span>:<span class="cit-fpage">417</span>–22.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1054/bjoc.2000.1582&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11161410&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000166995400021&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(15)</span><a class="rev-xref-ref" href="#xref-ref-15-1" title="View reference (15) in text"
+                           id="ref-15">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.15"
+                             data-doi="10.1007/BF00051670">
+                           <div class="cit-metadata"><cite>Adami HO, McLaughlin J, Ekbom A, Berne C, Silverman D, Hacker D, et al. Cancer risk in patients with diabetes mellitus. <span class="cit-source">Cancer Causes Control</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">2</span>:<span class="cit-fpage">307</span>–14.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/BF00051670&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=1932543&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1991GF18300004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(16)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-97.22.1679.16"
+                             data-doi="10.1038/bjc.1994.427">
+                           <div class="cit-metadata"><cite>La Vecchia C, Negri E, Franceschi S, D'Avanzo B, Boyle P. A case-control study of diabetes mellitus and cancer risk. <span class="cit-source">Br J Cancer</span> <span class="cit-pub-date">1994</span>;<span class="cit-vol">70</span>:<span class="cit-fpage">950</span>–3.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1038/bjc.1994.427&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7947103&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1994PP75600029&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(17)</span><a class="rev-xref-ref" href="#xref-ref-17-1" title="View reference (17) in text"
+                           id="ref-17">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.17"
+                             data-doi="10.1016/0277-5379(91)90223-Z">
+                           <div class="cit-metadata"><cite>La Vecchia C, D'Avanzo B, Negri E, Franceschi S. History of selected diseases and the risk of colorectal cancer. <span class="cit-source">Eur J Cancer</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">27</span>:<span class="cit-fpage">582</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0277-5379(91)90223-Z&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=1828966&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1991FN61100019&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(18)</span><a class="rev-xref-ref" href="#xref-ref-18-1" title="View reference (18) in text"
+                           id="ref-18">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.18"
+                             data-doi="10.1002/1097-0142(19841215)54:12&lt;3070::AID-CNCR2820541243&gt;3.0.CO;2-N">
+                           <div class="cit-metadata"><cite>Williams JC, Walsh DA, Jackson JF. Colon carcinoma and diabetes mellitus. <span class="cit-source">Cancer</span> <span class="cit-pub-date">1984</span>;<span class="cit-vol">54</span>:<span class="cit-fpage">3070</span>–1.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/1097-0142(19841215)54:12%3C3070::AID-CNCR2820541243%3E3.0.CO;2-N&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=6498783&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1984TY03300042&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(19)</span><a class="rev-xref-ref" href="#xref-ref-19-1" title="View reference (19) in text"
+                           id="ref-19">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.19"
+                             data-doi="10.1016/S1542-3565(05)00152-7">
+                           <div class="cit-metadata"><cite>Yang YX, Hennessy S, Lewis JD. Type 2 diabetes mellitus and the risk of colorectal cancer. <span class="cit-source">Clin Gastroenterol Hepatol</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">3</span>:<span class="cit-fpage">587</span>–94.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S1542-3565(05)00152-7&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15952101&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000234105500012&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(20)</span><a class="rev-xref-ref" href="#xref-ref-20-1" title="View reference (20) in text"
+                           id="ref-20">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.20"
+                             data-doi="10.1093/oxfordjournals.aje.a009534">
+                           <div class="cit-metadata"><cite>Will JC, Galuska DA, Vinicor F, Calle EE. Colorectal cancer: another complication of diabetes mellitus? <span class="cit-source">Am J Epidemiol</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">147</span>:<span class="cit-fpage">816</span>–25.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=amjepid&amp;resid=147/9/816"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(21)</span><a class="rev-xref-ref" href="#xref-ref-21-1" title="View reference (21) in text"
+                           id="ref-21">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.21">
+                           <div class="cit-metadata"><cite>Weiderpass E, Gridley G, Nyren O, Ekbom A, Persson I, Adami HO. Diabetes mellitus and risk of large bowel cancer. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">1997</span>;<span class="cit-vol">89</span>:<span class="cit-fpage">660</span>–1.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=9150194&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(22)</span><a class="rev-xref-ref" href="#xref-ref-22-1" title="View reference (22) in text"
+                           id="ref-22">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.22">
+                           <div class="cit-metadata"><cite>Steenland K, Nowlin S, Palu S. Cancer incidence in the National Health and Nutrition Survey I. Follow-up data: diabetes, cholesterol,
+                                 pulse and physical activity. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">1995</span>;<span class="cit-vol">4</span>:<span class="cit-fpage">807</span>–11.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=4/8/807"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(23)</span><a class="rev-xref-ref" href="#xref-ref-23-1" title="View reference (23) in text"
+                           id="ref-23">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.23">
+                           <div class="cit-metadata"><cite>Smith GD, Egger M, Shipley MJ, Marmot MG. Post-challenge glucose concentration, impaired glucose tolerance, diabetes, and
+                                 cancer mortality in men. <span class="cit-source">Am J Epidemiol</span> <span class="cit-pub-date">1992</span>;<span class="cit-vol">136</span>:<span class="cit-fpage">1110</span>–4.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=amjepid&amp;resid=136/9/1110"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(24)</span><a class="rev-xref-ref" href="#xref-ref-24-1" title="View reference (24) in text"
+                           id="ref-24">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.24"
+                             data-doi="10.1093/jnci/91.13.1147">
+                           <div class="cit-metadata"><cite>Schoen RE, Tangen CM, Kuller LH, Burke GL, Cushman M, Tracy RP, et al. Increased blood glucose and insulin, body size, and
+                                 incident colorectal cancer. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">91</span>:<span class="cit-fpage">1147</span>–54.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=91/13/1147"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(25)</span><a class="rev-xref-ref" href="#xref-ref-25-1" title="View reference (25) in text"
+                           id="ref-25">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.25"
+                             data-doi="10.1016/0021-9681(82)90025-X">
+                           <div class="cit-metadata"><cite>Ragozzino M, Melton LJ, 3rd, Chu CP, Palumbo PJ. Subsequent cancer risk in the incidence cohort of Rochester, Minnesota, residents
+                                 with diabetes mellitus. <span class="cit-source">J Chronic Dis</span> <span class="cit-pub-date">1982</span>;<span class="cit-vol">35</span>:<span class="cit-fpage">13</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0021-9681(82)90025-X&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7068798&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1982NC28100002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(26)</span><a class="rev-xref-ref" href="#xref-ref-26-1" title="View reference (26) in text"
+                           id="ref-26">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.26"
+                             data-doi="10.1016/0021-9681(85)90139-0">
+                           <div class="cit-metadata"><cite>O'Mara BA, Byers T, Schoenfeld E. Diabetes mellitus and cancer risk: a multisite case-control study. <span class="cit-source">J Chronic Dis</span> <span class="cit-pub-date">1985</span>;<span class="cit-vol">38</span>:<span class="cit-fpage">435</span>–41.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0021-9681(85)90139-0&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3998058&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1985AJY7700007&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(27)</span><a class="rev-xref-ref" href="#xref-ref-27-1" title="View reference (27) in text"
+                           id="ref-27">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.27">
+                           <div class="cit-metadata"><cite>Kune GA, Kune S, Watson LF. Colorectal cancer risk, chronic illnesses, operations, and medications: case control results from
+                                 the Melbourne Colorectal Cancer Study. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">1988</span>;<span class="cit-vol">48</span>:<span class="cit-fpage">4399</span>–404.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=48/15/4399"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(28)</span><a class="rev-xref-ref" href="#xref-ref-28-1" title="View reference (28) in text"
+                           id="ref-28">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.28">
+                           <div class="cit-metadata"><cite>Khaw KT, Wareham N, Bingham S, Luben R, Welch A, Day N. Preliminary communication: glycated hemoglobin, diabetes, and incident
+                                 colorectal cancer in men and women: a prospective analysis from the European prospective investigation into cancer-Norfolk
+                                 study. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">13</span>:<span class="cit-fpage">915</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=13/6/915"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(29)</span><a class="rev-xref-ref" href="#xref-ref-29-1" title="View reference (29) in text"
+                           id="ref-29">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.29">
+                           <div class="cit-metadata"><cite>Kessler II. Cancer mortality among diabetics. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">1970</span>;<span class="cit-vol">44</span>:<span class="cit-fpage">673</span>–86.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=11515436&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1970F751800020&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(30)</span><a class="rev-xref-ref" href="#xref-ref-30-1" title="View reference (30) in text"
+                           id="ref-30">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.30"
+                             data-doi="10.1001/jama.293.2.194">
+                           <div class="cit-metadata"><cite>Jee SH, Ohrr H, Sull JW, Yun JE, Ji M, Samet JM. Fasting serum glucose level and cancer risk in Korean men and women. <span class="cit-source">JAMA</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">293</span>:<span class="cit-fpage">194</span>–202.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.293.2.194&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15644546&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000226171000035&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(31)</span><a class="rev-xref-ref" href="#xref-ref-31-1" title="View reference (31) in text"
+                           id="ref-31">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.31"
+                             data-doi="10.2337/diacare.28.7.1805">
+                           <div class="cit-metadata"><cite>Larsson SC, Giovannucci E, Wolk A. Diabetes and colorectal cancer incidence in the cohort of Swedish men. <span class="cit-source">Diabetes Care</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">28</span>:<span class="cit-fpage">1805</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=FULL&amp;journalCode=diacare&amp;resid=28/7/1805"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(32)</span><a class="rev-xref-ref" href="#xref-ref-32-1" title="View reference (32) in text"
+                           id="ref-32">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.32"
+                             data-doi="10.1093/aje/kwh161">
+                           <div class="cit-metadata"><cite>Coughlin SS, Calle EE, Teras LR, Petrelli J, Thun MJ. Diabetes mellitus as a predictor of cancer mortality in a large cohort
+                                 of US adults. <span class="cit-source">Am J Epidemiol</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">159</span>:<span class="cit-fpage">1160</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=amjepid&amp;resid=159/12/1160"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(33)</span><a class="rev-xref-ref" href="#xref-ref-33-1" title="View reference (33) in text"
+                           id="ref-33">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.33">
+                           <div class="cit-metadata"><cite>La Vecchia C, Negri E, Decarli A, Franceschi S. Diabetes mellitus and colorectal cancer risk. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">1997</span>;<span class="cit-vol">6</span>:<span class="cit-fpage">1007</span>–10.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=6/12/1007"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(34)</span><a class="rev-xref-ref" href="#xref-ref-34-1" title="View reference (34) in text"
+                           id="ref-34">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.34">
+                           <div class="cit-metadata"><cite>Greenland S. Quantitative methods in the review of epidemiologic literature. <span class="cit-source">Epidemiol Rev</span> <span class="cit-pub-date">1987</span>;<span class="cit-vol">9</span>:<span class="cit-fpage">1</span>–30.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=12315636&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(35)</span><a class="rev-xref-ref" href="#xref-ref-35-1" title="View reference (35) in text"
+                           id="ref-35">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.35"
+                             data-doi="10.1016/0197-2456(86)90046-2">
+                           <div class="cit-metadata"><cite>DerSimonian R, Laird N. Meta-analysis in clinical trials. <span class="cit-source">Control Clin Trials</span> <span class="cit-pub-date">1986</span>;<span class="cit-vol">7</span>:<span class="cit-fpage">177</span>–88.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0197-2456(86)90046-2&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3802833&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1986F013900001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(36)</span><a class="rev-xref-ref" href="#xref-ref-36-1" title="View reference (36) in text"
+                           id="ref-36">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.36"
+                             data-doi="10.1002/sim.1186">
+                           <div class="cit-metadata"><cite>Higgins JP, Thompson SG. Quantifying heterogeneity in a meta-analysis. <span class="cit-source">Stat Med</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">1539</span>–58.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/sim.1186&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12111919&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000176016900005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(37)</span><a class="rev-xref-ref" href="#xref-ref-37-1" title="View reference (37) in text"
+                           id="ref-37">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.37"
+                             data-doi="10.1136/bmj.315.7109.629">
+                           <div class="cit-metadata"><cite>Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-analysis detected by a simple, graphical test. <span class="cit-source">BMJ</span> <span class="cit-pub-date">1997</span>;<span class="cit-vol">315</span>:<span class="cit-fpage">629</span>–34.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=bmj&amp;resid=315/7109/629"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(38)</span><a class="rev-xref-ref" href="#xref-ref-38-1" title="View reference (38) in text"
+                           id="ref-38">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.38">
+                           <div class="cit-metadata"><cite>Egger M, Smith GD, Altman DG. Systematic Reviews in Health Care: Meta-Analysis in Context. London (UK): BMJ Publishing Group;
+                                 <span class="cit-pub-date">2001</span>.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(39)</span><a class="rev-xref-ref" href="#xref-ref-39-1" title="View reference (39) in text"
+                           id="ref-39">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.39"
+                             data-doi="10.1093/jnci/djg105">
+                           <div class="cit-metadata"><cite>Zendehdel K, Nyren O, Ostenson CG, Adami HO, Ekbom A, Ye W. Cancer incidence in patients with type 1 diabetes mellitus: a
+                                 population-based cohort study in Sweden. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">95</span>:<span class="cit-fpage">1797</span>–800.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=95/23/1797"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(40)</span><a class="rev-xref-ref" href="#xref-ref-40-1" title="View reference (40) in text"
+                           id="ref-40">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.40">
+                           <div class="cit-metadata"><cite>McKeown-Eyssen G. Epidemiology of colorectal cancer revisited: are serum triglycerides and/or plasma glucose associated with
+                                 risk? <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">1994</span>;<span class="cit-vol">3</span>:<span class="cit-fpage">687</span>–95.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=3/8/687"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(41)</span><a class="rev-xref-ref" href="#xref-ref-41-1" title="View reference (41) in text"
+                           id="ref-41">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.41">
+                           <div class="cit-metadata"><cite>Giovannucci E. Insulin, insulin-like growth factors and colon cancer: a review of the evidence. <span class="cit-source">J Nutr</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">131</span>(11 Suppl):<span class="cit-fpage">3109S</span>–20S.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=nutrition&amp;resid=131/11/3109S"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(42)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-97.22.1679.42"
+                             data-doi="10.1093/jnci/94.13.972">
+                           <div class="cit-metadata"><cite>Sandhu MS, Dunger DB, Giovannucci EL. Insulin, insulin-like growth factor-I (IGF-I), IGF binding proteins, their biologic
+                                 interactions, and colorectal cancer. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">94</span>:<span class="cit-fpage">972</span>–80.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=94/13/972"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(43)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-97.22.1679.43">
+                           <div class="cit-metadata"><cite>Wu Y, Yakar S, Zhao L, Hennighausen L, LeRoith D. Circulating insulin-like growth factor-I levels regulate colon cancer growth
+                                 and metastasis. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">62</span>:<span class="cit-fpage">1030</span>–5.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=62/4/1030"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(44)</span><a class="rev-xref-ref" href="#xref-ref-44-1" title="View reference (44) in text"
+                           id="ref-44">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.44"
+                             data-doi="10.1016/S0140-6736(04)16044-3">
+                           <div class="cit-metadata"><cite>Renehan AG, Zwahlen M, Minder C, O'Dwyer ST, Shalet SM, Egger M. Insulin-like growth factor (IGF)-I, IGF binding protein-3,
+                                 and cancer risk: systematic review and meta-regression analysis. <span class="cit-source">Lancet</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">363</span>:<span class="cit-fpage">1346</span>–53.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(04)16044-3&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15110491&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000220996300008&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(45)</span><a class="rev-xref-ref" href="#xref-ref-45-1" title="View reference (45) in text"
+                           id="ref-45">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.45"
+                             data-doi="10.1093/jnci/91.7.620">
+                           <div class="cit-metadata"><cite>Ma J, Pollak MN, Giovannucci E, Chan JM, Tao Y, Hennekens CH, et al. Prospective study of colorectal cancer risk in men and
+                                 plasma levels of insulin-like growth factor (IGF)-I and IGF-binding protein-3. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">91</span>:<span class="cit-fpage">620</span>–5.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=91/7/620"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(46)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-97.22.1679.46"
+                             data-doi="10.1093/jnci/92.19.1592">
+                           <div class="cit-metadata"><cite>Kaaks R, Toniolo P, Akhmedkhanov A, Lukanova A, Biessy C, Dechaud H, et al. Serum C-peptide, insulin-like growth factor (IGF)-I,
+                                 IGF-binding proteins, and colorectal cancer risk in women. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">2000</span>;<span class="cit-vol">92</span>:<span class="cit-fpage">1592</span>–600.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=92/19/1592"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(47)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-97.22.1679.47"
+                             data-doi="10.1093/jnci/djh082">
+                           <div class="cit-metadata"><cite>Ma J, Giovannucci E, Pollak M, Leavitt A, Tao Y, Gaziano JM, et al. A prospective study of plasma C-peptide and colorectal
+                                 cancer risk in men. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">96</span>:<span class="cit-fpage">546</span>–53.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=96/7/546"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(48)</span><a class="rev-xref-ref" href="#xref-ref-48-1" title="View reference (48) in text"
+                           id="ref-48">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.48">
+                           <div class="cit-metadata"><cite>Giovannucci E, Pollak MN, Platz EA, Willett WC, Stampfer MJ, Majeed N, et al. A prospective study of plasma insulin-like growth
+                                 factor-1 and binding protein-3 and risk of colorectal neoplasia in women. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">2000</span>;<span class="cit-vol">9</span>:<span class="cit-fpage">345</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=9/4/345"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(49)</span><a class="rev-xref-ref" href="#xref-ref-49-1" title="View reference (49) in text"
+                           id="ref-49">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.49"
+                             data-doi="10.1053/j.gastro.2004.07.011">
+                           <div class="cit-metadata"><cite>Yang YX, Hennessy S, Lewis JD. Insulin therapy and colorectal cancer risk among type 2 diabetes mellitus patients. <span class="cit-source">Gastroenterology</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">127</span>:<span class="cit-fpage">1044</span>–50.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1053/j.gastro.2004.07.011&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15480982&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000224604400009&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(50)</span><a class="rev-xref-ref" href="#xref-ref-50-1" title="View reference (50) in text"
+                           id="ref-50">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.50"
+                             data-doi="10.1136/gut.27.11.1320">
+                           <div class="cit-metadata"><cite>Rafter JJ, Eng VW, Furrer R, Medline A, Bruce WR. Effects of calcium and pH on the mucosal damage produced by deoxycholic
+                                 acid in the rat colon. <span class="cit-source">Gut</span> <span class="cit-pub-date">1986</span>;<span class="cit-vol">27</span>:<span class="cit-fpage">1320</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=gutjnl&amp;resid=27/11/1320"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(51)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-97.22.1679.51"
+                             data-doi="10.1001/archinte.1984.00350180191026">
+                           <div class="cit-metadata"><cite>Yang R, Arem R, Chan L. Gastrointestinal tract complications of diabetes mellitus. Pathophysiology and management. <span class="cit-source">Arch Intern Med</span> <span class="cit-pub-date">1984</span>;<span class="cit-vol">144</span>:<span class="cit-fpage">1251</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/archinte.1984.00350180191026&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=6375614&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1984SV13200022&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(52)</span><a class="rev-xref-ref" href="#xref-ref-52-1" title="View reference (52) in text"
+                           id="ref-52">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.52"
+                             data-doi="10.1016/0304-3835(88)90023-7">
+                           <div class="cit-metadata"><cite>Stadler J, Yeung KS, Furrer R, Marcon N, Himal HS, Bruce WR. Proliferative activity of rectal mucosa and soluble fecal bile
+                                 acids in patients with normal colons and in patients with colonic polyps or cancer. <span class="cit-source">Cancer Lett</span> <span class="cit-pub-date">1988</span>;<span class="cit-vol">38</span>:<span class="cit-fpage">315</span>–20.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0304-3835(88)90023-7&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3349450&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1988M534500008&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(53)</span><a class="rev-xref-ref" href="#xref-ref-53-1" title="View reference (53) in text"
+                           id="ref-53">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.53">
+                           <div class="cit-metadata"><cite>Debruyne PR, Bruyneel EA, Li X, Zimber A, Gespach C, Mareel MM. The role of bile acids in carcinogenesis. <span class="cit-source">Mutat Res</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">480–481</span>:<span class="cit-fpage">359</span>–69.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(54)</span><a class="rev-xref-ref" href="#xref-ref-54-1" title="View reference (54) in text"
+                           id="ref-54">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.54"
+                             data-doi="10.1001/jama.289.1.76">
+                           <div class="cit-metadata"><cite>Mokdad AH, Ford ES, Bowman BA, Dietz WH, Vinicor F, Bales VS, et al. Prevalence of obesity, diabetes, and obesity-related
+                                 health risk factors, 2001. <span class="cit-source">JAMA</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">289</span>:<span class="cit-fpage">76</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.289.1.76&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12503980&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000180136600029&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(55)</span><a class="rev-xref-ref" href="#xref-ref-55-1" title="View reference (55) in text"
+                           id="ref-55">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-97.22.1679.55"
+                             data-doi="10.2337/diacare.24.11.1936">
+                           <div class="cit-metadata"><cite>Boyle JP, Honeycutt AA, Narayan KM, Hoerger TJ, Geiss LS, Chen H, et al. Projection of diabetes burden through 2050: impact
+                                 of changing demography and disease prevalence in the U.S. <span class="cit-source">Diabetes Care</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">24</span>:<span class="cit-fpage">1936</span>–40.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=diacare&amp;resid=24/11/1936"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/97/22/1671.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/97/22/1688.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/97/22.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (16 November 2005) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    97
+                                    </span><span class="slug-issue">
+                                    (22):
+                                    </span><span class="slug-pages">
+                                    1679-1687.
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/dji375" class="slug-doi">10.1093/jnci/dji375</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><a href="/content/97/22/1679.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/97/22/1679.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=ARTICLES&amp;sortspec=date&amp;submit=Submit">Article</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;97/22/1679" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B97%2F22%2F1679&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/97/22/1679.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=97/22/1679&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/97/22/1679.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3B97%2F22%2F1679&amp;citation=Larsson%20et%20al.%2097%20%2822%29:%201679&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B97%2F22%2F1679&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=16288121&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B97%2F22%2F1679">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B97%2F22%2F1679">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=Diabetes%20Mellitus%20and%20Risk%20of%20Colorectal%20Cancer%3A%20A%20Meta-Analysis%3A%20&amp;publicationDate=16%20November%202005&amp;author=Susanna%20C.%20Larsson%2C%20Nicola%20Orsini%2C%20Alicja%20Wolk&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2Fdji375&amp;volumeNum=97&amp;issueNum=22&amp;startPage=1679&amp;endPage=1687&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/97/22/1679.full?cited-by=yes&amp;legid=jnci;97/22/1679#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/97/22/1679" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/97/22/1679?access_num=/jnci/97/22/1679"
+                              rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F97%2F22%2F1679&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/97/22/1679.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ALarsson%20author%3AS.C.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Larsson, S. C.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AWolk%20author%3AA.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Wolk, A.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/97/22/1679.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=16288121&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Larsson%20SC&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Larsson, S. C.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Orsini%20N&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Orsini, N.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Wolk%20A&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Wolk, A.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/97/22/1679.full?related-urls=yes&amp;legid=jnci;97/22/1679#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B97%2F22%2F1679&amp;current-view-path=/content/97/22/1679.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/97/22/1679&amp;title=Diabetes%20Mellitus%20and%20Risk%20of%20Colorectal%20Cancer%3A%20A%20Meta-Analysis+--+Larsson%20et%20al.%2097%20%2822%29%3A%201679+--+&amp;doi=10.1093/jnci/dji375&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/97/22/1679&amp;title=Diabetes%20Mellitus%20and%20Risk%20of%20Colorectal%20Cancer%3A%20A%20Meta-Analysis+--+Larsson%20et%20al.%2097%20%2822%29%3A%201679+--+&amp;doi=10.1093/jnci/dji375&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/97/22/1679&amp;title=Diabetes%20Mellitus%20and%20Risk%20of%20Colorectal%20Cancer%3A%20A%20Meta-Analysis+--+Larsson%20et%20al.%2097%20%2822%29%3A%201679+--+&amp;doi=10.1093/jnci/dji375&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/97/22/1679&amp;title=Diabetes%20Mellitus%20and%20Risk%20of%20Colorectal%20Cancer%3A%20A%20Meta-Analysis+--+Larsson%20et%20al.%2097%20%2822%29%3A%201679+--+&amp;doi=10.1093/jnci/dji375&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/97/22/1679&amp;title=Diabetes%20Mellitus%20and%20Risk%20of%20Colorectal%20Cancer%3A%20A%20Meta-Analysis+--+Larsson%20et%20al.%2097%20%2822%29%3A%201679+--+&amp;doi=10.1093/jnci/dji375&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/97/22/1679&amp;title=Diabetes%20Mellitus%20and%20Risk%20of%20Colorectal%20Cancer%3A%20A%20Meta-Analysis+--+Larsson%20et%20al.%2097%20%2822%29%3A%201679+--+&amp;doi=10.1093/jnci/dji375&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#abstract-1">Abstract</a></li>
+                        <li><a href="#sec-1">M<span class="sc">ATERIALS AND</span> M<span class="sc">ETHODS</span></a></li>
+                        <li><a href="#sec-6">R<span class="sc">ESULTS</span></a></li>
+                        <li><a href="#sec-11">D<span class="sc">ISCUSSION</span></a></li>
+                        <li><a href="#fn-group-1">Footnotes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/97/22/1679.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/97/22/1679.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

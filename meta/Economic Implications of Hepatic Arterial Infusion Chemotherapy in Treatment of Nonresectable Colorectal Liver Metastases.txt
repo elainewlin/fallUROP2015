@@ -1,0 +1,2186 @@
+http://jnci.oxfordjournals.org/content/89/11/790.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Economic Implications of Hepatic Arterial Infusion Chemotherapy in Treatment of Nonresectable Colorectal Liver Metastases
+         
+      </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/89/11/790" />
+      <meta content="/jnci/89/11/790.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Economic Implications of Hepatic Arterial Infusion Chemotherapy in Treatment of Nonresectable Colorectal Liver Metastases"
+            name="DC.Title" />
+      <meta content="10.1093/jnci/89.11.790" name="DC.Identifier" />
+      <meta content="1997-06-04" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Isabelle Durand-Zaleski" name="DC.Contributor" />
+      <meta content="Béatrice Roche" name="DC.Contributor" />
+      <meta content="Pierre-Louis Fagniez" name="DC.Contributor" />
+      <meta content="Jean-Paul Le Bourgeois" name="DC.Contributor" />
+      <meta content="Pascal Piedbois" name="DC.Contributor" />
+      <meta content="Marc Buyse" name="DC.Contributor" />
+      <meta content="Robert Carlson" name="DC.Contributor" />
+      <meta content="Michael J. O'Conell" name="DC.Contributor" />
+      <meta content="Philippe Rougier" name="DC.Contributor" />
+      <meta content="Alfred E. Chang" name="DC.Contributor" />
+      <meta content="Vernon K. Sondak" name="DC.Contributor" />
+      <meta content="Margaret M. Kemeny" name="DC.Contributor" />
+      <meta content="Tim G. Allen-Mersh" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta name="citation_author" content="Isabelle Durand-Zaleski" />
+      <meta name="citation_author" content="Béatrice Roche" />
+      <meta name="citation_author" content="Pierre-Louis Fagniez" />
+      <meta name="citation_author" content="Jean-Paul Le Bourgeois" />
+      <meta name="citation_author" content="Pascal Piedbois" />
+      <meta name="citation_author" content="Marc Buyse" />
+      <meta name="citation_author" content="Robert Carlson" />
+      <meta name="citation_author" content="Michael J. O'Conell" />
+      <meta name="citation_author" content="Philippe Rougier" />
+      <meta name="citation_author" content="Alfred E. Chang" />
+      <meta name="citation_author" content="Vernon K. Sondak" />
+      <meta name="citation_author" content="Margaret M. Kemeny" />
+      <meta name="citation_author" content="Tim G. Allen-Mersh" />
+      <meta content="Economic Implications of Hepatic Arterial Infusion Chemotherapy in Treatment of Nonresectable Colorectal Liver Metastases"
+            name="citation_title" />
+      <meta content="06/04/1997" name="citation_date" />
+      <meta content="89" name="citation_volume" />
+      <meta content="11" name="citation_issue" />
+      <meta content="790" name="citation_firstpage" />
+      <meta content="795" name="citation_lastpage" />
+      <meta content="89/11/790" name="citation_id" />
+      <meta content="89/11/790" name="citation_id_from_sass_path" />
+      <meta content="jnci;89/11/790" name="citation_mjid" />
+      <meta content="10.1093/jnci/89.11.790" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/89/11/790.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/89/11/790.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/89/11/790.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/89/11/790"
+            name="citation_public_url" />
+      <meta content="9182977" name="citation_pmid" />
+      <meta name="citation_section" content="Article" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/89/11/783.short" rel="prev" />
+      <link href="/content/89/11/796.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d29145130e1">var callbackToken='537A58B668C3005';</script><script type="text/javascript" id="session-d29145130e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:16:23.985-07:00';
+            var gSessionId = 'uAZN6xL49CPcA9xVwFwBIA';
+            var gAuthzRequired = 'false';
+            var gAuthnMethods1 = 'ip';
+            var gAuthnMethods2 = 'ip';
+            var gAuthnIPs = '18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/89.11.790");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("19970604");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F89%2F11%2F790.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/89/11.toc">
+                  <span xmlns="" class="volume-value">Volume 89</span>
+                  <span xmlns="" class="issue-value"> Issue 11</span></a></li>
+            <li>Pp. <span class="slug-pages">
+                  790-795.
+                  </span></li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/89/11/790.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Economic Implications of Hepatic Arterial Infusion Chemotherapy in Treatment of Nonresectable Colorectal Liver Metastases</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Isabelle+Durand-Zaleski&amp;sortspec=date&amp;submit=Submit">Isabelle Durand-Zaleski</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=B%C3%A9atrice+Roche&amp;sortspec=date&amp;submit=Submit">Béatrice Roche</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Pierre-Louis+Fagniez&amp;sortspec=date&amp;submit=Submit">Pierre-Louis Fagniez</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Jean-Paul+Le+Bourgeois&amp;sortspec=date&amp;submit=Submit">Jean-Paul Le Bourgeois</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-5"><span class="name"><a class="name-search"
+                              href="/search?author1=Pascal+Piedbois&amp;sortspec=date&amp;submit=Submit">Pascal Piedbois</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address>Henri Mondor Hospital, <span class="addr-line">Paris, France</span></address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1"><em>Correspondence to:</em> Isabelle Durand-Zaleski, M.D., Ph.D., Santé Publique, Hôpital Henri Mondor, 51 avenue du Maréchal de Lattre de Tassigny,
+                        94010 Créteil, France.
+                     </li>
+                  </ol>
+               </div>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-2">
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Marc+Buyse&amp;sortspec=date&amp;submit=Submit">Marc Buyse</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-7" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Robert+Carlson&amp;sortspec=date&amp;submit=Submit">Robert Carlson</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-8" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Michael+J.+O'Conell&amp;sortspec=date&amp;submit=Submit">Michael J. O'Conell</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-9"><span class="name"><a class="name-search"
+                              href="/search?author1=Philippe+Rougier&amp;sortspec=date&amp;submit=Submit">Philippe Rougier</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address>International Institute for Drug Development, <span class="addr-line">Brussels, Belgium</span></address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address>Stanford University, <span class="addr-line">Palo Alto, CA</span></address>
+                     </li>
+                     <li class="aff"><a id="aff-4" name="aff-4"></a><address>Mayo Clinic, <span class="addr-line">Rochester, MN</span></address>
+                     </li>
+                     <li class="aff"><a id="aff-5" name="aff-5"></a><address>Groupe d'Etudes et de Recherches des Tumeurs Hépatiques and Association Universitaire de Recherche en Chirurgie, <span class="addr-line">Paris</span></address>
+                     </li>
+                  </ol>
+               </div>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-3">
+                     <li class="contributor" id="contrib-10" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Alfred+E.+Chang&amp;sortspec=date&amp;submit=Submit">Alfred E. Chang</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-11"><span class="name"><a class="name-search"
+                              href="/search?author1=Vernon+K.+Sondak&amp;sortspec=date&amp;submit=Submit">Vernon K. Sondak</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-6" name="aff-6"></a><address>University of Michigan Medical Center, <span class="addr-line">Ann Arbor</span></address>
+                     </li>
+                  </ol>
+               </div>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-4">
+                     <li class="contributor" id="contrib-12" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Margaret+M.+Kemeny&amp;sortspec=date&amp;submit=Submit">Margaret M. Kemeny</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-13"><span class="name"><a class="name-search"
+                              href="/search?author1=Tim+G.+Allen-Mersh&amp;sortspec=date&amp;submit=Submit">Tim G. Allen-Mersh</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-7" name="aff-7"></a><address>North Shore University Hospital, <span class="addr-line">Manhasset, NY</span></address>
+                     </li>
+                     <li class="aff"><a id="aff-8" name="aff-8"></a><address>Chelsea and Westminster Hospital, <span class="addr-line">London, U.K</span></address>
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                         hwp:start="1997-01-28"><span class="received-label">Received </span>January 28, 1997.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="rev-recd"
+                         hwp:start="1997-03-18"><span class="rev-recd-label">Revision received </span>March 18, 1997.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="1997-03-28"><span class="accepted-label">Accepted </span>March 28, 1997.
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-1" title="Subjects and Methods" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Abstract</h2>
+                  
+                  <p id="p-5"><em>Background:</em> Approximately 20% of patients with colorectal cancer die of metastases confined to the liver. A metaanalysis recently performed
+                     by our group confirmed that in these patients hepatic arterial infusion of 5-fluoro-2′- deoxyuridine, compared with intravenous
+                     chemotherapy with fluoropyrimidines or supportive care (including symptom palliation when necessary), improved tumor response.
+                     <em>Purpose:</em> Because of the high cost of hepatic arterial infusion, we undertook a cost-effectiveness analysis that related the cost of
+                     such therapy to its medical efficacy. <em>Methods:</em> The patient population was drawn from the seven randomized clinical trials included in the meta-analysis and included individual
+                     data on 654 patients. Of these seven trials, five compared hepatic arterial infusion and intravenous chemotherapy and two
+                     compared hepatic arterial infusion and a control group in which some patients could be left untreated. Patients assigned to
+                     receive hepatic arterial infusion made up the hepatic arterial infusion group; the other patients constituted the control
+                     group. The measures of efficacy were survival and tumor response. Health-care costs (in 1995 U.S. dollars) were computed over
+                     the duration of patient followup and were derived from actual costs in two centers, one at Henri Mondor Hospital (Paris, France)
+                     and the other at Stanford University Medical Center (Palo Alto, CA). The total cost of treatment included the initial procedure,
+                     chemotherapy cycles, and main complications. <em>Results:</em> The mean gain in life expectancy in the hepatic arterial infusion group compared with the control group was 3.2 months (standard
+                     error = 1.0 month). For patients treated by hepatic arterial infusion in Paris, the hepatic arterial infusion pump, initial
+                     hospitalization, and the entire process (including follow- up and complications) cost, on average, $8400, $15 172, and $29
+                     562, respectively; in Palo Alto, these costs were $4700, $13 784, and $25 208, respectively. For patients in the control groups
+                     in Paris and Palo Alto, the total treatment costs were, on average, $9926 and $5928. The additional costs of hepatic arterial
+                     infusion over control treatment were $19 636 in Paris and $19 280 in Palo Alto. The costeffectiveness (i.e., the additional
+                     cost divided by the additional benefit) with respect to survival of the patients in the hepatic arterial infusion group compared
+                     with the patients in the control group was $73 635 per life-year in Paris and $72 300 per life-year in Palo Alto. <em>Conclusions and Implications:</em> The cost-effectiveness of localized chemotherapy for colorectal liver metastases is within the range of accepted treatments
+                     for serious medical conditions, although it might be considered borderline by policy-makers in some countries. Prospective
+                     clinical trials should be conducted to more definitively answer this question.
+                  </p>
+                  
+               </div>
+               <p id="p-6">Economic analysis is an increasingly important component in the evaluation of new procedures for their ability to improve
+                  medical outcomes for patients with diseases. The objective of economic analysis applied to innovative therapeutic procedures
+                  is to relate their costs to the improvement produced in medical outcome. In a recently published meta-analysis (<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1"><em>1</em></a>), our group confirmed that, among patients with nonresectable liver metastases from colorectal cancer, hepatic arterial infusion
+                  of 5-fluoro-2′-deoxyuridine, compared with intravenous chemotherapy with fluoropyrimidines, tripled the likelihood of tumor
+                  response. The meta-analysis also showed a statistically significant advantage for hepatic arterial infusion over intravenous
+                  chemotherapy in terms of survival when all trials were taken into account (<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2"><em>2</em></a>–<a id="xref-ref-8-1" class="xref-bibr" href="#ref-8"><em>8</em></a>) and a trend in favor of hepatic arterial infusion when survival analyses were restricted to trials comparing hepatic arterial
+                  infusion with intravenous chemotherapy (<a id="xref-ref-2-2" class="xref-bibr" href="#ref-2"><em>2</em></a>–<a id="xref-ref-6-1" class="xref-bibr" href="#ref-6"><em>6</em></a>).
+               </p>
+               <p id="p-7">Colorectal cancer is one of the most common cancers in developed countries and results in liver metastases in 30%-40% of affected
+                  individuals (<a id="xref-ref-9-1" class="xref-bibr" href="#ref-9"><em>9</em></a>). Approximately 20% of patients die of metastases confined to the liver. The medical effectiveness and the cost of chemotherapy
+                  for patients with incurable liver metastases are important public health issues, but the high cost of hepatic arterial infusion
+                  could become a disincentive to hospital administrators and third-party payors (<a id="xref-ref-10-1" class="xref-bibr" href="#ref-10"><em>10</em></a>). At a time when most developed countries face increasing constraints from their health-care budgets, high-cost procedures
+                  affecting a large number of individuals are a primary concern to decision-makers.
+               </p>
+               <p id="p-8">As suggested by the editorial accompanying the publication of the meta-analysis on hepatic arterial infusion (<a id="xref-ref-10-2" class="xref-bibr" href="#ref-10"><em>10</em></a>), we undertook an economic analysis that relates the additional cost of hepatic arterial infusion over conventional treatments
+                  to its additional medical benefits. Our objective was to determine the cost-effectiveness of treatments from the perspective
+                  of a decision- maker involved in prospective health-care choices.
+               </p>
+               <div class="section" id="sec-1">
+                  <div class="section-nav"><a href="#abstract-1" title="Abstract" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-7" title="Results" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>Subjects and Methods</h2>
+                  
+                  <div id="sec-2" class="subsection">
+                     
+                     <h3>Patient Population and Clinical End Points</h3>
+                     
+                     <p id="p-9">Individual patient data were retrieved for the meta-analysis by the Meta-Analysis Group In Cancer in 1996. All seven clinical
+                        trials were included in the economic analysis. Five of these trials directly compared hepatic arterial infusion with intravenous
+                        chemotherapy (<a id="xref-ref-2-3" class="xref-bibr" href="#ref-2"><em>2</em></a>–<a id="xref-ref-6-2" class="xref-bibr" href="#ref-6"><em>6</em></a>), and two compared hepatic arterial infusion with symptom palliation or ad libitum intravenous chemotherapy (in most cases,
+                        with fluorouracil alone) (<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7"><em>7</em></a>,<a id="xref-ref-8-2" class="xref-bibr" href="#ref-8"><em>8</em></a>). The total number of patients included in these trials was 654. We will hereafter refer to the group of patients assigned
+                        to receive hepatic arterial infusion as the HAI group and to the group of patients who received either symptom palliation
+                        or intravenous chemotherapy as the control group.
+                     </p>
+                     
+                     <p id="p-10">The clinical end points were survival and tumor response, both of which provided estimates of effectiveness in the cost-effectiveness
+                        analysis. All analyses of the end points were made following the intention-to-treat principle. The cost-effectiveness analysis
+                        considered the additional costs of obtaining a longer survival or a higher tumor response rate through the use of hepatic
+                        arterial infusion. One trial (<a id="xref-ref-2-4" class="xref-bibr" href="#ref-2"><em>2</em></a>) was included in the tumor response analysis but not in the survival analysis, since individual patient data were not available
+                        in this trial. The life expectancy was estimated by the mean survival obtained from the Kaplan-Meier curve, which is equal
+                        to the area under the survival curves (<a id="xref-fig-1-1" class="xref-fig" href="#F1">Fig. 1</a>). Gains in life expectancy were discounted at a 5% yearly rate. The gain in life expectancy in the HAI group compared with
+                        the control group was estimated by the difference in mean survival (<a id="xref-ref-11-1" class="xref-bibr" href="#ref-11"><em>11</em></a>). Computations were made by use of the SAS statistical software package (SAS Institute, Inc., Cary, NC).
+                     </p>
+                     
+                     <div id="F1" class="fig pos-anchor odd">
+                        <div class="fig-inline"><img alt="Fig. 1." src="790/F1.medium.gif" /></div>
+                        <div class="fig-caption"><span class="fig-label"><strong>Fig. 1.</strong></span> 
+                           
+                           <p id="p-11" class="first-child">Overall survival curves among patients treated with hepatic arterial infusion (HAI) compared with control patients. Survival
+                              time was discounted at a 5% yearly rate. <em>P</em> value is two-sided.
+                           </p>
+                           
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     
+                  </div>
+                  
+                  <div id="sec-3" class="subsection">
+                     
+                     <h3>Economic Analysis</h3>
+                     
+                     <p id="p-12">We computed costs on an intention-to-treat basis rather than on the basis of actual treatment for the following reasons: 1)
+                        to ensure consistency between computations of costs and outcome and 2) to provide decision-makers with planning and budgetary
+                        tools that would allow prospective estimations of the cost of alternative therapeutic strategies (<a id="xref-ref-11-2" class="xref-bibr" href="#ref-11"><em>11</em></a>–<a id="xref-ref-13-1" class="xref-bibr" href="#ref-13"><em>13</em></a>). The valuation method used health-care (hospital and ambulatory) costs standardized in one European center (Henri Mondor
+                        Hospital, Paris, France) and one U.S. center (Stanford University Medical Center, Palo Alto, CA). Thus, health-care costs
+                        were obtained from the accounting records of patients recently or currently treated at one of the two sites and are not based
+                        on the actual costs of treating the patients in the trials. This method of indirect standardization allowed us to compute
+                        the costs of a therapeutic strategy undertaken in different medical centers and has been applied to multicenter trials as
+                        well as to meta-analyses (<a id="xref-ref-14-1" class="xref-bibr" href="#ref-14"><em>14</em></a>–<a id="xref-ref-16-1" class="xref-bibr" href="#ref-16"><em>16</em></a>).
+                     </p>
+                     
+                  </div>
+                  
+                  <div id="sec-4" class="subsection">
+                     
+                     <h3>Type of Analysis</h3>
+                     
+                     <p id="p-13">We computed a cost per year of added survival. The additional cost of hepatic arterial infusion over control treatment was
+                        divided by the additional medical benefit. Let <em>C1</em> and <em>C2</em> be the respective costs of control treatment and hepatic arterial infusion treatment, whose medical outcomes are <em>R1</em> and <em>R2</em>, respectively; the cost-effectiveness ratio of hepatic arterial infusion was defined as (C2 − C1)/(R2 − R1), where <em>C1</em> and <em>C2</em> are expressed in monetary terms and <em>R1</em> and <em>R2</em> in unidimensional medical units. The issue of quality of life was not addressed, since no data were available on this end
+                        point (<a id="xref-ref-11-3" class="xref-bibr" href="#ref-11"><em>11</em></a>,<a id="xref-ref-17-1" class="xref-bibr" href="#ref-17"><em>17</em></a>).
+                     </p>
+                     
+                  </div>
+                  
+                  <div id="sec-5" class="subsection">
+                     
+                     <h3>Cost Computations</h3>
+                     
+                     <p id="p-14">Costs were computed over the duration of patient follow-up. The perspective of the health-care system was used in all cost
+                        estimates. Costs to society were not included because individual data on work status were not available (<a id="xref-ref-11-4" class="xref-bibr" href="#ref-11"><em>11</em></a>–<a id="xref-ref-13-2" class="xref-bibr" href="#ref-13"><em>13</em></a>).
+                     </p>
+                     
+                     <p id="p-15">Direct medical costs included the following: 1) cost of purchasing the devices (nonreusable implanted arterial pump and systemic
+                        port) and cost of the procedures and of hospitalizations; 2) cost of ambulatory treatment facilities (Paris) or outpatient
+                        clinic without hospitalization (Palo Alto) for administering chemotherapy; 3) cost of chemotherapy drugs, computed from data
+                        on the number of chemotherapy cycles per patient in the trials; 4) costs of follow-up tests— angioscintigraphy in the HAI
+                        group (three in Paris and one in Palo Alto), an abdominal computed tomography scan every 3rd month, chest x ray, liver function
+                        tests, and blood cell counts every month; and 5) cost of treatment for therapy-related severe toxic effects (i.e., complications).
+                        Overhead costs included administrative and support services and capital costs. Protocol-driven costs were excluded. No costs
+                        were attached to patients assigned to the symptom palliation groups (<a id="xref-ref-7-2" class="xref-bibr" href="#ref-7"><em>7</em></a>,<a id="xref-ref-8-3" class="xref-bibr" href="#ref-8"><em>8</em></a>), assuming that the costs of symptom palliation were the same for all patients in the trials, regardless of their randomized
+                        treatment group.
+                     </p>
+                     
+                     <p id="p-16">Values of hospital resources were drawn from two cost-accounting systems, one in Palo Alto by use of a computer software package
+                        from TSI 2-Transition Systems Inc. (Boston, MA) and the other in Paris by use of the hospitalaccounting charts. These costs
+                        were retrieved by one of us (I. Durand-Zaleski), who visited both sites. They were actual costs (not charges) in the oncology,
+                        surgery, and outpatient clinic departments.
+                     </p>
+                     
+                     <p id="p-17">Hospital costs of treatments included medical and nonmedical salaries, secretarial and housekeeping expenses, office supplies,
+                        medical tests, drugs, blood products, and medical supplies. Drug costs were taken from the pharmacy formulary; delivery costs
+                        were included either in the drug costs (Palo Alto) or in the overhead costs (Paris). The costs of supplies were the purchase
+                        prices from the manufacturer. Overhead costs represented 25% of total costs in Paris and were computed as a separate line
+                        item, whereas they were included in the cost of each item in Palo Alto.
+                     </p>
+                     
+                     <p id="p-18">The toxic effects of treatment were considered for the purpose of this study, insofar as they generated costs for the health-care
+                        system. The frequency of these toxic effects was estimated from the published trials included in the metaanalysis (2-8). The
+                        cost of treatment for toxic effects was estimated by multiplying the unit cost for treatment of each toxic effect by the frequency
+                        of its occurrence (<a id="xref-fig-2-1" class="xref-fig" href="#F2">Table 1</a>). Data on practice patterns for the management of toxic effects related to treatment and hospital costs were derived from
+                        the hospitalaccounting systems.
+                     </p>
+                     
+                     <div id="F2" class="fig pos-anchor even">
+                        <div class="fig-inline"><img alt="Figure" src="790/F2.medium.gif" /></div>
+                     </div>
+                     
+                     <p id="p-19">The reference year for cost computations was 1995. All costs were converted to 1995 U.S. dollars. Costs were discounted at
+                        a 5% yearly rate.
+                     </p>
+                     
+                  </div>
+                  
+                  <div id="sec-6" class="subsection">
+                     
+                     <h3>Sensitivity Analysis</h3>
+                     
+                     <p id="p-20"><strong>Alternative comparator.</strong> The reference strategy used to compute the additional cost of hepatic arterial infusion in the baseline analysis was a combination
+                        of intravenous chemotherapy and ad libitum symptom palliation, as was found in the control groups considered in the meta-analysis.
+                        A relevant therapeutic option is intravenous chemotherapy, which is preferred to symptom palliation in some countries. We
+                        performed a sensitivity analysis of the cost-effectiveness ratios, assuming that the only comparator for hepatic arterial
+                        infusion was intravenous chemotherapy and excluding from the analysis patients who received only symptom palliation. The trials
+                        kept for this analysis were the five trials that directly compared hepatic arterial infusion with intravenous chemotherapy
+                        (<a id="xref-ref-2-5" class="xref-bibr" href="#ref-2"><em>2</em></a>–<a id="xref-ref-6-3" class="xref-bibr" href="#ref-6"><em>6</em></a>) and included 391 patients. The medical outcomes were survival and tumor response, as evaluated in the meta-analysis for
+                        the five trials considered (<a id="xref-ref-1-2" class="xref-bibr" href="#ref-1"><em>1</em></a>).
+                     </p>
+                     
+                  </div>
+                  
+               </div>
+               <div class="section" id="sec-7">
+                  <div class="section-nav"><a href="#sec-1" title="Subjects and Methods" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-12" title="Discussion" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>Results</h2>
+                  
+                  <div id="sec-8" class="subsection">
+                     
+                     <h3>Medical Outcomes</h3>
+                     
+                     <p id="p-21">The results of the meta-analysis were published previously (<a id="xref-ref-1-3" class="xref-bibr" href="#ref-1"><em>1</em></a>). Mean survival time (discounted) was 16.3 months (standard error = 0.7 month) for patients assigned to receive hepatic arterial
+                        infusion compared with 13.1 months (standard error = 0.7 month) for control patients. The mean gain in life expectancy in
+                        the HAI group was 3.2 months (standard error = 1.0 month).
+                     </p>
+                     
+                  </div>
+                  
+                  <div id="sec-9" class="subsection">
+                     
+                     <h3>Medical Costs</h3>
+                     
+                     <p id="p-22">Costs for the hepatic arterial infusion strategy were as follows: In France, the purchase price and cost of insertion of an
+                        arterial pump and the cost of an 11-day hospital stay were $23 572, and the total cost of the hepatic arterial infusion treatment
+                        was $29 562 (which included the costs of chemotherapy as well as follow-up and treatment for toxic effects related to therapy).
+                        In Palo Alto, the pump was inserted in the course of a 7-day hospitalization, the total cost of the pump and the procedure
+                        was $18 484, and the total cost of hepatic arterial infusion was $25 208.
+                     </p>
+                     
+                     <p id="p-23">In Paris, costs for control patients (intravenous chemotherapy or symptom palliation) were $629 for the initial procedure
+                        (insertion of a systemic port or simple intravenous chemotherapy), and the total cost was $9926 (including the cost of chemotherapy
+                        with hospitalization and tests). In Palo Alto, initial procedure costs for the control group were $512, and the total cost
+                        was $5928. Patients did not require hospitalization for administering chemotherapy.
+                     </p>
+                     
+                     <p id="p-24">Costs of treatment of toxic effects per episode are presented in <a id="xref-fig-3-1" class="xref-fig" href="#F3">Table 2</a>. The cost of toxicity multiplied by the probability of its occurrence (<a id="xref-fig-2-2" class="xref-fig" href="#F2">Table 1</a>) was added to the cost of the corresponding strategy.
+                     </p>
+                     
+                     <p id="p-25">Detailed computations of the above costs are presented in <a id="xref-fig-4-1" class="xref-fig" href="#F4">Table 3</a>.
+                     </p>
+                     
+                  </div>
+                  
+                  <div id="sec-10" class="subsection">
+                     
+                     <h3>Cost-effectiveness</h3>
+                     
+                     <p id="p-26">The cost-effectiveness of hepatic arterial infusion compared with control treatment is the additional cost divided by the
+                        additional medical benefit. The cost-effectiveness ratios in Paris and in Palo Alto were, respectively, $73 635 and $72 300
+                        per year of added survival. Cost-effectiveness ratios within the 95% confidence interval for survival are presented in <a id="xref-fig-5-1" class="xref-fig" href="#F5">Fig. 2</a>. The length of the <em>x</em> axis on <a id="xref-fig-5-2" class="xref-fig" href="#F5">Fig. 2</a> represents the full range of the 95% confidence interval for the survival advantage of hepatic arterial infusion over intravenous
+                        chemotherapy or symptom palliation.
+                     </p>
+                     
+                  </div>
+                  
+                  <div id="sec-11" class="subsection">
+                     
+                     <h3>Sensitivity Analysis</h3>
+                     
+                     <p id="p-27"><strong>Alternative comparator</strong>. We computed tumor response and survival in a subset of 391 patients included in the five trials comparing hepatic arterial
+                        infusion with intravenous chemotherapy; we assumed that the reference strategy for hepatic arterial infusion chemotherapy
+                        was intravenous chemotherapy, and we excluded from the comparison patients who were treated for symptom palliation only. The
+                        gain in tumor response rate for the HAI group was 27% (standard error = 4%). The average gain in life expectancy for the HAI
+                        group was 2.1 months (standard error = 1.8 months). Because these results were computed on the basis of intention to treat,
+                        they did not take into account the fact that about 20% of the patients crossed over from intravenous chemotherapy to hepatic
+                        arterial infusion.
+                     </p>
+                     
+                     <p id="p-28">The costs of the hepatic arterial infusion strategy were the same as above. In France, the costs of the intravenous chemotherapy
+                        strategy were $1047 for the insertion of a systemic port and $16 722 in total; in the United States, these costs were $854
+                        and $10 031, respectively.
+                     </p>
+                     
+                     <p id="p-29">Detailed computations of the costs used in the sensitivity analysis are presented in <a id="xref-fig-6-1" class="xref-fig" href="#F6">Table 4</a>.
+                     </p>
+                     
+                     <p id="p-30">When total cumulated survival was the outcome considered, the denominator of the cost-effectiveness ratio was 2.1 months,
+                        and the cost-effectiveness ratios were $73 680 and $87 012 per year of added survival in Paris and Palo Alto, respectively.
+                        When tumor response was the intermediate outcome considered, the denominator of the cost-effectiveness ratio was the difference
+                        in response rate (27%), and the cost-effectiveness ratios were $47 231 and $55 776 per tumor response achieved in Paris and
+                        in Palo Alto, respectively.
+                     </p>
+                     
+                     <div id="F3" class="fig pos-anchor odd">
+                        <div class="fig-inline"><img alt="Figure" src="790/F3.medium.gif" /></div>
+                     </div>
+                     
+                     <div id="F4" class="fig pos-anchor even">
+                        <div class="fig-inline"><img alt="Figure" src="790/F4.medium.gif" /></div>
+                     </div>
+                     
+                     <p id="p-31"><strong>Discount rate</strong>. When costs and survival were not discounted, the total costs for hepatic arterial infusion and for control treatment (symptom
+                        palliation or intravenous chemotherapy) were, respectively, $29 582 and $9936 in Paris and $25 229 and $4920 in Palo Alto.
+                        The undiscounted mean survivals for patients in the HAI group and for patients in the control group were 18.4 months (standard
+                        error = 0.9 month) and 14.7 months (standard error = 0.9 month), respectively, and the mean gain in life expectancy was 3.7
+                        months (standard error = 1.3 months) for patients in the HAI group compared with patients in the control group. The cost-effectiveness
+                        ratios of hepatic arterial infusion compared with control treatment were $63 717 in Paris and $65 867 in Palo Alto per year
+                        of added survival.
+                     </p>
+                     
+                     <div id="F5" class="fig pos-anchor odd">
+                        <div class="fig-inline"><img alt="Fig. 2." src="790/F5.medium.gif" /></div>
+                        <div class="fig-caption"><span class="fig-label"><strong>Fig. 2.</strong></span> 
+                           
+                           <p id="p-32" class="first-child">Cost-effectiveness ratios for hepatic arterial infusion (HAI) versus control treatment (intravenous chemotherapy or symptom
+                              palliation). The horizontal axis represents the expected gain in life expectancy obtained by HAI treatment versus control
+                              treatment. The vertical axis is the cost-effectiveness ratio in 1995 U.S. dollars per life-year.
+                           </p>
+                           
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               <div class="section" id="sec-12">
+                  <div class="section-nav"><a href="#sec-7" title="Results" class="prev-section-link"><span>Previous Section</span></a><a href="#fn-group-1" title="Footnotes" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>Discussion</h2>
+                  
+                  <p id="p-33">Colon cancer with unresectable liver metastases represents a major public health problem because of its frequency and the
+                     cost of its treatment. The objective of economic analysis is to provide relevant information for health-care decision-makers
+                     in charge of allocating resources (<a id="xref-ref-17-2" class="xref-bibr" href="#ref-17"><em>17</em></a>,<a id="xref-ref-18-1" class="xref-bibr" href="#ref-18"><em>18</em></a>). In the present costeffectiveness analysis applied to the results of a meta-analysis of cancer liver metastasis treatments,
+                     the outcomes and the costs of hepatic arterial infusion versus intravenous chemotherapy or supportive care were compared.
+                     The additional medical cost of hepatic arterial infusion over systemic intravenous chemotherapy or symptom palliation was
+                     approximately $70 000 per year of added survival.
+                  </p>
+                  
+                  <p id="p-34">This meta-analysis and economic evaluation suggest that the cost-effectiveness of hepatic arterial infusion for treatment
+                     of colorectal liver metastases is within the range of accepted treatments for other severe medical conditions. In a 1993 survey
+                     by the French Ministry of Health, the costs of hemodialysis were estimated to be $70 000-$90 000 per year. The costs found
+                     for hepatic arterial infusion were higher than the costs of the treatment of advanced colon cancer found between 1990 and
+                     1991 (<a id="xref-ref-19-1" class="xref-bibr" href="#ref-19"><em>19</em></a>) for patients enrolled in a staff-model Health Maintenance Organization, but they were comparable for intravenous chemotherapy.
+                     The cost per life-year of detecting and treating cancers has been estimated to vary between $20 000 and $120 000 (<a id="xref-ref-20-1" class="xref-bibr" href="#ref-20"><em>20</em></a>–<a id="xref-ref-24-1" class="xref-bibr" href="#ref-24"><em>24</em></a>).
+                  </p>
+                  
+                  <div id="F6" class="fig pos-anchor even">
+                     <div class="fig-inline"><img alt="Figure" src="790/F6.medium.gif" /></div>
+                  </div>
+                  
+                  <p id="p-35">Laupacis et al. (<a id="xref-ref-25-1" class="xref-bibr" href="#ref-25"><em>25</em></a>) proposed a classification of technologies according to their cost-utility ratios. The cost-effectiveness ratio of hepatic
+                     arterial infusion versus intravenous chemotherapy or symptom palliation falls within the group of strategies for which society
+                     has to spend more than $100 000 per quality-adjusted life-year, which represented the least cost-effective category in their
+                     classification.
+                  </p>
+                  
+                  <p id="p-36">The costs of infusing chemotherapy in the hepatic artery could possibly be reduced by use of a port-a-cath (a permanent catheter
+                     that can be connected to an external pump as necessary for delivery of chemotherapeutic agents) implanted in the artery by
+                     a procedure involving radiologic monitoring and no surgery. This approach, currently under trial in Japan and Italy, could
+                     reduce the costs by suppressing the need for surgery as well as the need for the purchase of an expensive piece of equipment
+                     (<a id="xref-ref-26-1" class="xref-bibr" href="#ref-26"><em>26</em></a>).
+                  </p>
+                  
+                  <p id="p-37">We did not consider the overall burden of the disease to society. Costs to society would include lost labor, compensations,
+                     and other expenditures incurred by the patient or the family in the course of the disease. Data from other trials (<a id="xref-ref-8-4" class="xref-bibr" href="#ref-8"><em>8</em></a>) indicate that lost labor is higher for patients who received hepatic arterial infusion than for patients who received intravenous
+                     chemotherapy or symptom palliation, in part because the former patients live longer without resuming work. We did not include
+                     data on reimbursement and financial incentives; information on patient health-care insurance is relevant to the flow of money
+                     into the medical centers, but not to the outflow (costs). Data on quality of life were not available from the trials. However,
+                     if tumor response could be considered as a surrogate marker for quality of life in symptomatic patients, the hepatic arterial
+                     infusion strategy would appear to be more attractive.
+                  </p>
+                  
+                  <p id="p-38">Costs were computed from the perspective of the health-care systems in France and in the United States, meaning that only
+                     costs to the health-care system were included and other costs, such as societal costs, were excluded. Health-care spending
+                     in France is comparable to that in most industrialized countries, except the United States, where spending on hospital care
+                     is, in real terms, about two times higher (<a id="xref-ref-27-1" class="xref-bibr" href="#ref-27"><em>27</em></a>). The relatively low costs of hepatic arterial infusion found in Palo Alto compared with the costs in Paris result from a
+                     lower price paid in the United States for the infusion device and from an efficient U.S. policy of reducing the length of
+                     hospital stay for these patients and delivering chemotherapy in outpatient clinics.
+                  </p>
+                  
+                  <p id="p-39">Applying economic evaluation to the results of a metaanalysis involves some degree of modeling—first because few trials have
+                     collected data on resource use and second because unit values of resources used have to be standardized. Using medical records
+                     from the Henri Mondor Hospital (Paris) and from Stanford University Medical Center (Palo Alto), we modeled the medical management
+                     of patients with complications. While practice patterns may differ from one institution to another, the overall burden of
+                     complications represented a small percentage of the total cost and, therefore, may not have affected the results much. For
+                     a similar reason, the uncertainty about the exact prevalence of complications in the two treatment groups cannot alter our
+                     general conclusions.
+                  </p>
+                  
+                  <p id="p-40">Sensitivity analysis provides a range of possible costeffectiveness ratios. The calculations of <a id="xref-fig-6-2" class="xref-fig" href="#F6">Table 4</a> and the curves of <a id="xref-fig-5-3" class="xref-fig" href="#F5">Fig. 2</a> allow medical teams to estimate cost-effectiveness ratios from cost data at their own institutions and to decide whether
+                     they consider additional costs to be justified in view of the expected clinical benefits. When the comparator chosen for hepatic
+                     arterial infusion is intravenous chemotherapy, the absence of a significant difference between both strategies (<a id="xref-ref-1-4" class="xref-bibr" href="#ref-1"><em>1</em></a>) makes it impossible to statistically rule out an infinite costeffectiveness ratio. If there were no true survival benefit
+                     to hepatic arterial infusion compared with intravenous chemotherapy, this more costly procedure would clearly not be justified
+                     on economic grounds. This observation justifies the use of a metaanalysis to estimate clinical benefits with sufficient precision
+                     in pharmaco-economic assessments. It is now well known that patients with advanced colorectal cancer, even in the absence
+                     of symptoms related to metastases, benefit from immediate intravenous chemotherapy. Immediate intravenous chemotherapy increases
+                     symptom-free survival and overall survival (<a id="xref-ref-28-1" class="xref-bibr" href="#ref-28"><em>28</em></a>,<a id="xref-ref-29-1" class="xref-bibr" href="#ref-29"><em>29</em></a>). The cost-effectiveness ratio of hepatic arterial infusion compared strictly with intravenous chemotherapy is less favorable,
+                     because the additional medical benefit of hepatic arterial infusion over intravenous chemotherapy is less than over symptom
+                     palliation only.
+                  </p>
+                  
+                  <p id="p-41">As far as the cost-effectiveness analyses are concerned, a few methodologic comments must be added. First, we used the intention-
+                     to-treat principle throughout. As a result, patients who were randomly assigned to receive, but did not receive, hepatic arterial
+                     infusion have been kept in this group for the estimation of both clinical benefits and costs. Likewise, we made no allowance
+                     in our cost estimates for patients who received hepatic arterial infusion after intravenous chemotherapy had failed, although
+                     crossover occurred for at least 20% of the patients in the trials (<a id="xref-ref-1-5" class="xref-bibr" href="#ref-1"><em>1</em></a>). This approach is voluntarily conservative and tends to increase the cost-effectiveness ratio of hepatic arterial infusion,
+                     since it underestimates the true benefit of hepatic arterial infusion and underestimates the true cost of intravenous chemotherapy.
+                  </p>
+                  
+                  <p id="p-42">The intravenous chemotherapy group of trials considered in the meta-analysis consisted of fluorouracil or 5-fluoro-2′- deoxyuridine
+                     alone. Such therapy may no longer be considered standard practice in the treatment of advanced colorectal cancer. In three
+                     previously performed meta-analyses, we showed that the modulation of intravenous fluorouracil by leucovorin or by methotrexate
+                     (<a id="xref-ref-30-1" class="xref-bibr" href="#ref-30"><em>30</em></a>,<a id="xref-ref-31-1" class="xref-bibr" href="#ref-31"><em>31</em></a>) or the administration of fluorouracil by continuous infusion (Meta-Analysis Group In Cancer: unpublished data) resulted
+                     in a doubling of the tumor response rates in patients with advanced colorectal cancer.
+                  </p>
+                  
+                  <p id="p-43">However, these meta-analyses have also shown that the impact on survival of the modulation of fluorouracil or the administration
+                     of fluorouracil as a continuous infusion was very small. Since our baseline analysis used survival as the principal outcome,
+                     we do not think that the interpretation of the results of our study is invalidated by the development of these new modalities
+                     of administration of fluorouracil.
+                  </p>
+                  
+                  <p id="p-44">Prospective trials should ensure that information on both medical costs and overall financial costs to society be collected.
+                     Other outcomes of interest that should be recorded prospectively include possible return to work of patients treated and their
+                     quality of life.
+                  </p>
+                  
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <div class="section-nav"><a href="#sec-12" title="Discussion" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn-supported-by" id="fn-1">
+                        
+                        <p id="p-1">Supported in part by the Association pour la Recherche contre le Cancer (France).</p>
+                        
+                        <p id="p-2"><strong>Collaborators of the Hepatic Arterial Infusion Meta-Analysis Project:</strong> P. Rougier, A. Laplanche, M. Huguier, and J. M. Hay (Groupe d'Etudes et de Recherches des Tumeurs Hépatiques and Association
+                           Universitaire de Recherche en Chirurgie, Paris, France); R. Carlson, W. Brown, D. Hohn, and A. E. Venook (Northern California
+                           Oncology Group, San Francisco, CA); T. G. Allen-Mersh and S. Earlam (Chelsea and Westminster Hospital, London, U.K.); N. E.
+                           Kemeny and M. Mazumdar (Memorial Sloan-Kettering Cancer Center, New York, NY); M. J. O'Connell, S. Wieand, and K. Martin (Mayo
+                           Clinic, Rochester, MN); A. E. Chang and V. K. Sondak (University of Michigan Medical Center, Ann Arbor); M. M. Kemeny (North
+                           Shore University Hospital, Manhasset, NY); P. Piedbois, I. Durand-Zaleski, J.-P. Le Bourgeois, and Y. Piedbois (data management),
+                           E. Levy and B. Roche (Henri Mondor Hospital, Paris); M. Buyse (International Institute for Drug Development, Brussels, Belgium).
+                        </p>
+                        
+                        <p id="p-3"><strong>Board of the Meta-Analysis Group In Cancer:</strong> N. Wolmark (Allegheny Hospital, Pittsburgh, PA); P. Piedbois (Henri Mondor Hospital, Paris); M. Buyse (International Institute
+                           for Drug Development, Brussels); R. Carlson (Stanford University, CA); Y. Rustum (Roswell Park Cancer Institute, Buffalo,
+                           NY); C. E. Erlichman (Mayo Clinic).
+                        </p>
+                        
+                        <p id="p-4">We are indebted to Dr. P.-P. Sagnier (Bayer AG, Wuppertal, Germany) and Dr. B. Hillner (Medical College of Virginia, Richmond)
+                           for their helpful comments on the manuscript. We also thank Mr. B. Sullivan (Business Manager, Stanford Health Services, CA)
+                           for his help in retrieving cost data.
+                        </p>
+                        
+                     </li>
+                  </ul>
+               </div>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1">© Oxford University Press</li>
+               </ul>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#fn-group-1" title="Footnotes" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">(1)</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference (1) in text"
+                           id="ref-1">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.1"
+                             data-doi="10.1093/jnci/88.5.252">
+                           <div class="cit-metadata"><cite><span class="cit-auth cit-collab">Meta-Analysis Group In Cancer</span>. <span class="cit-article-title">Reappraisal of hepatic arterial infusion in the treatment of nonresectable liver metastases from colorectal cancer</span>. <abbr class="cit-jnl-abbrev">J Natl Cancer Inst</abbr> <span class="cit-pub-date">1996</span>;<span class="cit-vol">88</span>:<span class="cit-fpage">252</span>-<span class="cit-lpage">8</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=88/5/252"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(2)</span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference (2) in text"
+                           id="ref-2">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.2">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Chang</span>  <span class="cit-name-given-names">AE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Schneider</span>  <span class="cit-name-given-names">PD</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Sugarbaker</span>  <span class="cit-name-given-names">PH</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Simpson</span>  <span class="cit-name-given-names">C</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Culane</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Steinberg</span>  <span class="cit-name-given-names">SM</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">A prospective randomized trial of regional versus systemic continuous 5-fluorodeoxyuridine chemotherapy in the treatment of
+                                    colorectal liver metastases</span>. <abbr class="cit-jnl-abbrev">Ann Surg</abbr> <span class="cit-pub-date">1987</span>;<span class="cit-vol">206</span>:<span class="cit-fpage">685</span>-<span class="cit-lpage">93</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=2961314&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1987L074700001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=A%20prospective%20randomized%20trial%20of%20regional%20versus%20systemic%20continuous%205-fluorodeoxyuridine%20chemotherapy%20in%20the%20treatment%20of%20colorectal%20liver%20metastases&amp;author=AE%20Chang&amp;author=PD%20Schneider&amp;author=PH%20Sugarbaker&amp;author=C%20Simpson&amp;author=M%20Culane&amp;author=SM%20Steinberg&amp;publication_year=1987&amp;journal=Ann%20Surg&amp;volume=206&amp;pages=685-93">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(3)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-journal no-rev-xref" id="cit-89.11.790.3">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hohn</span>  <span class="cit-name-given-names">DC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Stagg</span>  <span class="cit-name-given-names">RJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Friedman</span>  <span class="cit-name-given-names">MA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hannigan</span>  <span class="cit-name-given-names">JF</span>  <span class="cit-name-suffix">Jr</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rayner</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Ignoffo</span>  <span class="cit-name-given-names">RJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">A randomized trial of continuous intravenous versus hepatic intraarterial floxuridine in patients with colorectal cancer metastatic
+                                    to the liver: the Northern California Oncology Group trial</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">1989</span>;<span class="cit-vol">7</span>:<span class="cit-fpage">1646</span>-<span class="cit-lpage">54</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=7/11/1646"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(4)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-journal no-rev-xref" id="cit-89.11.790.4"
+                             data-doi="10.1002/1097-0142(19860201)57:3&lt;492::AID-CNCR2820570315&gt;3.0.CO;2-M">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kemeny</span>  <span class="cit-name-given-names">MM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Goldberg</span>  <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Beatty</span>  <span class="cit-name-given-names">JD</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Blayney</span>  <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Browning</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Doroshow</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Results of a prospective randomized trial of continuous regional chemotherapy and hepatic resection as treatment of hepatic
+                                    metastases from colorectal primaries</span>. <abbr class="cit-jnl-abbrev">Cancer</abbr> <span class="cit-pub-date">1986</span>;<span class="cit-vol">57</span>:<span class="cit-fpage">492</span>-<span class="cit-lpage">8</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/1097-0142(19860201)57:3%3C492::AID-CNCR2820570315%3E3.0.CO;2-M&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=2935243&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Results%20of%20a%20prospective%20randomized%20trial%20of%20continuous%20regional%20chemotherapy%20and%20hepatic%20resection%20as%20treatment%20of%20hepatic%20metastases%20from%20colorectal%20primaries&amp;author=MM%20Kemeny&amp;author=D%20Goldberg&amp;author=JD%20Beatty&amp;author=D%20Blayney&amp;author=S%20Browning&amp;author=J%20Doroshow&amp;publication_year=1986&amp;journal=Cancer&amp;volume=57&amp;pages=492-8">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(5)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-journal no-rev-xref" id="cit-89.11.790.5"
+                             data-doi="10.7326/0003-4819-107-4-459">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kemeny</span>  <span class="cit-name-given-names">N</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Daly</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Reichman</span>  <span class="cit-name-given-names">B</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Geller</span>  <span class="cit-name-given-names">N</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Botet</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Oderman</span>  <span class="cit-name-given-names">P</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Intrahepatic or systemic infusion of fluorodeoxyuridine in patients with liver metastases from colorectal carcinoma. A randomized
+                                    trial</span>. <abbr class="cit-jnl-abbrev">Ann Intern Med</abbr> <span class="cit-pub-date">1987</span>;<span class="cit-vol">107</span>:<span class="cit-fpage">459</span>-<span class="cit-lpage">65</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.7326/0003-4819-107-4-459&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=2957943&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1987K293000004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Intrahepatic%20or%20systemic%20infusion%20of%20fluorodeoxyuridine%20in%20patients%20with%20liver%20metastases%20from%20colorectal%20carcinoma.%20A%20randomized%20trial&amp;author=N%20Kemeny&amp;author=J%20Daly&amp;author=B%20Reichman&amp;author=N%20Geller&amp;author=J%20Botet&amp;author=P%20Oderman&amp;publication_year=1987&amp;journal=Ann%20Intern%20Med&amp;volume=107&amp;pages=459-65">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(6)</span><a class="rev-xref-ref" href="#xref-ref-6-1" title="View reference (6) in text"
+                           id="ref-6">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.6"
+                             data-doi="10.1001/archsurg.1990.01410200086013">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Martin</span>  <span class="cit-name-given-names">JK</span>  <span class="cit-name-suffix">Jr</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">O#x0027;Connell</span>  <span class="cit-name-given-names">MJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wieand</span>  <span class="cit-name-given-names">HS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fitzgibbons</span>  <span class="cit-name-given-names">RJ</span>  <span class="cit-name-suffix">Jr</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mailliard</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rubin</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Intra-arterial floxuridine vs systemic fluorouracil for hepatic metastases from colorectal cancer. A randomized trial</span>. <abbr class="cit-jnl-abbrev">Arch Surg</abbr> <span class="cit-pub-date">1990</span>;<span class="cit-vol">125</span>:<span class="cit-fpage">1022</span>-<span class="cit-lpage">7</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/archsurg.1990.01410200086013&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=2143063&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1990DT47600012&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Intra-arterial%20floxuridine%20vs%20systemic%20fluorouracil%20for%20hepatic%20metastases%20from%20colorectal%20cancer.%20A%20randomized%20trial&amp;author=JK%20Martin&amp;author=MJ%20O%23x0027%3BConnell&amp;author=HS%20Wieand&amp;author=RJ%20Fitzgibbons&amp;author=JA%20Mailliard&amp;author=J%20Rubin&amp;publication_year=1990&amp;journal=Arch%20Surg&amp;volume=125&amp;pages=1022-7">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(7)</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference (7) in text"
+                           id="ref-7">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.7">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rougier</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Laplanche</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Huguier</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hay</span>  <span class="cit-name-given-names">JM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Ollivier</span>  <span class="cit-name-given-names">JM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Escat</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Hepatic arterial infusion of floxuridine in patients with liver metastases from colorectal carcinoma: long-term results of
+                                    a prospective randomized trial</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">1992</span>;<span class="cit-vol">10</span>:<span class="cit-fpage">1112</span>-<span class="cit-lpage">8</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=10/7/1112"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(8)</span><a class="rev-xref-ref" href="#xref-ref-8-1" title="View reference (8) in text"
+                           id="ref-8">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.8"
+                             data-doi="10.1016/S0140-6736(94)90750-1">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Allen-Mersh</span>  <span class="cit-name-given-names">TG</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Earlam</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fordy</span>  <span class="cit-name-given-names">C</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Abrams</span>  <span class="cit-name-given-names">K</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Houghton</span>  <span class="cit-name-given-names">J</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Quality of life and survival with continuous hepatic-artery floxuridine infusion for colorectal liver metastases</span>. <abbr class="cit-jnl-abbrev">Lancet</abbr> <span class="cit-pub-date">1994</span>;<span class="cit-vol">344</span>:<span class="cit-fpage">1255</span>-<span class="cit-lpage">60</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(94)90750-1&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7526096&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1994PP70100008&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Quality%20of%20life%20and%20survival%20with%20continuous%20hepatic-artery%20floxuridine%20infusion%20for%20colorectal%20liver%20metastases&amp;author=TG%20Allen-Mersh&amp;author=S%20Earlam&amp;author=C%20Fordy&amp;author=K%20Abrams&amp;author=J%20Houghton&amp;publication_year=1994&amp;journal=Lancet&amp;volume=344&amp;pages=1255-60">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(9)</span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference (9) in text"
+                           id="ref-9">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.9"
+                             data-doi="10.1136/bmj.303.6803.595">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Allen-Mersh</span>  <span class="cit-name-given-names">TG</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Improving survival after large bowel cancer</span>. <abbr class="cit-jnl-abbrev">BMJ</abbr> <span class="cit-pub-date">1991</span>;<span class="cit-vol">303</span>:<span class="cit-fpage">595</span>-<span class="cit-lpage">6</span>. <span class="cit-comment">[editorial]</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=PDF&amp;journalCode=bmj&amp;resid=303/6803/595"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(10)</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference (10) in text"
+                           id="ref-10">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.10"
+                             data-doi="10.1093/jnci/88.5.223">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Cole</span>  <span class="cit-name-given-names">BF</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Evaluating the clinical and economic trade-offs of hepatic arterial infusion</span>. <abbr class="cit-jnl-abbrev">J Natl Cancer Inst</abbr> <span class="cit-pub-date">1996</span>;<span class="cit-vol">88</span>:<span class="cit-fpage">223</span>-<span class="cit-lpage">4</span>. <span class="cit-comment">[editorial]</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=PDF&amp;journalCode=jnci&amp;resid=88/5/223"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(11)</span><a class="rev-xref-ref" href="#xref-ref-11-1" title="View reference (11) in text"
+                           id="ref-11">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.11">
+                           <div class="cit-metadata"><cite><span class="cit-article-title">Economic analysis of health care technology. A report on principles. Task Force on Principles for Economic Analysis of Health
+                                    Care Technology</span>. <abbr class="cit-jnl-abbrev">Ann Intern Med</abbr> <span class="cit-pub-date">1995</span>;<span class="cit-vol">123</span>:<span class="cit-fpage">61</span>-<span class="cit-lpage">70</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=7762918&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995RE66500012&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(12)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-book no-rev-xref" id="cit-89.11.790.12">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Drummond</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Stoddart</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Torrance</span>  <span class="cit-name-given-names">G</span></span></li>
+                              </ol><cite>. <span class="cit-source">Methods for economic evaluation of health care programmes</span>. <span class="cit-publ-loc">Oxford</span>: <span class="cit-publ-name">Oxford University Press</span>; <span class="cit-pub-date">1989</span>. p. <span class="cit-fpage">18</span>-<span class="cit-lpage">34</span>, p. <span class="cit-fpage">74</span>-<span class="cit-lpage">83</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Methods%20for%20economic%20evaluation%20of%20health%20care%20programmes&amp;author=M%20Drummond&amp;author=G%20Stoddart&amp;author=G%20Torrance&amp;publication_year=1989">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(13)</span><a class="rev-xref-ref" href="#xref-ref-13-1" title="View reference (13) in text"
+                           id="ref-13">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.13">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Drummond</span>  <span class="cit-name-given-names">M</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Cost-effectiveness guidelines for reimbursement of pharmaceuticals: is economic evaluation ready for its enhanced status?</span> <abbr class="cit-jnl-abbrev">Health Econ</abbr> <span class="cit-pub-date">1992</span>;<span class="cit-vol">1</span>:<span class="cit-fpage">85</span>-<span class="cit-lpage">92</span>. <span class="cit-comment">[editorial]</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=1341931&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Cost-effectiveness%20guidelines%20for%20reimbursement%20of%20pharmaceuticals%3A%20is%20economic%20evaluation%20ready%20for%20its%20enhanced%20status%3F&amp;author=M%20Drummond&amp;publication_year=1992&amp;journal=Health%20Econ&amp;volume=1&amp;pages=85-92">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(14)</span><a class="rev-xref-ref" href="#xref-ref-14-1" title="View reference (14) in text"
+                           id="ref-14">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.14"
+                             data-doi="10.1016/S0140-6736(94)92274-8">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Sculpher</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Henderson</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Buxton</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pocok</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Parker</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Joy</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Health service costs of coronary angioplasty bypass surgery: the Randomized Intervention Treatment of Angina (RITA) Trial</span>. <abbr class="cit-jnl-abbrev">Lancet</abbr> <span class="cit-pub-date">1994</span>;<span class="cit-vol">344</span>:<span class="cit-fpage">927</span>-<span class="cit-lpage">30</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(94)92274-8&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7934351&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1994PJ28700015&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Health%20service%20costs%20of%20coronary%20angioplasty%20bypass%20surgery%3A%20the%20Randomized%20Intervention%20Treatment%20of%20Angina%20%28RITA%29%20Trial&amp;author=M%20Sculpher&amp;author=R%20Henderson&amp;author=M%20Buxton&amp;author=S%20Pocok&amp;author=J%20Parker&amp;author=M%20Joy&amp;publication_year=1994&amp;journal=Lancet&amp;volume=344&amp;pages=927-30">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(15)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-journal no-rev-xref" id="cit-89.11.790.15"
+                             data-doi="10.7326/0003-4819-119-11-199312010-00008">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Anderson</span>  <span class="cit-name-given-names">DR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">O'Brien</span>  <span class="cit-name-given-names">BJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Levine</span>  <span class="cit-name-given-names">MN</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Roberts</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wells</span>  <span class="cit-name-given-names">PS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hirsh</span>  <span class="cit-name-given-names">J</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Efficacy and cost of low-molecular-weight heparin compared with standard heparin for the prevention of deep vein thrombosis
+                                    after total hip arthroplasty</span>. <abbr class="cit-jnl-abbrev">Ann Intern Med</abbr> <span class="cit-pub-date">1993</span>;<span class="cit-vol">119</span>:<span class="cit-fpage">1105</span>-<span class="cit-lpage">12</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.7326/0003-4819-119-11-199312010-00008&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=8239230&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1993MJ33500008&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Efficacy%20and%20cost%20of%20low-molecular-weight%20heparin%20compared%20with%20standard%20heparin%20for%20the%20prevention%20of%20deep%20vein%20thrombosis%20after%20total%20hip%20arthroplasty&amp;author=DR%20Anderson&amp;author=BJ%20O%27Brien&amp;author=MN%20Levine&amp;author=R%20Roberts&amp;author=PS%20Wells&amp;author=J%20Hirsh&amp;publication_year=1993&amp;journal=Ann%20Intern%20Med&amp;volume=119&amp;pages=1105-12">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(16)</span><a class="rev-xref-ref" href="#xref-ref-16-1" title="View reference (16) in text"
+                           id="ref-16">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.16"
+                             data-doi="10.1177/0272989X9401400203">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Midgette</span>  <span class="cit-name-given-names">AS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wong</span>  <span class="cit-name-given-names">JB</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Beshansky</span>  <span class="cit-name-given-names">JR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Porath</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fleming</span>  <span class="cit-name-given-names">C</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pauker</span>  <span class="cit-name-given-names">SG</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Cost-effectiveness of streptokinase for acute myocardial infarction: a combined meta-analysis and decision making of the effects
+                                    of infarct location and of likelihood of infarction</span>. <abbr class="cit-jnl-abbrev">Med Decis Making</abbr> <span class="cit-pub-date">1994</span>;<span class="cit-vol">14</span>:<span class="cit-fpage">108</span>-<span class="cit-lpage">17</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=spmdm&amp;resid=14/2/108"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(17)</span><a class="rev-xref-ref" href="#xref-ref-17-1" title="View reference (17) in text"
+                           id="ref-17">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.17"
+                             data-doi="10.1136/bmj.307.6907.793">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Robinson</span>  <span class="cit-name-given-names">R</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Cost-effectiveness analysis</span>. <abbr class="cit-jnl-abbrev">BMJ</abbr> <span class="cit-pub-date">1993</span>;<span class="cit-vol">307</span>:<span class="cit-fpage">793</span>-<span class="cit-lpage">5</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=bmj&amp;resid=307/6907/793"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(18)</span><a class="rev-xref-ref" href="#xref-ref-18-1" title="View reference (18) in text"
+                           id="ref-18">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.18"
+                             data-doi="10.1136/bmj.307.6905.670">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Robinson</span>  <span class="cit-name-given-names">R</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Economic evaluation and health care. What does it mean?</span> <abbr class="cit-jnl-abbrev">BMJ</abbr> <span class="cit-pub-date">1993</span>;<span class="cit-vol">307</span>:<span class="cit-fpage">670</span>-<span class="cit-lpage">3</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=bmj&amp;resid=307/6905/670"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(19)</span><a class="rev-xref-ref" href="#xref-ref-19-1" title="View reference (19) in text"
+                           id="ref-19">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.19"
+                             data-doi="10.1093/jnci/87.6.417">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Taplin</span>  <span class="cit-name-given-names">SH</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Barlow</span>  <span class="cit-name-given-names">W</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Urban</span>  <span class="cit-name-given-names">N</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mandelson</span>  <span class="cit-name-given-names">MT</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Timlin</span>  <span class="cit-name-given-names">DJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Ichikawa</span>  <span class="cit-name-given-names">L</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Stage, age, comorbidity, and direct costs of colon, prostate, and breast cancer care</span>. <abbr class="cit-jnl-abbrev">J Natl Cancer Inst</abbr> <span class="cit-pub-date">1995</span>;<span class="cit-vol">87</span>:<span class="cit-fpage">417</span>-<span class="cit-lpage">26</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=87/6/417"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(20)</span><a class="rev-xref-ref" href="#xref-ref-20-1" title="View reference (20) in text"
+                           id="ref-20">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.20">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Findlay</span>  <span class="cit-name-given-names">M</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Cost analysis of palliative chemotherapy for patients with gastrointestinal malignancy</span>. <abbr class="cit-jnl-abbrev">Ann Oncol</abbr> <span class="cit-pub-date">1995</span>;<span class="cit-vol">6</span>:<span class="cit-fpage">205</span>-<span class="cit-lpage">7</span>. <span class="cit-comment">[editorial]</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=PDF&amp;journalCode=annonc&amp;resid=6/3/205"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(21)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-journal no-rev-xref" id="cit-89.11.790.21"
+                             data-doi="10.1093/jnci/85.18.1460">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Smith</span>  <span class="cit-name-given-names">TJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hillner</span>  <span class="cit-name-given-names">BE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Desch</span>  <span class="cit-name-given-names">CE</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Efficacy and cost-effectiveness of cancer treatment: rational allocation of resources based on decision analysis</span>. <abbr class="cit-jnl-abbrev">J Natl Cancer Inst</abbr> <span class="cit-pub-date">1993</span>;<span class="cit-vol">85</span>:<span class="cit-fpage">1460</span>-<span class="cit-lpage">74</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=PDF&amp;journalCode=jnci&amp;resid=85/18/1460"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(22)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-journal no-rev-xref" id="cit-89.11.790.22"
+                             data-doi="10.1001/jama.1992.03480150061038">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hillner</span>  <span class="cit-name-given-names">BE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Smith</span>  <span class="cit-name-given-names">TJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Desch</span>  <span class="cit-name-given-names">CE</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Efficacy and cost-effectiveness of autologous bone marrow transplantation in metastatic breast cancer. Estimates using decision
+                                    analysis while awaiting clinical trial results</span>. <abbr class="cit-jnl-abbrev">JAMA</abbr> <span class="cit-pub-date">1992</span>;<span class="cit-vol">267</span>:<span class="cit-fpage">2055</span>-<span class="cit-lpage">61</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.1992.03480150061038&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=1552641&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1992HM65000031&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Efficacy%20and%20cost-effectiveness%20of%20autologous%20bone%20marrow%20transplantation%20in%20metastatic%20breast%20cancer.%20Estimates%20using%20decision%20analysis%20while%20awaiting%20clinical%20trial%20results&amp;author=BE%20Hillner&amp;author=TJ%20Smith&amp;author=CE%20Desch&amp;publication_year=1992&amp;journal=JAMA&amp;volume=267&amp;pages=2055-61">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(23)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-journal no-rev-xref" id="cit-89.11.790.23">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Jonsson</span>  <span class="cit-name-given-names">E</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Economics in clinical cancer research: methodology and assessment</span>. <abbr class="cit-jnl-abbrev">Biomed Pharmacother</abbr> <span class="cit-pub-date">1988</span>;<span class="cit-vol">42</span>:<span class="cit-fpage">645</span>-<span class="cit-lpage">52</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=3148337&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1988T228000006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Economics%20in%20clinical%20cancer%20research%3A%20methodology%20and%20assessment&amp;author=E%20Jonsson&amp;publication_year=1988&amp;journal=Biomed%20Pharmacother&amp;volume=42&amp;pages=645-52">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(24)</span><a class="rev-xref-ref" href="#xref-ref-24-1" title="View reference (24) in text"
+                           id="ref-24">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.24">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Glimelius</span>  <span class="cit-name-given-names">B</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hoffman</span>  <span class="cit-name-given-names">K</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Graf</span>  <span class="cit-name-given-names">W</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Haglund</span>  <span class="cit-name-given-names">U</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Nyren</span>  <span class="cit-name-given-names">O</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pahlman</span>  <span class="cit-name-given-names">L</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Cost-effectiveness of palliative chemotherapy in advanced gastrointestinal cancer</span>. <abbr class="cit-jnl-abbrev">Ann Oncol</abbr> <span class="cit-pub-date">1995</span>;<span class="cit-vol">6</span>:<span class="cit-fpage">267</span>-<span class="cit-lpage">74</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=annonc&amp;resid=6/3/267"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(25)</span><a class="rev-xref-ref" href="#xref-ref-25-1" title="View reference (25) in text"
+                           id="ref-25">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.25">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Laupacis</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Feeny</span>  <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Detsky</span>  <span class="cit-name-given-names">AS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Tugwell</span>  <span class="cit-name-given-names">PX</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">How attractive does a new technology have to be to warrant adoption and utilization? Tentative guidelines for using clinical
+                                    and economic evaluations</span>. <abbr class="cit-jnl-abbrev">Can Med Assoc J</abbr> <span class="cit-pub-date">1992</span>;<span class="cit-vol">146</span>:<span class="cit-fpage">473</span>-<span class="cit-lpage">81</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cmaj&amp;resid=146/4/473"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(26)</span><a class="rev-xref-ref" href="#xref-ref-26-1" title="View reference (26) in text"
+                           id="ref-26">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.26">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Zanon</span>  <span class="cit-name-given-names">C</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Grosso</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Zanon</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Veltri</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Alabiso</span>  <span class="cit-name-given-names">O</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bazzan</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Transaxillary access to effect local-regional chemotherapy with hepatic artery infusion (hepatic arterial infusion) for secondary
+                                    or primitive hepatic tumors</span>. <abbr class="cit-jnl-abbrev">Ann Oncol</abbr> <span class="cit-pub-date">1996</span>;(<span class="cit-issue">(7 Suppl)</span>):<span class="cit-fpage">52</span>. <span class="cit-comment">[abstract]</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Transaxillary%20access%20to%20effect%20local-regional%20chemotherapy%20with%20hepatic%20artery%20infusion%20%28hepatic%20arterial%20infusion%29%20for%20secondary%20or%20primitive%20hepatic%20tumors&amp;author=C%20Zanon&amp;author=M%20Grosso&amp;author=E%20Zanon&amp;author=A%20Veltri&amp;author=O%20Alabiso&amp;author=M%20Bazzan&amp;publication_year=1996&amp;journal=Ann%20Oncol&amp;issue=%287%20Suppl%29&amp;pages=52">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(27)</span><a class="rev-xref-ref" href="#xref-ref-27-1" title="View reference (27) in text"
+                           id="ref-27">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-book" id="cit-89.11.790.27">
+                           <div class="cit-metadata"><cite><span class="cit-source">A review of seventeen countries</span>. <span class="cit-publ-loc">Paris</span>: <span class="cit-publ-name">OECD Publications</span>; <span class="cit-pub-date">1994</span>. <span class="cit-article-title">The reform of healthcare systems</span>.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(28)</span><a class="rev-xref-ref" href="#xref-ref-28-1" title="View reference (28) in text"
+                           id="ref-28">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.28"
+                             data-doi="10.1136/bmj.306.6880.752">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Scheithauer</span>  <span class="cit-name-given-names">W</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rosen</span>  <span class="cit-name-given-names">H</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kornek</span>  <span class="cit-name-given-names">GV</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Sebesta</span>  <span class="cit-name-given-names">C</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Depisch</span>  <span class="cit-name-given-names">D</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Randomised comparison of combination chemotherapy plus supportive care with supportive care alone in patients with metastatic
+                                    colorectal cancer</span>. <abbr class="cit-jnl-abbrev">BMJ</abbr> <span class="cit-pub-date">1993</span>;<span class="cit-vol">306</span>:<span class="cit-fpage">752</span>-<span class="cit-lpage">5</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=bmj&amp;resid=306/6880/752"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(29)</span><a class="rev-xref-ref" href="#xref-ref-29-1" title="View reference (29) in text"
+                           id="ref-29">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.29">
+                           <div class="cit-metadata"><cite><span class="cit-auth cit-collab">Nordic Gastrointestinal Tumor Adjuvant Therapy Group</span>. <span class="cit-article-title">Expectancy or primary chemotherapy in patients with advanced asymptomatic colorectal cancer: a randomized trial</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">1992</span>;<span class="cit-vol">10</span>:<span class="cit-fpage">904</span>-<span class="cit-lpage">11</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=10/6/904"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(30)</span><a class="rev-xref-ref" href="#xref-ref-30-1" title="View reference (30) in text"
+                           id="ref-30">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.30">
+                           <div class="cit-metadata"><cite><span class="cit-article-title">Modulation of fluorouracil by leucovorin in patients with advanced colorectal cancer: evidence in terms of response rate.
+                                    Advanced olorectal Cancer Meta-Analysis Project</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">1992</span>;<span class="cit-vol">10</span>:<span class="cit-fpage">896</span>-<span class="cit-lpage">903</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=10/6/896"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(31)</span><a class="rev-xref-ref" href="#xref-ref-31-1" title="View reference (31) in text"
+                           id="ref-31">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.11.790.31">
+                           <div class="cit-metadata"><cite><span class="cit-article-title">Meta-analysis of randomized trials testing the biochemical modulation of fluorouracil by methotrexate in metastatic colorectal
+                                    cancer. Advanced Colorectal Cancer Meta-Analysis Project</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">1994</span>;<span class="cit-vol">12</span>:<span class="cit-fpage">960</span>-<span class="cit-lpage">9</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=12/5/960"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/89/11/783.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/89/11/796.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/89/11.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (1997) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    89
+                                    </span><span class="slug-issue">
+                                    (11):
+                                    </span><span class="slug-pages">
+                                    790-795.
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/89.11.790" class="slug-doi">10.1093/jnci/89.11.790</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><a href="/content/89/11/790.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/89/11/790.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=Articles&amp;sortspec=date&amp;submit=Submit">Article</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;89/11/790" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B89%2F11%2F790&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/89/11/790.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=89/11/790&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/89/11/790.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3B89.11.790&amp;citation=Durand-Zaleski%20et%20al.%2089%20%2811%29:%20790&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B89%2F11%2F790&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=9182977&amp;link_type=MED_NBRS" class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B89%2F11%2F790">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B89%2F11%2F790">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=Economic%20Implications%20of%20Hepatic%20Arterial%20Infusion%20Chemotherapy%20in%20Treatment%20of%20Nonresectable%20Colorectal%20Liver%20Metastases%3A%20&amp;publicationDate=06%2F04%2F1997&amp;author=Isabelle%20Durand-Zaleski%2C%20B%C3%A9atrice%20Roche%2C%20Pierre-Louis%20Fagniez%2C%20Jean-Paul%20Le%20Bourgeois%2C%20Pascal%20Piedbois%2C%20Marc%20Buyse%2C%20Robert%20Carlson%2C%20Michael%20J.%20O%27Conell%2C%20Philippe%20Rougier%2C%20Alfred%20E.%20Chang%2C%20Vernon%20K.%20Sondak%2C%20Margaret%20M.%20Kemeny%2C%20Tim%20G.%20Allen-Mersh&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2F89.11.790&amp;volumeNum=89&amp;issueNum=11&amp;startPage=790&amp;endPage=795&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/89/11/790.full?cited-by=yes&amp;legid=jnci;89/11/790#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/89/11/790" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/89/11/790?access_num=/jnci/89/11/790"
+                              rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F89%2F11%2F790&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ADurand-Zaleski%20author%3AI.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Durand-Zaleski, I.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AAllen-Mersh%20author%3AT.G.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Allen-Mersh, T. G.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/89/11/790.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=9182977&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Durand-Zaleski%20I&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Durand-Zaleski, I.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Roche%20B&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Roche, B.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Fagniez%20PL&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Fagniez, P. L.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Le%20Bourgeois%20JP&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Le Bourgeois, J. P.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Piedbois%20P&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Piedbois, P.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Buyse%20M&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Buyse, M.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Carlson%20R&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Carlson, R.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=O%27Conell%20MJ&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  O'Conell, M. J.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Rougier%20P&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Rougier, P.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Chang%20AE&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Chang, A. E.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Sondak%20VK&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Sondak, V. K.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Kemeny%20MM&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Kemeny, M. M.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Allen-Mersh%20TG&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Allen-Mersh, T. G.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/89/11/790.full?related-urls=yes&amp;legid=jnci;89/11/790#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B89%2F11%2F790&amp;current-view-path=/content/89/11/790.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/89/11/790&amp;title=Economic%20Implications%20of%20Hepatic%20Arterial%20Infusion%20Chemotherapy%20in%20Treatment%20of%20Nonresectable%20Colorectal%20Liver%20Metastases+--+Durand-Zaleski%20et%20al.%2089%20%2811%29%3A%20790+--+jnci&amp;doi=10.1093/jnci/89.11.790&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/89/11/790&amp;title=Economic%20Implications%20of%20Hepatic%20Arterial%20Infusion%20Chemotherapy%20in%20Treatment%20of%20Nonresectable%20Colorectal%20Liver%20Metastases+--+Durand-Zaleski%20et%20al.%2089%20%2811%29%3A%20790+--+jnci&amp;doi=10.1093/jnci/89.11.790&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/89/11/790&amp;title=Economic%20Implications%20of%20Hepatic%20Arterial%20Infusion%20Chemotherapy%20in%20Treatment%20of%20Nonresectable%20Colorectal%20Liver%20Metastases+--+Durand-Zaleski%20et%20al.%2089%20%2811%29%3A%20790+--+jnci&amp;doi=10.1093/jnci/89.11.790&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/89/11/790&amp;title=Economic%20Implications%20of%20Hepatic%20Arterial%20Infusion%20Chemotherapy%20in%20Treatment%20of%20Nonresectable%20Colorectal%20Liver%20Metastases+--+Durand-Zaleski%20et%20al.%2089%20%2811%29%3A%20790+--+jnci&amp;doi=10.1093/jnci/89.11.790&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/89/11/790&amp;title=Economic%20Implications%20of%20Hepatic%20Arterial%20Infusion%20Chemotherapy%20in%20Treatment%20of%20Nonresectable%20Colorectal%20Liver%20Metastases+--+Durand-Zaleski%20et%20al.%2089%20%2811%29%3A%20790+--+jnci&amp;doi=10.1093/jnci/89.11.790&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/89/11/790&amp;title=Economic%20Implications%20of%20Hepatic%20Arterial%20Infusion%20Chemotherapy%20in%20Treatment%20of%20Nonresectable%20Colorectal%20Liver%20Metastases+--+Durand-Zaleski%20et%20al.%2089%20%2811%29%3A%20790+--+jnci&amp;doi=10.1093/jnci/89.11.790&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#abstract-1">Abstract</a></li>
+                        <li><a href="#sec-1">Subjects and Methods</a></li>
+                        <li><a href="#sec-7">Results</a></li>
+                        <li><a href="#sec-12">Discussion</a></li>
+                        <li><a href="#fn-group-1">Footnotes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/89/11/790.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/89/11/790.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

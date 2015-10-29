@@ -1,0 +1,1362 @@
+http://jnci.oxfordjournals.org/content/104/21/1615.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>The Role of Adjuvant Radiation Therapy for Stage I Endometrial Cancer: Does Meta-Analysis Reveal the Answer? </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/104/21/1615" />
+      <meta content="/jnci/104/21/1615.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="The Role of Adjuvant Radiation Therapy for Stage I Endometrial Cancer: Does Meta-Analysis Reveal the Answer?"
+            name="DC.Title" />
+      <meta content="10.1093/jnci/djs434" name="DC.Identifier" />
+      <meta content="2012-11-07" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Patricia J. Eifel" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta name="citation_author" content="Patricia J. Eifel" />
+      <meta name="citation_author_institution"
+            content="&#xA;Affiliation of author: Department of Radiation Oncology, MD Anderson Cancer Center, Houston, TX." />
+      <meta content="The Role of Adjuvant Radiation Therapy for Stage I Endometrial Cancer: Does Meta-Analysis Reveal the Answer?"
+            name="citation_title" />
+      <meta content="11/07/2012" name="citation_date" />
+      <meta content="104" name="citation_volume" />
+      <meta content="21" name="citation_issue" />
+      <meta content="1615" name="citation_firstpage" />
+      <meta content="1616" name="citation_lastpage" />
+      <meta content="104/21/1615" name="citation_id" />
+      <meta content="104/21/1615" name="citation_id_from_sass_path" />
+      <meta content="jnci;104/21/1615" name="citation_mjid" />
+      <meta content="10.1093/jnci/djs434" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/104/21/1615.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/104/21/1615.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/104/21.cover.gif" name="issue_cover_image" />
+      <meta content="http://jnci.oxfordjournals.org/content/104/21/1615"
+            name="citation_public_url" />
+      <meta content="23104209" name="citation_pmid" />
+      <meta name="citation_section" content="Solicited Editorial" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/104/20/NP.7.short" rel="prev" />
+      <link href="/content/104/21/1616.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d28939330e1">var callbackToken='53790898D783C98';</script><script type="text/javascript" id="session-d28939330e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:13:16.586-07:00';
+            var gSessionId = '72rmlRLYpM9MfDQFt2LZeQ';
+            var gAuthzRequired = 'false';
+            var gAuthnMethods1 = 'ip ip';
+            var gAuthnMethods2 = 'ip,ip';
+            var gAuthnIPs = '18.189.59.169,18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/djs434");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("20121107");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F104%2F21%2F1615.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/104/21.toc">
+                  <span xmlns="" class="volume-value">Volume 104</span>
+                  <span xmlns="" class="issue-value"> Issue 21</span></a></li>
+            <li>Pp. <span class="slug-pages">
+                  1615-1616.
+                  </span></li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/104/21/1615.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">The Role of Adjuvant Radiation Therapy for Stage I Endometrial Cancer: Does Meta-Analysis Reveal the Answer?</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="last" id="contrib-1"><span class="name"><a class="name-search"
+                              href="/search?author1=Patricia+J.+Eifel&amp;sortspec=date&amp;submit=Submit">Patricia J. Eifel</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address>
+                           <strong>Affiliation of author:</strong> Department of Radiation Oncology, MD Anderson Cancer Center, <span class="addr-line">Houston, TX</span>.
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">
+                        <strong>Correspondence to:</strong><br /> Patricia J. Eifel, MD, MD Anderson Cancer Center, Department of Radiation Oncology, <span class="addr-line">1515 Holcombe Boulevard, Box 1202, Houston, TX 77030</span> (e-mail: <span class="em-link"><span class="em-addr">peifel{at}mdanderson.org</span></span>).
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="2012-09-07"><span class="accepted-label">Accepted </span>September 7, 2012.
+                     </li>
+                  </ul>
+               </div>
+               <p id="p-1">In this issue of the Journal, Kong and colleagues (<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">1</a>) have tried to improve our understanding of the role of adjuvant radiation therapy for early-stage endometrial cancer through
+                  an updated Cochrane review of existing trials. Their final conclusion, that adjuvant radiation therapy reduces the incidence
+                  of local recurrence but increases treatment-related morbidity without improving overall survival, recapitulates that of their
+                  earlier analysis (<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2">2</a>) and is consistent with the conclusions of each of the individual trials referenced in their systematic review. It is tempting
+                  to decide that the authors’ skillful summary of trial evidence allows us finally to conclude that there is no role for adjuvant
+                  pelvic radiation therapy in patients with early-stage disease. However, the data, even when combined in this summary analysis,
+                  simply do not support this generalization.
+               </p>
+               <p id="p-2" class="indent">The primary purposes of meta-analyses are to increase statistical power, to address conflicting trial data, and, in some cases,
+                  to systematically address new clinical questions that may not have been posed in the contributing trials. Meta-analyses have
+                  yielded important insights and strengthened our confidence in trial results for cancers of the breast, head and neck, and
+                  other sites. However, the value and generalizability of meta-analyses remain highly dependent on the quality of the data analyzed.
+                  In his textbook on clinical trial design, Spilker (<a id="xref-ref-3-1" class="xref-bibr" href="#ref-3">3</a>) introduced his discussion of potential problems with meta-analysis with the question, “Can tons of garbage yield a single
+                  diamond?” Of course, his term would be an inappropriately harsh characterization of the trials of adjuvant radiation therapy
+                  for endometrial cancer, but his question does bring into relief the importance of careful assessment of the input before we
+                  put too much faith in the interpretations of summary analyses.
+               </p>
+               <p id="p-3" class="indent">The goal of Kong and colleagues’ analysis, as stated in their abstract, was to determine the role of adjuvant radiation therapy
+                  in patients with stage I endometrial cancer. Their conclusion is that radiation has no statistically significant impact on
+                  overall survival or cancer-related deaths in this group. However, their implication—that the lack of benefit applies to the
+                  stage I group as a whole—cannot be justified because the high-intermediate-risk patients who had most to gain from adjuvant
+                  treatment were barely represented in the contributing trials. The authors try to address this problem by analyzing outcomes
+                  of patients divided into different risk groups. However, the validity of this subset analysis is severely compromised because
+                  the estimates of risk were seriously flawed in many of the original trials.
+               </p>
+               <p id="p-4" class="indent">Endometrial cancer is by far the most common gynecologic malignancy affecting women in the United States. However, most endometrial
+                  cancers are cured with hysterectomy alone. The annual death rate from uterine cancer is much less than that from ovarian cancer
+                  and only modestly higher than that from cervical cancer, suggesting that high-risk endometrial cancer is actually a relatively
+                  rare disease (<a id="xref-ref-4-1" class="xref-bibr" href="#ref-4">4</a>). In Northern Europe, where most of the randomized trials were conducted, racial and other demographic characteristics differ
+                  from those in the United States, and high-risk endometrial cancer may be even less common. For example, in the Netherlands,
+                  home of the PORTEC trials, the annual death rate from endometrial cancer is about 3 per 100 000 women, compared with an annual
+                  rate of 5 per 100 000 women in the United States (<a id="xref-ref-4-2" class="xref-bibr" href="#ref-4">4</a>,<a id="xref-ref-5-1" class="xref-bibr" href="#ref-5">5</a>).
+               </p>
+               <p id="p-5" class="indent">We know from these data and from numerous clinical-pathologic analyses that uterine cancer has a heterogeneous presentation
+                  and that most of the recurrence (and death) risk, particularly for patients with stage I disease, resides in a relatively
+                  small subset of patients whose tumors exhibit multiple risk factors. Ideally, clinical trials would focus on these higher-risk
+                  patients for whom the margin for improvement is substantial. However, the desire to assure rapid accrual often leads investigators
+                  to broaden inclusion criteria. In fact, this has been one of the primary weaknesses of the endometrial cancer trials. Studies
+                  have tended to include large numbers of patients with low-grade or minimally invasive cancers—patients whose baseline risk
+                  of recurrence may be less than 5% to 10%. For these patients, even relatively minor side effects from radiation therapy (or
+                  lymphadenectomy or chemotherapy) will outweigh the most optimistic level of benefit from that treatment. If the proportion
+                  of patients with low-grade or minimally invasive cancers in a trial is large, treatment-related morbidity experienced by patients
+                  with low-risk tumors can easily obscure real benefits experienced by the smaller number of patients who have a greater margin
+                  for improvement. This phenomenon was well described by Kent and Haywood in their discussion of the potential pitfalls of summary
+                  statistics (<a id="xref-ref-6-1" class="xref-bibr" href="#ref-6">6</a>). The phenomenon is also clearly illustrated in the results of the GOG-99 trial (<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">7</a>). In that trial, subset analysis of a high-intermediate-risk subgroup suggested a fairly large potential benefit that was
+                  completely obscured when the entire group of patients, which on average was a relatively low-risk group, was analyzed.
+               </p>
+               <p id="p-6" class="indent">Adding importantly to this problem is the fact that patients included in several of the trials had even more favorable tumor
+                  characteristics than was apparent from the original risk assignments. The rules for histologic grading have evolved considerably
+                  since the Norwegian trial was conducted in the 1970s. Lindemann and colleagues (<a id="xref-ref-8-1" class="xref-bibr" href="#ref-8">8</a>) recently presented updated results of the Norwegian trial with contemporary pathology review. In the update, 48% of patients
+                  were found to have had grade 1 disease (compared with 11% in the original report), and 58% had minimally invasive tumors.
+                  PORTEC-1 (<a id="xref-ref-9-1" class="xref-bibr" href="#ref-9">9</a>) and PORTEC-2 (<a id="xref-ref-10-1" class="xref-bibr" href="#ref-10">10</a>), which relied on the interpretation of community pathologists for registration and classification, also suffered from errors
+                  that inflated the grade assignment. When a subset of PORTEC-1 patients were reviewed by experienced gynecologic pathologists,
+                  48% of patients had their disease downgraded from grade 2 to grade 1, resulting in grade 1 designation in 69% of the patients
+                  overall. Some patients were actually ineligible for the trial, and many others were shifted to the very lowest risk group
+                  in which patients were still eligible. PORTEC-2 had similar problems: after review, the proportion of patients having grade
+                  1 disease increased from 48% to 79%. This remarkable discordance in grade assignments also calls into question the accuracy
+                  of the community pathologists’ interpretations of myometrial invasion—a critical prognostic feature that could not be centrally
+                  reviewed with the available material. In fact, the only major trial analysis that used central review by experienced gynecologic
+                  pathologists was GOG-99, the trial that came closest to defining a high-intermediate-risk group that could benefit from adjuvant
+                  treatment.
+               </p>
+               <p id="p-7" class="indent">These shifts in risk assignment are not reflected in the meta-analysis by Kong and colleagues, which relied on published results
+                  and initial risk assignments rather than individual patient data. We now know that more than two-thirds of the patients in
+                  the trials included in the meta-analysis probably had low-risk or low-intermediate-risk disease. Yes, the data confirm that
+                  the risks of adjuvant pelvic radiation therapy outweigh the benefits for patients with these very favorable tumors. However,
+                  we have known for decades that such patients probably had an insufficient margin for improvement to justify the morbidity
+                  of potentially toxic adjuvant interventions.
+               </p>
+               <p id="p-8" class="indent">The question that has not yet been answered by individual trials or meta-analysis is whether adjuvant treatment can benefit
+                  the less common, higher-risk stage I patients who have multiple risk factors. We should not fool ourselves into thinking that
+                  this question has been answered. Only focused trials in patients with well-characterized high-intermediate-risk tumors can
+                  provide the answer to the question that we have been trying but have failed to answer for more than 30 years.
+               </p>
+               <div class="section notes" id="notes-1">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-1" title="Next Section" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Notes</h2>
+                  
+                  <div class="section" id="sec-1">
+                     <div class="section-nav"><a href="#notes-1" title="Notes" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                     
+                     <h3>Notes</h3>
+                     
+                     <p id="p-9">The author has no conflicts of interest to disclose.</p>
+                     
+                  </div>
+                  
+               </div>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1">© The Author 2012. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</li>
+               </ul>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#sec-1" title="Previous Section" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">1.</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference 1. in text"
+                           id="ref-1">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.21.1615.1">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kong</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Johnson</span>  <span class="cit-name-given-names">N</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kitchener</span>  <span class="cit-name-given-names">HC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Adjuvant radiotherapy for stage I endometrial cancer: an updated Cochrane systematic review and meta-analysis</span>
+                                 <abbr class="cit-jnl-abbrev">J Natl Cancer Inst</abbr>
+                                 <span class="cit-pub-date">2012</span>
+                                 <span class="cit-vol">104</span>(<span class="cit-issue">21</span>)</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Adjuvant%20radiotherapy%20for%20stage%20I%20endometrial%20cancer%3A%20an%20updated%20Cochrane%20systematic%20review%20and%20meta-analysis&amp;author=A%20Kong&amp;author=N%20Johnson&amp;author=HC%20Kitchener&amp;publication_year=2012&amp;journal=J%20Natl%20Cancer%20Inst&amp;volume=104&amp;issue=21">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">2.</span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference 2. in text"
+                           id="ref-2">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.21.1615.2"
+                             data-doi="10.1093/annonc/mdm066">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kong</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Simera</span>  <span class="cit-name-given-names">I</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Collingwood</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Adjuvant radiotherapy for stage I endometrial cancer: systematic review and meta-analysis</span>
+                                 <abbr class="cit-jnl-abbrev">Ann Oncol</abbr>
+                                 <span class="cit-pub-date">2007</span>
+                                 <span class="cit-vol">18</span>(<span class="cit-issue">10</span>):<span class="cit-fpage">1595</span>–<span class="cit-lpage">1604</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=annonc&amp;resid=18/10/1595"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">3.</span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference 3. in text"
+                           id="ref-3">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-book" id="cit-104.21.1615.3">
+                           <div class="cit-metadata">
+                              <ol class="duplicate">
+                                 <li><span class="cit-ed"><span class="cit-name-surname">Spilker</span>  <span class="cit-name-given-names">B</span></span></li>
+                              </ol>
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Spilker</span>  <span class="cit-name-given-names">B.</span></span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Meta-analysis</span>. In: 
+                                 <span class="cit-ed"><span class="cit-name-surname">Spilker</span>  <span class="cit-name-given-names">B</span></span>
+                                 , ed. <span class="cit-source">Guide to Clinical Trials</span>
+                                 <span class="cit-publ-loc">New York</span>
+                                 <span class="cit-publ-name">Raven Press</span>;<span class="cit-pub-date">1991</span>
+                                 <span class="cit-fpage">793</span>–<span class="cit-lpage">799</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Meta-analysis&amp;author=B.%20Spilker&amp;publication_year=1991&amp;citation_inbook_title=Guide%20to%20Clinical%20Trials">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">4.</span><a class="rev-xref-ref" href="#xref-ref-4-1" title="View reference 4. in text"
+                           id="ref-4">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-104.21.1615.4">
+                           <div class="cit-metadata"><cite><span class="cit-auth cit-collab">USCSWG</span>. United States Cancer Statistics: 1999–2008 Incidence and Mortality Web-based Report. Atlanta: U.S. Department of Health
+                                 and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; <span class="cit-pub-date">2012</span>
+                                 </cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">5.</span><a class="rev-xref-ref" href="#xref-ref-5-1" title="View reference 5. in text"
+                           id="ref-5">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.21.1615.5"
+                             data-doi="10.1097/CEJ.0b013e3282b6fdf9">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kellert</span>  <span class="cit-name-given-names">IM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Botterweck</span>  <span class="cit-name-given-names">AA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Huveneers</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Trends in incidence of and mortality from uterine and ovarian cancer in Mid and South Limburg, The Netherlands, 1986–2003</span>
+                                 <abbr class="cit-jnl-abbrev">Eur J Cancer Prev</abbr>
+                                 <span class="cit-pub-date">2009</span>
+                                 <span class="cit-vol">18</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">85</span>–<span class="cit-lpage">89</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1097/CEJ.0b013e3282b6fdf9&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=19077569&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Trends%20in%20incidence%20of%20and%20mortality%20from%20uterine%20and%20ovarian%20cancer%20in%20Mid%20and%20South%20Limburg%2C%20The%20Netherlands%2C%201986%E2%80%932003&amp;author=IM%20Kellert&amp;author=AA%20Botterweck&amp;author=JA%20Huveneers&amp;publication_year=2009&amp;journal=Eur%20J%20Cancer%20Prev&amp;volume=18&amp;issue=1&amp;pages=85-89">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">6.</span><a class="rev-xref-ref" href="#xref-ref-6-1" title="View reference 6. in text"
+                           id="ref-6">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.21.1615.6"
+                             data-doi="10.1001/jama.298.10.1209">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kent</span>  <span class="cit-name-given-names">DM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hayward</span>  <span class="cit-name-given-names">RA.</span></span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Limitations of applying summary results of clinical trials to individual patients: the need for risk stratification</span>
+                                 <abbr class="cit-jnl-abbrev">JAMA</abbr>
+                                 <span class="cit-pub-date">2007</span>
+                                 <span class="cit-vol">298</span>(<span class="cit-issue">10</span>):<span class="cit-fpage">1209</span>–<span class="cit-lpage">1212</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.298.10.1209&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=17848656&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000249374200027&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Limitations%20of%20applying%20summary%20results%20of%20clinical%20trials%20to%20individual%20patients%3A%20the%20need%20for%20risk%20stratification&amp;author=DM%20Kent&amp;author=RA.%20Hayward&amp;publication_year=2007&amp;journal=JAMA&amp;volume=298&amp;issue=10&amp;pages=1209-1212">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">7.</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference 7. in text"
+                           id="ref-7">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.21.1615.7"
+                             data-doi="10.1016/j.ygyno.2003.11.048">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Keys</span>  <span class="cit-name-given-names">HM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Roberts</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Brunetto</span>  <span class="cit-name-given-names">VL</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">A phase III trial of surgery with or without adjunctive external pelvic radiation therapy in intermediate risk endometrial
+                                    adenocarcinoma: a Gynecologic Oncology Group study</span>
+                                 <abbr class="cit-jnl-abbrev">Gynecol Oncol</abbr>
+                                 <span class="cit-pub-date">2004</span>
+                                 <span class="cit-vol">92</span>(<span class="cit-issue">3</span>):<span class="cit-fpage">744</span>–<span class="cit-lpage">751</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/j.ygyno.2003.11.048&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=14984936&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000220057700003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=A%20phase%20III%20trial%20of%20surgery%20with%20or%20without%20adjunctive%20external%20pelvic%20radiation%20therapy%20in%20intermediate%20risk%20endometrial%20adenocarcinoma%3A%20a%20Gynecologic%20Oncology%20Group%20study&amp;author=HM%20Keys&amp;author=JA%20Roberts&amp;author=VL%20Brunetto&amp;publication_year=2004&amp;journal=Gynecol%20Oncol&amp;volume=92&amp;issue=3&amp;pages=744-751">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">8.</span><a class="rev-xref-ref" href="#xref-ref-8-1" title="View reference 8. in text"
+                           id="ref-8">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.21.1615.8">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Lindemann</span>  <span class="cit-name-given-names">K</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Onsrud</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kristensen</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Survival after radiation therapy for early-stage endometrial carcinoma: the Oslo study revisited after up to 43 years of follow-up</span>
+                                 <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr>
+                                 <span class="cit-pub-date">2012</span>
+                                 <span class="cit-vol">30</span>(<span class="cit-issue">suppl</span>): abstr 5008</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Survival%20after%20radiation%20therapy%20for%20early-stage%20endometrial%20carcinoma%3A%20the%20Oslo%20study%20revisited%20after%20up%20to%2043%20years%20of%20follow-up&amp;author=K%20Lindemann&amp;author=M%20Onsrud&amp;author=G%20Kristensen&amp;publication_year=2012&amp;journal=J%20Clin%20Oncol&amp;volume=30&amp;issue=suppl">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">9.</span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference 9. in text"
+                           id="ref-9">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.21.1615.9"
+                             data-doi="10.1016/S0140-6736(00)02139-5">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Creutzberg</span>  <span class="cit-name-given-names">CL</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">van Putten</span>  <span class="cit-name-given-names">WL</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Koper</span>  <span class="cit-name-given-names">PC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>.; <span class="cit-auth cit-collab">PORTEC Study Group</span>
+                                 <span class="cit-article-title">Surgery and postoperative radiotherapy versus surgery alone for patients with stage-1 endometrial carcinoma: multicentre randomised
+                                    trial. Post Operative Radiation Therapy in Endometrial Carcinoma</span>
+                                 <abbr class="cit-jnl-abbrev">Lancet</abbr>
+                                 <span class="cit-pub-date">2000</span>
+                                 <span class="cit-vol">355</span>(<span class="cit-issue">9213</span>):<span class="cit-fpage">1404</span>–<span class="cit-lpage">1411</span>
+                                 </cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(00)02139-5&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10791524&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000086829800011&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Surgery%20and%20postoperative%20radiotherapy%20versus%20surgery%20alone%20for%20patients%20with%20stage-1%20endometrial%20carcinoma%3A%20multicentre%20randomised%20trial.%20Post%20Operative%20Radiation%20Therapy%20in%20Endometrial%20Carcinoma&amp;author=CL%20Creutzberg&amp;author=WL%20van%20Putten&amp;author=PC%20Koper&amp;publication_year=2000&amp;journal=Lancet&amp;volume=355&amp;issue=9213&amp;pages=1404-1411">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">10.</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference 10. in text"
+                           id="ref-10">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-104.21.1615.10">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Nout</span>  <span class="cit-name-given-names">RA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Putter</span>  <span class="cit-name-given-names">H</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Jürgenliemk-Schulz</span>  <span class="cit-name-given-names">IM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Vaginal brachytherapy versus external beam pelvic radiotherapy for high-intermediate risk endometrial cancer: results of the
+                                    randomized PORTEC-2 trial</span>. <abbr class="cit-jnl-abbrev">Proc 44th Annu Meeting Am Soc Clin Oncol</abbr> <span class="cit-pub-date">2008</span>:<span class="cit-fpage">181</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Vaginal%20brachytherapy%20versus%20external%20beam%20pelvic%20radiotherapy%20for%20high-intermediate%20risk%20endometrial%20cancer%3A%20results%20of%20the%20randomized%20PORTEC-2%20trial&amp;author=RA%20Nout&amp;author=H%20Putter&amp;author=IM%20J%C3%BCrgenliemk-Schulz&amp;publication_year=2008&amp;journal=Proc%2044th%20Annu%20Meeting%20Am%20Soc%20Clin%20Oncol&amp;pages=181">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div id="related">
+               <h2>Related articles</h2>
+               <ul class="related-list">
+                  <div class="cit has-earlier-version">
+                     <div class="cit-metadata"><span class="cit-first-element cit-section">Review<span class="cit-sep cit-sep-after-article-section">:</span> </span><ul class="cit-auth-list">
+                           <li class="first-item"><span class="cit-auth cit-auth-type-author">Anthony Kong</span><span class="cit-sep cit-sep-separator">, </span></li>
+                           <li><span class="cit-auth cit-auth-type-author">Nick Johnson</span><span class="cit-sep cit-sep-separator">, </span></li>
+                           <li><span class="cit-auth cit-auth-type-author">Henry C. Kitchener</span><span class="cit-sep cit-sep-separator">, </span></li>
+                           <li class="last-item"><span class="cit-sep cit-sep-last-separator">and </span><span class="cit-auth cit-auth-type-author">Theresa A. Lawrie</span></li>  
+                        </ul><span class="cit-title">Adjuvant Radiotherapy for Stage I Endometrial Cancer: An Updated Cochrane Systematic Review and Meta-analysis </span> <cite><abbr title="Journal of the National Cancer Institute" class="site-title">JNCI J Natl Cancer Inst</abbr> <span class="cit-print-date"><span class="cit-sep cit-sep-before-article-print-date">(</span>2012<span class="cit-sep cit-sep-after-article-print-date">)</span> </span><span class="cit-vol">104 </span><span class="cit-issue"><span class="cit-sep cit-sep-before-article-issue">(</span>21<span class="cit-sep cit-sep-after-article-issue">):</span> </span><span class="cit-pages"><span class="cit-first-page">1625</span><span class="cit-sep">-</span><span class="cit-last-page">1634</span> </span><span class="cit-doi"><span class="cit-sep cit-sep-before-article-doi"> doi:</span>10.1093/jnci/djs374 </span><span class="cit-ahead-of-print-date"><span class="cit-sep cit-sep-before-article-ahead-of-print-date">first published online </span>September 6, 2012 </span><span class="cit-page-count"><span class="cit-sep cit-sep-before-article-page-count">(</span>10<span class="cit-sep cit-sep-after-article-page-count"> pages)</span> </span></cite>  
+                     </div>
+                     <div class="cit-extra"><span class="accesscheck jnci;104/21/1625 abstract,full,reprint"></span> 
+                        <ul class="cit-views">
+                           <li class="first-item"><a href="/content/104/21/1625.abstract" rel="abstract">Abstract</a></li>
+                           <li><a href="/content/104/21/1625.full" rel="full-text">Full Text (HTML)</a></li>
+                           <li class="last-item"><a href="/content/104/21/1625.full.pdf+html" rel="full-text.pdf">Full Text (PDF)</a></li>
+                        </ul>  
+                     </div> 
+                  </div>
+               </ul>
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/104/20/NP.7.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/104/21/1616.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/104/21.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (2012) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    104
+                                    </span><span class="slug-issue">
+                                    (21):
+                                    </span><span class="slug-pages">
+                                    1615-1616.
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/djs434" class="slug-doi">10.1093/jnci/djs434</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              <span class="slug-metadata-note ahead-of-print">
+                                 
+                                 First published online
+                                 
+                                 <span class="slug-ahead-of-print-date">October 26, 2012</span>
+                                 </span>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><a href="/content/104/21/1615.extract" rel="view-extract">Extract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/104/21/1615.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2012/10/25/jnci.djs434">djs434v1</a></li>
+                                 <li class="current-li"><span>104/21/1615</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=Solicited+Editorial&amp;sortspec=date&amp;submit=Submit">Solicited Editorial</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;104/21/1615" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B104%2F21%2F1615&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/104/21/1615.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=104/21/1615&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/104/21/1615.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3Bdjs434&amp;citation=Eifel%20104%20%2821%29:%201615&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B104%2F21%2F1615&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=23104209&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B104%2F21%2F1615">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B104%2F21%2F1615">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=The%20Role%20of%20Adjuvant%20Radiation%20Therapy%20for%20Stage%20I%20Endometrial%20Cancer%3A%20Does%20Meta-Analysis%20Reveal%20the%20Answer%3F%3A%20&amp;publicationDate=11%2F07%2F2012&amp;author=Patricia%20J.%20Eifel&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2Fdjs434&amp;volumeNum=104&amp;issueNum=21&amp;startPage=1615&amp;endPage=1616&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/104/21/1615.full?cited-by=yes&amp;legid=jnci;104/21/1615#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/104/21/1615" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/104/21/1615?access_num=/jnci/104/21/1615"
+                              rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F104%2F21%2F1615&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/104/21/1615.extract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AEifel%20author%3AP.J.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Eifel, P. J.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/104/21/1615.extract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=23104209&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Eifel%20PJ&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Eifel, P. J.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="#related">Related articles in this journal</a></li>
+                        <li><a href="/content/104/21/1615.full?related-urls=yes&amp;legid=jnci;104/21/1615#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B104%2F21%2F1615&amp;current-view-path=/content/104/21/1615.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/104/21/1615&amp;title=The%20Role%20of%20Adjuvant%20Radiation%20Therapy%20for%20Stage%20I%20Endometrial%20Cancer%3A%20Does%20Meta-Analysis%20Reveal%20the%20Answer%3F+--+Eifel%20104%20%2821%29%3A%201615+--+jnci.j&amp;doi=10.1093/jnci/djs434&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/104/21/1615&amp;title=The%20Role%20of%20Adjuvant%20Radiation%20Therapy%20for%20Stage%20I%20Endometrial%20Cancer%3A%20Does%20Meta-Analysis%20Reveal%20the%20Answer%3F+--+Eifel%20104%20%2821%29%3A%201615+--+jnci.j&amp;doi=10.1093/jnci/djs434&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/104/21/1615&amp;title=The%20Role%20of%20Adjuvant%20Radiation%20Therapy%20for%20Stage%20I%20Endometrial%20Cancer%3A%20Does%20Meta-Analysis%20Reveal%20the%20Answer%3F+--+Eifel%20104%20%2821%29%3A%201615+--+jnci.j&amp;doi=10.1093/jnci/djs434&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/104/21/1615&amp;title=The%20Role%20of%20Adjuvant%20Radiation%20Therapy%20for%20Stage%20I%20Endometrial%20Cancer%3A%20Does%20Meta-Analysis%20Reveal%20the%20Answer%3F+--+Eifel%20104%20%2821%29%3A%201615+--+jnci.j&amp;doi=10.1093/jnci/djs434&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/104/21/1615&amp;title=The%20Role%20of%20Adjuvant%20Radiation%20Therapy%20for%20Stage%20I%20Endometrial%20Cancer%3A%20Does%20Meta-Analysis%20Reveal%20the%20Answer%3F+--+Eifel%20104%20%2821%29%3A%201615+--+jnci.j&amp;doi=10.1093/jnci/djs434&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/104/21/1615&amp;title=The%20Role%20of%20Adjuvant%20Radiation%20Therapy%20for%20Stage%20I%20Endometrial%20Cancer%3A%20Does%20Meta-Analysis%20Reveal%20the%20Answer%3F+--+Eifel%20104%20%2821%29%3A%201615+--+jnci.j&amp;doi=10.1093/jnci/djs434&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#notes-1">Notes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/104/21/1615.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/104/21/1615.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

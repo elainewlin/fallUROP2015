@@ -1,0 +1,2021 @@
+http://jnci.oxfordjournals.org/content/102/24/1845.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Dose-Dense Chemotherapy in Nonmetastatic Breast Cancer: A Systematic Review and Meta-analysis of Randomized Controlled Trials
+         
+      </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/102/24/1845" />
+      <meta content="/jnci/102/24/1845.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Dose-Dense Chemotherapy in Nonmetastatic Breast Cancer: A Systematic Review and Meta-analysis of Randomized Controlled Trials"
+            name="DC.Title" />
+      <meta content="10.1093/jnci/djq409" name="DC.Identifier" />
+      <meta content="2010-12-15" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Luisa Bonilla" name="DC.Contributor" />
+      <meta content="Irit Ben-Aharon" name="DC.Contributor" />
+      <meta content="Liat Vidal" name="DC.Contributor" />
+      <meta content="Anat Gafter-Gvili" name="DC.Contributor" />
+      <meta content="Leonard Leibovici" name="DC.Contributor" />
+      <meta content="Salomon M. Stemmer" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta name="citation_author" content="Luisa Bonilla" />
+      <meta name="citation_author_institution"
+            content="Affiliations of authors: Institute of Oncology (LB, IB-A, SMS) and Institute of Hematology (LV, AG-G), Davidoff Center, Rabin Medical Center and Department of Medicine E, Rabin Medical Center (LL), Beilinson Campus, Petah Tikva; Sackler Faculty of Medicine, Tel Aviv University, Tel-Aviv, Israel (IBA, LV, AG-G, LL, SMS)" />
+      <meta name="citation_author" content="Irit Ben-Aharon" />
+      <meta name="citation_author_institution"
+            content="Affiliations of authors: Institute of Oncology (LB, IB-A, SMS) and Institute of Hematology (LV, AG-G), Davidoff Center, Rabin Medical Center and Department of Medicine E, Rabin Medical Center (LL), Beilinson Campus, Petah Tikva; Sackler Faculty of Medicine, Tel Aviv University, Tel-Aviv, Israel (IBA, LV, AG-G, LL, SMS)" />
+      <meta name="citation_author" content="Liat Vidal" />
+      <meta name="citation_author_institution"
+            content="Affiliations of authors: Institute of Oncology (LB, IB-A, SMS) and Institute of Hematology (LV, AG-G), Davidoff Center, Rabin Medical Center and Department of Medicine E, Rabin Medical Center (LL), Beilinson Campus, Petah Tikva; Sackler Faculty of Medicine, Tel Aviv University, Tel-Aviv, Israel (IBA, LV, AG-G, LL, SMS)" />
+      <meta name="citation_author" content="Anat Gafter-Gvili" />
+      <meta name="citation_author_institution"
+            content="Affiliations of authors: Institute of Oncology (LB, IB-A, SMS) and Institute of Hematology (LV, AG-G), Davidoff Center, Rabin Medical Center and Department of Medicine E, Rabin Medical Center (LL), Beilinson Campus, Petah Tikva; Sackler Faculty of Medicine, Tel Aviv University, Tel-Aviv, Israel (IBA, LV, AG-G, LL, SMS)" />
+      <meta name="citation_author" content="Leonard Leibovici" />
+      <meta name="citation_author_institution"
+            content="Affiliations of authors: Institute of Oncology (LB, IB-A, SMS) and Institute of Hematology (LV, AG-G), Davidoff Center, Rabin Medical Center and Department of Medicine E, Rabin Medical Center (LL), Beilinson Campus, Petah Tikva; Sackler Faculty of Medicine, Tel Aviv University, Tel-Aviv, Israel (IBA, LV, AG-G, LL, SMS)" />
+      <meta name="citation_author" content="Salomon M. Stemmer" />
+      <meta name="citation_author_institution"
+            content="Affiliations of authors: Institute of Oncology (LB, IB-A, SMS) and Institute of Hematology (LV, AG-G), Davidoff Center, Rabin Medical Center and Department of Medicine E, Rabin Medical Center (LL), Beilinson Campus, Petah Tikva; Sackler Faculty of Medicine, Tel Aviv University, Tel-Aviv, Israel (IBA, LV, AG-G, LL, SMS)" />
+      <meta content="Dose-Dense Chemotherapy in Nonmetastatic Breast Cancer: A Systematic Review and Meta-analysis of Randomized Controlled Trials"
+            name="citation_title" />
+      <meta content="12/15/2010" name="citation_date" />
+      <meta content="102" name="citation_volume" />
+      <meta content="24" name="citation_issue" />
+      <meta content="1845" name="citation_firstpage" />
+      <meta content="1854" name="citation_lastpage" />
+      <meta content="102/24/1845" name="citation_id" />
+      <meta content="102/24/1845" name="citation_id_from_sass_path" />
+      <meta content="jnci;102/24/1845" name="citation_mjid" />
+      <meta content="10.1093/jnci/djq409" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/102/24/1845.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/102/24/1845.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/102/24/1845.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/102/24.cover.gif" name="issue_cover_image" />
+      <meta content="http://jnci.oxfordjournals.org/content/102/24/1845"
+            name="citation_public_url" />
+      <meta content="21098761" name="citation_pmid" />
+      <meta name="citation_fulltext_world_readable" content="" />
+      <meta name="citation_section" content="Article" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/102/24/1835.short" rel="prev" />
+      <link href="/content/102/24/1855.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d392270280e1">var callbackToken='537859EF1CA00AB';</script><script type="text/javascript" id="session-d392270280e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:13:33.209-07:00';
+            var gSessionId = '2UknHcG0K51UAZ0LkSpQEQ';
+            var gAuthzRequired = 'false';
+            var gAuthnMethods1 = 'ip ip';
+            var gAuthnMethods2 = 'ip,ip';
+            var gAuthnIPs = '18.189.59.169,18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/djq409");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("20101215");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F102%2F24%2F1845.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/102/24.toc">
+                  <span xmlns="" class="volume-value">Volume 102</span>
+                  <span xmlns="" class="issue-value"> Issue 24</span></a></li>
+            <li>Pp. <span class="slug-pages">
+                  1845-1854.
+                  </span></li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/102/24/1845.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Dose-Dense Chemotherapy in Nonmetastatic Breast Cancer: A Systematic Review and Meta-analysis of Randomized Controlled Trials</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Luisa+Bonilla&amp;sortspec=date&amp;submit=Submit">Luisa Bonilla</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Irit+Ben-Aharon&amp;sortspec=date&amp;submit=Submit">Irit Ben-Aharon</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Liat+Vidal&amp;sortspec=date&amp;submit=Submit">Liat Vidal</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Anat+Gafter-Gvili&amp;sortspec=date&amp;submit=Submit">Anat Gafter-Gvili</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Leonard+Leibovici&amp;sortspec=date&amp;submit=Submit">Leonard Leibovici</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-6"><span class="name"><a class="name-search"
+                              href="/search?author1=Salomon+M.+Stemmer&amp;sortspec=date&amp;submit=Submit">Salomon M. Stemmer</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><strong>Affiliations of authors:</strong> Institute of Oncology (LB, IB-A, SMS) and Institute of Hematology (LV, AG-G), Davidoff Center, Rabin Medical Center and Department
+                           of Medicine E, Rabin Medical Center (LL), Beilinson Campus, Petah Tikva; Sackler Faculty of Medicine, Tel Aviv University,
+                           Tel-Aviv, Israel (IBA, LV, AG-G, LL, SMS)
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1"><strong>Correspondence to:</strong><br /> Salomon M. Stemmer, MD, Institute of Oncology, Davidoff Center, Rabin Medical Center, Petah Tikva, Israel (e-mail: <span class="em-link"><span class="em-addr">shtemers{at}clalit.org.il</span></span>).
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                         hwp:start="2010-04-11"><span class="received-label">Received </span>April 11, 2010.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="rev-recd"
+                         hwp:start="2010-09-03"><span class="rev-recd-label">Revision received </span>September 3, 2010.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="2010-09-17"><span class="accepted-label">Accepted </span>September 17, 2010.
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-11" title="Methods" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Abstract</h2>
+                  <div id="sec-1" class="subsection">
+                     <p id="p-2"><strong>Background</strong> Dose-dense chemotherapy has become a mainstay regimen in the adjuvant setting for women with high-risk breast cancer. We
+                        performed a systematic review and meta-analysis of the existing data from randomized controlled trials regarding the efficacy
+                        and toxicity of the dose-dense chemotherapy approach in nonmetastatic breast cancer.
+                     </p>
+                  </div>
+                  <div id="sec-2" class="subsection">
+                     <p id="p-3"><strong>Methods</strong> Randomized controlled trials that compared a dose-dense chemotherapy protocol with a standard chemotherapy schedule in the
+                        neoadjuvant or adjuvant setting in adult women older than 18 years with breast cancer were identified by searching The Cochrane
+                        Cancer Network register of trials, The Cochrane Library, and LILACS and MEDLINE databases (from January 1966 to January 2010).
+                        Hazard ratios (HRs) of death and recurrence and relative risks of adverse events were estimated and pooled. All statistical
+                        tests were two-sided.
+                     </p>
+                  </div>
+                  <div id="sec-3" class="subsection">
+                     <p id="p-4"><strong>Results</strong> Ten trials met the inclusion criteria and were classified into two categories based on trial methodology. Three trials enrolling
+                        3337 patients compared dose-dense chemotherapy with a conventional chemotherapy schedule (similar agents). Patients who received
+                        dose-dense chemotherapy had better overall survival (HR of death = 0.84, 95% confidence interval [CI] = 0.72 to 0.98, <em>P</em> = .03) and better disease-free survival (HR of recurrence or death = 0.83, 95% CI = 0.73 to 0.94, <em>P</em> = .005) than those on the conventional schedule. No benefit was observed in patients with hormone receptor–positive tumors.
+                        Seven trials enrolling 8652 patients compared dose-dense chemotherapy with regimens that use standard intervals but with different
+                        agents and/or dosages in the treatment arms. Similar results were obtained for these trials with respect to overall survival
+                        (HR of death = 0.85, 95% CI = 0.75 to 0.96, <em>P</em> = .01) and disease-free survival (HR of recurrence or death = 0.81, 95% CI = 0.73 to 0.88, <em>P</em> &lt; .001). The rate of nonhematological adverse events was higher in the dose-dense chemotherapy arms than in the conventional
+                        chemotherapy arms.
+                     </p>
+                  </div>
+                  <div id="sec-4" class="subsection">
+                     <p id="p-5"><strong>Conclusion</strong> Dose-dense chemotherapy results in better overall and disease-free survival, particularly in women with hormone receptor–negative
+                        breast cancer. However, additional data from randomized controlled trials are needed before dose-dense chemotherapy can be
+                        considered as the standard of care.
+                     </p>
+                  </div>
+               </div>
+               <p id="p-6">
+                  <div class="boxed-text" id="boxed-text-1">
+                     <div id="sec-5" class="subsection">
+                        <h4>CONTEXT AND CAVEATS</h4>
+                        <div id="sec-6" class="subsection">
+                           <h5>Prior knowledge</h5>
+                           <p id="p-7">Dose-dense chemotherapy has become a mainstay regimen in the adjuvant setting for women with high-risk breast cancer.</p>
+                        </div>
+                        <div id="sec-7" class="subsection">
+                           <h5>Study design</h5>
+                           <p id="p-8">Systematic review and meta-analysis of 10 randomized controlled trials that compared dose-dense chemotherapy with a standard
+                              chemotherapy schedule in women with nonmetastatic breast cancer.
+                           </p>
+                        </div>
+                        <div id="sec-8" class="subsection">
+                           <h5>Contribution</h5>
+                           <p id="p-9">Dose-dense chemotherapy results in better overall and disease-free survival, particularly in women with hormone receptor–negative
+                              breast cancer. The rate of nonhematological adverse events was higher in the dose-dense chemotherapy arms than in the conventional
+                              chemotherapy arms.
+                           </p>
+                        </div>
+                        <div id="sec-9" class="subsection">
+                           <h5>Implications</h5>
+                           <p id="p-10">The lack of obvious benefit in patients with hormone receptor–positive breast cancer indicates the need for further prospective
+                              randomized trials of the classical conserved design in this patient population.
+                           </p>
+                        </div>
+                        <div id="sec-10" class="subsection">
+                           <h5>Limitations</h5>
+                           <p id="p-11">There was substantial statistical heterogeneity among the trials. The small number of included trials makes the outcomes more
+                              likely to have been influenced by a potential publication bias.
+                           </p>
+                           <p id="p-12"><em>From the Editors</em></p>
+                        </div>
+                     </div>
+                  </div>
+               </p>
+               <p id="p-13">The implementation of adjuvant therapy, hormonal therapy, and chemotherapy has made a major impact on disease-free survival
+                  and overall survival in premenopausal and postmenopausal women with early-stage breast cancer (<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">1</a>). Unfortunately, many breast cancer patients who are diagnosed and treated properly will suffer from recurrence and ultimately
+                  die of this disease. Since the introduction of anthracycline-based regimens for the treatment of breast cancer and the demonstration
+                  of their superiority to other combination chemotherapy (<a id="xref-ref-1-2" class="xref-bibr" href="#ref-1">1</a>), a variety of approaches have evolved regarding adjuvant polychemotherapy, including the addition of novel drugs such as
+                  taxanes and targeted agents and the establishment of dose-intensive (<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2">2</a>) and dose-dense chemotherapy regimens (<a id="xref-ref-3-1" class="xref-bibr" href="#ref-3">3</a>,<a id="xref-ref-4-1" class="xref-bibr" href="#ref-4">4</a>) that were based on mathematical models of human breast cancer growth (<a id="xref-ref-5-1" class="xref-bibr" href="#ref-5">5</a>).
+               </p>
+               <p id="p-14">Administration of dose-dense chemotherapy became possible with the introduction of granulocyte colony-stimulating factor,
+                  which allowed the chemotherapy courses to be condensed without causing unacceptable toxicity. A dose-dense chemotherapy approach
+                  using concurrent doxorubicin and cyclophosphamide followed by paclitaxel was assessed in the pivotal Cancer and Leukemia Group
+                  B 9741 trial, a phase III prospective randomized trial of adjuvant treatment of women with node-positive early-stage breast
+                  cancer (<a id="xref-ref-6-1" class="xref-bibr" href="#ref-6">6</a>). This trial showed a statistically significant improvement in disease-free survival and overall survival for the dose-dense
+                  chemotherapy arm and has become the cornerstone for the current therapeutic treatment of early-stage breast cancer in many
+                  centers.
+               </p>
+               <p id="p-15">The Italian Gruppo Oncologico Nord Ovest-Mammella InterGruppo trial used a similar approach to test a non-taxane–based regimen
+                  (<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">7</a>). Although the point estimates for event-free survival and overall survival favored the dose-dense regimen, they were not
+                  statistically significant (<a id="xref-ref-7-2" class="xref-bibr" href="#ref-7">7</a>). A third trial in the neoadjuvant setting failed to show statistically significant improvement in pathological response
+                  rates, disease-free survival, or overall survival for the dose-dense regimen (<a id="xref-ref-8-1" class="xref-bibr" href="#ref-8">8</a>). Several other randomized trials have examined the concept of dose-dense chemotherapy (<a id="xref-ref-9-1" class="xref-bibr" href="#ref-9">9</a>–<a id="xref-ref-18-1" class="xref-bibr" href="#ref-18">18</a>); however, these studies are difficult to interpret because the treatment groups differed in terms of dose density, drug
+                  regimens, number of cycles, and the application of sequential strategies.
+               </p>
+               <p id="p-16">Given this paucity of data, we performed a systematic review and meta-analysis of the evidence from randomized trials for
+                  the efficacy and toxicity of the dose-dense chemotherapy approach in the treatment of early-stage and locally advanced breast
+                  cancer.
+               </p>
+               <div class="section methods" id="sec-11">
+                  <div class="section-nav"><a href="#abstract-1" title="Abstract" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-17" title="Results" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Methods</h2>
+                  <div id="sec-12" class="subsection">
+                     <h3>Search Strategy</h3>
+                     <p id="p-17">Relevant randomized clinical trials were identified by searching the most recent update of The Cochrane Central Register of
+                        Controlled Trials (January 2010), The Cochrane Library (January 2010 issue), and LILACS (Latin American and Caribbean Health
+                        Sciences) and MEDLINE databases (January 1, 1966, to January 1, 2010). The terms “adjuvant,” “neoadjuvant,” and “dose-dense
+                        chemotherapy” (and similar terms) and “breast cancer” and similar terms were cross-searched by using the following search
+                        algorithm: ((dose-dense chemotherapy OR dense OR acceler* OR weekly OR bi-weekly OR biweekly) AND (Breast neoplasm MeSH OR
+                        ((breast OR mammary OR mamario OR seno) AND (carcinoma OR malignan* OR neoplasm OR tumor)))) AND (randomized controlled trial
+                        [pt]OR controlled clinical trial [pt]OR randomized controlled trial [mh]OR double-blind method [mh] OR single-blind method
+                        [mh] OR clinical trial [pt] OR clinical trials [mh] OR (“clinical trial”) [tw] OR singl* [tw] OR doubl* [tw] OR trebl* [tw]
+                        OR tripl* [tw] AND (mask* [tw] OR blind* [tw]))) OR (placebos [mh] OR placebo* [tw] or random* [tw] PR research design [mh:noexp]
+                        OR comparative study [mh] OR evaluation studies [mh] OR follow up studies [mh] OR prospective studies [mh] OR control* [tw]
+                        OR prospective* [tw] OR volunteer* [tw] NOT (animals [mh] NOT humans [mh]). We also searched for relevant abstracts in the
+                        annual conference proceedings up to December 2009 for the American Society of Clinical Oncology, European Society for Medical
+                        Oncology, and the San Antonio Breast Cancer Symposium. References of selected articles were scanned for any other relevant
+                        trials, and the original trialists were contacted about possible unpublished trials.
+                     </p>
+                  </div>
+                  <div id="sec-13" class="subsection">
+                     <h3>Selection Criteria</h3>
+                     <p id="p-18">We included in the systematic review all randomized controlled trials that compared a dose-dense chemotherapy protocol with
+                        a standard schedule of chemotherapy in the neoadjuvant or adjuvant setting in adult women older than 18 years with breast
+                        cancer. Trials were included regardless of publication status and language. Two trials in a foreign language were assessed
+                        by a native speaker (neither was included in the meta-analysis). We defined two types of trials: Trials that evaluated similar
+                        doses of agents in both treatment arms but with condensed schedule in one arm, which we designated conserved dose-dense chemotherapy
+                        trials, and trials that compared a condensed schedule with a standard one but used different agents or doses in the two arms
+                        were designated modified dose-dense chemotherapy trials. Trials in which overall survival was the primary outcome measure
+                        but was not reported were included if all other inclusion criteria were met. Authors of these trials were contacted and asked
+                        to provide data for the primary outcome measure if those data have been collected.
+                     </p>
+                     <p id="p-19">We excluded trials that assessed dose-dense chemotherapy in malignancies other than breast cancer or that evaluated dose-dense
+                        chemotherapy combined with radiotherapy, trials in which the definition of dose-dense chemotherapy differed from the original
+                        definition (<a id="xref-ref-4-2" class="xref-bibr" href="#ref-4">4</a>), trials that included high-dose chemotherapy arms with peripheral stem cell support, and randomized controlled phase II
+                        trials that evaluated toxicity only.
+                     </p>
+                     <p id="p-20">Two authors (LB and IBA) independently inspected each reference title identified by the search and applied the inclusion criteria.
+                        For possibly relevant articles and in cases of disagreement between the two reviewers, the full article was obtained and inspected
+                        independently by the two reviewers.
+                     </p>
+                  </div>
+                  <div id="sec-14" class="subsection">
+                     <h3>Data Extraction and Quality Assessment</h3>
+                     <p id="p-21">Trials that fulfilled the systematic review inclusion criteria were assessed for methodological quality by two authors (LB
+                        and IBA). Information about randomization and allocation concealment, sample size, exclusions after randomization, and the
+                        length of follow-up were recorded as is considered acceptable for Cochrane reviews (<a id="xref-ref-19-1" class="xref-bibr" href="#ref-19">19</a>). The same two authors independently extracted the data from publications of included trials. The data extraction was discussed,
+                        decisions were documented, and, if necessary, the authors of the trials were contacted for clarification. Authors of included
+                        trials were contacted for all data relevant to the primary and secondary outcomes of this study and quality variables.
+                     </p>
+                  </div>
+                  <div id="sec-15" class="subsection">
+                     <h3>Outcome Measures</h3>
+                     <p id="p-22">The primary outcome was overall survival, which was defined as time from randomization to death. Secondary outcomes were disease-free
+                        survival (defined as the time from randomization to earliest occurrence of relapse or death from any cause), event-free survival
+                        (defined as the length of time from the end of treatment to the earliest occurrence of a severe side effect of treatment,
+                        cancer recurrence or progression, or death from treatment side effects or from the cancer itself) (<a href="http://www.nature.com/nrc/journal/v3/n7/glossary/nrc1125_glossary.html">www.nature.com/nrc/journal/v3/n7/glossary/nrc1125_glossary.html</a>), and toxicity (defined as grade 3 or 4 hematological and nonhematological adverse events). For the analysis of toxicity,
+                        we calculated the mean number of events per chemotherapy cycle by summing all events reported and dividing by the number of
+                        cycles delivered in each trial.
+                     </p>
+                  </div>
+                  <div id="sec-16" class="subsection">
+                     <h3>Statistical Analysis</h3>
+                     <p id="p-23">Hazard ratios (HRs) and variances for time to event outcomes were estimated as described by Parmar et al. (<a id="xref-ref-20-1" class="xref-bibr" href="#ref-20">20</a>) and pooled according to the inverse of variance method with the use of Review Manager software (version 4.2 for Windows;
+                        The Cochrane Collaboration, Oxford, UK). A hazard ratio less than 1 favored dose-dense chemotherapy. Pooled relative risks
+                        (RRs) and 95% confidence intervals (CIs) for dichotomous data were estimated using the Mantel–Haenszel method (<a id="xref-ref-21-1" class="xref-bibr" href="#ref-21">21</a>). We assessed heterogeneity of the trials’ results by inspecting graphical presentations and by calculating a χ<sup>2</sup> test of heterogeneity and the <em>I</em><sup>2</sup> statistic of inconsistency. We also report the <em>Z</em> statistic for the overall effect (Review Manager). Statistically significant heterogeneity was defined as a χ<sup>2</sup> <em>P</em> value less than .1 or an <em>I</em><sup>2</sup> statistic greater than 50% (<a href="http://www.nature.com/nrc/journal/v3/n7/glossary/nrc1125_glossary.html">www.nature.com/nrc/journal/v3/n7/glossary/nrc1125_glossary.html</a>). We used a fixed-effect model to pool relative risks for toxicity except in the event of statistically significant heterogeneity,
+                        in which case a random-effects model was used (ie, the inverse of variance method and the DerSimonian and Laird method) (<a id="xref-ref-17-1" class="xref-bibr" href="#ref-17">17</a>).
+                     </p>
+                     <p id="p-24">Subgroup analyses were performed to assess potential contributions to the main outcomes. A funnel plot estimating the precision
+                        of trials (plots of logarithm of the hazard ratio for efficacy against the sample size) was examined for asymmetry to estimate
+                        publication bias. Publication bias was also estimated by the formal Begg–Mazumdar rank correlation test and the Egger test
+                        (<a id="xref-ref-18-2" class="xref-bibr" href="#ref-18">18</a>,<a id="xref-ref-22-1" class="xref-bibr" href="#ref-22">22</a>).
+                     </p>
+                     <p id="p-25">Sensitivity analyses were performed to assess the robustness of the findings to different aspects of the trials methodology,
+                        including allocation concealment (adequate or unclear), exclusions after randomization (reported or not reported), sample
+                        size (≤100 vs &gt;100 patients; cutoff was adopted from routine studies in which fewer than 100 patients is considered a “small”
+                        study), and length of follow-up. All statistical tests were two-sided. <em>P</em> values less than 0.5 were considered statistically significant.
+                     </p>
+                  </div>
+               </div>
+               <div class="section results" id="sec-17">
+                  <div class="section-nav"><a href="#sec-11" title="Methods" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-22" title="Discussion" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Results</h2>
+                  <p id="p-26">We identified 4869 potentially relevant articles in the primary literature search (<a id="xref-fig-1-1" class="xref-fig" href="#F1">Figure 1</a>), of which 11 were randomized phase III trials that met the inclusion criteria and were divided into two groups based on
+                     the trial methodology. The first group—the conserved dose-dense chemotherapy trials—included three trials (<a id="xref-table-wrap-1-1" class="xref-table" href="#T1">Table 1</a>), and the second group—the modified dose-dense chemotherapy trials—included seven trials (<a id="xref-table-wrap-2-1" class="xref-table" href="#T2">Table 2</a>). The PREPARE trial (<a id="xref-ref-24-1" class="xref-bibr" href="#ref-24">24</a>) was included in the systematic review but not in the meta-analysis because no survival outcomes were provided. Chemotherapy
+                     protocols of the included trials are listed in <a id="xref-table-wrap-3-1" class="xref-table" href="#T3">Table 3</a>.
+                  </p>
+                  <div class="table pos-float" id="T1">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1845/T1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1845/T1.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label">Table 1</span> 
+                        <p id="p-27" class="first-child">Conserved dose-dense chemotherapy trials<sup>*</sup></p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  <div class="table pos-float" id="T2">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1845/T2.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1845/T2.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label">Table 2</span> 
+                        <p id="p-33" class="first-child">Modified dose-dense chemotherapy trials<sup>*</sup></p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  <div class="table pos-float" id="T3">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1845/T3.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1845/T3.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label">Table 3</span> 
+                        <p id="p-41" class="first-child"> Trials chemotherapy protocols<sup>*</sup></p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  <div id="F1" class="fig pos-float  odd">
+                     <div class="fig-inline"><a href="1845/F1.expansion.html"><img alt="Figure 1" src="1845/F1.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="1845/F1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1845/F1.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/102/24/1845/F1">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label">Figure 1</span> 
+                        <p id="p-43" class="first-child">Randomized controlled trials search and selection. pCR = pathological complete response; RFS = relapse-free survival.</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  <div id="sec-18" class="subsection">
+                     <h3>Meta-analysis of Conserved Dose-Dense Chemotherapy Trials</h3>
+                     <p id="p-44">A total of 3337 patients were randomly assigned in the three trials that we classified as conserved dose-dense chemotherapy
+                        trials (<a id="xref-ref-6-4" class="xref-bibr" href="#ref-6">6</a>–<a id="xref-ref-8-4" class="xref-bibr" href="#ref-8">8</a>). In a meta-analysis of these three trials, patients in the dose-dense chemotherapy arms had better overall survival than
+                        patients in the conventional chemotherapy arms (HR of death = 0.84; 95% CI = 0.72 to 0.98, <em>P</em> = .03), and there was no heterogeneity among these trials with respect to overall survival (<em>I</em><sup>2</sup> = 0%) (<a id="xref-fig-2-1" class="xref-fig" href="#F2">Figure 2</a>). Dose-dense chemotherapy had a similar benefit with respect to disease-free survival (HR of relapse or death = 0.83; 95%
+                        CI = 0.73 to 0.94, <em>P</em> = .005), with no heterogeneity (<em>I</em><sup>2</sup> = 0%) (<a id="xref-fig-3-1" class="xref-fig" href="#F3">Figure 3</a>). In a sensitivity analysis based on estrogen and progesterone receptor status using data from the two trials that examined
+                        disease-free survival (<a id="xref-ref-6-5" class="xref-bibr" href="#ref-6">6</a>,<a id="xref-ref-7-5" class="xref-bibr" href="#ref-7">7</a>), dose-dense chemotherapy had a statistically significant benefit with respect to disease-free survival only in receptor-negative
+                        patients (HR of relapse or death = 0.71; 95% CI = 0.56 to 0.89; <em>I</em><sup>2</sup> = 0%) (<a id="xref-fig-4-1" class="xref-fig" href="#F4">Figure 4, A and B</a>).
+                     </p>
+                     <div id="F2" class="fig pos-float  odd">
+                        <div class="fig-inline"><a href="1845/F2.expansion.html"><img alt="Figure 2" src="1845/F2.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="1845/F2.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="1845/F2.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/102/24/1845/F2">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Figure 2</span> 
+                           <p id="p-45" class="first-child">Forest plot of hazard ratios (HRs) comparing overall survival for patients who received dose-dense chemotherapy vs those who
+                              received conventional chemotherapy in the conserved dose-dense chemotherapy trials, in the modified dose-dense chemotherapy
+                              trials, and for all trials combined. Hazard ratios for each trial are represented by the <strong>squares</strong>, the size of the square represents the weight of the trial in the meta-analysis, and the <strong>horizontal line</strong> crossing the square represents the 95% confidence interval (CI). The <strong>diamonds</strong> represent the estimated overall effect based on the meta-analysis fixed effect of all trials.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <div id="F3" class="fig pos-float  odd">
+                        <div class="fig-inline"><a href="1845/F3.expansion.html"><img alt="Figure 3" src="1845/F3.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="1845/F3.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="1845/F3.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/102/24/1845/F3">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Figure 3</span> 
+                           <p id="p-46" class="first-child">Forest plot of hazard ratios (HRs) comparing disease-free survival for patients who received dose-dense chemotherapy vs those
+                              who received conventional chemotherapy in the conserved dose-dense chemotherapy trials, in the modified dose-dense chemotherapy
+                              trials, and for all trials combined. Hazard ratios for each trial are represented by the <strong>squares</strong>, the size of the square represents the weight of the trial in the meta-analysis, and the <strong>horizontal line</strong> crossing the square represents the 95% confidence interval (CI). The <strong>diamonds</strong> represents the estimated overall effect based on the meta-analysis fixed effect of all trials. ‡EC then T (dose-dense arm)
+                              vs AC then T. §EC then T (dose-dense arm) vs CEF.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <div id="F4" class="fig pos-float  odd">
+                        <div class="fig-inline"><a href="1845/F4.expansion.html"><img alt="Figure 4" src="1845/F4.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="1845/F4.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="1845/F4.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/102/24/1845/F4">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Figure 4</span> 
+                           <p id="p-47" class="first-child">Forest plot of hazard ratios (HRs) comparing disease-free survival for estrogen receptor–positive and estrogen receptor–negative
+                              patients who received dose-dense chemotherapy vs those who received conventional chemotherapy in the conserved dose-dense
+                              chemotherapy trials. <strong>A)</strong> Estrogen receptor–positive patients. <strong>B)</strong> Estrogen receptor–negative patients. Hazard ratios for each trial are represented by the <strong>squares</strong>, the size of the square represents the weight of the trial in the meta-analysis, and the <strong>horizontal line</strong> crossing the square represents the 95% confidence interval (CI). The <strong>diamonds</strong> represents the estimated overall effect based on the meta-analysis fixed effect of all trials.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                  </div>
+                  <div id="sec-19" class="subsection">
+                     <h3>Meta-analysis of Modified Dose-Dense Chemotherapy Trials</h3>
+                     <p id="p-48">A total of 8652 patients were randomly assigned to seven trials classified as modified dose-dense chemotherapy trials (<a id="xref-ref-11-3" class="xref-bibr" href="#ref-11">11</a>–<a id="xref-ref-16-3" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-23-4" class="xref-bibr" href="#ref-23">23</a>) that evaluated efficacy and toxicity of dose-dense chemotherapy in the adjuvant and neoadjuvant settings. In a meta-analysis
+                        of six of these trials (<a id="xref-ref-11-4" class="xref-bibr" href="#ref-11">11</a>–<a id="xref-ref-16-4" class="xref-bibr" href="#ref-16">16</a>), patients in the dose-dense chemotherapy arms had statistically significantly better overall survival than patients in the
+                        conventional chemotherapy arms (HR of death = 0.85; 95% CI = 0.75 to 0.96); heterogeneity in overall survival among the trials
+                        was low (<em>I</em><sup>2</sup> = 15.5%) (<a id="xref-fig-2-2" class="xref-fig" href="#F2">Figure 2</a>). Dose-dense chemotherapy had a similar benefit with respect to disease-free survival in these six trials (HR of relapse
+                        or death = 0.81; 95% CI = 0.73 to 0.88) although the heterogeneity was high (<em>I</em><sup>2</sup> = 53.9%) (<a id="xref-fig-3-2" class="xref-fig" href="#F3">Figure 3</a>). An analysis by receptor status was not performed because of the lack of these data. In the MA21 trial (<a id="xref-ref-23-5" class="xref-bibr" href="#ref-23">23</a>), relapse-free survival did not differ between the treatment arms in the estrogen receptor–positive population.
+                     </p>
+                  </div>
+                  <div id="sec-20" class="subsection">
+                     <h3>Meta-analysis of Efficacy for All Dose-Dense Chemotherapy Trials</h3>
+                     <p id="p-49">A meta-analysis of all dose-dense chemotherapy trials (<a id="xref-ref-6-6" class="xref-bibr" href="#ref-6">6</a>–<a id="xref-ref-8-5" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-11-5" class="xref-bibr" href="#ref-11">11</a>–<a id="xref-ref-16-5" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-23-6" class="xref-bibr" href="#ref-23">23</a>) revealed that patients who received dose-dense chemotherapy had statistically significantly better overall survival (HR
+                        of death = 0.85; 95% CI = 0.77 to 0.93) (<a id="xref-fig-2-3" class="xref-fig" href="#F2">Figure 2</a>) and disease-free survival (HR of relapse or death = 0.81; 95% CI = 0.75 to 0.88) (<a id="xref-fig-3-3" class="xref-fig" href="#F3">Figure 3</a>) compared with patients who received conventional chemotherapy. No heterogeneity was observed among the trials for overall
+                        survival (<em>I</em><sup>2</sup> = 0%), and low heterogeneity was observed for disease-free survival (<em>I</em><sup>2</sup> = 37%).
+                     </p>
+                     <p id="p-50">A funnel plot of the primary outcome revealed slight asymmetry, which may indicate a small study effect (ie, publication bias)
+                        (<a id="xref-fig-5-1" class="xref-fig" href="#F5">Figure 5</a>). However, neither the Egger linear regression test (<em>P</em> = .066) nor the Begg–Mazumdar rank correlation test (<em>P</em> = .14) showed a statistically significant association between the study effects and the study size.
+                     </p>
+                     <div id="F5" class="fig pos-float  odd">
+                        <div class="fig-inline"><a href="1845/F5.expansion.html"><img alt="Figure 5" src="1845/F5.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="1845/F5.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="1845/F5.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/102/24/1845/F5">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Figure 5</span> 
+                           <p id="p-51" class="first-child">Funnel plot of overall survival in all dose-dense chemotherapy trials for the visual detection of systematic publication bias
+                              and small study effect. Each <strong>circle</strong> represents treatment effect expressed as the logarithm of the hazard ratio of overall survival in each trial plotted against
+                              standard error as a measure of study size. The <strong>diamond</strong> and the <strong>vertical line</strong> represent the pooled estimate from the meta-analysis.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                  </div>
+                  <div id="sec-21" class="subsection">
+                     <h3>Meta-analysis of Adverse Events</h3>
+                     <p id="p-52">In the three conserved dose-dense chemotherapy trials, there was no difference in the number of grade 3 or 4 adverse events
+                        between the dose-dense and conventional chemotherapy arms (RR = 1.13; 95% CI = 0.91 to 1.39, <em>I</em><sup>2</sup> = 0%) (<a id="xref-fig-6-1" class="xref-fig" href="#F6">Figure 6, A</a>). Delivery of dose-dense chemotherapy requires the use of growth factor support, which may prevent grade 3 and 4 neutropenia.
+                        We therefore performed an analysis that excluded bone marrow–related toxicity. The number of grade 3 or 4 nonhematological
+                        adverse events was higher in the dose-dense chemotherapy arm than in the conventional chemotherapy arm (RR = 1.32; 95% CI
+                        = 1.04 to 1.66, <em>I</em><sup>2</sup> = 0%) (<a id="xref-fig-6-2" class="xref-fig" href="#F6">Figure 6, B</a>). We obtained nonconclusive results regarding adverse events in the modified dose-dense chemotherapy trials because of high
+                        heterogeneity (<em>I</em><sup>2</sup> = 95.8%). Thus, we used a random-effect model, which showed non-statistically significant higher toxicity in the dose-dense
+                        chemotherapy arm compared with the conventional chemotherapy arm (RR = 1.36; 95% CI = 0.87 to 2.13; <em>P</em> = .18).
+                     </p>
+                     <div id="F6" class="fig pos-float  odd">
+                        <div class="fig-inline"><a href="1845/F6.expansion.html"><img alt="Figure 6" src="1845/F6.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="1845/F6.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="1845/F6.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/102/24/1845/F6">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Figure 6</span> 
+                           <p id="p-53" class="first-child">Forest plots of relative risks (RRs) of adverse events for patients who received dose-dense chemotherapy vs those who received
+                              conventional chemotherapy in the conserved dose-dense chemotherapy trials. <strong>A</strong>) All grade 3–4 adverse events. <strong>B</strong>) Grade 3–4 adverse events except leukopenia. Relative risks for each trial are represented by the <strong>squares</strong>, the size of the square represents the weight of the trial in the meta-analysis, and the <strong>horizontal line</strong> crossing the square represents the 95% confidence interval (CI). The <strong>diamonds</strong> represents the estimated overall effect based on the meta-analysis fixed effect of all trials.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="section discussion" id="sec-22">
+                  <div class="section-nav"><a href="#sec-17" title="Results" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-23" title="Funding" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Discussion</h2>
+                  <p id="p-54">This systematic review and meta-analysis shows that dose-dense chemotherapy for the treatment of women with high-risk breast
+                     cancer improves both disease-free and overall survival compared with conventional chemotherapy. The dose-dense chemotherapy
+                     approach resulted in better overall survival and better disease-free survival in trials that evaluated similar doses of agents
+                     in both treatment arms but with a condensed schedule in one arm as well as in trials that compared a condensed schedule with
+                     standard one but used different agents or doses in the two arms. The results for all trials combined were statistically significant,
+                     with no statistical heterogeneity among the trials.
+                  </p>
+                  <p id="p-55">The other important finding of this systematic review is the paucity of randomized controlled trials with an adequate study
+                     design, that is, trials that evaluate the same agents and doses in the conventional arm as in the investigational arm. Most
+                     of the trials included in the meta-analysis did not preserve this last characteristic, which is why we classified the trials
+                     according to their design.
+                  </p>
+                  <p id="p-56">Two recent trials have addressed the dose-dense chemotherapy approach. The recently published Canadian MA21 trial (<a id="xref-ref-23-7" class="xref-bibr" href="#ref-23">23</a>), which included three treatment arms that were anthracycline based, may provide key answers about the efficacy of the dose-dense
+                     approach with and without the use of taxane therapy. The PREPARE trial (<a id="xref-ref-24-4" class="xref-bibr" href="#ref-24">24</a>), which evaluated the effect of preoperative dose-dense and dose-intensified chemotherapy with anthracycline and taxane with
+                     or without darbepoetin alfa in breast cancer patients, was not included in the meta-analysis due to lack of outcome data.
+                  </p>
+                  <p id="p-57">Our meta-analysis of the efficacy of dose-dense chemotherapy according to hormone receptor status revealed that hormone receptor–positive
+                     patients did not benefit from dose-dense chemotherapy. This result was based on data from the conserved dose-dense chemotherapy
+                     trials; data from the modified dose-dense chemotherapy trials were not available. Nevertheless, data from the MA21 trial further
+                     support this finding. In the MA21 trial, relapse-free survival did not differ between the treatment arms in estrogen receptor–positive
+                     patients. Restricting the use of dose-dense chemotherapy to hormone receptor–negative patients may be justified, both in terms
+                     of the costs and the potential adverse events (<a id="xref-ref-25-1" class="xref-bibr" href="#ref-25">25</a>).
+                  </p>
+                  <p id="p-58">We also found that there was no increase in overall treatment-related adverse events associated with the dose-dense approach.
+                     Because a dose-dense chemotherapy schedule requires granulocyte colony-stimulating factor support, we performed an analysis
+                     of adverse events that excluded bone marrow–related events. In the conserved dose-dense chemotherapy trials, the number of
+                     nonhematological adverse events for the dose-dense chemotherapy arms was higher compared with that in the conventional chemotherapy
+                     arm. However, because of high heterogeneity among the modified dose-dense chemotherapy trials, the increase in adverse events
+                     for dose-dense vs conventional chemotherapy was not statistically significant.
+                  </p>
+                  <p id="p-59">The dose-dense chemotherapy approach uses prophylactic growth factor support to facilitate the safe delivery of dose-dense
+                     chemotherapy (<a id="xref-ref-26-1" class="xref-bibr" href="#ref-26">26</a>,<a id="xref-ref-27-1" class="xref-bibr" href="#ref-27">27</a>). The economic burden of this issue, as well as possible unrecognized growth factor–related toxicities, such as pulmonary
+                     toxicity, should be considered (<a id="xref-ref-28-1" class="xref-bibr" href="#ref-28">28</a>).
+                  </p>
+                  <p id="p-60">Several limitations of this analysis must be acknowledged. First, only three randomized controlled trials used the same agents
+                     and doses in the conventional chemotherapy arm as in the investigational (ie, dose-dense chemotherapy) arm. The fact that
+                     most of the included trials did not evaluate the same agents and dose in both arms resulted in major statistical heterogeneity
+                     among the trials. Second, the slight asymmetry of the funnel plot of the primary outcome suggests small study effects. Although
+                     results of the Egger and Begg–Mazumdar tests did not support the possibility of publication bias, the small number of included
+                     trials makes it difficult to distinguish a chance finding from true asymmetry. Also, the small number of included trials makes
+                     the outcomes more likely to have been influenced by a potential publication bias. We attempted to avoid such bias by searching
+                     for and including in our meta-analysis conference proceedings, databases of ongoing trials, and unpublished data.
+                  </p>
+                  <p id="p-61">Studies are needed to better define the patient population that will benefit the most from dose-dense chemotherapy. The concept
+                     of metronomic chemotherapy as evaluated, for example, by the Southwest Oncology Group (<a id="xref-ref-29-1" class="xref-bibr" href="#ref-29">29</a>) is a variation of the dose-dense strategy whereby chemotherapy is administered as relatively low and minimally toxic doses
+                     at frequent and regular intervals (<a id="xref-ref-30-1" class="xref-bibr" href="#ref-30">30</a>). Assessing the efficacy and feasibility of this milder chemotherapeutic approach might identify ways to integrate biological
+                     performance with the best treatment. This analysis indicates that dose-dense chemotherapy has a clear benefit for patients
+                     with hormone receptor–negative breast cancer. The lack of obvious benefit in patients with hormone receptor–positive breast
+                     cancer shown by this analysis indicates the need for further prospective randomized trials of the classical conserved design
+                     in this patient population.
+                  </p>
+               </div>
+               <div class="section" id="sec-23">
+                  <div class="section-nav"><a href="#sec-22" title="Discussion" class="prev-section-link"><span>Previous Section</span></a><a href="#fn-group-1" title="Footnotes" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Funding</h2>
+                  <p id="p-62">The authors received no external funding for this study.</p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <div class="section-nav"><a href="#sec-23" title="Funding" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn" id="fn-14">
+                        <p id="p-63">L. Bonilla, I. Ben-Aharon, L. Leibovici, and S. M. Stemmer contributed equally to this study. The authors take full responsibility
+                           for the design of the study; the collection, analysis, and interpretation of the data; the writing of the manuscript; and
+                           the decision to submit the manuscript for publication.
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1">© The Author 2010. Published by Oxford University Press.</li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-1">This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs licence
+                     (<a href="http://creativecommons.org/licenses/by-nc/3.0/">http://creativecommons.org/licenses/by-nc/3.0/</a>) which permits non-commercial reproduction and distribution of the work, in any medium, provided the original work is not
+                     altered or transformed in any way, and that the work is properly cited. For commercial re-use, please contact journals.permissions@oup.com
+                  </p>
+               </div>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#fn-group-1" title="Footnotes" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">1.</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference 1. in text"
+                           id="ref-1">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.1"
+                             data-doi="10.1016/S0140-6736(05)66544-0">
+                           <div class="cit-metadata"><cite><span class="cit-auth cit-collab">Early Breast Cancer Trialists Collaborative Group (EBCTCG)</span>. <span class="cit-article-title">Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the
+                                    randomized trials</span>. <abbr class="cit-jnl-abbrev">Lancet.</abbr> <span class="cit-pub-date">2005</span>;<span class="cit-vol">365</span>(<span class="cit-issue">9472</span>):<span class="cit-fpage">1687</span>-<span class="cit-lpage">1717</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(05)66544-0&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15894097&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000229082300022&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">2.</span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference 2. in text"
+                           id="ref-2">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.2">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hryniuk</span>  <span class="cit-name-given-names">WM</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Average relative dose intensity and the impact on design of clinical trials</span>. <abbr class="cit-jnl-abbrev">Semin Oncol</abbr> <span class="cit-pub-date">1987</span>;<span class="cit-vol">14</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">65</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=3823917&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1987G445500005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Average%20relative%20dose%20intensity%20and%20the%20impact%20on%20design%20of%20clinical%20trials&amp;author=WM%20Hryniuk&amp;publication_year=1987&amp;journal=Semin%20Oncol&amp;volume=14&amp;issue=1&amp;pages=65">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">3.</span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference 3. in text"
+                           id="ref-3">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.3"
+                             data-doi="10.1023/A:1008295432012">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Biganzoli</span>  <span class="cit-name-given-names">L</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Piccart</span>  <span class="cit-name-given-names">MJ</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">The bigger the better? Or what we know and what we still need to learn about anthracycline dose per course, dose density and
+                                    cumulative dose in the treatment of breast cancer</span>. <abbr class="cit-jnl-abbrev">Ann Oncol</abbr> <span class="cit-pub-date">1997</span>;<span class="cit-vol">8</span>(<span class="cit-issue">12</span>):<span class="cit-fpage">1177</span>-<span class="cit-lpage">1182</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=PDF&amp;journalCode=annonc&amp;resid=8/12/1177"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">4.</span><a class="rev-xref-ref" href="#xref-ref-4-1" title="View reference 4. in text"
+                           id="ref-4">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.4">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hudis</span>  <span class="cit-name-given-names">C</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Seidman</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Baselga</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Sequential dose-dense doxorubicin, paclitaxel, and cyclophosphamide for resectable high-risk breast cancer: feasibility and
+                                    efficacy</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">1999</span>;<span class="cit-vol">17</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">93</span>-<span class="cit-lpage">100</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=17/1/93"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">5.</span><a class="rev-xref-ref" href="#xref-ref-5-1" title="View reference 5. in text"
+                           id="ref-5">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.5">
+                           <div class="cit-metadata"><cite><span class="cit-article-title">Norton La: A Gompertzian model of human breast cancer growth</span>. <abbr class="cit-jnl-abbrev">Cancer Res</abbr> <span class="cit-pub-date">1988</span>;<span class="cit-vol">48</span>(<span class="cit-issue">24, pt 1</span>):<span class="cit-fpage">7067</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=48/24_Part_1/7067"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">6.</span><a class="rev-xref-ref" href="#xref-ref-6-1" title="View reference 6. in text"
+                           id="ref-6">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.6"
+                             data-doi="10.1200/JCO.2003.09.081">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Citron</span>  <span class="cit-name-given-names">ML</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Berry</span>  <span class="cit-name-given-names">DA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Cirrincione</span>  <span class="cit-name-given-names">C</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Randomized trial of dose-dense versus conventionally scheduled and sequential versus concurrent combination chemotherapy as
+                                    postoperative adjuvant treatment of node-positive primary breast cancer: first report of intergroup trial C9741. Cancer and
+                                    Leukemia Group B Trial 9741</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">2003</span>;<span class="cit-vol">21</span>(<span class="cit-issue">8</span>):<span class="cit-fpage">1431</span>-<span class="cit-lpage">1439</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=21/8/1431"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">7.</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference 7. in text"
+                           id="ref-7">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.7"
+                             data-doi="10.1093/jnci/dji398">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Venturini</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Del Mastro</span>  <span class="cit-name-given-names">L</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Aitini</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Dose-dense adjuvant chemotherapy in early breast cancer patients: results from a randomized trial</span>. <abbr class="cit-jnl-abbrev">J Natl Cancer Inst</abbr> <span class="cit-pub-date">2005</span>;<span class="cit-vol">97</span>(<span class="cit-issue">23</span>):<span class="cit-fpage">1724</span>-<span class="cit-lpage">1733</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=97/23/1724"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">8.</span><a class="rev-xref-ref" href="#xref-ref-8-1" title="View reference 8. in text"
+                           id="ref-8">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.8"
+                             data-doi="10.1093/annonc/mdg069">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Baldini</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Gardin</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Giannessi</span>  <span class="cit-name-given-names">PG</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Accelerated versus standard cyclophosphamide, epirubicin and 5-fluorouracil or cyclophosphamide, methotrexate and 5-fluorouracil:
+                                    a randomized phase III trial in locally advanced breast cancer</span>. <abbr class="cit-jnl-abbrev">Ann Oncol</abbr> <span class="cit-pub-date">2003</span>;<span class="cit-vol">14</span>(<span class="cit-issue">2</span>):<span class="cit-fpage">227</span>-<span class="cit-lpage">232</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=annonc&amp;resid=14/2/227"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">9.</span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference 9. in text"
+                           id="ref-9">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.9">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Untch</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Thomssen</span>  <span class="cit-name-given-names">C</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Steffen</span>  <span class="cit-name-given-names">K</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Five year results of a randomized multicenter dose intense (DI-EC) study with epirubicin (E) and cyclophosphamide (C) in high
+                                    risk breast cancer patients: a treatment of short duration with comparable efficacy to conventional chemotherapy</span>. <abbr class="cit-jnl-abbrev">Breast Cancer Res Treat</abbr> <span class="cit-pub-date">2002</span>;<span class="cit-vol">76</span> <span class="cit-supplement">suppl 1</span>:<span class="cit-fpage">S158</span>. <span class="cit-comment">Abstract 641</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Five%20year%20results%20of%20a%20randomized%20multicenter%20dose%20intense%20%28DI-EC%29%20study%20with%20epirubicin%20%28E%29%20and%20cyclophosphamide%20%28C%29%20in%20high%20risk%20breast%20cancer%20patients%3A%20a%20treatment%20of%20short%20duration%20with%20comparable%20efficacy%20to%20conventional%20chemotherapy&amp;author=M%20Untch&amp;author=C%20Thomssen&amp;author=K%20Steffen&amp;publication_year=2002&amp;journal=Breast%20Cancer%20Res%20Treat&amp;volume=76&amp;pages=S158">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">10.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-102.24.1845.10">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Seidman</span>  <span class="cit-name-given-names">AD</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hudis</span>  <span class="cit-name-given-names">CA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Albanel</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Dose-dense therapy with weekly 1-hour paclitaxel infusions in the treatment of metastatic breast cancer</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">1998</span>;<span class="cit-vol">16</span>(<span class="cit-issue">10</span>):<span class="cit-fpage">3353</span>-<span class="cit-lpage">3361</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=16/10/3353"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">11.</span><a class="rev-xref-ref" href="#xref-ref-11-3" title="View reference 11. in text"
+                           id="ref-11">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.11"
+                             data-doi="10.1200/JCO.2006.07.0847">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Linden</span>  <span class="cit-name-given-names">HM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Haskell</span>  <span class="cit-name-given-names">CM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Green</span>  <span class="cit-name-given-names">SJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Sequenced compared with simultaneous anthracycline and cyclophosphamide in high-risk stage I and II breast cancer: final analysis
+                                    from INT-0137 (S9313)</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">2007</span>;<span class="cit-vol">25</span>(<span class="cit-issue">6</span>):<span class="cit-fpage">656</span>-<span class="cit-lpage">661</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=25/6/656"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">12.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-102.24.1845.12">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Möbus</span>  <span class="cit-name-given-names">VJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Untch</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Du Bois</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Dose-dense sequential chemotherapy with epirubicin(E), paclitaxel (T) and cyclophosphamide (C) (ETC) is superior to conventional
+                                    dosed chemotherapy in high-risk breast cancer patients (≥ 4 +LN). First results of an AGO-trial</span>. <abbr class="cit-jnl-abbrev">Proc Am Soc Clin Oncol</abbr> <span class="cit-pub-date">2004</span>;<span class="cit-vol">22</span>(<span class="cit-issue">suppl July 15</span>):<span class="cit-fpage">S14</span>. <span class="cit-comment">Abstract 513</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Dose-dense%20sequential%20chemotherapy%20with%20epirubicin%28E%29%2C%20paclitaxel%20%28T%29%20and%20cyclophosphamide%20%28C%29%20%28ETC%29%20is%20superior%20to%20conventional%20dosed%20chemotherapy%20in%20high-risk%20breast%20cancer%20patients%20%28%E2%89%A5%204%20%2BLN%29.%20First%20results%20of%20an%20AGO-trial&amp;author=VJ%20M%C3%B6bus&amp;author=M%20Untch&amp;author=A%20Du%20Bois&amp;publication_year=2004&amp;journal=Proc%20Am%20Soc%20Clin%20Oncol&amp;volume=22&amp;issue=suppl%20July%2015&amp;pages=S14">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">13.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-102.24.1845.13"
+                             data-doi="10.1200/JCO.2003.05.135">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Therasse</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mauriac</span>  <span class="cit-name-given-names">L</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Welnicka-Jaskiewicz</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Final results of a randomized phase III trial comparing cyclophosphamide, epirubicin, and fluorouracil with dose intensified
+                                    epirubicin and cyclophosphamide plus filgrastim as neoadjuvant treatment in locally advanced breast cancer. An EORTC-NCIC-SAKK
+                                    multicenter study</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">2003</span>;<span class="cit-vol">21</span>(<span class="cit-issue">5</span>):<span class="cit-fpage">843</span>-<span class="cit-lpage">850</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=21/5/843"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">14.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-102.24.1845.14"
+                             data-doi="10.1200/JCO.2005.05.078">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Von Minckwitz</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Raab</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Caputo</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Doxorubicin with cyclophosphamide followed by docetaxel every 21 days compared with doxorubicin and docetaxel every 14 days
+                                    as preoperative treatment in operable breast cancer: the GEPARDUO study of the German Breast Group</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">2005</span>;<span class="cit-vol">23</span>(<span class="cit-issue">12</span>):<span class="cit-fpage">2676</span>-<span class="cit-lpage">2685</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=23/12/2676"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">15.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-102.24.1845.15"
+                             data-doi="10.1038/sj.bjc.6603085">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kümmel</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Krocker</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kohls</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Randomised trial: survival benefit and safety of adjuvant dose-dense chemotherapy for node-positive breast cancer</span>. <abbr class="cit-jnl-abbrev">Br J Cancer</abbr> <span class="cit-pub-date">2006</span>;<span class="cit-vol">94</span>(<span class="cit-issue">9</span>):<span class="cit-fpage">1237</span>-<span class="cit-lpage">1244</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1038/sj.bjc.6603085&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16622463&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000237238700006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Randomised%20trial%3A%20survival%20benefit%20and%20safety%20of%20adjuvant%20dose-dense%20chemotherapy%20for%20node-positive%20breast%20cancer&amp;author=S%20K%C3%BCmmel&amp;author=J%20Krocker&amp;author=A%20Kohls&amp;publication_year=2006&amp;journal=Br%20J%20Cancer&amp;volume=94&amp;issue=9&amp;pages=1237-1244">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">16.</span><a class="rev-xref-ref" href="#xref-ref-16-3" title="View reference 16. in text"
+                           id="ref-16">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.16"
+                             data-doi="10.1200/JCO.2008.20.3133">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Untch</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Möbus</span>  <span class="cit-name-given-names">V</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kuhn</span>  <span class="cit-name-given-names">W</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Intensive dose-dense compared with conventionally scheduled preoperative chemotherapy for high-risk primary breast cancer</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">2009</span>;<span class="cit-vol">27</span>(<span class="cit-issue">18</span>):<span class="cit-fpage">2938</span>-<span class="cit-lpage">2945</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=27/18/2938"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">17.</span><a class="rev-xref-ref" href="#xref-ref-17-1" title="View reference 17. in text"
+                           id="ref-17">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.17"
+                             data-doi="10.1016/0197-2456(86)90046-2">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">DerSimonian</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Laird</span>  <span class="cit-name-given-names">N</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Meta-analysis in clinical trials</span>. <abbr class="cit-jnl-abbrev">Control Clin Trials</abbr> <span class="cit-pub-date">1986</span>;<span class="cit-vol">7</span>(<span class="cit-issue">3</span>):<span class="cit-fpage">177</span>-<span class="cit-lpage">188</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0197-2456(86)90046-2&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3802833&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1986F013900001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Meta-analysis%20in%20clinical%20trials&amp;author=R%20DerSimonian&amp;author=N%20Laird&amp;publication_year=1986&amp;journal=Control%20Clin%20Trials&amp;volume=7&amp;issue=3&amp;pages=177-188">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">18.</span><a class="rev-xref-ref" href="#xref-ref-18-1" title="View reference 18. in text"
+                           id="ref-18">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.18"
+                             data-doi="10.1136/bmj.315.7109.629">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Egger</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Smith</span>  <span class="cit-name-given-names">GD</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Schneider</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Minder</span>  <span class="cit-name-given-names">C</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Bias in meta-analysis detected by a simple graphical test</span>. <abbr class="cit-jnl-abbrev">BMJ</abbr> <span class="cit-pub-date">1997</span>;<span class="cit-vol">315</span>(<span class="cit-issue">7109</span>):<span class="cit-fpage">629</span>-<span class="cit-lpage">634</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=bmj&amp;resid=315/7109/629"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">19.</span><a class="rev-xref-ref" href="#xref-ref-19-1" title="View reference 19. in text"
+                           id="ref-19">↵</a><div class="cit ref-cit ref-book" id="cit-102.24.1845.19">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Higgins</span>  <span class="cit-name-given-names">JPT</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Green</span>  <span class="cit-name-given-names">S</span></span></li>
+                              </ol><cite>. <span class="cit-source">Cochrane Handbook for Systematic Reviews of Interventions Version 5.0</span>. <span class="cit-publ-name">The Cochrane Collaboration</span>; <span class="cit-pub-date">2008</span>. <span class="cit-comment"><a href="http://www.cochrane-handbook.org">www.cochrane-handbook.org</a>. Accessed September 30, 2008</span>.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">20.</span><a class="rev-xref-ref" href="#xref-ref-20-1" title="View reference 20. in text"
+                           id="ref-20">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.20"
+                             data-doi="10.1002/(SICI)1097-0258(19981230)17:24&lt;2815::AID-SIM110&gt;3.0.CO;2-8">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Parmar</span>  <span class="cit-name-given-names">MK</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Torri</span>  <span class="cit-name-given-names">V</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Stewart</span>  <span class="cit-name-given-names">L</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Extracting summary statistics to perform meta-analyses of the published literature for survival endpoints</span>. <abbr class="cit-jnl-abbrev">Stat Med</abbr> <span class="cit-pub-date">1998</span>;<span class="cit-vol">17</span>:<span class="cit-fpage">2815</span>-<span class="cit-lpage">2834</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/(SICI)1097-0258(19981230)17:24%3C2815::AID-SIM110%3E3.0.CO;2-8&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9921604&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000077527600003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Extracting%20summary%20statistics%20to%20perform%20meta-analyses%20of%20the%20published%20literature%20for%20survival%20endpoints&amp;author=MK%20Parmar&amp;author=V%20Torri&amp;author=L%20Stewart&amp;publication_year=1998&amp;journal=Stat%20Med&amp;volume=17&amp;pages=2815-2834">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">21.</span><a class="rev-xref-ref" href="#xref-ref-21-1" title="View reference 21. in text"
+                           id="ref-21">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.21">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mantel</span>  <span class="cit-name-given-names">N</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Haenszel</span>  <span class="cit-name-given-names">W</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Statistical aspects of the analysis of data from retrospective studies of disease</span>. <abbr class="cit-jnl-abbrev">J Natl Cancer Inst</abbr> <span class="cit-pub-date">1959</span>;<span class="cit-vol">22</span>(<span class="cit-issue">4</span>):<span class="cit-fpage">719</span>-<span class="cit-lpage">748</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=13655060&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1959WD28900006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Statistical%20aspects%20of%20the%20analysis%20of%20data%20from%20retrospective%20studies%20of%20disease&amp;author=N%20Mantel&amp;author=W%20Haenszel&amp;publication_year=1959&amp;journal=J%20Natl%20Cancer%20Inst&amp;volume=22&amp;issue=4&amp;pages=719-748">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">22.</span><a class="rev-xref-ref" href="#xref-ref-22-1" title="View reference 22. in text"
+                           id="ref-22">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.22"
+                             data-doi="10.2307/2533446">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Begg</span>  <span class="cit-name-given-names">CB</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mazumdar</span>  <span class="cit-name-given-names">M</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Operating characteristics of a rank correlation test for publication bias</span>. <abbr class="cit-jnl-abbrev">Biometrics</abbr> <span class="cit-pub-date">1994</span>;<span class="cit-vol">50</span>(<span class="cit-issue">4</span>):<span class="cit-fpage">1088</span>-<span class="cit-lpage">1101</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.2307/2533446&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7786990&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1994QP05000016&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Operating%20characteristics%20of%20a%20rank%20correlation%20test%20for%20publication%20bias&amp;author=CB%20Begg&amp;author=M%20Mazumdar&amp;publication_year=1994&amp;journal=Biometrics&amp;volume=50&amp;issue=4&amp;pages=1088-1101">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">23.</span><a class="rev-xref-ref" href="#xref-ref-23-4" title="View reference 23. in text"
+                           id="ref-23">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.23"
+                             data-doi="10.1200/JCO.2009.22.1077">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Burnell</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Levine</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Chapman</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Cyclophosphamide, epirubicin, and fluorouracil versus dose-dense epirubicin and cyclophosphamide followed by paclitaxel versus
+                                    doxorubicin and cyclophosphamide followed by paclitaxel in node-positive or high-risk node-negative breast cancer</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">2010</span>;<span class="cit-vol">28</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">77</span>-<span class="cit-lpage">82</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=28/1/77"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">24.</span><a class="rev-xref-ref" href="#xref-ref-24-1" title="View reference 24. in text"
+                           id="ref-24">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.24">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Untch</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fasching</span>  <span class="cit-name-given-names">PA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bauerfeind</span>  <span class="cit-name-given-names">I</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">PREPARE trial. A randomized phase III trial comparing preoperative, dose-dense, dose-intensified chemotherapy with epirubicin,
+                                    paclitaxel and CMF with a standard dosed epirubicin/cyclophosphamide followed by paclitaxel ± darbapoetin alfa in primary
+                                    breast cancer: a preplanned interim analysis of efficacy at surgery</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">2008</span>;<span class="cit-vol">26</span>(<span class="cit-issue">suppl May 20</span>). <span class="cit-comment">Abstract 517</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=PREPARE%20trial.%20A%20randomized%20phase%20III%20trial%20comparing%20preoperative%2C%20dose-dense%2C%20dose-intensified%20chemotherapy%20with%20epirubicin%2C%20paclitaxel%20and%20CMF%20with%20a%20standard%20dosed%20epirubicin%2Fcyclophosphamide%20followed%20by%20paclitaxel%20%C2%B1%20darbapoetin%20alfa%20in%20primary%20breast%20cancer%3A%20a%20preplanned%20interim%20analysis%20of%20efficacy%20at%20surgery&amp;author=M%20Untch&amp;author=PA%20Fasching&amp;author=I%20Bauerfeind&amp;publication_year=2008&amp;journal=J%20Clin%20Oncol&amp;volume=26&amp;issue=suppl%20May%2020">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">25.</span><a class="rev-xref-ref" href="#xref-ref-25-1" title="View reference 25. in text"
+                           id="ref-25">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.25">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kümmel</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rezai</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kimmig</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Schmid</span>  <span class="cit-name-given-names">P</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Dose-dense chemotherapy for primary breast cancer</span>. <abbr class="cit-jnl-abbrev">Curr Opin Obstet Gynecol</abbr> <span class="cit-pub-date">2007</span>;<span class="cit-vol">19</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">75</span>-<span class="cit-lpage">81</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=17218856&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000243814300014&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Dose-dense%20chemotherapy%20for%20primary%20breast%20cancer&amp;author=S%20K%C3%BCmmel&amp;author=M%20Rezai&amp;author=R%20Kimmig&amp;author=P%20Schmid&amp;publication_year=2007&amp;journal=Curr%20Opin%20Obstet%20Gynecol&amp;volume=19&amp;issue=1&amp;pages=75-81">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">26.</span><a class="rev-xref-ref" href="#xref-ref-26-1" title="View reference 26. in text"
+                           id="ref-26">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.26">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Doorduijn</span>  <span class="cit-name-given-names">JK</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Buijt</span>  <span class="cit-name-given-names">I</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Van der Holt</span>  <span class="cit-name-given-names">B</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Economic evaluation of prophylactic granulocyte colony stimulating factor during chemotherapy in elderly patients with aggressive
+                                    non-Hodgkin’s lymphoma</span>. <abbr class="cit-jnl-abbrev">Haematologica</abbr> <span class="cit-pub-date">2004</span>;<span class="cit-vol">89</span>(<span class="cit-issue">9</span>):<span class="cit-fpage">1109</span>-<span class="cit-lpage">1117</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=haematol&amp;resid=89/9/1109"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">27.</span><a class="rev-xref-ref" href="#xref-ref-27-1" title="View reference 27. in text"
+                           id="ref-27">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.27"
+                             data-doi="10.1200/JCO.2005.04.3281">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Timmer-Bonte</span>  <span class="cit-name-given-names">JN</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Adang</span>  <span class="cit-name-given-names">EM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Smit</span>  <span class="cit-name-given-names">HJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Cost-effectiveness of adding granulocyte colony-stimulating factor to primary prophylaxis with antibiotics in small-cell lung
+                                    cancer</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">2006</span>;<span class="cit-vol">24</span>(<span class="cit-issue">19</span>):<span class="cit-fpage">2991</span>-<span class="cit-lpage">2997</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=24/19/2991"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">28.</span><a class="rev-xref-ref" href="#xref-ref-28-1" title="View reference 28. in text"
+                           id="ref-28">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.28"
+                             data-doi="10.1093/annonc/mdn652">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Yerushalmi</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kramer</span>  <span class="cit-name-given-names">MR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rizel</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Decline in pulmonary function in patients with breast cancer receiving dose-dense chemotherapy: a prospective study</span>. <abbr class="cit-jnl-abbrev">Ann Oncol.</abbr> <span class="cit-pub-date">2009</span>;<span class="cit-vol">20</span>(<span class="cit-issue">3</span>):<span class="cit-fpage">437</span>-<span class="cit-lpage">440</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=annonc&amp;resid=20/3/437"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">29.</span><a class="rev-xref-ref" href="#xref-ref-29-1" title="View reference 29. in text"
+                           id="ref-29">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.29">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Ellis</span>  <span class="cit-name-given-names">GK</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Green</span>  <span class="cit-name-given-names">SJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Russell</span>  <span class="cit-name-given-names">CA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">SWOG 0012, A randomized phase III comparison of standard doxorubicin and cyclophosphamide followed by weekly paclitaxel versus
+                                    weekly doxorubicin and daily oral cyclophosphamide plus G-CSF followed by weekly paclitaxel as neoadjuvant therapy for inflammatory
+                                    and locally advanced breast cancer</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol.</abbr> <span class="cit-pub-date">2006</span>;<span class="cit-vol">24</span>(<span class="cit-issue">12s</span>) <span class="cit-supplement">suppl 18</span>. <span class="cit-comment">LBA537</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=SWOG%200012%2C%20A%20randomized%20phase%20III%20comparison%20of%20standard%20doxorubicin%20and%20cyclophosphamide%20followed%20by%20weekly%20paclitaxel%20versus%20weekly%20doxorubicin%20and%20daily%20oral%20cyclophosphamide%20plus%20G-CSF%20followed%20by%20weekly%20paclitaxel%20as%20neoadjuvant%20therapy%20for%20inflammatory%20and%20locally%20advanced%20breast%20cancer&amp;author=GK%20Ellis&amp;author=SJ%20Green&amp;author=CA%20Russell&amp;publication_year=2006&amp;journal=J%20Clin%20Oncol.&amp;volume=24&amp;issue=12s">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">30.</span><a class="rev-xref-ref" href="#xref-ref-30-1" title="View reference 30. in text"
+                           id="ref-30">↵</a><div class="cit ref-cit ref-journal" id="cit-102.24.1845.30">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">McArthur</span>  <span class="cit-name-given-names">HL</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hudis</span>  <span class="cit-name-given-names">CA</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Dose-dense therapy in the treatment of early-stage breast cancer: an overview of the data</span>. <abbr class="cit-jnl-abbrev">Clin Breast Cancer</abbr> <span class="cit-pub-date">2007</span>: <span class="cit-supplement">suppl 1</span>:<span class="cit-fpage">S6</span>-<span class="cit-lpage">S10</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Dose-dense%20therapy%20in%20the%20treatment%20of%20early-stage%20breast%20cancer%3A%20an%20overview%20of%20the%20data&amp;author=HL%20McArthur&amp;author=CA%20Hudis&amp;publication_year=2007&amp;journal=Clin%20Breast%20Cancer&amp;pages=S6-S10">Google Scholar</a></div>
+                        </div>
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div id="related">
+               <h2>Related articles</h2>
+               <ul class="related-list">
+                  <div class="cit">
+                     <div class="cit-metadata"><span class="cit-first-element cit-section">IN THIS ISSUE<span class="cit-sep cit-sep-after-article-section">:</span> </span><span class="cit-title">IN THIS ISSUE </span> <cite><abbr title="Journal of the National Cancer Institute" class="site-title">JNCI J Natl Cancer Inst</abbr> <span class="cit-print-date"><span class="cit-sep cit-sep-before-article-print-date">(</span>2010<span class="cit-sep cit-sep-after-article-print-date">)</span> </span><span class="cit-vol">102 </span><span class="cit-issue"><span class="cit-sep cit-sep-before-article-issue">(</span>24<span class="cit-sep cit-sep-after-article-issue">):</span> </span><span class="cit-pages"><span class="cit-first-page">1813</span> </span><span class="cit-doi"><span class="cit-sep cit-sep-before-article-doi"> doi:</span>10.1093/jnci/djq519 </span><span class="cit-online-date"><span class="cit-sep cit-sep-before-article-online-date">First published online </span>December 14, 2010 </span></cite>  
+                     </div>
+                     <div class="cit-extra"><span class="accesscheck jnci;102/24/1813 pdf_extract,full,reprint"></span> 
+                        <ul class="cit-views">
+                           <li class="first-item"><a href="/content/102/24/1813.extract" rel="extract">Extract</a></li>
+                           <li><a href="/content/102/24/1813.full" rel="full-text">Full Text (HTML)</a></li>
+                           <li class="last-item"><a href="/content/102/24/1813.full.pdf+html" rel="full-text.pdf">Full Text (PDF)</a></li>
+                        </ul> <span class="cit-flags"><span class="open-access-note">OPEN ACCESS</span> </span> 
+                     </div> 
+                  </div>
+               </ul>
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/102/24/1835.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/102/24/1855.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/102/24.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (2010) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    102
+                                    </span><span class="slug-issue">
+                                    (24):
+                                    </span><span class="slug-pages">
+                                    1845-1854.
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/djq409" class="slug-doi">10.1093/jnci/djq409</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              <span class="slug-metadata-note ahead-of-print">
+                                 
+                                 First published online
+                                 
+                                 <span class="slug-ahead-of-print-date">November 23, 2010</span>
+                                 </span>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li><span class="creative-commons-article">This article is Open Access<span>OA</span></span></li>
+                        <li><span class="ccv cc-version-by-nc/3.0/"></span></li>
+                        <li class="abstract-view-link primary"><a href="/content/102/24/1845.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/102/24/1845.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2010/11/23/jnci.djq409">djq409v1</a></li>
+                                 <li class="current-li"><span>102/24/1845</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=ARTICLES&amp;sortspec=date&amp;submit=Submit">Article</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;102/24/1845" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B102%2F24%2F1845&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/102/24/1845.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=102/24/1845&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/102/24/1845.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3Bdjq409&amp;citation=Bonilla%20et%20al.%20102%20%2824%29:%201845&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B102%2F24%2F1845&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=21098761&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B102%2F24%2F1845">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B102%2F24%2F1845">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=Dose-Dense%20Chemotherapy%20in%20Nonmetastatic%20Breast%20Cancer%3A%20A%20Systematic%20Review%20and%20Meta-analysis%20of%20Randomized%20Controlled%20Trials%3A%20&amp;publicationDate=12%2F15%2F2010&amp;author=Luisa%20Bonilla%2C%20Irit%20Ben-Aharon%2C%20Liat%20Vidal%2C%20Anat%20Gafter-Gvili%2C%20Leonard%20Leibovici%2C%20Salomon%20M.%20Stemmer&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2Fdjq409&amp;volumeNum=102&amp;issueNum=24&amp;startPage=1845&amp;endPage=1854&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/102/24/1845.full?cited-by=yes&amp;legid=jnci;102/24/1845#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/102/24/1845" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/102/24/1845?access_num=/jnci/102/24/1845"
+                              rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F102%2F24%2F1845&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/102/24/1845.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ABonilla%20author%3AL.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Bonilla, L.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AStemmer%20author%3AS.M.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Stemmer, S. M.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/102/24/1845.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=21098761&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Bonilla%20L&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Bonilla, L.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Ben-Aharon%20I&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Ben-Aharon, I.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Vidal%20L&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Vidal, L.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Gafter-Gvili%20A&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Gafter-Gvili, A.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Leibovici%20L&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Leibovici, L.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Stemmer%20SM&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Stemmer, S. M.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="#related">Related articles in this journal</a></li>
+                        <li><a href="/content/102/24/1845.full?related-urls=yes&amp;legid=jnci;102/24/1845#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B102%2F24%2F1845&amp;current-view-path=/content/102/24/1845.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/102/24/1845&amp;title=Dose-Dense%20Chemotherapy%20in%20Nonmetastatic%20Breast%20Cancer%3A%20A%20Systematic%20Review%20and%20Meta-analysis%20of%20Randomized%20Controlled%20Trials+--+Bonilla%20et%20al.%20102%20%2824%29%3A%201845+--+jnci&amp;doi=10.1093/jnci/djq409&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/102/24/1845&amp;title=Dose-Dense%20Chemotherapy%20in%20Nonmetastatic%20Breast%20Cancer%3A%20A%20Systematic%20Review%20and%20Meta-analysis%20of%20Randomized%20Controlled%20Trials+--+Bonilla%20et%20al.%20102%20%2824%29%3A%201845+--+jnci&amp;doi=10.1093/jnci/djq409&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/102/24/1845&amp;title=Dose-Dense%20Chemotherapy%20in%20Nonmetastatic%20Breast%20Cancer%3A%20A%20Systematic%20Review%20and%20Meta-analysis%20of%20Randomized%20Controlled%20Trials+--+Bonilla%20et%20al.%20102%20%2824%29%3A%201845+--+jnci&amp;doi=10.1093/jnci/djq409&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/102/24/1845&amp;title=Dose-Dense%20Chemotherapy%20in%20Nonmetastatic%20Breast%20Cancer%3A%20A%20Systematic%20Review%20and%20Meta-analysis%20of%20Randomized%20Controlled%20Trials+--+Bonilla%20et%20al.%20102%20%2824%29%3A%201845+--+jnci&amp;doi=10.1093/jnci/djq409&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/102/24/1845&amp;title=Dose-Dense%20Chemotherapy%20in%20Nonmetastatic%20Breast%20Cancer%3A%20A%20Systematic%20Review%20and%20Meta-analysis%20of%20Randomized%20Controlled%20Trials+--+Bonilla%20et%20al.%20102%20%2824%29%3A%201845+--+jnci&amp;doi=10.1093/jnci/djq409&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/102/24/1845&amp;title=Dose-Dense%20Chemotherapy%20in%20Nonmetastatic%20Breast%20Cancer%3A%20A%20Systematic%20Review%20and%20Meta-analysis%20of%20Randomized%20Controlled%20Trials+--+Bonilla%20et%20al.%20102%20%2824%29%3A%201845+--+jnci&amp;doi=10.1093/jnci/djq409&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#abstract-1">Abstract</a></li>
+                        <li><a href="#sec-11">Methods</a></li>
+                        <li><a href="#sec-17">Results</a></li>
+                        <li><a href="#sec-22">Discussion</a></li>
+                        <li><a href="#sec-23">Funding</a></li>
+                        <li><a href="#fn-group-1">Footnotes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/102/24/1845.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/102/24/1845.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

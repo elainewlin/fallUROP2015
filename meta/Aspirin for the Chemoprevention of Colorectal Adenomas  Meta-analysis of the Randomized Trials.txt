@@ -1,0 +1,2129 @@
+http://jnci.oxfordjournals.org/content/101/4/256.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Aspirin for the Chemoprevention of Colorectal Adenomas: Meta-analysis of the Randomized Trials </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/101/4/256" />
+      <meta content="/jnci/101/4/256.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Aspirin for the Chemoprevention of Colorectal Adenomas: Meta-analysis of the Randomized Trials"
+            name="DC.Title" />
+      <meta content="10.1093/jnci/djn485" name="DC.Identifier" />
+      <meta content="2009-02-18" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Bernard F. Cole" name="DC.Contributor" />
+      <meta content="Richard F. Logan" name="DC.Contributor" />
+      <meta content="Susan Halabi" name="DC.Contributor" />
+      <meta content="Robert Benamouzig" name="DC.Contributor" />
+      <meta content="Robert S. Sandler" name="DC.Contributor" />
+      <meta content="Matthew J. Grainge" name="DC.Contributor" />
+      <meta content="Stanislas Chaussade" name="DC.Contributor" />
+      <meta content="John A. Baron" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta name="citation_author" content="Bernard F. Cole" />
+      <meta name="citation_author" content="Richard F. Logan" />
+      <meta name="citation_author" content="Susan Halabi" />
+      <meta name="citation_author" content="Robert Benamouzig" />
+      <meta name="citation_author" content="Robert S. Sandler" />
+      <meta name="citation_author" content="Matthew J. Grainge" />
+      <meta name="citation_author" content="Stanislas Chaussade" />
+      <meta name="citation_author" content="John A. Baron" />
+      <meta content="Aspirin for the Chemoprevention of Colorectal Adenomas: Meta-analysis of the Randomized Trials"
+            name="citation_title" />
+      <meta content="101" name="citation_volume" />
+      <meta content="4" name="citation_issue" />
+      <meta content="256" name="citation_firstpage" />
+      <meta content="266" name="citation_lastpage" />
+      <meta content="101/4/256" name="citation_id" />
+      <meta content="101/4/256" name="citation_id_from_sass_path" />
+      <meta content="jnci;101/4/256" name="citation_mjid" />
+      <meta content="10.1093/jnci/djn485" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/101/4/256.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/101/4/256.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/101/4/256.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/101/4.cover.gif" name="issue_cover_image" />
+      <meta content="http://jnci.oxfordjournals.org/content/101/4/256"
+            name="citation_public_url" />
+      <meta content="19211452" name="citation_pmid" />
+      <meta name="citation_section" content="Article" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/101/4/248.short" rel="prev" />
+      <link href="/content/101/4/267.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d29561385e1">var callbackToken='53719C7814F367A';</script><script type="text/javascript" id="session-d29561385e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:16:31.618-07:00';
+            var gSessionId = '5uJRtRsYbHcNISjUxjykpA';
+            var gAuthzRequired = 'false';
+            var gAuthnMethods1 = 'ip ip';
+            var gAuthnMethods2 = 'ip,ip';
+            var gAuthnIPs = '18.189.59.169,18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/djn485");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("20090218");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F101%2F4%2F256.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/101/4.toc">
+                  <span xmlns="" class="volume-value">Volume 101</span>
+                  <span xmlns="" class="issue-value"> Issue 4</span></a></li>
+            <li>Pp. <span class="slug-pages">
+                  256-266.
+                  </span></li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/101/4/256.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Aspirin for the Chemoprevention of Colorectal Adenomas: Meta-analysis of the Randomized Trials</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Bernard+F.+Cole&amp;sortspec=date&amp;submit=Submit">Bernard F. Cole</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Richard+F.+Logan&amp;sortspec=date&amp;submit=Submit">Richard F. Logan</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Susan+Halabi&amp;sortspec=date&amp;submit=Submit">Susan Halabi</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Robert+Benamouzig&amp;sortspec=date&amp;submit=Submit">Robert Benamouzig</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Robert+S.+Sandler&amp;sortspec=date&amp;submit=Submit">Robert S. Sandler</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Matthew+J.+Grainge&amp;sortspec=date&amp;submit=Submit">Matthew J. Grainge</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-7" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Stanislas+Chaussade&amp;sortspec=date&amp;submit=Submit">Stanislas Chaussade</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-8"><span class="name"><a class="name-search"
+                              href="/search?author1=John+A.+Baron&amp;sortspec=date&amp;submit=Submit">John A. Baron</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><strong>Affiliations of authors:</strong> Department of Mathematics and Statistics, University of Vermont, Burlington, VT (BFC); Department of Epidemiology and Public
+                           Health, Queens Medical Centre, University of Nottingham, Nottingham, UK (RFL, MJG); Department of Biostatistics and Bioinformatics
+                           and the Cancer and Leukemia Group B Statistical Center, Duke University Medical Center, Durahm, NC (SH); Department of Gastroenterology,
+                           Hopital Avicenne, Bobigny, France (RB); Department of Medicine, University of North Carolina School of Medicine, Chapel Hill,
+                           NC (RSS); Department of Gastroenterology, Hopital Cochin–Université René Descartes, Paris, France (SC); Department of Community
+                           and Family Medicine (BFC, JAB) and Department of Medicine (JAB), Dartmouth Medical School, Hanover, NH
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="fn" id="corresp-1"><strong>Correspondence to:</strong><br /> Bernard F. Cole, PhD, Department of Mathematics and Statistics, University of Vermont, 16 Colchester Ave, Burlington, VT
+                        05401 (e-mail: <span class="em-link"><span class="em-addr">ccole{at}cems.uvm.edu</span></span>).
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                         hwp:start="2008-05-09"><span class="received-label">Received </span>May 9, 2008.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="rev-recd"
+                         hwp:start="2008-11-17"><span class="rev-recd-label">Revision received </span>November 17, 2008.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="2008-12-01"><span class="accepted-label">Accepted </span>December 1, 2008.
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-11" title="Methods" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Abstract</h2>
+                  <div id="sec-1" class="subsection">
+                     <p id="p-1"><strong>Background</strong> Multiple lines of evidence indicate that aspirin has an antineoplastic effect in the large bowel. Randomized clinical trials
+                        have been conducted to evaluate the effectiveness of aspirin for reducing the risk of colorectal adenomas. A meta-analysis
+                        of these trials will provide more precise estimates of the aspirin effect, both overall and in subgroups.
+                     </p>
+                  </div>
+                  <div id="sec-2" class="subsection">
+                     <p id="p-2"><strong>Methods</strong> We combined data from all randomized double-blind placebo-controlled trials that evaluated aspirin for the prevention of
+                        colorectal adenomas. We used random-effects meta-analysis to estimate risk ratios and 95% confidence intervals (CIs) for the
+                        effect of aspirin on the occurrence of adenomas and of advanced lesions (ie, tubulovillous adenomas, villous adenomas, adenomas
+                        ≥1 cm in diameter, adenomas with high-grade dysplasia, or invasive cancer). All statistical tests were two-sided.
+                     </p>
+                  </div>
+                  <div id="sec-3" class="subsection">
+                     <p id="p-3"><strong>Results</strong> We identified four clinical trials with 2967 randomly assigned participants. Each trial evaluated aspirin for the secondary
+                        prevention of colorectal adenomas. Doses of aspirin tested ranged from 81 to 325 mg/d. The average age of participants at
+                        baseline was 58 years, and 60% were male. Median follow-up was 33 months. A total of 2698 participants underwent colonoscopic
+                        follow-up and were included in the analysis of adenoma occurrence and advanced-lesion occurrence after randomization. Among
+                        these participants, adenomas were found in 424 (37%) of the 1156 participants allocated to placebo and in 507 (33%) of the
+                        1542 participants allocated to any dose of aspirin. Advanced lesions were found in 12% of participants in the placebo group
+                        and in 9% of participants allocated to any dose of aspirin. The pooled risk ratio of any adenoma for any dose of aspirin vs
+                        placebo was 0.83 (95% CI = 0.72 to 0.96). This corresponded to an absolute risk reduction of 6.7% (95% CI = 3.2% to 10.2%).
+                        For any advanced lesion, the pooled risk ratio was 0.72 (95% CI = 0.57 to 0.90). We found no statistically significant effect
+                        modification for any of the baseline factors studied.
+                     </p>
+                  </div>
+                  <div id="sec-4" class="subsection">
+                     <p id="p-4"><strong>Conclusion</strong> Aspirin is effective for the prevention of colorectal adenomas in individuals with a history of these lesions.
+                     </p>
+                  </div>
+               </div>
+               <div class="boxed-text" id="boxed-text-1">
+                  <div id="sec-5" class="subsection">
+                     <h4>CONTEXT AND CAVEATS</h4>
+                     <div id="sec-6" class="subsection">
+                        <h5>Prior knowledge</h5>
+                        <p id="p-5">Multiple lines of evidence including clinical trial data indicate that aspirin has an antineoplastic effect in the large bowel
+                           and reduces the risk of colorectal adenomas. However, a quantitative summary of efficacy is missing.
+                        </p>
+                     </div>
+                     <div id="sec-7" class="subsection">
+                        <h5>Study design</h5>
+                        <p id="p-6">A meta-analysis of the association between aspirin use and the occurrence of adenomas and of advanced lesions using participant
+                           data from four randomized double-blind trials that evaluated higher-dose and/or lower-dose aspirin vs placebo for the secondary
+                           prevention of colorectal adenomas.
+                        </p>
+                     </div>
+                     <div id="sec-8" class="subsection">
+                        <h5>Contribution</h5>
+                        <p id="p-7">Among 2698 participants who underwent colonoscopic follow-up after randomization, adenomas were found in 37% of those allocated
+                           to placebo and in 33% of those allocated to any dose of aspirin (advanced lesions were found in 12% and 9%, respectively).
+                        </p>
+                     </div>
+                     <div id="sec-9" class="subsection">
+                        <h5>Implications</h5>
+                        <p id="p-8">This meta-analysis of clinical trial data indicates that aspirin reduces the risk of recurrence of colorectal adenomas.</p>
+                     </div>
+                     <div id="sec-10" class="subsection">
+                        <h5>Limitations</h5>
+                        <p id="p-9">Dose–response patterns were not interpretable because only two studies investigated lower-dose aspirin. An analysis of cardiovascular
+                           and bleeding events was limited by the small numbers of events observed in any one trial. One trial was excluded from the
+                           analysis of adverse events.
+                        </p>
+                        <p id="p-10"><em>From the Editors</em></p>
+                     </div>
+                  </div>
+               </div>
+               <p id="p-11">Over the past 30 years, compelling data have emerged suggesting that nonsteroidal anti-inflammatory drugs (NSAIDs), particularly
+                  aspirin, can suppress carcinogenesis in the large bowel. For example, in numerous epidemiological studies, the use of aspirin
+                  or other NSAIDs has been associated with a reduced risk of colorectal cancer (<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">1</a>), and pooled results from two clinical trials have shown a protective effect in the primary prevention of sporadic colorectal
+                  cancer (<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2">2</a>). In trials conducted among patients with familial adenomatous polyposis (<a id="xref-ref-3-1" class="xref-bibr" href="#ref-3">3</a>–<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">7</a>), treatment with other NSAIDS (sulindac or cyclooxygenase-2 inhibitors) caused existing adenomas to regress and suppressed
+                  the emergence of new lesions.
+               </p>
+               <p id="p-12">In case–control and cohort studies (<a id="xref-ref-2-2" class="xref-bibr" href="#ref-2">2</a>,<a id="xref-ref-8-1" class="xref-bibr" href="#ref-8">8</a>,<a id="xref-ref-9-1" class="xref-bibr" href="#ref-9">9</a>), aspirin use was associated with a reduced risk of colorectal cancer, especially after 10 years of use. Clinical trial data
+                  (<a id="xref-ref-2-3" class="xref-bibr" href="#ref-2">2</a>) also suggest that aspirin must be taken for many years before a protective effect on colorectal cancer emerges. The long
+                  duration of use required to prevent invasive cancer may reflect the time required for cancer to develop from precursor lesions.
+               </p>
+               <p id="p-13">Colorectal adenomas—the precursors to most colorectal cancers—would be expected to reflect the chemopreventive effects of
+                  aspirin sooner than invasive cancers because these lesions occur much earlier in the carcinogenic pathways. To date, results
+                  of four randomized clinical trials that formally assessed the effect of aspirin on the risk of adenomas have been published
+                  (<a id="xref-ref-10-1" class="xref-bibr" href="#ref-10">10</a>–<a id="xref-ref-13-1" class="xref-bibr" href="#ref-13">13</a>). Participants with a history of colorectal adenomas or cancer were recruited in each of the trials and were followed up
+                  for subsequent new adenomas. Data from each of these trials suggest that aspirin reduces the risk of subsequent new adenomas,
+                  but, to our knowledge, a quantitative summary of efficacy has not been reported. In addition, it is not clear what the dose–response
+                  patterns are or if particular groups are resistant (or more sensitive) to the chemopreventive effect of aspirin.
+               </p>
+               <p id="p-14">To better characterize the apparent chemopreventive effect of aspirin in the large bowel, we performed a meta-analysis of
+                  all available randomized clinical trials that investigated whether aspirin reduces the risk of colorectal adenomas.
+               </p>
+               <div class="section methods" id="sec-11">
+                  <div class="section-nav"><a href="#abstract-1" title="Abstract" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-15" title="Results" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Methods</h2>
+                  <div id="sec-12" class="subsection">
+                     <h3>Trial Inclusion Criteria</h3>
+                     <p id="p-15">We identified candidate studies by conducting computerized searches of the Medline and Web of Science databases using the
+                        terms “aspirin,” “acetylsalicylic acid,” “salicylates,” “adenoma,” and “randomized clinical trial.” We also consulted with
+                        colleagues to identify unpublished studies that may exist. We included all placebo-controlled randomized trials of aspirin
+                        (acetylsalicylic acid) in any dose as a chemopreventive agent for sporadic large-bowel adenomas. To be included in this meta-analysis,
+                        a trial must have satisfied the following inclusion criteria: 1) the study was placebo controlled and double blinded; 2) individuals
+                        with familial adenomatous polyposis were excluded; 3) participants were treated for at least 1 year; 4) for each participant,
+                        colorectal polyp status at baseline was assessed with complete colonoscopy and no polyps were knowingly left in the bowel
+                        at that time; and 5) colorectal polyp occurrence after randomization was assessed by colonoscopic follow-up. In addition,
+                        each trial had to have obtained written informed consent from each participant and must have had appropriate institutional
+                        review board (IRB) approval.
+                     </p>
+                  </div>
+                  <div id="sec-13" class="subsection">
+                     <h3>Data Collection</h3>
+                     <p id="p-16">Rather than combine published (or provided) summary statistics from each study, we obtained participant-level data from each
+                        identified trial, a preferred approach to meta-analysis (<a id="xref-ref-14-1" class="xref-bibr" href="#ref-14">14</a>). We sought the following data elements: randomized aspirin or placebo treatment group; age at study entry (in years at last
+                        birthday); sex; race; baseline body mass index (BMI); number of lifetime adenomas before randomization; family history of
+                        colorectal cancer; baseline smoking status; duration of randomized treatment; pill-taking compliance; occurrence and timing
+                        of death during the treatment period; occurrence and timing of myocardial infarctions, strokes, major bleeding, or new cancer
+                        diagnoses during the treatment period; and timing and outcome of each colonoscopic follow-up examination during the treatment
+                        period, including the type, size, and location of each adenoma found and whether high-grade dysplasia was present. These data,
+                        if available, were sent in a de-identified data file to Dartmouth Medical School for analysis as a combined dataset. This
+                        study was determined to be exempt from IRB review by the Dartmouth College Human Subjects Review Committee.
+                     </p>
+                  </div>
+                  <div id="sec-14" class="subsection">
+                     <h3>Statistical Analysis</h3>
+                     <p id="p-17">The primary endpoint was the occurrence of any colorectal adenoma after randomization. Secondary endpoints were the occurrence
+                        of advanced lesions, defined as tubulovillous adenomas (25%–75% villous features), villous adenomas (≥75% villous features),
+                        large adenomas (≥1 cm in diameter), adenomas with high-grade dysplasia, or invasive cancer, and the occurrence of adverse
+                        events. The statistical analysis of the combined datasets followed standard random-effects meta-analysis methods (<a id="xref-ref-15-1" class="xref-bibr" href="#ref-15">15</a>–<a id="xref-ref-17-1" class="xref-bibr" href="#ref-17">17</a>) in a two-stage approach. In the first stage, each clinical trial was analyzed separately to obtain trial-specific estimates
+                        of the relative risk of adenoma and advanced lesions for the aspirin group vs the placebo group. The trial-specific risk ratios
+                        were then combined using standard methods for random-effects meta-analysis (<a id="xref-ref-15-2" class="xref-bibr" href="#ref-15">15</a>). A similar method was used to combine trial-specific absolute risk reductions. All <em>P</em> values were derived from two-sided tests, and we considered a <em>P</em> value less than .05 to be statistically significant. Between-study heterogeneity was assessed using the <em>Q</em> statistic and the <em>I</em><sup> 2</sup> statistic. An <em>I </em><sup>2</sup> value of greater than 50%, or a <em>P</em> value less than .05 for the <em>Q</em> statistic, was taken to indicate heterogeneity (<a id="xref-ref-18-1" class="xref-bibr" href="#ref-18">18</a>,<a id="xref-ref-19-1" class="xref-bibr" href="#ref-19">19</a>). Within each clinical trial, the analysis population was defined as all randomly assigned participants who had undergone
+                        at least one follow-up colonoscopy. This approach represents a modified intention-to-treat analysis.
+                     </p>
+                     <p id="p-18">We used forest plots to summarize overall results for the effect of aspirin on the risks of any adenoma and any advanced lesion.
+                        Subgroup analyses were performed to evaluate the consistency of the aspirin treatment effect within specific subgroups of
+                        patients defined according to their baseline characteristics. These analyses were performed using the same methods as described
+                        above, but they focused on data for the subgroup of interest. Wald tests were used to assess the interaction between aspirin
+                        and subgroup. Six subgroup factors were defined in the analysis protocol: sex; age (≤54, 55–63, or ≥64 years, based on tertiles
+                        of the data); BMI [&lt;25, 25–29.9, or ≥30.0 kg/m<sup>2</sup>, based on cut points established by the National Heart, Lung and Blood Institute (<a id="xref-ref-20-1" class="xref-bibr" href="#ref-20">20</a>)]; family history of colorectal cancer, defined as a first-degree relative diagnosed with the disease (present or absent);
+                        number of lifetime adenomas (1 or ≥2, to divide the sample into two groups of similar size); and the presence of advanced
+                        lesions at the examination that was required to determine study eligibility (present or absent). We also performed analyses
+                        that considered colonoscopic examinations that occurred within four follow-up intervals following randomization: 0 to &lt;12,
+                        12 to &lt;24, 24 to &lt;38, and ≥38 months. These intervals were chosen to compare effects from year to year after randomization.
+                        However, because most of the clinical trials specified a 3-year follow-up interval, we set the final cut point at 38 months
+                        rather than 36 months. This cut point ensured that follow-up examinations that occurred near the planned examination time
+                        fell within only one of the analysis time intervals (ie, the interval from 24 to &lt;38 months).
+                     </p>
+                  </div>
+               </div>
+               <div class="section results" id="sec-15">
+                  <div class="section-nav"><a href="#sec-11" title="Methods" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-24" title="Discussion" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Results</h2>
+                  <div id="sec-16" class="subsection">
+                     <h3>Trials Identified</h3>
+                     <p id="p-19">We identified four clinical trials that satisfied the inclusion criteria: the Aspirin/Folate Polyp Prevention Study (AFPPS)
+                        (<a id="xref-ref-10-2" class="xref-bibr" href="#ref-10">10</a>), the Colorectal Adenoma Prevention Study [Cancer and Leukemia Group B (CALGB) 9270] (<a id="xref-ref-11-1" class="xref-bibr" href="#ref-11">11</a>), the United Kingdom Colorectal Adenoma Prevention (ukCAP) Study (<a id="xref-ref-12-1" class="xref-bibr" href="#ref-12">12</a>), and the Association pour la Prevention par l’Aspirine du Cancer Colorectal (APACC) Study (<a id="xref-ref-13-2" class="xref-bibr" href="#ref-13">13</a>). <a id="xref-table-wrap-1-1" class="xref-table" href="#T1">Table 1</a> summarizes the trial designs. Three of the four trials (AFPPS, ukCAP, and APACC) recruited participants with a recent history
+                        of sporadic colorectal adenoma and excluded individuals with a history of invasive large-bowel cancer, and one trial (CALGB
+                        9270) specifically recruited patients who had been treated for colorectal cancer. Other eligibility criteria for the trials
+                        were similar—each trial excluded individuals with inflammatory bowel disease, those with a clinical need for aspirin treatment,
+                        and those who could not take aspirin.
+                     </p>
+                     <div class="table pos-float" id="T1">
+                        <div class="table-inline">
+                           <div class="callout"><span>View this table:</span><ul class="callout-links">
+                                 <li><a href="256/T1.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="256/T1.expansion.html">In a new window</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="table-caption"><span class="table-label">Table 1</span> 
+                           <p id="p-20" class="first-child">Summary of trial designs*</p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <p id="p-22">All four studies used an adenoma endpoint. Two trials (AFPPS and APACC) compared lower-dose aspirin (defined as 81 or 160
+                        mg/d) and higher-dose aspirin (defined as 300 or 325 mg/d) with placebo. The remaining trials (CALGB 9270 and ukCAP) compared
+                        higher-dose aspirin with placebo.
+                     </p>
+                     <p id="p-23">Each of the trials had a defined endoscopy follow-up schedule. AFPPS and ukCAP intended to examine participants 3 years after
+                        the baseline examination, and APACC examined participants at 1 and 4 years after the baseline examination. CALGB 9270 examined
+                        participants with early-stage disease at 4 years after the baseline examination and all other patients at 3 years after the
+                        baseline examination. This trial was stopped early because of the efficacy of the intervention. AFPPS and APACC each had central
+                        pathology review of lesions removed from the large bowel during follow-up examinations. CALGB 9270 and ukCAP relied solely
+                        on local pathologists to determine lesion characteristics.
+                     </p>
+                     <p id="p-24">Follow-up for adverse events varied considerably across trials. AFPPS attempted to follow up all participants through the
+                        dates of the expected year 3 examinations, whereas in APACC and ukCAP, adverse event data were ascertained only for participants
+                        who were on treatment or who had study examinations. Adverse event data for CALGB 9270 were considered unreliable by the study
+                        investigators because of inconsistencies in the computerized database, and thus the data regarding bleeding, cardiovascular
+                        events, and cancer diagnoses from this trial were not included in this analysis. We included only the deaths that occurred
+                        during the treatment period of all studies, including CALGB 9270, which was terminated early due to efficacy.
+                     </p>
+                     <p id="p-25">Primary analyses reports have been published for AFPPS (<a id="xref-ref-10-3" class="xref-bibr" href="#ref-10">10</a>), CALGB 9270 (<a id="xref-ref-11-2" class="xref-bibr" href="#ref-11">11</a>), and ukCAP (<a id="xref-ref-12-2" class="xref-bibr" href="#ref-12">12</a>). APACC has reported year 1 results only (<a id="xref-ref-13-3" class="xref-bibr" href="#ref-13">13</a>).
+                     </p>
+                  </div>
+                  <div id="sec-17" class="subsection">
+                     <h3>Characteristics of the Study Participants</h3>
+                     <p id="p-26"><a id="xref-table-wrap-2-1" class="xref-table" href="#T2">Table 2</a> describes the baseline characteristics of all 2967 randomly assigned participants by treatment group. Of these, 1289 participants
+                        were allocated to placebo and 1678 to aspirin. A total of 450 participants were randomly assigned to lower-dose aspirin and
+                        1228 to higher-dose aspirin. The mean age of all participants was approximately 58 years, and approximately 60% were male.
+                        Smoking status was not available from CALGB 9270, nor was information regarding family history of colorectal cancer. Data
+                        on race were not available from APACC. Consequently, data regarding some characteristics were missing for substantial proportions
+                        of the participants. Most participants (71%) were non-Hispanic white or had a BMI of 25 kg/m<sup>2</sup> or higher. Most (54%) of the participants whose adenoma history was known had only one lifetime adenoma. Among those with
+                        information available regarding family history of colorectal cancer, 31% had a first-degree relative who had been diagnosed
+                        with colorectal cancer. The high proportions of males, those with unknown number of lifetime adenomas, and those with a family
+                        history of colorectal cancer in the lower-dose aspirin group reflect the characteristics of participants in the two studies
+                        that offered two aspirin doses, not imbalances in randomization.
+                     </p>
+                     <div class="table pos-float" id="T2">
+                        <div class="table-inline">
+                           <div class="callout"><span>View this table:</span><ul class="callout-links">
+                                 <li><a href="256/T2.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="256/T2.expansion.html">In a new window</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="table-caption"><span class="table-label">Table 2</span> 
+                           <p id="p-27" class="first-child">Baseline characteristics of participants in all trials</p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <p id="p-28">All of the trials required participants to avoid taking aspirin and NSAIDs during the treatment period of the trial. Therefore,
+                        very few participants were regular users of these drugs before randomization. Rates of regular use (defined as use at least
+                        3 d/wk) before randomization did not exceed 5% in any of the studies, and treatment groups were not statistically significantly
+                        unbalanced in this regard.
+                     </p>
+                  </div>
+                  <div id="sec-18" class="subsection">
+                     <h3>Compliance and Follow-up</h3>
+                     <p id="p-29">Compliance with the study treatments and procedures was generally good. Overall pill-taking compliance (expressed as the percentage
+                        of expected number of study pills taken) tended to be slightly higher in the any-dose aspirin group than in the placebo group
+                        (<a id="xref-table-wrap-3-1" class="xref-table" href="#T3">Table 3</a>). Among the four studies, mean pill-taking compliance ranged from approximately 69% to approximately 92%. At least 81% of
+                        participants in each of the studies and at least 90% of the participants in three studies (AFPPS, ukCAP, and APACC) had at
+                        least one follow-up examination (<a href="http://jnci.oxfordjournals.org/cgi/content/full/djn485/DC1">Supplementary Table 1</a>, available online). (The early termination of CALGB 9270 contributed to the lower percentage of participants with colonoscopic
+                        follow-up in that study.) In total, 2698 participants underwent colonoscopic follow-up. The remaining 269 participants were
+                        either lost to follow-up or died and were excluded from the analysis of adenoma and advanced-lesion occurrence. The median
+                        follow-up of all participants was approximately 33 months. APACC included a 4-year examination and thus had the longest median
+                        follow-up (47.2 months vs 32.2, 31.3, and 37.5 months for AFPPS, CALGB 9270, and ukCAP, respectively). Follow-up duration
+                        and rate of colonoscopic follow-up were well balanced across the treatment groups (<a href="http://jnci.oxfordjournals.org/cgi/content/full/djn485/DC1">Supplementary Table 1</a>, available online).
+                     </p>
+                     <div class="table pos-float" id="T3">
+                        <div class="table-inline">
+                           <div class="callout"><span>View this table:</span><ul class="callout-links">
+                                 <li><a href="256/T3.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="256/T3.expansion.html">In a new window</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="table-caption"><span class="table-label">Table 3</span> 
+                           <p id="p-30" class="first-child">Overall pill-taking compliance*</p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                  </div>
+                  <div id="sec-19" class="subsection">
+                     <h3>Adenoma and Advanced-Lesion Occurrence</h3>
+                     <p id="p-32">The analyses of adenoma occurrence and advanced-lesion occurrence after randomization were restricted to the 2698 participants
+                        for whom colonoscopic follow-up information was available. Overall, approximately 35% of participants with colonoscopic follow-up
+                        were diagnosed with one or more recurrent adenomas, and the proportions varied considerably across studies, ranging from approximately
+                        22% to 52% of participants. The lowest proportion was seen in CALGB 9270 (22%), which possibly reflects the fact that these
+                        participants did not have an entire colorectal mucosa left at risk after undergoing a colon or rectum resection for their
+                        cancer.
+                     </p>
+                     <p id="p-33"><a id="xref-fig-1-1" class="xref-fig" href="#F1">Figure 1</a> summarizes the random-effects meta-analysis comparing aspirin in any dose to placebo. Among participants with colonoscopic
+                        follow-up, adenomas were found in 424 (37%) of the 1156 participants allocated to placebo and in 507 (33%) of the 1542 participants
+                        allocated to any dose of aspirin (<a id="xref-fig-1-2" class="xref-fig" href="#F1">Figure 1</a>). We observed a statistically significant 17% relative reduction in the risk of any adenoma for aspirin in any dose vs placebo
+                        (pooled risk ratio [RR] = 0.83; 95% confidence interval [CI] = 0.72 to 0.96). This corresponded to a statistically significant
+                        6.7% (95% CI = 3.2% to 10.2%) absolute risk reduction. Among participants with colonoscopic follow-up, advanced lesions were
+                        found in 137 (12%) participants in the placebo group and in 134 (9%) participants allocated to any dose of aspirin (<a id="xref-fig-1-3" class="xref-fig" href="#F1">Figure 1</a>), which corresponded to a statistically significant relative risk reduction of 28% for aspirin in any dose (RR = 0.72; 95%
+                        CI = 0.57 to 0.90).
+                     </p>
+                     <div id="F1" class="fig pos-float odd">
+                        <div class="fig-inline"><a href="256/F1.expansion.html"><img alt="Figure 1" src="256/F1.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="256/F1.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="256/F1.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/101/4/256/F1">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Figure 1</span> 
+                           <p id="p-34" class="first-child">Random-effects risk ratio forest plot comparing any aspirin vs placebo. Trial-specific risk ratios are shown as <strong>black squares</strong>, with the size of the square being inversely proportional to the trial-specific risk ratio variance. <strong>Horizontal lines</strong> represent 95% confidence intervals for the trial-specific risk ratios. Pooled risk ratios are shown as <strong>diamonds</strong>. The middle of each diamond corresponds to the risk ratio, and the width of each diamond represents the 95% confidence interval.
+                              The <strong>vertical dashed lines</strong> provide a visual comparison of the pooled risk ratio with the corresponding trial-specific risk ratios. Tests for heterogeneity
+                              are as follows. For any adenoma, <em>Q</em> = 5.13 (<em>P</em> = 0.16) and <em>I </em><sup>2</sup> = 41.5. For advanced lesion, <em>Q</em> = 1.27 (<em>P</em> = .74) and <em>I</em><sup> 2</sup> = 0.0. AFPPS = Aspirin/Folate Polyp Prevention Study; APACC = Association pour la Prevention par l’Aspirine du Cancer Colorectal;
+                              CALGB = Cancer and Leukemia Group B; CI = confidence interval; ukCAP = United Kingdom Colorectal Adenoma Prevention.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <p id="p-35"><a id="xref-fig-2-1" class="xref-fig" href="#F2">Figures 2</a> and <a id="xref-fig-3-1" class="xref-fig" href="#F3">3</a> summarize the pooled comparisons of higher-dose aspirin vs placebo and lower-dose aspirin vs placebo, respectively. Among
+                        the 1108 participants who were randomly assigned to higher-dose aspirin and who underwent colonoscopic follow-up, adenomas
+                        were found in 335 (30%) and advanced lesions were found in 92 (8%). Among the 434 participants who were randomly assigned
+                        to lower-dose aspirin and who underwent colonoscopic follow-up, adenomas were found in 172 (40%) and advanced lesions were
+                        found in 42 (10%). For high-dose aspirin vs placebo, we observed a non–statistically significant relative risk reduction of
+                        15% for any adenoma (RR = 0.85; 95% CI = 0.70 to 1.03); however, the absolute risk reduction of 5.7% was statistically significant
+                        (95% CI = 1.5% to 9.9%). We observed a statistically significant relative risk reduction of 29% for advanced lesions (RR =
+                        0.71; 95% CI = 0.56 to 0.92) (<a id="xref-fig-2-2" class="xref-fig" href="#F2">Figure 2</a>). For low-dose aspirin vs placebo, we observed a statistically significant relative risk reduction of 17% for any adenoma
+                        (RR = 0.83; 95% CI = 0.71 to 0.96), which corresponded to a statistically significant absolute risk reduction of 8.4% (95%
+                        CI = 1.9% to 14.8%). We also observed a non–statistically significant relative risk reduction of 17% for advanced lesions
+                        (RR = 0.83; 95% CI = 0.44 to 1.58) (<a id="xref-fig-3-2" class="xref-fig" href="#F3">Figure 3</a>).
+                     </p>
+                     <div id="F2" class="fig pos-float odd">
+                        <div class="fig-inline"><a href="256/F2.expansion.html"><img alt="Figure 2" src="256/F2.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="256/F2.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="256/F2.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/101/4/256/F2">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Figure 2</span> 
+                           <p id="p-36" class="first-child">Random-effects risk ratio forest plot comparing higher-dose aspirin (300 or 325 mg/d) vs placebo. Trial-specific risk ratios
+                              are shown as <strong>black squares</strong>, with the size of the square being inversely proportional to the trial-specific risk ratio variance. <strong>Horizontal lines</strong> represent 95% confidence intervals for the trial-specific risk ratios. Pooled risk ratios are shown as <strong>diamonds</strong>. The middle of each diamond corresponds to the risk ratio, and the width of each diamond represents the 95% confidence interval.
+                              The <strong>vertical dashed lines</strong> provide a visual comparison of the pooled risk ratio with the corresponding trial-specific risk ratios. Tests for heterogeneity
+                              are as follows. For any adenoma, <em>Q</em> = 7.51 (<em>P</em> = .057) and <em>I</em><sup> 2</sup> = 60.1. For advanced lesion, <em>Q</em> = 1.87 (<em>P</em> = .60) and <em>I</em><sup> 2</sup>=0.0. AFPPS = Aspirin/Folate Polyp Prevention Study; APACC = Association pour la Prevention par l’Aspirine du Cancer Colorectal;
+                              CALGB = Cancer and Leukemia Group B; CI = confidence interval; ukCAP = United Kingdom Colorectal Adenoma Prevention.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <div id="F3" class="fig pos-float odd">
+                        <div class="fig-inline"><a href="256/F3.expansion.html"><img alt="Figure 3" src="256/F3.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="256/F3.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="256/F3.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/101/4/256/F3">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Figure 3</span> 
+                           <p id="p-37" class="first-child">Random-effects risk ratio forest plot comparing lower-dose aspirin (81 or 160 mg/d) vs placebo. Trial-specific risk ratios
+                              are shown as <strong>black squares</strong>, with the size of the square being inversely proportional to the trial-specific risk ratio variance. <strong>Horizontal lines</strong> represent 95% confidence intervals for the trial-specific risk ratios. Pooled risk ratios are shown as <strong>diamonds</strong>. The middle of each diamond corresponds to the risk ratio, and the width of each diamond represents the 95% confidence interval.
+                              The <strong>vertical dashed lines</strong> provide a visual comparison of the pooled risk ratio with the corresponding trial-specific risk ratios. Tests for heterogeneity
+                              are as follows. For any adenoma, <em>Q</em> = 0.21 (<em>P</em> = .65) and <em>I</em><sup>2</sup> = 0.0. For advanced lesion, <em>Q</em> = 2.89 (<em>P</em> = .089) and <em>I</em><sup>2</sup> = 65.4. AFPPS = Aspirin/Folate Polyp Prevention Study; APACC = Association pour la Prevention par l’Aspirine du Cancer Colorectal;
+                              CI = confidence interval.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <p id="p-38">We compared higher-dose aspirin vs lower-dose aspirin using the two trials that provided relevant data (AFPPS and APACC).
+                        This analysis involved 849 participants (415 allocated to higher-dose aspirin and 434 allocated to lower-dose aspirin). The
+                        pooled risk ratio comparing higher-dose aspirin vs lower-dose aspirin was 1.18 (95% CI = 1.01 to 1.37), with an absolute risk
+                        reduction of 7.0% (95% CI = 0.4% to 13.6%) in favor of lower-dose aspirin. For any advanced lesion, the pooled risk ratio
+                        was 0.89 (95% CI = 0.32 to 2.47).
+                     </p>
+                     <p id="p-39">There was evidence of between-study heterogeneity for the following comparisons based on relative risk: higher-dose aspirin
+                        vs placebo for any adenoma (<em>Q</em> = 7.51, <em>P</em> = .057; <em>I</em><sup>2</sup> = 60.1%), lower-dose aspirin vs placebo for advanced lesions (<em>Q</em> = 2.89, <em>P</em> = .089; <em>I</em><sup>2</sup> = 65.4%), and higher-dose aspirin vs lower-dose aspirin for advanced lesions (<em>Q</em> = 4.25, <em>P</em> = .04; <em>I</em><sup>2</sup> = 76.5). For the first two of these three comparisons, heterogeneity was established solely based on an <em>I</em><sup>2</sup> statistic greater than 50%. No statistically significant heterogeneity was observed for comparisons based on absolute risk
+                        reductions.
+                     </p>
+                  </div>
+                  <div id="sec-20" class="subsection">
+                     <h3>Subgroup Analyses</h3>
+                     <p id="p-40">Results of the random-effects meta-analysis for all adenomas according to subgroups of participants revealed no statistically
+                        significant effect modification for any of the baseline factors studied (<a id="xref-fig-4-1" class="xref-fig" href="#F4">Figure 4</a>). However, the estimated effect of aspirin in any dose on advanced lesions was substantially greater among those with a family
+                        history of colorectal cancer (RR = 0.53; 95% CI = 0.33 to 0.83) than among those without (RR = 0.92; 95% CI = 0.67 to 1.28;
+                        <em>P</em><sub>interaction</sub> = .05).
+                     </p>
+                     <div id="F4" class="fig pos-float odd">
+                        <div class="fig-inline"><a href="256/F4.expansion.html"><img alt="Figure 4" src="256/F4.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="256/F4.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="256/F4.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/101/4/256/F4">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Figure 4</span> 
+                           <p id="p-41" class="first-child">Random-effects risk ratio forest plot comparing any aspirin vs placebo by subgroups. <strong>A)</strong> Any adenoma. <strong>B)</strong> Advanced lesion. Subgroup-specific risk ratios are shown as <strong>black squares</strong>, with the size of the square being inversely proportional to the subgroup-specific risk ratio variance. <strong>Horizontal lines</strong> represent 95% confidence intervals for the subgroup-specific risk ratios. Overall pooled risk ratios are shown as <strong>diamonds</strong>. The middle of each diamond corresponds to the risk ratio, and the width of each diamond represents the 95% confidence interval.
+                              The <strong>vertical dashed line</strong> provides a visual comparison of the pooled risk ratio with the subgroup-specific risk ratios. <em>P</em> values (two-sided) are based on Wald tests for interaction. Among those with follow-up data, body mass index was missing
+                              for 173 participants in the aspirin groups and 142 participants in the placebo group; family history of colorectal cancer
+                              was missing for 532 participants in the aspirin groups and 451 participants in the placebo group, including all participants
+                              in Cancer and Leukemia Group B (CALGB 9270); number of lifetime adenomas at baseline was missing for 261 participants in the
+                              aspirin groups and 260 participants in the placebo group, including all participants in CALGB 9270; advanced-lesion status
+                              at baseline was missing for 96 participants in the aspirin groups and 71 participants in the placebo group, with participants
+                              in CALGB 9270 being excluded from this subgroup analysis. CI = confidence interval.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                  </div>
+                  <div id="sec-21" class="subsection">
+                     <h3>Analyses by Time of Examination</h3>
+                     <p id="p-42">Random-effects meta-analysis for any-dose aspirin vs placebo by time since randomization revealed that greatest reduction
+                        in risk for all adenomas occurred during the first year of follow-up (RR = 0.62; 95% CI = 0.48 to 0.81) and that aspirin had
+                        no effect on risk beyond 38 months (RR = 0.99; 95% CI = 0.78 to 1.26) (<a id="xref-fig-5-1" class="xref-fig" href="#F5">Figure 5</a>). Most of the follow-up examinations occurred 24–38 months after randomization; for this time period, the pooled risk ratio
+                        was 0.84 (95% CI = 0.74 to 0.96). For advanced lesions, the most pronounced effects were also in the first year of follow-up,
+                        when the pooled risk ratio comparing aspirin in any dose vs placebo was 0.47 (95% CI = 0.24 to 0.90); the corresponding pooled
+                        risk ratios for the subsequent time intervals were 0.91 (95% CI = 0.42 to 2.00) for 12–24 months, 0.72 (95% CI = 0.52 to 1.00)
+                        for 23–38 months, and 0.71 (95% CI = 0.37 to 1.35) for 38 months or longer.
+                     </p>
+                     <div id="F5" class="fig pos-float odd">
+                        <div class="fig-inline"><a href="256/F5.expansion.html"><img alt="Figure 5" src="256/F5.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="256/F5.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="256/F5.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/101/4/256/F5">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Figure 5</span> 
+                           <p id="p-43" class="first-child">Random-effects risk ratio forest plot comparing any aspirin vs placebo in terms of adenoma risk by time interval after randomization.
+                              Trial-specific risk ratios are shown as <strong>black squares</strong>, with the size of the square being inversely proportional to the trial-specific risk ratio variance. <strong>Horizontal lines</strong> represent 95% confidence intervals for the trial-specific risk ratios. Pooled risk ratios are shown as <strong>diamonds</strong>. The middle of each diamond corresponds to the risk ratio, and the width of each diamond represents the 95% confidence interval.
+                              The <strong>vertical dashed lines</strong> provide a visual comparison of the pooled risk ratios with the corresponding trial-specific risk ratios. *The AFPPS trial
+                              had no examinations during the 0- to 12-month interval. †The APACC trial had only two examinations during the 24- to 38-month
+                              interval. AFPPS = Aspirin/Folate Polyp Prevention Study; CALGB = Cancer and Leukemia Group B; APACC = Association pour la
+                              Prevention par l’Aspirine du Cancer Colorectal; CI = confidence interval; ukCAP = United Kingdom Colorectal Adenoma Prevention.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                  </div>
+                  <div id="sec-22" class="subsection">
+                     <h3>Colorectal Cancer Occurrence</h3>
+                     <p id="p-44">The AFPPS, ukCAP, and APACC trials reported incident colorectal cancer. CALGB 9270 was not included in this analysis because
+                        it studied a population with a history of colorectal cancer, whereas the remaining trials involved participants with no history
+                        of colorectal cancer. As would be expected in any population that was under endoscopic surveillance, the numbers of colorectal
+                        cancers observed were small. Across the combined AFPPS, ukCAP, and APACC study populations, the percentage of participants
+                        diagnosed with incident colorectal cancer was similar in the any-dose aspirin and placebo groups (0.54% vs 0.62%, respectively;
+                        <em>P</em> = .81).
+                     </p>
+                  </div>
+                  <div id="sec-23" class="subsection">
+                     <h3>Adverse Events</h3>
+                     <p id="p-45">Serious adverse events after randomization were uncommon (<a id="xref-table-wrap-4-1" class="xref-table" href="#T4">Table 4</a>). Rates of death (ie, the percentages of participants who died) were similar in the any-dose aspirin and placebo groups (0.95%
+                        vs 0.85%, respectively; <em>P</em> = .85), as were the rates of myocardial infarction (0.48% vs 0.31%; <em>P</em> = .57). Of the 12 participants who had a stroke, all were randomly assigned to an aspirin group (<em>P</em> = .002). Most of the stroke cases were apparently thrombotic events; only one—in a participant with a subarachnoid hemorrhage—was
+                        thought to be hemorrhagic. Rates of major bleeding were similar among participants allocated to any-dose aspirin and those
+                        allocated to placebo (2.50% and 2.79%, respectively; <em>P</em> = .64). Rates of new cancer diagnoses (ie, the percentages of participants who received a new diagnosis of any invasive cancer)
+                        were not statistically significantly different in the any-dose aspirin and placebo groups (2.62% vs 1.86%, respectively; <em>P</em> = .18), although the invasive cancer rate in the any-dose aspirin group was somewhat higher than that in the placebo group.
+                     </p>
+                     <div class="table pos-float" id="T4">
+                        <div class="table-inline">
+                           <div class="callout"><span>View this table:</span><ul class="callout-links">
+                                 <li><a href="256/T4.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="256/T4.expansion.html">In a new window</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="table-caption"><span class="table-label">Table 4</span> 
+                           <p id="p-46" class="first-child">Adverse events in all trials combined</p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="section discussion" id="sec-24">
+                  <div class="section-nav"><a href="#sec-15" title="Results" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-25" title="Funding" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Discussion</h2>
+                  <p id="p-48">We obtained data from all randomized trials that studied aspirin for the chemoprevention of colorectal adenomas and used patient-level
+                     data to conduct a meta-analysis. In aggregate, nearly 3000 participants were included in four trials that were conducted in
+                     the late 1990s. Two trials studied 300 or 325 mg aspirin vs placebo; the other two trials included a lower dose of aspirin.
+                     Three trials recruited patients with recent adenomas, and one trial enrolled patients with colorectal cancer who had received
+                     curative treatment. Each of the trials had a 3- or 4-year intervention period. Compliance and follow-up in the trials were
+                     generally quite good.
+                  </p>
+                  <p id="p-49">Overall, we found a statistically significant 17% decrease in the relative risk of adenoma for aspirin in any dose vs placebo,
+                     which corresponded to a 6.7% absolute risk reduction. We also observed a 28% decrease in the relative risk of advanced lesions.
+                     All of the trials included in this meta-analysis involved a higher-dose aspirin arm (≥300 mg/d). In comparisons of higher-dose
+                     aspirin vs placebo, there was a 15% non–statistically significant decrease in the relative risk of any adenoma; however, the
+                     corresponding absolute risk reduction of 5.7% was statistically significant. We observed a statistically significant 29% reduction
+                     in the relative risk of advanced lesions for higher-dose aspirin vs placebo. In the two trials that evaluated lower doses
+                     of aspirin (doses of ≤160 mg/d) vs placebo, there was a statistically significant 17% decrease in the relative risk of any
+                     adenoma (absolute risk reduction = 8.4%) and a non–statistically significant 17% reduction in the relative risk of advanced
+                     lesions. These comparisons of the two dose levels with placebo suggest that there is no difference between higher- and lower-dose
+                     aspirin in the effect on all adenomas and that higher-dose aspirin provides a greater risk reduction than lower-dose aspirin
+                     for advanced lesions. However, a direct comparison of higher-dose vs lower-dose aspirin showed statistically significantly
+                     greater risk reduction for all adenomas with lower-dose aspirin. A similar comparison for advanced lesions yielded inconsistent
+                     and highly variable results. The difference between these findings and the comparisons with placebo is likely due to the limited
+                     or lack of efficacy of higher-dose aspirin in the two studies that also investigated the lower doses.
+                  </p>
+                  <p id="p-50">In general, the most reliable dose–response findings are those derived from studies that investigate multiple doses in a single
+                     population. The surprising lack of efficacy of the higher aspirin doses in the two multiple-dose trials, together with the
+                     unusual dose–response patterns (ie, greater efficacy with lower dose) that were observed in those trials, prevents secure
+                     conclusions regarding the relative efficacy of lower-dose vs higher-dose aspirin.
+                  </p>
+                  <p id="p-51">For any aspirin dose and for higher-dose aspirin, the effects observed were stronger for advanced lesions than for any adenomas.
+                     The same pattern has been observed in randomized trials of calcium supplementation (<a id="xref-ref-21-1" class="xref-bibr" href="#ref-21">21</a>) and difluoromethylornithine plus sulindac for the chemoprevention of adenomas (<a id="xref-ref-22-1" class="xref-bibr" href="#ref-22">22</a>). It is advantageous that aspirin is effective for preventing advanced lesions because these lesions tend to progress more
+                     rapidly to invasive cancer.
+                  </p>
+                  <p id="p-52">As would be expected given the endoscopic surveillance of the study populations, there were only small numbers of colorectal
+                     cancers observed in the four adenoma trials. We observed no statistically significant effect of aspirin on colorectal cancer
+                     occurrence. However, this apparent lack of effect does not negate the chemopreventive potential of aspirin in the large bowel.
+                     The aggregate data were not powered to detect an effect on invasive colorectal cancer, and in any case, longer treatment and
+                     follow-up are known to be required for such an effect to emerge (<a id="xref-ref-2-4" class="xref-bibr" href="#ref-2">2</a>,<a id="xref-ref-8-2" class="xref-bibr" href="#ref-8">8</a>).
+                  </p>
+                  <p id="p-53">We evaluated whether baseline factors modified the effect of aspirin in any dose. Our random-effects meta-analysis for all
+                     adenomas detected no statistically significant effect modification for any of the baseline factors studied. For advanced lesions,
+                     the effect of aspirin was substantially greater among those with a family history of colorectal cancer, but this result did
+                     not achieve statistical significance. None of the other baseline factors studied modified the effect of aspirin on advanced
+                     lesions to a statistically significant extent.
+                  </p>
+                  <p id="p-54">Overall, the largest benefit of aspirin (in any dose) appeared during the first year after randomization (RR = 0.62). However,
+                     only one study (APACC) scheduled a protocol examination at 1 year; there were also substantial numbers of patients in CALGB
+                     9270 who had early examinations. Thus, many of the examinations that occurred within 1 year from randomization were not follow-up
+                     examinations prescribed by protocol. Beyond 38 months after randomization, aspirin and placebo had nearly equivalent effects
+                     on the risk for all adenomas (RR = 0.99).
+                  </p>
+                  <p id="p-55">In the three studies that recruited adenoma patients (AFPPS, ukCAP, and APACC), participants who had an examination earlier
+                     than called for by the study protocol were likely a select (and probably atypical) group of patients who might have had clinical
+                     indications for the examination, such as bleeding. This selection of participants for early examination, together with the
+                     smaller numbers of participants in some of the follow-up intervals, complicates interpretation of the interval-specific risk
+                     ratios.
+                  </p>
+                  <p id="p-56">We saw no differences in the rates of adverse events comparing aspirin vs placebo in terms of mortality, myocardial infarction,
+                     major bleeding, and all-site invasive cancer. However, there was a statistically significantly higher rate of strokes (most
+                     of which were thought to be ischemic) among aspirin-treated participants than among those who received placebo. There is no
+                     ready explanation for these findings. Aspirin use does seem to increase risk of hemorrhagic stroke modestly (<a id="xref-ref-23-1" class="xref-bibr" href="#ref-23">23</a>–<a id="xref-ref-25-1" class="xref-bibr" href="#ref-25">25</a>). However, large randomized trials that focused on cardiovascular outcomes have reported that in patients without vascular
+                     disease (and who are roughly similar to participants in the adenoma trials), aspirin had no substantial effect on ischemic
+                     stroke risk in men (<a id="xref-ref-23-2" class="xref-bibr" href="#ref-23">23</a>,<a id="xref-ref-24-1" class="xref-bibr" href="#ref-24">24</a>), and may reduce this risk in women (<a id="xref-ref-23-3" class="xref-bibr" href="#ref-23">23</a>).
+                  </p>
+                  <p id="p-57">Our meta-analysis has a number of strengths. It included all known randomized clinical trials that have tested aspirin as
+                     a chemopreventive agent against colorectal adenomas. The trials were generally well conducted, with high compliance and generally
+                     high follow-up rates. The sample size in the pooled studies was substantial, providing good statistical power. Thus, this
+                     analysis is likely to have high validity.
+                  </p>
+                  <p id="p-58">However, this analysis also has substantial limitations. First, because only two studies (APACC and AFPPS) investigated lower-dose
+                     aspirin, our findings regarding dose–response patterns are not as convincing as our findings regarding overall adenoma occurrence
+                     and advanced-lesion occurrence. One of these two studies (APACC) was relatively small and had a substantial number of late
+                     dropouts, further hampering interpretation of the aspirin dose–response relationship. Second, our analysis of cardiovascular
+                     and bleeding events is quite limited. The entry criteria for the trials included the absence of a need for aspirin, which
+                     is a known cardioprotective drug. This criterion assured that the study population was at relatively low risk of cardiovascular
+                     events, and so the numbers of events observed in any one trial were modest. Furthermore, none of the trials focused on cardiovascular
+                     disease, and the clinical detail regarding individual cardiovascular events is incomplete. Third, our exclusion of CALGB 9270
+                     from the analysis of adverse events because of concerns regarding the completeness of adverse event reporting further reduced
+                     the numbers of endpoints analyzed.
+                  </p>
+                  <p id="p-59">In summary, this meta-analysis of clinical trial data indicates that aspirin reduces the risk of recurrence of colorectal
+                     adenomas. This effect emerged rather quickly after the initiation of aspirin use, seemed more marked for advanced lesions
+                     than for adenomas overall, and was seen in essentially all subgroups examined. Our findings suggest that aspirin interferes
+                     with colorectal carcinogenesis relatively early in the progression from normal mucosa to adenoma or advanced lesion. The substantial
+                     size of the relative reduction in risk seen in our analysis (28% for advanced adenomas) and seen in clinical trials that evaluated
+                     the effect of aspirin on colorectal cancer risk (26% reduction) (<a id="xref-ref-2-5" class="xref-bibr" href="#ref-2">2</a>) indicates the potentially important health benefits of aspirin use. Of course, these benefits need to be considered in the
+                     context of all of the health effects of aspirin, positive and negative. As noted above, there is extensive research regarding
+                     the largely positive cardiovascular effects of aspirin (<a id="xref-ref-23-4" class="xref-bibr" href="#ref-23">23</a>–<a id="xref-ref-25-2" class="xref-bibr" href="#ref-25">25</a>). The possibility of cancer prevention can now be added to future considerations of risk and benefit.
+                  </p>
+               </div>
+               <div class="section" id="sec-25">
+                  <div class="section-nav"><a href="#sec-24" title="Discussion" class="prev-section-link"><span>Previous Section</span></a><a href="#fn-group-1" title="Footnotes" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Funding</h2>
+                  <p id="p-60">This study was supported by a research grant from Bayer AG to J.A. Baron.</p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <div class="section-nav"><a href="#sec-25" title="Funding" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn" id="fn-4">
+                        <p id="p-61">The authors gratefully acknowledge the dedicated work of those who contributed to the clinical trials included in this report,
+                           especially the study participants.
+                        </p>
+                     </li>
+                     <li class="fn" id="fn-5">
+                        <p id="p-62">J. A. Baron is currently a paid consultant to Bayer AG (a manufacturer of aspirin and NSAIDs) and is a former paid consultant
+                           to Merck &amp; Co Inc, which marketed Vioxx, another NSAID.
+                        </p>
+                     </li>
+                     <li class="fn" id="fn-6">
+                        <p id="p-63">Research for AFPPS was supported in part by a grant from the National Cancer Institute (CA 59005) to the Polyp Prevention
+                           Study Group (John A. Baron, MD, Principal Investigator). The research for Cancer and Leukemia Group B (CALGB) 9270 was supported
+                           in part by grants from the National Cancer Institute (CA31946) to the Cancer and Leukemia Group B (Richard L. Schilsky, MD,
+                           Chairman) and to the CALGB Statistical Center (Stephen George, PhD, CA33601).
+                        </p>
+                     </li>
+                     <li class="fn" id="fn-7">
+                        <p id="p-64">The sponsor commented on initial drafts of the protocol for the meta-analysis. The sponsor had no role in the collection,
+                           analysis, or interpretation of the data, the writing of the manuscript, or the decision to submit the manuscript for publication.
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <ul>
+                  <li class="fn" id="copyright-statement-1">© The Author 2009. Published by Oxford University Press.</li>
+               </ul>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#fn-group-1" title="Footnotes" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">1.</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference 1. in text"
+                           id="ref-1">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.1">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Baron</span>  <span class="cit-name-given-names">JA</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Epidemiology of non-steroidal anti-inflammatory drugs and cancer</span>. <abbr class="cit-jnl-abbrev">Prog Exp Tumor Res</abbr> <span class="cit-pub-date">2003</span>;<span class="cit-vol">37</span>:<span class="cit-fpage">1</span>-<span class="cit-lpage">24</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=12795046&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000185760800002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Epidemiology%20of%20non-steroidal%20anti-inflammatory%20drugs%20and%20cancer&amp;author=JA%20Baron&amp;publication_year=2003&amp;journal=Prog%20Exp%20Tumor%20Res&amp;volume=37&amp;pages=1-24">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">2.</span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference 2. in text"
+                           id="ref-2">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.2"
+                             data-doi="10.1016/S0140-6736(07)60747-8">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Flossmann</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rothwell</span>  <span class="cit-name-given-names">PM</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Effect of aspirin on long-term risk of colorectal cancer: consistent evidence from randomised and observational studies</span>. <abbr class="cit-jnl-abbrev">Lancet</abbr> <span class="cit-pub-date">2007</span>;<span class="cit-vol">369</span>(<span class="cit-issue">9573</span>):<span class="cit-fpage">1603</span>-<span class="cit-lpage">1613</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(07)60747-8&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=17499602&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000246488800029&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Effect%20of%20aspirin%20on%20long-term%20risk%20of%20colorectal%20cancer%3A%20consistent%20evidence%20from%20randomised%20and%20observational%20studies&amp;author=E%20Flossmann&amp;author=PM%20Rothwell&amp;publication_year=2007&amp;journal=Lancet&amp;volume=369&amp;issue=9573&amp;pages=1603-1613">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">3.</span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference 3. in text"
+                           id="ref-3">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.3"
+                             data-doi="10.1056/NEJM199305063281805">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Giardiello</span>  <span class="cit-name-given-names">FM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hamilton</span>  <span class="cit-name-given-names">SR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Krush</span>  <span class="cit-name-given-names">AJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Treatment of colonic and rectal adenomas with sulindac in familial adenomatous polyposis</span>. <abbr class="cit-jnl-abbrev">New Engl J Med</abbr> <span class="cit-pub-date">1993</span>;<span class="cit-vol">328</span>(<span class="cit-issue">18</span>):<span class="cit-fpage">1313</span>-<span class="cit-lpage">1316</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJM199305063281805&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=8385741&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1993KZ64000005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Treatment%20of%20colonic%20and%20rectal%20adenomas%20with%20sulindac%20in%20familial%20adenomatous%20polyposis&amp;author=FM%20Giardiello&amp;author=SR%20Hamilton&amp;author=AJ%20Krush&amp;publication_year=1993&amp;journal=New%20Engl%20J%20Med&amp;volume=328&amp;issue=18&amp;pages=1313-1316">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">4.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-101.4.256.4">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Labayle</span>  <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fischer</span>  <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Vielh</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Sulindac causes regression of rectal polyps in familial adenomatous polyposis</span>. <abbr class="cit-jnl-abbrev">Gastroenterology</abbr> <span class="cit-pub-date">1991</span>;<span class="cit-vol">101</span>(<span class="cit-issue">3</span>):<span class="cit-fpage">635</span>-<span class="cit-lpage">639</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=1650315&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1991GB05400005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Sulindac%20causes%20regression%20of%20rectal%20polyps%20in%20familial%20adenomatous%20polyposis&amp;author=D%20Labayle&amp;author=D%20Fischer&amp;author=P%20Vielh&amp;publication_year=1991&amp;journal=Gastroenterology&amp;volume=101&amp;issue=3&amp;pages=635-639">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">5.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-101.4.256.5"
+                             data-doi="10.7326/0003-4819-115-12-952">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rigau</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pique</span>  <span class="cit-name-given-names">JM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rubio</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Planas</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Tarrech</span>  <span class="cit-name-given-names">JM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bordas</span>  <span class="cit-name-given-names">JM</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Effects of long-term sulindac therapy on colonic polyposis</span>. <abbr class="cit-jnl-abbrev">Ann Internal Med</abbr> <span class="cit-pub-date">1991</span>;<span class="cit-vol">115</span>(<span class="cit-issue">12</span>):<span class="cit-fpage">952</span>-<span class="cit-lpage">954</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.7326/0003-4819-115-12-952&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=1659272&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1991GU41700007&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Effects%20of%20long-term%20sulindac%20therapy%20on%20colonic%20polyposis&amp;author=J%20Rigau&amp;author=JM%20Pique&amp;author=E%20Rubio&amp;author=R%20Planas&amp;author=JM%20Tarrech&amp;author=JM%20Bordas&amp;publication_year=1991&amp;journal=Ann%20Internal%20Med&amp;volume=115&amp;issue=12&amp;pages=952-954">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">6.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-101.4.256.6">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Higuchi</span>  <span class="cit-name-given-names">T</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Iwama</span>  <span class="cit-name-given-names">T</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Yoshinaga</span>  <span class="cit-name-given-names">K</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Toyooka</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Taketo</span>  <span class="cit-name-given-names">MM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Sugihara</span>  <span class="cit-name-given-names">K</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">A randomized, double-blind, placebo-controlled trial of the effects of rofecoxib, a selective cyclooxygenase-2 inhibitor,
+                                    on rectal polyps in familial adenomatous polyposis patients</span>. <abbr class="cit-jnl-abbrev">Clin Cancer Res</abbr> <span class="cit-pub-date">2003</span>;<span class="cit-vol">9</span>(<span class="cit-issue">13</span>):<span class="cit-fpage">4756</span>-<span class="cit-lpage">4760</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=clincanres&amp;resid=9/13/4756"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">7.</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference 7. in text"
+                           id="ref-7">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.7"
+                             data-doi="10.1056/NEJM200006293422603">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Steinbach</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Lynch</span>  <span class="cit-name-given-names">PM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Phillips</span>  <span class="cit-name-given-names">RK</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">The effect of celecoxib, a cyclooxygenase-2 inhibitor, in familial adenomatous polyposis</span>. <abbr class="cit-jnl-abbrev">New Engl J Med</abbr> <span class="cit-pub-date">2000</span>;<span class="cit-vol">342</span>(<span class="cit-issue">26</span>):<span class="cit-fpage">1946</span>-<span class="cit-lpage">1952</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJM200006293422603&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10874062&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000087867400003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=The%20effect%20of%20celecoxib%2C%20a%20cyclooxygenase-2%20inhibitor%2C%20in%20familial%20adenomatous%20polyposis&amp;author=G%20Steinbach&amp;author=PM%20Lynch&amp;author=RK%20Phillips&amp;publication_year=2000&amp;journal=New%20Engl%20J%20Med&amp;volume=342&amp;issue=26&amp;pages=1946-1952">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">8.</span><a class="rev-xref-ref" href="#xref-ref-8-1" title="View reference 8. in text"
+                           id="ref-8">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.8"
+                             data-doi="10.1053/j.gastro.2007.09.035">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Chan</span>  <span class="cit-name-given-names">AT</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Giovannucci</span>  <span class="cit-name-given-names">EL</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Meyerhardt</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Schernhammer</span>  <span class="cit-name-given-names">ES</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wu</span>  <span class="cit-name-given-names">K</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fuchs</span>  <span class="cit-name-given-names">CS</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Aspirin dose and duration of use and risk of colorectal cancer in men</span>. <abbr class="cit-jnl-abbrev">Gastroenterology</abbr> <span class="cit-pub-date">2008</span>;<span class="cit-vol">134</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">21</span>-<span class="cit-lpage">28</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1053/j.gastro.2007.09.035&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=18005960&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000252066400008&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Aspirin%20dose%20and%20duration%20of%20use%20and%20risk%20of%20colorectal%20cancer%20in%20men&amp;author=AT%20Chan&amp;author=EL%20Giovannucci&amp;author=JA%20Meyerhardt&amp;author=ES%20Schernhammer&amp;author=K%20Wu&amp;author=CS%20Fuchs&amp;publication_year=2008&amp;journal=Gastroenterology&amp;volume=134&amp;issue=1&amp;pages=21-28">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">9.</span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference 9. in text"
+                           id="ref-9">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.9"
+                             data-doi="10.1001/jama.294.8.914">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Chan</span>  <span class="cit-name-given-names">AT</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Giovannucci</span>  <span class="cit-name-given-names">EL</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Meyerhardt</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Schernhammer</span>  <span class="cit-name-given-names">ES</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Curhan</span>  <span class="cit-name-given-names">GC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fuchs</span>  <span class="cit-name-given-names">CS</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Long-term use of aspirin and nonsteroidal anti-inflammatory drugs and risk of colorectal cancer</span>. <abbr class="cit-jnl-abbrev">JAMA</abbr> <span class="cit-pub-date">2005</span>;<span class="cit-vol">294</span>(<span class="cit-issue">8</span>):<span class="cit-fpage">914</span>-<span class="cit-lpage">923</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.294.8.914&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16118381&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000231366100021&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Long-term%20use%20of%20aspirin%20and%20nonsteroidal%20anti-inflammatory%20drugs%20and%20risk%20of%20colorectal%20cancer&amp;author=AT%20Chan&amp;author=EL%20Giovannucci&amp;author=JA%20Meyerhardt&amp;author=ES%20Schernhammer&amp;author=GC%20Curhan&amp;author=CS%20Fuchs&amp;publication_year=2005&amp;journal=JAMA&amp;volume=294&amp;issue=8&amp;pages=914-923">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">10.</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference 10. in text"
+                           id="ref-10">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.10"
+                             data-doi="10.1056/NEJMoa021735">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Baron</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Cole</span>  <span class="cit-name-given-names">BF</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Sandler</span>  <span class="cit-name-given-names">RS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">A randomized trial of aspirin to prevent colorectal adenomas</span>. <abbr class="cit-jnl-abbrev">New Engl J Med</abbr> <span class="cit-pub-date">2003</span>;<span class="cit-vol">348</span>(<span class="cit-issue">10</span>):<span class="cit-fpage">891</span>-<span class="cit-lpage">899</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJMoa021735&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12621133&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000181341100004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=A%20randomized%20trial%20of%20aspirin%20to%20prevent%20colorectal%20adenomas&amp;author=JA%20Baron&amp;author=BF%20Cole&amp;author=RS%20Sandler&amp;publication_year=2003&amp;journal=New%20Engl%20J%20Med&amp;volume=348&amp;issue=10&amp;pages=891-899">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">11.</span><a class="rev-xref-ref" href="#xref-ref-11-1" title="View reference 11. in text"
+                           id="ref-11">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.11"
+                             data-doi="10.1056/NEJMoa021633">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Sandler</span>  <span class="cit-name-given-names">RS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Halabi</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Baron</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">A randomized trial of aspirin to prevent colorectal adenomas in patients with previous colorectal cancer</span>. <abbr class="cit-jnl-abbrev">New Engl J Med</abbr> <span class="cit-pub-date">2003</span>;<span class="cit-vol">348</span>(<span class="cit-issue">10</span>):<span class="cit-fpage">883</span>-<span class="cit-lpage">890</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJMoa021633&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12621132&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000181341100003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=A%20randomized%20trial%20of%20aspirin%20to%20prevent%20colorectal%20adenomas%20in%20patients%20with%20previous%20colorectal%20cancer&amp;author=RS%20Sandler&amp;author=S%20Halabi&amp;author=JA%20Baron&amp;publication_year=2003&amp;journal=New%20Engl%20J%20Med&amp;volume=348&amp;issue=10&amp;pages=883-890">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">12.</span><a class="rev-xref-ref" href="#xref-ref-12-1" title="View reference 12. in text"
+                           id="ref-12">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.12"
+                             data-doi="10.1053/j.gastro.2007.10.014">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Logan</span>  <span class="cit-name-given-names">RFA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Grainge</span>  <span class="cit-name-given-names">MJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Shepherd</span>  <span class="cit-name-given-names">VC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Armitage</span>  <span class="cit-name-given-names">NC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Muir</span>  <span class="cit-name-given-names">KR</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Aspirin and folic acid for the prevention of recurrent colorectal adenomas</span>. <abbr class="cit-jnl-abbrev">Gastroenterology</abbr> <span class="cit-pub-date">2008</span>;<span class="cit-vol">134</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">29</span>-<span class="cit-lpage">38</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1053/j.gastro.2007.10.014&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=18022173&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000252066400009&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Aspirin%20and%20folic%20acid%20for%20the%20prevention%20of%20recurrent%20colorectal%20adenomas&amp;author=RFA%20Logan&amp;author=MJ%20Grainge&amp;author=VC%20Shepherd&amp;author=NC%20Armitage&amp;author=KR%20Muir&amp;publication_year=2008&amp;journal=Gastroenterology&amp;volume=134&amp;issue=1&amp;pages=29-38">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">13.</span><a class="rev-xref-ref" href="#xref-ref-13-1" title="View reference 13. in text"
+                           id="ref-13">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.13"
+                             data-doi="10.1016/S0016-5085(03)00887-4">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Benamouzig</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Deyra</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Martin</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Daily soluble aspirin and prevention of colorectal adenoma recurrence: one-year results of the APACC trial</span>. <abbr class="cit-jnl-abbrev">Gastroenterology</abbr> <span class="cit-pub-date">2003</span>;<span class="cit-vol">125</span>(<span class="cit-issue">2</span>):<span class="cit-fpage">328</span>-<span class="cit-lpage">336</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0016-5085(03)00887-4&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12891533&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000184531200010&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Daily%20soluble%20aspirin%20and%20prevention%20of%20colorectal%20adenoma%20recurrence%3A%20one-year%20results%20of%20the%20APACC%20trial&amp;author=R%20Benamouzig&amp;author=J%20Deyra&amp;author=A%20Martin&amp;publication_year=2003&amp;journal=Gastroenterology&amp;volume=125&amp;issue=2&amp;pages=328-336">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">14.</span><a class="rev-xref-ref" href="#xref-ref-14-1" title="View reference 14. in text"
+                           id="ref-14">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.14"
+                             data-doi="10.1001/jama.1995.03530100085040">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Oxman</span>  <span class="cit-name-given-names">AD</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Clarke</span>  <span class="cit-name-given-names">MJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Stewart</span>  <span class="cit-name-given-names">LA</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">From science to practice. Meta-analyses using individual patient data are needed</span>. <abbr class="cit-jnl-abbrev">JAMA</abbr> <span class="cit-pub-date">1995</span>;<span class="cit-vol">274</span>(<span class="cit-issue">10</span>):<span class="cit-fpage">845</span>-<span class="cit-lpage">846</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.1995.03530100085040&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7650811&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995RU32400035&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=From%20science%20to%20practice.%20Meta-analyses%20using%20individual%20patient%20data%20are%20needed&amp;author=AD%20Oxman&amp;author=MJ%20Clarke&amp;author=LA%20Stewart&amp;publication_year=1995&amp;journal=JAMA&amp;volume=274&amp;issue=10&amp;pages=845-846">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">15.</span><a class="rev-xref-ref" href="#xref-ref-15-1" title="View reference 15. in text"
+                           id="ref-15">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.15"
+                             data-doi="10.1016/0197-2456(86)90046-2">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">DerSimonian</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Laird</span>  <span class="cit-name-given-names">N</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Meta-analysis in clinical trials</span>. <abbr class="cit-jnl-abbrev">Control Clin Trials</abbr> <span class="cit-pub-date">1986</span>;<span class="cit-vol">7</span>(<span class="cit-issue">15</span>):<span class="cit-fpage">177</span>-<span class="cit-lpage">188</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0197-2456(86)90046-2&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3802833&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1986F013900001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Meta-analysis%20in%20clinical%20trials&amp;author=R%20DerSimonian&amp;author=N%20Laird&amp;publication_year=1986&amp;journal=Control%20Clin%20Trials&amp;volume=7&amp;issue=15&amp;pages=177-188">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">16.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-101.4.256.16"
+                             data-doi="10.1136/bmj.315.7121.1533">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Egger</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Smith</span>  <span class="cit-name-given-names">GD</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Phillips</span>  <span class="cit-name-given-names">AN</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Meta-analysis: principles and procedures</span>. <abbr class="cit-jnl-abbrev">BMJ</abbr> <span class="cit-pub-date">1997</span>;<span class="cit-vol">315</span>(<span class="cit-issue">7121</span>):<span class="cit-fpage">1533</span>-<span class="cit-lpage">1537</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=FULL&amp;journalCode=bmj&amp;resid=315/7121/1533"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">17.</span><a class="rev-xref-ref" href="#xref-ref-17-1" title="View reference 17. in text"
+                           id="ref-17">↵</a><div class="cit ref-cit ref-book" id="cit-101.4.256.17">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Friedman</span>  <span class="cit-name-given-names">LM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Furberg</span>  <span class="cit-name-given-names">CD</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">DeMets</span>  <span class="cit-name-given-names">DL</span></span></li>
+                              </ol><cite>. <span class="cit-source">Fundamentals of Clinical Trials</span>. <span class="cit-publ-loc">New York</span>: <span class="cit-publ-name">Springer</span>; <span class="cit-pub-date">1998</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Fundamentals%20of%20Clinical%20Trials&amp;author=LM%20Friedman&amp;author=CD%20Furberg&amp;author=DL%20DeMets&amp;publication_year=1998">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">18.</span><a class="rev-xref-ref" href="#xref-ref-18-1" title="View reference 18. in text"
+                           id="ref-18">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.18"
+                             data-doi="10.1002/sim.1188">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Deeks</span>  <span class="cit-name-given-names">JJ</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Issues in the selection of a summary statistic for meta-analysis of clinical trials with binary outcomes</span>. <abbr class="cit-jnl-abbrev">Stat Med</abbr> <span class="cit-pub-date">2002</span>;<span class="cit-vol">21</span>(<span class="cit-issue">11</span>):<span class="cit-fpage">1575</span>-<span class="cit-lpage">1600</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/sim.1188&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12111921&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000176016900007&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Issues%20in%20the%20selection%20of%20a%20summary%20statistic%20for%20meta-analysis%20of%20clinical%20trials%20with%20binary%20outcomes&amp;author=JJ%20Deeks&amp;publication_year=2002&amp;journal=Stat%20Med&amp;volume=21&amp;issue=11&amp;pages=1575-1600">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">19.</span><a class="rev-xref-ref" href="#xref-ref-19-1" title="View reference 19. in text"
+                           id="ref-19">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.19"
+                             data-doi="10.1136/bmj.327.7414.557">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Higgins</span>  <span class="cit-name-given-names">JP</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Thompson</span>  <span class="cit-name-given-names">SG</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Deeks</span>  <span class="cit-name-given-names">JJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Altman</span>  <span class="cit-name-given-names">DG</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Measuring inconsistency in meta-analyses</span>. <abbr class="cit-jnl-abbrev">BMJ</abbr> <span class="cit-pub-date">2003</span>;<span class="cit-vol">327</span>(<span class="cit-issue">7414</span>):<span class="cit-fpage">557</span>-<span class="cit-lpage">560</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=FULL&amp;journalCode=bmj&amp;resid=327/7414/557"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">20.</span><a class="rev-xref-ref" href="#xref-ref-20-1" title="View reference 20. in text"
+                           id="ref-20">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.20">
+                           <div class="cit-metadata"><cite><span class="cit-auth cit-collab">Expert Panel on the Identification EvaluationTreatment of Overweight in Adults</span>. <span class="cit-article-title">Clinical guidelines on the identification, evaluation, and treatment of overweight and obesity in adults: executive summary</span>. <abbr class="cit-jnl-abbrev">Am J Clin Nutr</abbr> <span class="cit-pub-date">1998</span>;<span class="cit-vol">68</span>(<span class="cit-issue">4</span>):<span class="cit-fpage">899</span>-<span class="cit-lpage">917</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=9771869&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000076192600021&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">21.</span><a class="rev-xref-ref" href="#xref-ref-21-1" title="View reference 21. in text"
+                           id="ref-21">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.21"
+                             data-doi="10.1093/jnci/djh165">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wallace</span>  <span class="cit-name-given-names">K</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Baron</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Cole</span>  <span class="cit-name-given-names">BF</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Effect of calcium supplementation on the risk of large bowel polyps</span>. <abbr class="cit-jnl-abbrev">J Natl Cancer Inst</abbr> <span class="cit-pub-date">2004</span>;<span class="cit-vol">96</span>(<span class="cit-issue">12</span>):<span class="cit-fpage">921</span>-<span class="cit-lpage">925</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=96/12/921"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">22.</span><a class="rev-xref-ref" href="#xref-ref-22-1" title="View reference 22. in text"
+                           id="ref-22">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.22"
+                             data-doi="10.1158/1940-6207.CAPR-08-0042">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Meyskens</span>  <span class="cit-name-given-names">FL</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">McLaren</span>  <span class="cit-name-given-names">CE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pelot</span>  <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Difluoromethylornithine plus sulindac for the prevention of sporadic colorectal adenomas: a randomized placebo-controlled,
+                                    double-blind trial</span>. <abbr class="cit-jnl-abbrev">Cancer Prevent Res</abbr> <span class="cit-pub-date">2008</span>;<span class="cit-vol">1</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">32</span>-<span class="cit-lpage">38</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canprevres&amp;resid=1/1/32"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">23.</span><a class="rev-xref-ref" href="#xref-ref-23-1" title="View reference 23. in text"
+                           id="ref-23">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.23"
+                             data-doi="10.1001/jama.295.3.306">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Berger</span>  <span class="cit-name-given-names">JS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Roncaglioni</span>  <span class="cit-name-given-names">MC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Avanzini</span>  <span class="cit-name-given-names">F</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pangrazzi</span>  <span class="cit-name-given-names">I</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Tognoni</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Brown</span>  <span class="cit-name-given-names">DL</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Aspirin for the primary prevention of cardiovascular events in women and men: a sex-specific meta-analysis of randomized controlled
+                                    trials</span>. <abbr class="cit-jnl-abbrev">JAMA</abbr> <span class="cit-pub-date">2006</span>;<span class="cit-vol">295</span>(<span class="cit-issue">3</span>):<span class="cit-fpage">306</span>-<span class="cit-lpage">313</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.295.3.306&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16418466&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000234684500024&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Aspirin%20for%20the%20primary%20prevention%20of%20cardiovascular%20events%20in%20women%20and%20men%3A%20a%20sex-specific%20meta-analysis%20of%20randomized%20controlled%20trials&amp;author=JS%20Berger&amp;author=MC%20Roncaglioni&amp;author=F%20Avanzini&amp;author=I%20Pangrazzi&amp;author=G%20Tognoni&amp;author=DL%20Brown&amp;publication_year=2006&amp;journal=JAMA&amp;volume=295&amp;issue=3&amp;pages=306-313">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">24.</span><a class="rev-xref-ref" href="#xref-ref-24-1" title="View reference 24. in text"
+                           id="ref-24">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.24"
+                             data-doi="10.1001/archinte.163.17.2006">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Eidelman</span>  <span class="cit-name-given-names">RS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hebert</span>  <span class="cit-name-given-names">PR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Weisman</span>  <span class="cit-name-given-names">SM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hennekens</span>  <span class="cit-name-given-names">CH</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">An update on aspirin in the primary prevention of cardiovascular disease</span>. <abbr class="cit-jnl-abbrev">Arch Intern Med</abbr> <span class="cit-pub-date">2003</span>;<span class="cit-vol">163</span>(<span class="cit-issue">17</span>):<span class="cit-fpage">2006</span>-<span class="cit-lpage">2010</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/archinte.163.17.2006&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=14504112&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000185490800002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=An%20update%20on%20aspirin%20in%20the%20primary%20prevention%20of%20cardiovascular%20disease&amp;author=RS%20Eidelman&amp;author=PR%20Hebert&amp;author=SM%20Weisman&amp;author=CH%20Hennekens&amp;publication_year=2003&amp;journal=Arch%20Intern%20Med&amp;volume=163&amp;issue=17&amp;pages=2006-2010">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">25.</span><a class="rev-xref-ref" href="#xref-ref-25-1" title="View reference 25. in text"
+                           id="ref-25">↵</a><div class="cit ref-cit ref-journal" id="cit-101.4.256.25"
+                             data-doi="10.1001/jama.280.22.1930">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">He</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Whelton</span>  <span class="cit-name-given-names">PK</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Vu</span>  <span class="cit-name-given-names">B</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Klag</span>  <span class="cit-name-given-names">MJ</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Aspirin and risk of hemorrhagic stroke: a meta-analysis of randomized controlled trials</span>. <abbr class="cit-jnl-abbrev">JAMA</abbr> <span class="cit-pub-date">1998</span>;<span class="cit-vol">280</span>(<span class="cit-issue">22</span>):<span class="cit-fpage">1930</span>-<span class="cit-lpage">1935</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.280.22.1930&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9851479&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000077364500038&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Aspirin%20and%20risk%20of%20hemorrhagic%20stroke%3A%20a%20meta-analysis%20of%20randomized%20controlled%20trials&amp;author=J%20He&amp;author=PK%20Whelton&amp;author=B%20Vu&amp;author=MJ%20Klag&amp;publication_year=1998&amp;journal=JAMA&amp;volume=280&amp;issue=22&amp;pages=1930-1935">Google Scholar</a></div>
+                        </div>
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div id="related">
+               <h2>Related articles</h2>
+               <ul class="related-list">
+                  <div class="cit">
+                     <div class="cit-metadata"><span class="cit-first-element cit-section">IN THIS ISSUE<span class="cit-sep cit-sep-after-article-section">:</span> </span><span class="cit-title">IN THIS ISSUE </span> <cite><abbr title="Journal of the National Cancer Institute" class="site-title">JNCI J Natl Cancer Inst</abbr> <span class="cit-print-date"><span class="cit-sep cit-sep-before-article-print-date">(</span>2009<span class="cit-sep cit-sep-after-article-print-date">)</span> </span><span class="cit-vol">101 </span><span class="cit-issue"><span class="cit-sep cit-sep-before-article-issue">(</span>4<span class="cit-sep cit-sep-after-article-issue">):</span> </span><span class="cit-pages"><span class="cit-first-page">215</span> </span><span class="cit-doi"><span class="cit-sep cit-sep-before-article-doi"> doi:</span>10.1093/jnci/djp010 </span><span class="cit-online-date"><span class="cit-sep cit-sep-before-article-online-date">First published online </span>February 17, 2009 </span></cite>  
+                     </div>
+                     <div class="cit-extra"><span class="accesscheck jnci;101/4/215 pdf_extract,full,reprint"></span> 
+                        <ul class="cit-views">
+                           <li class="first-item"><a href="/content/101/4/215.1.extract" rel="extract">Extract</a></li>
+                           <li><a href="/content/101/4/215.1.full" rel="full-text">Full Text (HTML)</a></li>
+                           <li class="last-item"><a href="/content/101/4/215.1.full.pdf+html" rel="full-text.pdf">Full Text (PDF)</a></li>
+                        </ul>  
+                     </div> 
+                  </div>
+               </ul>
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/101/4/248.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/101/4/267.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/101/4.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (2009) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    101
+                                    </span><span class="slug-issue">
+                                    (4):
+                                    </span><span class="slug-pages">
+                                    256-266.
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/djn485" class="slug-doi">10.1093/jnci/djn485</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              <span class="slug-metadata-note ahead-of-print">
+                                 
+                                 First published online
+                                 
+                                 <span class="slug-ahead-of-print-date">February 10, 2009</span>
+                                 </span>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><a href="/content/101/4/256.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/101/4/256.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li><a href="/content/101/4/256/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplementary-data">Supplementary Data</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2009/02/10/jnci.djn485">djn485v1</a></li>
+                                 <li class="current-li"><span>101/4/256</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=ARTICLES&amp;sortspec=date&amp;submit=Submit">Article</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;101/4/256" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B101%2F4%2F256&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/101/4/256.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=101/4/256&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/101/4/256.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3Bdjn485&amp;citation=Cole%20et%20al.%20101%20%284%29:%20256&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B101%2F4%2F256&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=19211452&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B101%2F4%2F256">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B101%2F4%2F256">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=Aspirin%20for%20the%20Chemoprevention%20of%20Colorectal%20Adenomas%3A%20Meta-analysis%20of%20the%20Randomized%20Trials%3A%20&amp;publicationDate=02%2F18%2F2009&amp;author=Bernard%20F.%20Cole%2C%20Richard%20F.%20Logan%2C%20Susan%20Halabi%2C%20Robert%20Benamouzig%2C%20Robert%20S.%20Sandler%2C%20Matthew%20J.%20Grainge%2C%20Stanislas%20Chaussade%2C%20John%20A.%20Baron&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2Fdjn485&amp;volumeNum=101&amp;issueNum=4&amp;startPage=256&amp;endPage=266&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/101/4/256.full?cited-by=yes&amp;legid=jnci;101/4/256#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/101/4/256" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/101/4/256?access_num=/jnci/101/4/256"
+                              rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F101%2F4%2F256&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/101/4/256.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ACole%20author%3AB.F.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Cole, B. F.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ABaron%20author%3AJ.A.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Baron, J. A.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/101/4/256.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=19211452&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Cole%20BF&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Cole, B. F.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Logan%20RF&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Logan, R. F.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Halabi%20S&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Halabi, S.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Benamouzig%20R&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Benamouzig, R.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Sandler%20RS&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Sandler, R. S.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Grainge%20MJ&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Grainge, M. J.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Chaussade%20S&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Chaussade, S.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Baron%20JA&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Baron, J. A.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="#related">Related articles in this journal</a></li>
+                        <li><a href="/content/101/4/256.full?related-urls=yes&amp;legid=jnci;101/4/256#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B101%2F4%2F256&amp;current-view-path=/content/101/4/256.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/101/4/256&amp;title=Aspirin%20for%20the%20Chemoprevention%20of%20Colorectal%20Adenomas%3A%20Meta-analysis%20of%20the%20Randomized%20Trials+--+Cole%20et%20al.%20101%20%284%29%3A%20256+--+jnci&amp;doi=10.1093/jnci/djn485&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/101/4/256&amp;title=Aspirin%20for%20the%20Chemoprevention%20of%20Colorectal%20Adenomas%3A%20Meta-analysis%20of%20the%20Randomized%20Trials+--+Cole%20et%20al.%20101%20%284%29%3A%20256+--+jnci&amp;doi=10.1093/jnci/djn485&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/101/4/256&amp;title=Aspirin%20for%20the%20Chemoprevention%20of%20Colorectal%20Adenomas%3A%20Meta-analysis%20of%20the%20Randomized%20Trials+--+Cole%20et%20al.%20101%20%284%29%3A%20256+--+jnci&amp;doi=10.1093/jnci/djn485&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/101/4/256&amp;title=Aspirin%20for%20the%20Chemoprevention%20of%20Colorectal%20Adenomas%3A%20Meta-analysis%20of%20the%20Randomized%20Trials+--+Cole%20et%20al.%20101%20%284%29%3A%20256+--+jnci&amp;doi=10.1093/jnci/djn485&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/101/4/256&amp;title=Aspirin%20for%20the%20Chemoprevention%20of%20Colorectal%20Adenomas%3A%20Meta-analysis%20of%20the%20Randomized%20Trials+--+Cole%20et%20al.%20101%20%284%29%3A%20256+--+jnci&amp;doi=10.1093/jnci/djn485&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/101/4/256&amp;title=Aspirin%20for%20the%20Chemoprevention%20of%20Colorectal%20Adenomas%3A%20Meta-analysis%20of%20the%20Randomized%20Trials+--+Cole%20et%20al.%20101%20%284%29%3A%20256+--+jnci&amp;doi=10.1093/jnci/djn485&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#abstract-1">Abstract</a></li>
+                        <li><a href="#sec-11">Methods</a></li>
+                        <li><a href="#sec-15">Results</a></li>
+                        <li><a href="#sec-24">Discussion</a></li>
+                        <li><a href="#sec-25">Funding</a></li>
+                        <li><a href="#fn-group-1">Footnotes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/101/4/256.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/101/4/256.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

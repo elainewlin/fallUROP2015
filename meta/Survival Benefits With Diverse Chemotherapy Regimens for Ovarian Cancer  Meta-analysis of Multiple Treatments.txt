@@ -1,0 +1,1955 @@
+http://jnci.oxfordjournals.org/content/98/22/1655.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Survival Benefits With Diverse Chemotherapy Regimens for Ovarian Cancer: Meta-analysis of Multiple Treatments </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/98/22/1655" />
+      <meta content="/jnci/98/22/1655.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Survival Benefits With Diverse Chemotherapy Regimens for Ovarian Cancer: Meta-analysis of Multiple Treatments"
+            name="DC.Title" />
+      <meta content="10.1093/jnci/djj443" name="DC.Identifier" />
+      <meta content="2006-11-15" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Maria Kyrgiou" name="DC.Contributor" />
+      <meta content="Georgia Salanti" name="DC.Contributor" />
+      <meta content="Nicholas Pavlidis" name="DC.Contributor" />
+      <meta content="Evangelos Paraskevaidis" name="DC.Contributor" />
+      <meta content="John P. A. Ioannidis" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta name="citation_author" content="Maria Kyrgiou" />
+      <meta name="citation_author" content="Georgia Salanti" />
+      <meta name="citation_author" content="Nicholas Pavlidis" />
+      <meta name="citation_author" content="Evangelos Paraskevaidis" />
+      <meta name="citation_author" content="John P. A. Ioannidis" />
+      <meta content="Survival Benefits With Diverse Chemotherapy Regimens for Ovarian Cancer: Meta-analysis of Multiple Treatments"
+            name="citation_title" />
+      <meta content="11/15/2006" name="citation_date" />
+      <meta content="98" name="citation_volume" />
+      <meta content="22" name="citation_issue" />
+      <meta content="1655" name="citation_firstpage" />
+      <meta content="1663" name="citation_lastpage" />
+      <meta content="98/22/1655" name="citation_id" />
+      <meta content="98/22/1655" name="citation_id_from_sass_path" />
+      <meta content="jnci;98/22/1655" name="citation_mjid" />
+      <meta content="10.1093/jnci/djj443" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/98/22/1655.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/98/22/1655.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/98/22/1655.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/98/22/1655"
+            name="citation_public_url" />
+      <meta content="17105988" name="citation_pmid" />
+      <meta name="citation_section" content="Article" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/98/22/1647.short" rel="prev" />
+      <link href="/content/98/22/1664.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d28417632e1">var callbackToken='537AFA168D60A21';</script><script type="text/javascript" id="session-d28417632e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:14:17.5-07:00';
+            var gSessionId = 'yGfzsMXrKz81VzyLBAQtbg';
+            var gAuthzRequired = 'false';
+            var gAuthnMethods1 = 'ip ip';
+            var gAuthnMethods2 = 'ip,ip';
+            var gAuthnIPs = '18.189.59.169,18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/djj443");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("15 November 2006");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F98%2F22%2F1655.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/98/22.toc">
+                  <span xmlns="" class="volume-value">Volume 98</span>
+                  <span xmlns="" class="issue-value"> Issue 22</span></a></li>
+            <li>Pp. <span class="slug-pages">
+                  1655-1663.
+                  </span></li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/98/22/1655.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Survival Benefits With Diverse Chemotherapy Regimens for Ovarian Cancer: Meta-analysis of Multiple Treatments</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Maria+Kyrgiou&amp;sortspec=date&amp;submit=Submit">Maria Kyrgiou</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Georgia+Salanti&amp;sortspec=date&amp;submit=Submit">Georgia Salanti</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Nicholas+Pavlidis&amp;sortspec=date&amp;submit=Submit">Nicholas Pavlidis</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Evangelos+Paraskevaidis&amp;sortspec=date&amp;submit=Submit">Evangelos Paraskevaidis</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-5"><span class="name"><a class="name-search"
+                              href="/search?author1=John+P.+A.+Ioannidis&amp;sortspec=date&amp;submit=Submit">John P. A. Ioannidis</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><em>Affiliations of authors:</em> Department of Obstetrics and Gynaecology, Hammersmith Hospital, Queen Charlotte's and Chelsea Hospital, London, U.K. (MK);
+                           Department of Obstetrics and Gynaecology, University Hospital of Ioannina, Ioannina, Greece (MK, EP); Medical Research Council,
+                           Biostatistics Unit, Cambridge, U.K. (GS); Division of Medical Oncology, University of Ioannina School of Medicine, Ioannina,
+                           Greece (NP); Clinical Trials and Evidence-Based Medicine Unit, Department of Hygiene and Epidemiology, University of Ioannina
+                           School of Medicine, Ioannina, Greece (JPAI); Biomedical Research Institute, Foundation for Research and Technology-Hellas,
+                           Ioannina, Greece (JPAI); Institute for Clinical Research and Health Policy Studies, Department of Medicine, Tufts University
+                           School of Medicine, Boston, MA (JPAI)
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="fn" id="corresp-1"><em>Correspondence to:</em> John P. A. Ioannidis, MD, Department of Hygiene and Epidemiology, University of Ioannina School of Medicine, University Campus,
+                        Ioannina 45110, Greece (e-mail: <span class="em-link"><span class="em-addr">jioannid{at}cc.uoi.gr</span></span>).
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                         hwp:start="2006-06-07"><span class="received-label">Received </span>June 7, 2006.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="rev-recd"
+                         hwp:start="2006-08-29"><span class="rev-recd-label">Revision received </span>August 29, 2006.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="2006-09-21"><span class="accepted-label">Accepted </span>September 21, 2006.
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-1" title="METHODS" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Abstract</h2>
+                  
+                  <p id="p-1"><em>Background:</em> Numerous randomized trials have compared different chemotherapy regimens in women with ovarian cancer. Although ovarian cancer
+                     survival has improved in recent years, the magnitude of these incremental benefits across diverse regimens is unclear. <em>Methods:</em> We used multiple-treatment meta-analysis methodology to combine information from direct and indirect comparisons of all chemotherapy
+                     regimens used in randomized trials of ovarian cancer in the last 40 years. Chemotherapy was categorized by the use or not
+                     of platinum and/or taxanes, combinations of agents, and intraperitoneal administration. Monte Carlo simulations were used
+                     to determine which regimen most improved survival. Analyses of trials that examined first- and second-line treatments were
+                     also performed separately. <em>Results:</em> We found 198 trials (N = 38 440 women) involving 120 different chemotherapy regimens published in 1971–2006. Eighty-two trials
+                     compared different types of chemotherapy, among which 60 had usable survival information (N = 15 609 women). Monte Carlo simulations
+                     showed a 92% probability that the regimen that best prolonged survival is a platinum and taxane combination with intraperitoneal
+                     administration; this regimen resulted in a 55% relative risk reduction (95% confidence interval [CI] = 39% to 67%) for mortality
+                     as compared with nonintraperitoneal monotherapy using neither platinum nor taxane. Against that same monotherapy comparator,
+                     platinum-based combinations with and without intraperitoneal administration achieved 40% (95% CI = 21% to 54%) and 30% (95%
+                     CI = 20% to 38%) relative risk reductions for mortality, respectively, and combinations involving platinum and taxane without
+                     intraperitoneal administration achieved a 42% (95% CI = 31% to 51%) relative risk reduction. Results were similar when analyses
+                     were limited to first-line treatment. Data on second-line treatment were consistent with the superiority of platinum and taxane
+                     combinations. <em>Conclusions:</em> Distinct incremental improvements in survival have been achieved for ovarian cancer chemotherapy over time, with the possibility
+                     to achieve a doubling or more of time to mortality with platinum and taxane combinations, especially when intraperitoneal
+                     administration is used.
+                  </p>
+                  
+               </div>
+               <p id="p-2">Ovarian cancer is a major cause of death worldwide, and it is especially prevalent in developed countries <em>(<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">1</a>–<a id="xref-ref-5-1" class="xref-bibr" href="#ref-5">5</a>)</em>. The overall 5-year survival rate is poor, at approximately 30% for women older than 65 years <em>(<a id="xref-ref-6-1" class="xref-bibr" href="#ref-6">6</a>)</em>. Typically, primary treatment consists of surgery and some form of chemotherapy <em>(<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">7</a>,<a id="xref-ref-8-1" class="xref-bibr" href="#ref-8">8</a>)</em>. Alkylating agents were used initially, with poor results, but platinum-based chemotherapy has improved outcomes in the last
+                  25 years <em>(<a id="xref-ref-9-1" class="xref-bibr" href="#ref-9">9</a>–<a id="xref-ref-12-1" class="xref-bibr" href="#ref-12">12</a>).</em> In the last 10 years, evidence has also started to accumulate that taxanes and their combination with platinum agents may
+                  further improve outcomes <em>(<a id="xref-ref-7-2" class="xref-bibr" href="#ref-7">7</a>,<a id="xref-ref-13-1" class="xref-bibr" href="#ref-13">13</a>–<a id="xref-ref-17-1" class="xref-bibr" href="#ref-17">17</a>)</em>. Data from recent studies also suggest that additional benefits are achieved by intraperitoneal chemotherapy <em>(<a id="xref-ref-18-1" class="xref-bibr" href="#ref-18">18</a>)</em>.
+               </p>
+               <p id="p-3">Although there is wide consensus that chemotherapy prolongs survival in women with epithelial ovarian cancer, the exact magnitude
+                  of the survival benefits with various regimens is unclear. Approximately, 200 randomized trials comparing different chemotherapy
+                  regimens for ovarian cancer have been published. Because newer or more intensive regimens also have higher toxicity, it is
+                  important to quantify the incremental survival benefits, if any, conferred by each type of chemotherapy as compared with older
+                  regimens.
+               </p>
+               <p id="p-4">Here we performed an overview of all randomized trials comparing chemotherapy regimens in patients with ovarian cancer. We
+                  aimed to present the evolution of the randomized evidence over time as newer regimens were tested. We examined whether specific
+                  regimens are superior to others and evaluated the magnitude of the benefit. Given the wide spectrum of comparisons available,
+                  we used multiple-treatment meta-analysis <em>(<a id="xref-ref-19-1" class="xref-bibr" href="#ref-19">19</a>–<a id="xref-ref-21-1" class="xref-bibr" href="#ref-21">21</a>)</em>. This method allowed us to integrate data from both direct and indirect comparisons of diverse regimens.
+               </p>
+               <div class="section" id="sec-1">
+                  <div class="section-nav"><a href="#abstract-1" title="Abstract" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-5" title="RESULTS" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>M<span class="sc">ETHODS</span></h2>
+                  
+                  
+                  <h3>Search Strategy and Eligibility Criteria</h3>
+                  
+                  <p id="p-5">We searched MEDLINE, EMBASE, and the Central Registry of Controlled Trials of the Cochrane Library (1965 until January 2006).
+                     The search strategy used “ovarian cancer or neoplasia” and “chemotherapy” with an array of terms suggestive of randomized
+                     trials <em>(<a id="xref-ref-22-1" class="xref-bibr" href="#ref-22">22</a>)</em>. The full strategy is available on request. We also perused the references of retrieved articles and of previous meta-analyses.
+                     Additional cross-searches were performed in MEDLINE using the names of investigators who were the lead authors of at least
+                     one eligible trial. In addition, we hand-searched several years of the journals with the highest number of electronically
+                     identified trials <em>(<a id="xref-ref-23-1" class="xref-bibr" href="#ref-23">23</a>)</em>.
+                  </p>
+                  
+                  <p id="p-6">We considered all randomized controlled trials published in English, German, French, or Italian that compared at least two
+                     arms of different chemotherapy regimens (different agents and/or schedules) in at least five patients with ovarian cancer.
+                     Trials were included regardless of stage and line of treatment. Trials with at least three arms were included if at least
+                     two arms addressed an eligible comparison; noneligible arms were excluded. We excluded meeting abstracts; nonrandomized trials
+                     and pseudorandomized trials with alternate allocation of subjects; data on other malignancies or nonepithelial ovarian cancer;
+                     trials comparing radiotherapy, immunotherapy, hormonal therapy, and gene therapy (unless the above regimens were the same
+                     in all compared arms and the difference between arms pertained to the chemotherapeutic regimens only); and comparisons of
+                     chemotherapy against no chemotherapy (best supportive care). In cases of overlap or duplicate reports, we retained only the
+                     survival data with the maximal follow-up.
+                  </p>
+                  
+                  
+                  
+                  <h3>Data Extraction</h3>
+                  
+                  <p id="p-7">From each eligible trial, we recorded the first author, publication year, journal, country or countries of the investigators,
+                     sample size (randomized and considered eligible for survival analyses [total and per arm]), regimens compared, the line of
+                     chemotherapy, previous chemotherapy, stage(s) of the disease, and percentage of patients with performance status 2 or worse
+                     (Karnofsky score ≤ 70) per arm.
+                  </p>
+                  
+                  <p id="p-8">The type of chemotherapy regimen was categorized according to whether it involved platinum, taxane, both, or neither; used
+                     a combination of agents or monotherapy; and used intraperitoneal administration of any agents or not. Theoretically, this
+                     categorization gives rise to 14 possible types of chemotherapy, not all of which have necessarily been tested in trials.
+                  </p>
+                  
+                  <p id="p-9">For each trial, we recorded the median survival and the number of deaths per arm, if available, and whether there was a statistically
+                     significant difference in survival between the compared arms (two-tailed <em>P</em>&lt;.05). When several analyses were reported, we preferred the log-rank test results over other statistics and unadjusted analyses
+                     over adjusted analyses. For trials including at least two arms, statistical significance was assessed for an analysis considering
+                     all arms.
+                  </p>
+                  
+                  <p id="p-10">For trials that compared at least two different types of chemotherapy regimens, we also extracted or estimated the hazard
+                     ratio (HR) and its variance. We used the reported hazard ratios and 95% confidence intervals (CIs) from Cox regression models.
+                     Unadjusted hazard ratios were preferred over multivariable ones. For trials that did not provide this information on hazard
+                     ratios and their uncertainty, we imputed these data by using the number of events (<em>E</em><sub>1</sub>, <em>E</em><sub>2</sub>) and patients (<em>T</em><sub>1</sub>, <em>T</em><sub>2</sub>) in each arm and the presented log-rank <em>P</em> value. We estimated the variance by the formula (<em>T</em><sub>1</sub> + <em>T</em><sub>2</sub>)<sup>2</sup>/[(<em>E</em><sub>1</sub> + <em>E</em><sub>2</sub>)<em>T</em><sub>1</sub><em>T</em><sub>2</sub>] and then estimated the natural logarithm of the hazard ratio such that it would have the <em>P</em> value denoted by the log-rank test <em>(<a id="xref-ref-24-1" class="xref-bibr" href="#ref-24">24</a>)</em>. If the log-rank <em>P</em> value was also not available, we estimated the hazard ratio as the inverse of the ratio of the median survival times from
+                     the presented Kaplan–Meier curves assuming exponential survival curves and proportional hazards.
+                  </p>
+                  
+                  <p id="p-11">Data were extracted independently by two investigators (MK and JPAI). Discrepancies were discussed to reach consensus.</p>
+                  
+                  
+                  
+                  <h3>Statistical Analyses</h3>
+                  
+                  <p id="p-12">We generated descriptive statistics for trial and study population characteristics across all eligible trials. We described
+                     the types of comparisons and how these had evolved over time.
+                  </p>
+                  
+                  <p id="p-13">We conducted a series of meta-analyses summarizing the log hazard ratios for each comparison of two different types of treatment
+                     applying random effects <em>(<a id="xref-ref-25-1" class="xref-bibr" href="#ref-25">25</a>)</em>. Between-study heterogeneity was estimated using the <em>I</em><sup>2</sup> statistic <em>(<a id="xref-ref-26-1" class="xref-bibr" href="#ref-26">26</a>)</em>.
+                  </p>
+                  
+                  <p id="p-14">Multiple-treatment meta-analysis is a method of synthesizing information from a network of trials <em>(<a id="xref-ref-27-1" class="xref-bibr" href="#ref-27">27</a>,<a id="xref-ref-28-1" class="xref-bibr" href="#ref-28">28</a>)</em>. Trials comparing treatments A and B provide direct evidence on the relative effect size <span class="inline-formula" id="inline-formula-1"><img class="math tex" alt="Formula" src="1655/embed/tex-math-1.gif" /></span> (here the log hazard ratio). However, it is possible that indirect information may also be available through a common comparator,
+                     e.g., treatment C. Studies comparing A versus B, B versus C, and C versus A form a simple network. Indirect evidence about
+                     the effectiveness of A versus B is given by <span class="inline-formula" id="inline-formula-2"><img class="math tex" alt="Formula" src="1655/embed/tex-math-2.gif" /></span> The combination of the direct and indirect estimates <span class="inline-formula" id="inline-formula-3"><img class="math tex" alt="Formula" src="1655/embed/tex-math-3.gif" /></span> and <span class="inline-formula" id="inline-formula-4"><img class="math tex" alt="Formula" src="1655/embed/tex-math-4.gif" /></span> into a single effect size can increase precision while randomization is respected <em>(<a id="xref-ref-27-2" class="xref-bibr" href="#ref-27">27</a>,<a id="xref-ref-28-2" class="xref-bibr" href="#ref-28">28</a>)</em>. The combination of direct and indirect evidence for any given treatment comparison can be extended when ranking more than
+                     three types of treatments according to their effectiveness: every study contributes evidence about a subset of these treatments.
+                  </p>
+                  
+                  <p id="p-15">Multiple-treatment meta-analysis should be used with caution, and the underlying assumptions of the exchangeability of studies
+                     across the entire network should be investigated carefully <em>(<a id="xref-ref-19-2" class="xref-bibr" href="#ref-19">19</a>,<a id="xref-ref-28-3" class="xref-bibr" href="#ref-28">28</a>,<a id="xref-ref-29-1" class="xref-bibr" href="#ref-29">29</a>)</em>. Exchangeability means that characteristics of the trials would not greatly modify the magnitude of the treatment effects.
+                     Exchangeability was tested by examining heterogeneity and incoherence. Joint analysis of treatments can be misleading if the
+                     network is substantially incoherent, i.e., if there is disagreement between indirect and direct estimates <span class="inline-formula" id="inline-formula-5"><img class="math tex" alt="Formula" src="1655/embed/tex-math-5.gif" /></span> and <span class="inline-formula" id="inline-formula-6"><img class="math tex" alt="Formula" src="1655/embed/tex-math-6.gif" /></span></p>
+                  
+                  <p id="p-16">We performed multiple-treatment meta-analysis with a linear mixed-effects model. Incoherence was taken into account by applying
+                     a model that suggests two levels in random effects—one at the level of general comparison being made (e.g., A versus B) and
+                     the other at the level of each specific study <em>(<a id="xref-ref-30-1" class="xref-bibr" href="#ref-30">30</a>)</em>. The comparison-specific effects follow a distribution with zero mean and standard deviation that reflects the incoherence
+                     of the network.
+                  </p>
+                  
+                  <p id="p-17">One set of multiple-treatment meta-analysis addressed all eligible trials comparing different types of chemotherapy. However,
+                     line of treatment may be an important confounder. Therefore, we also considered two separate analyses: one that included only
+                     trials that addressed first-line treatment and another that included trials that addressed second-line therapy.
+                  </p>
+                  
+                  <p id="p-18">Analyses were conducted in R, version 2.2.1 (R Institute, Vienna, Austria) using lme functions. We also estimated the probability
+                     for each type of treatment to be the best at prolonging survival, given the results of the multiple-treatment meta-analysis,
+                     using Monte Carlo simulations in WinBUGS, version 1.4 (MRC Biostatistics Unit, Cambridge, U.K., <a href="http://www.mrc-bsu.cam.ac.uk/bugs/winbugs/contents.shtml">http://www.mrc-bsu.cam.ac.uk/bugs/winbugs/contents.shtml</a>). A major advantage of working within a Bayesian framework is that probabilistic statements about the effectiveness of the
+                     different treatments can be made. The prior assumption is that all treatments are equally likely to be the best. For example,
+                     the probability of a treatment <em>T</em><sub>i</sub> to be the best out of N treatments can be calculated as the posterior probability <em>P</em>(Rank(<em>T</em><sub>i</sub>) = N). In WinBUGS code, P.most.effective&lt;-equals(rank(mean[],i),N).
+                  </p>
+                  
+                  
+               </div>
+               <div class="section" id="sec-5">
+                  <div class="section-nav"><a href="#sec-1" title="METHODS" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-10" title="DISCUSSION" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>R<span class="sc">ESULTS</span></h2>
+                  
+                  
+                  <h3>Eligible Trials</h3>
+                  
+                  <p id="p-19">The electronic searches yielded 4653 items from MEDLINE, 3276 from EMBASE, and 1916 from Cochrane Central. Of these, 727 potentially
+                     eligible articles were scrutinized. We excluded 529 reports that did not meet eligibility criteria (<a id="xref-fig-1-1" class="xref-fig" href="#F1">Fig. 1</a>), leaving 198 trials that qualified for the overview.
+                     
+                  </p>
+                  <div id="F1" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="1655/F1.expansion.html"><img alt="Fig. 1." src="1655/F1.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="1655/F1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1655/F1.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/98/22/1655/F1">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 1.</strong></span> 
+                        <p id="p-20" class="first-child">Flow chart for included and excluded trials. MTM = multiple-treatment meta-analysis.</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-21">The 198 trials (<a id="xref-table-wrap-1-1" class="xref-table" href="#T1">Table 1</a>; Supplementary Data, available at: <a href="http://jncicancerspectrum.oxfordjournals.org/jnci/content/vol98/issue22">http://jncicancerspectrum.oxfordjournals.org/jnci/content/vol98/issue22</a>) had been published from 1971 to January 2006. The median sample size was 103 patients (interquartile range = 53–234 patients).
+                     Only four trials had more than 1000 subjects; 18 had more than 500 subjects. A total of 38 440 subjects were randomly assigned
+                     across 421 arms, and 36 029 subjects were included in survival analyses. In most reports, no previous chemotherapy had been
+                     given. There was considerable variability in the percentage of patients with poor performance status, but the percentage of
+                     such enrolled patients decreased over time (−6% per decade, <em>P</em> = .003). In only two trials did the majority of patients have stage I disease. Most trials were done in the United States
+                     and in Europe (<a id="xref-table-wrap-1-2" class="xref-table" href="#T1">Table 1</a>). Only 5% of the studies included one or more intraperitoneally administered agents.
+                     
+                  </p>
+                  <div class="table pos-float" id="T1">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1655/T1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1655/T1.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 1.</strong> </span> 
+                        <p id="p-22" class="first-child">Characteristics of the eligible trials</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-26">Eighty-two of the 198 trials compared different types of regimens according to our a priori categorization. Overall, this
+                     set of 82 trials had a similar profile as the total dataset of 198 trials (<a id="xref-table-wrap-1-3" class="xref-table" href="#T1">Table 1</a>).
+                  </p>
+                  
+                  
+                  
+                  <h3>Compared Chemotherapy Regimens</h3>
+                  
+                  <p id="p-27">A total of 120 different regimens were tested in the 198 trials. Only six monotherapies and 15 combinations of different agents
+                     had been tested in at least four trial arms each (Supplementary Table 1, available at: <a href="http://jncicancerspectrum.oxfordjournals.org/jnci/content/vol98/issue22">http://jncicancerspectrum.oxfordjournals.org/jnci/content/vol98/issue22</a>). Moreover, doses and schedules of the same regimen often differed across trials. The most commonly used regimen—cisplatin,
+                     cyclophosphamide, and doxorubicin—had been used in 34 arms, followed by cisplatin and cyclophosphamide (n = 33 arms), paclitaxel
+                     (n = 24), cisplatin (n = 23), carboplatin (n = 21), and carboplatin and paclitaxel (n = 19). Nonplatinum, nontaxane regimens
+                     dominated trials published in the 1970s, platinum-based combinations prevailed in the 1980s and 1990s, and combinations including
+                     platinum and taxane are the most common regimens used recently (<a id="xref-table-wrap-2-1" class="xref-table" href="#T2">Table 2</a>).
+                     
+                  </p>
+                  <div class="table pos-float" id="T2">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1655/T2.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1655/T2.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 2.</strong> </span> 
+                        <p id="p-28" class="first-child">Number of arms per decade that used each regimen (% per decade)*</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-30">Of 116 trials that compared only regimens of the same type, only six found statistically significant differences in survival
+                     (Supplementary Table 2, available at: <a href="http://jncicancerspectrum.oxfordjournals.org/jnci/content/vol98/issue22">http://jncicancerspectrum.oxfordjournals.org/jnci/content/vol98/issue22</a>). The percentage (5%) is not beyond what is expected by chance. In two trials with statistically significant differences,
+                     the median survival difference between the compared arms was less than 2 months. Three trials showed differences among different
+                     regimens involving platinum, but there were 59 trials comparing different platinum-based regimens. One small trial found differences
+                     of borderline statistical significance between two regimens involving neither platinum nor taxanes among 29 trials that compared
+                     such regimens. Therefore, although minor differences between regimens using the same classes of drugs cannot be totally excluded,
+                     these differences would probably be very small overall, if not chance findings.
+                  </p>
+                  
+                  
+                  
+                  <h3>Comparisons of Different Types of Regimens</h3>
+                  
+                  <p id="p-31">Of the 82 trials comparing different types of regimens, 60 had survival data (<a id="xref-table-wrap-3-1" class="xref-table" href="#T3">Table 3</a>; Supplementary Table 3 and Supplementary Fig. 1, available at: <a href="http://jncicancerspectrum.oxfordjournals.org/jnci/content/vol98/issue22">http://jncicancerspectrum.oxfordjournals.org/jnci/content/vol98/issue22</a>), and these were included in quantitative syntheses (16 478 randomly assigned subjects, 15 609 in survival analyses). The
+                     other 22 trials (1380 randomly assigned subjects) were typically phase 1/2 or phase 2 trials with no usable survival data.
+                     
+                  </p>
+                  <div class="table pos-float" id="T3">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1655/T3.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1655/T3.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 3.</strong> </span> 
+                        <p id="p-32" class="first-child">Trials included with survival data in the multiple-treatment meta-analysis</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-35">We first made pairwise comparisons of regimens from the 60 trials based on direct evidence only (<a id="xref-fig-2-1" class="xref-fig" href="#F2">Fig. 2</a>). Heterogeneity (<em>I</em><sup>2</sup> &gt; 35%) was found only for the comparison of platinum-based combinations versus platinum and taxane–based combinations (<em>I</em><sup>2</sup> = 70%, four studies), among which three trials using a cisplatin background found a statistically significant survival benefit
+                     for the addition of taxane, whereas the trial with a carboplatin background found no such benefit. Direct comparisons showed
+                     that platinum monotherapy was statistically significantly better than monotherapy with a nonplatinum, nontaxane agent, and
+                     a platinum-based combination was better than monotherapy or combinations involving neither platinum nor taxanes (relative
+                     risk reduction of mortality [RRR] = 37%, 22%, and 23%, respectively). Moreover, combinations involving neither platinum nor
+                     taxane were better than monotherapy with such agents (RRR = 17%), platinum and taxane–based combinations were better than
+                     platinum-based combinations (RRR = 21%), and intraperitoneal administration improved survival with platinum and taxane–based
+                     combinations (RRR = 21%).
+                     
+                  </p>
+                  <div id="F2" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="1655/F2.expansion.html"><img alt="Fig. 2." src="1655/F2.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="1655/F2.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1655/F2.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/98/22/1655/F2">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 2.</strong></span> 
+                        <p id="p-36" class="first-child">Hazard ratios (and 95% confidence intervals) for survival in meta-analyses of direct comparisons between various types of
+                           chemotherapy. Summary estimates are shown by <strong>diamonds</strong>. Size of symbols is proportional to the inverse variance of the estimate. <strong>A</strong>) Comparisons addressing at least one regimen involving platinum. <strong>B</strong>) Other comparisons. The names of the first author for each study are shown on the <strong>left side</strong>.
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  
+                  
+                  <h3>Multiple-Treatment Meta-analysis</h3>
+                  
+                  <p id="p-37">We next performed multiple-treatment meta-analysis of all 60 trials with survival data (<a id="xref-table-wrap-4-1" class="xref-table" href="#T4">Table 4</a>). The combination of nonplatinum and nontaxane agents (not given intraperitoneally) was associated with a small decrease
+                     in mortality risk (RRR = 13%) compared with monotherapy with a nonplatinum, nontaxane agent. Platinum monotherapy (RRR = 32%)
+                     or platinum-based combination therapy with (RRR = 40%, 95% CI = 21% to 54%) or without (RRR = 30%, 95% CI = 20% to 38%) intraperitoneal
+                     administration was associated with more prominent statistically significant survival benefits than nonplatinum agents. Data
+                     on taxane-based regimens were sparse, and no formally statistically significant survival benefits were found. Combinations
+                     involving both platinum and taxane achieved the most impressive benefits (when intraperitoneal administration was involved,
+                     RRR = 55%, 95% CI = 39% to 67%, otherwise RRR = 42%, 95% CI = 31% to 51%).
+                     
+                  </p>
+                  <div class="table pos-float" id="T4">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1655/T4.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1655/T4.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 4.</strong> </span> 
+                        <p id="p-38" class="first-child">Multiple-treatment meta-analysis showing hazard ratios (with 95% confidence intervals) for death for each type of regimen
+                           as compared with monotherapy that involves neither platinum nor taxane (not ip)*
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-40">Monte Carlo simulations showed a 92% probablilty that combinations of platinum and taxane with intraperitoneal administration
+                     were the most effective regimens, whereas there was a 6% probability that the best regimen was platinum-based combination
+                     chemotherapy with intraperitoneal administration. Therefore, it was 98% likely that the most effective regimen included intraperitoneal
+                     administration. The probability that any other type of regimen was the best for prolonging survival was less than 2%. Similar
+                     results were seen also in a more simplified multiple-treatment meta-analysis that merged the nonplatinum–nontaxane monotherapy
+                     and combination regimens in the same treatment category (Supplementary Table 4, available at: <a href="http://jncicancerspectrum.oxfordjournals.org/jnci/content/vol98/issue22">http://jncicancerspectrum.oxfordjournals.org/jnci/content/vol98/issue22</a>).
+                  </p>
+                  
+                  <p id="p-41">According to the two-level random-effects model, no important incoherence between comparisons was detected (incoherence =
+                     .001). Only one particular comparison loop showed incoherence. Specifically, in the direct comparison, platinum monotherapy
+                     was marginally better than taxane monotherapy (HR = 0.87, 95% CI = 0.71 to 1.06), but it was much better based on indirect
+                     evidence from the comparison of these two regimens against monotherapy with nonplatinum, nontaxane agents (HR = 0.53, 95%
+                     CI = 0.36 to 0.80). The reason for this incoherence was that this comparison loop includes both trials with exclusively first-line
+                     treatment and trials with patients on second-line treatment. The nonplatinum, nontaxane regimens for second-line treatment
+                     included topotecan, which was not included in first-line therapy. Furthermore, hazard ratios estimated from direct analyses
+                     limited to first-line treatments were not materially different from those estimated from analyses of both first- and second-line
+                     therapies (<a id="xref-table-wrap-4-2" class="xref-table" href="#T4">Table 4</a>).
+                  </p>
+                  
+                  <p id="p-42">Given the small number of trials assessing second-line treatment, the multiple-treatment meta-analysis method is unstable
+                     and thus potentially unreliable for the analysis of second-line treatments. There was a suggestion that platinum and taxane–containing
+                     combinations could result in a borderline statistically significant relative risk reduction of mortality against platinum
+                     monotherapy (HR = 0.53, 95% CI = 0.29 to 0.96) and taxane monotherapy (HR = 0.47, 95% CI = 0.22 to 0.99). On direct comparison,
+                     the hazard ratio for mortality of platinum and taxane–containing combinations versus platinum monotherapy was 0.82 (95% CI
+                     = 0.69 to 0.97), while there was no direct comparison of the combination versus taxane monotherapy.
+                  </p>
+                  
+                  
+               </div>
+               <div class="section" id="sec-10">
+                  <div class="section-nav"><a href="#sec-5" title="RESULTS" class="prev-section-link"><span>Previous Section</span></a><a href="#fn-group-1" title="Footnotes" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>D<span class="sc">ISCUSSION</span></h2>
+                  
+                  <p id="p-43">We examined 198 randomized trials that compared various chemotherapy regimens in women with ovarian cancer during the last
+                     40 years. We show conclusively the major progress that has been achieved in prolonging the survival of these patients and
+                     we have quantified the magnitude of the survival benefit. Compared with the early days, when neither platinum nor taxanes
+                     were available and chemotherapy was clearly no better than supportive care for mortality outcomes <em>(<a id="xref-ref-10-1" class="xref-bibr" href="#ref-10">10</a>)</em>, median survival can now be more than doubled using currently available regimens. A platinum and taxane–based combination
+                     with intraperitoneal administration <em>(<a id="xref-ref-18-2" class="xref-bibr" href="#ref-18">18</a>)</em> can reduce the risk of death by 55%. More than half (30%) of this benefit may be achieved with a standard platinum-based
+                     combination. Taxanes without platinum do not appear to confer any clear survival benefit. Although the data pertain predominantly
+                     to first-line treatment, the sparse data on second-line treatment are consistent with a superiority of combined platinum and
+                     taxane regimens.
+                  </p>
+                  
+                  <p id="p-44">The absolute magnitude of the increase in survival time is impressive. For an expected median survival of 2.5 years without
+                     effective treatment, approximately 3 years are gained with the most effective current treatments. However, these benefits
+                     should be tailored to the individual patient and balanced against tolerability. Multidrug combinations including both platinum
+                     and taxanes can cause cumulative toxicities <em>(<a id="xref-ref-14-1" class="xref-bibr" href="#ref-14">14</a>,<a id="xref-ref-31-1" class="xref-bibr" href="#ref-31">31</a>,<a id="xref-ref-32-1" class="xref-bibr" href="#ref-32">32</a>)</em>. Intraperitoneal administration in particular has not been used in many centers around the world, and its implementation
+                     may cause some challenges <em>(<a id="xref-ref-33-1" class="xref-bibr" href="#ref-33">33</a>)</em> and extra toxicities <em>(<a id="xref-ref-18-3" class="xref-bibr" href="#ref-18">18</a>)</em>. Platinum and taxane–based combinations with intraperitoneal administration are the best regimens for survival in our multiple-treatment
+                     meta-analysis with very high probability; we estimate that some kind of intraperitoneal regimen is 98% likely to be the best.
+                     However, if intraperitoneal administration proves difficult to implement, survival can still be almost doubled with a combination
+                     of platinum and taxanes without intraperitoneal administration.
+                  </p>
+                  
+                  <p id="p-45">The long-term evolution of cancer chemotherapy therapeutics creates difficulty in estimating the relative merits of regimens
+                     that are introduced over a long period of successive steps. Newer regimens are unavoidably compared with previous regimens,
+                     rather than to very old agents or no treatment. The multiple-treatment meta-analysis approach is attractive in this setting
+                     because it can accommodate such successive steps through loops of indirect comparisons. Multiple-treatment meta-analysis can
+                     prove a particularly useful approach to synthesize evidence on medical domains among which data on many treatments accumulate,
+                     a scenario that is becoming relatively common in clinical therapeutics <em>(<a id="xref-ref-20-1" class="xref-bibr" href="#ref-20">20</a>)</em>. However, caution should be used for trials that are distant in time because of the potential danger of confounding with
+                     other factors that vary over time, such as supportive or adjunct treatment practices <em>(<a id="xref-ref-34-1" class="xref-bibr" href="#ref-34">34</a>)</em>.
+                  </p>
+                  
+                  <p id="p-46">We should also caution that a full evaluation of the possibility of incoherence for nine treatments would require up to 112
+                     loops to be evaluated in the multiple-treatment meta-analysis framework. In our network, there were many treatment comparisons
+                     for which no direct evidence was available and the evaluation of incoherence was impossible. Therefore, some conservative
+                     interpretation is warranted, especially for treatments that have been involved in few trials. In this regard, more evidence
+                     on regimens that include intraperitoneally administered agents, as well as longer term follow-up of the existing trials, would
+                     be useful.
+                  </p>
+                  
+                  <p id="p-47">Another possible limitation is that the current analysis is based on published group data, rather than individual-level information.
+                     Therefore, we have included women across a wide range of prognoses, from stage I to advanced disease. However, the vast majority
+                     of trials did not include any meaningful proportion of data for very early stage disease, a reflection of the fact that most
+                     women with ovarian cancer are still diagnosed at relatively advanced stages. Individual-level information might allow a more
+                     detailed appraisal of outcomes at different levels of risk <em>(<a id="xref-ref-35-1" class="xref-bibr" href="#ref-35">35</a>)</em>. Individual-level data would also be useful to address whether there is any effect modification by the type of surgical intervention,
+                     stage, and whether residual tumor is left after surgery. In addition to depending on chemotherapy, optimization of outcomes
+                     may depend also on the surgical approach. However, the power to detect effect modifications might still be limited, even with
+                     individual-level information, in such a complex network of multiple treatments.
+                  </p>
+                  
+                  <p id="p-48">It is also notable that, even though almost 40 000 women have participated in published randomized trials of chemotherapy
+                     regimens in ovarian cancer, the large majority of investigations pertain to comparisons of similar types of treatment with
+                     minor modifications in the dosing or schedule or minor differences in the compared drugs that belong to the same class of
+                     agents. Although such trials may still help to improve our understanding of minor variants of different regimens, especially
+                     regarding toxicity and tolerability, they are unlikely to result in major progress regarding improvement of survival. The
+                     few exceptions of statistically significant survival differences that we have seen in such trials may be real but may also
+                     simply reflect chance findings. With many investigators working in this field, it would be useful to design future trials
+                     that will fill in important gaps where major loops of evidence have minimal or no information. An efficient strategic plan
+                     for clinical research in the field would require infrastructure support. Moreover, there is a need for clinical trials cooperative
+                     groups to develop complementary trials, to decrease duplication, and when appropriate, to also perform joint trials. The multiple-treatment
+                     meta-analysis can offer an additional impetus to such an effort, and it may also be useful as new regimens, including molecularly
+                     targeted treatments <em>(<a id="xref-ref-36-1" class="xref-bibr" href="#ref-36">36</a>,<a id="xref-ref-37-1" class="xref-bibr" href="#ref-37">37</a>)</em>, are developed.
+                  </p>
+                  
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <div class="section-nav"><a href="#sec-10" title="DISCUSSION" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn" id="fn-8">
+                        
+                        <p id="p-49">The authors have full responsibility for the study design, data collection and analysis, interpretation of the results, and
+                           the preparation of and decision to submit the manuscript.
+                        </p>
+                        
+                     </li>
+                  </ul>
+               </div>
+               <ul>
+                  <li class="fn" id="copyright-statement-1">© The Author 2006. Published by Oxford University Press.</li>
+               </ul>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#fn-group-1" title="Footnotes" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">(1)</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference (1) in text"
+                           id="ref-1">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.1"
+                             data-doi="10.1016/S1470-2045(02)00846-X">
+                           <div class="cit-metadata"><cite>Harries M, Gore M. Part I: chemotherapy for epithelial ovarian cancer-treatment at first diagnosis. <span class="cit-source">Lancet Oncol</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">3</span>:<span class="cit-fpage">529</span>–36.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S1470-2045(02)00846-X&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12217790&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000177894600020&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(2)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-98.22.1655.2"
+                             data-doi="10.3322/canjclin.51.1.15">
+                           <div class="cit-metadata"><cite>Greenlee RT, Hill-Harmon MB, Murray T, Thun M. Cancer statistics, 2001. <span class="cit-source">CA Cancer J Clin</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">51</span>:<span class="cit-fpage">15</span>–36.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.3322/canjclin.51.1.15&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11577478&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000166879300002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(3)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-98.22.1655.3">
+                           <div class="cit-metadata"><cite>American Cancer Society. Cancer facts and figures: 2000. New York (NY): American Cancer Society; <span class="cit-pub-date">2000</span>.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(4)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-98.22.1655.4"
+                             data-doi="10.3322/canjclin.55.1.10">
+                           <div class="cit-metadata"><cite>Jemal A, Murray T, Ward E, Samuels A, Tiwari RC, Ghafoor A, et al. Cancer statistics, 2005 [erratum in CA Cancer J Clin 2005;55:259].
+                                 <span class="cit-source">CA Cancer J Clin</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">55</span>:<span class="cit-fpage">10</span>–30.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.3322/canjclin.55.1.10&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15661684&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000231483900007&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(5)</span><a class="rev-xref-ref" href="#xref-ref-5-1" title="View reference (5) in text"
+                           id="ref-5">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.5">
+                           <div class="cit-metadata"><cite>Quinn M, Babb P, Brock A, Kirby L, Jones J. Cancer trends in England and Wales <span class="cit-pub-date">1950</span>–1999. National Statistics SMPS No. 66. Available at: <a href="http://www.statistics.gov.uk/downloads/theme_health/cancertrends_5099.pdf">http://www.statistics.gov.uk/downloads/theme_health/cancertrends_5099.pdf</a>. [Last accessed: October 5, 2006.]</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(6)</span><a class="rev-xref-ref" href="#xref-ref-6-1" title="View reference (6) in text"
+                           id="ref-6">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.6"
+                             data-doi="10.1056/NEJMra041842">
+                           <div class="cit-metadata"><cite>Cannistra SA. Cancer of the ovary. <span class="cit-source">N Engl J Med</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">351</span>:<span class="cit-fpage">2519</span>–29.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJMra041842&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15590954&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000225593100007&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(7)</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference (7) in text"
+                           id="ref-7">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.7"
+                             data-doi="10.1056/NEJM199601043340101">
+                           <div class="cit-metadata"><cite>McGuire WP, Hoskins WJ, Brady MF, Kucera PR, Partridge EE, Look KY, et al. Cyclophosphamide and cisplatin compared with paclitaxel
+                                 and cisplatin in patients with stage III and stage IV ovarian cancer. <span class="cit-source">N Engl J Med</span> <span class="cit-pub-date">1996</span>;<span class="cit-vol">334</span>:<span class="cit-fpage">1</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJM199601043340101&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7494563&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1996TM48200001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(8)</span><a class="rev-xref-ref" href="#xref-ref-8-1" title="View reference (8) in text"
+                           id="ref-8">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.8"
+                             data-doi="10.1200/JCO.20.5.1248">
+                           <div class="cit-metadata"><cite>Bristow RE, Tomacruz RS, Armstrong DK, Trimble EL, Montz FJ. Survival effect of maximal cytoreductive surgery for advanced
+                                 ovarian carcinoma during the platinum era: a meta-analysis. <span class="cit-source">J Clin Oncol</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">20</span>:<span class="cit-fpage">1248</span>–59.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=20/5/1248"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(9)</span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference (9) in text"
+                           id="ref-9">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.9"
+                             data-doi="10.1038/bjc.1998.710">
+                           <div class="cit-metadata"><cite>Advanced Ovarian Cancer Trialists' Group. Chemotherapy in advanced ovarian cancer: four systematic meta-analyses of individual
+                                 patient data from 37 randomized trials. <span class="cit-source">Br J Cancer</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">78</span>:<span class="cit-fpage">1479</span>–87.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1038/bjc.1998.710&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9836481&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000077015900014&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(10)</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference (10) in text"
+                           id="ref-10">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.10"
+                             data-doi="10.1136/bmj.303.6807.884">
+                           <div class="cit-metadata"><cite>Advanced Ovarian Cancer Trialists' Group. Chemotherapy in advanced ovarian cancer: an overview of randomised clinical trials.
+                                 <span class="cit-source">BMJ</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">303</span>:<span class="cit-fpage">884</span>–93.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=bmj&amp;resid=303/6807/884"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(11)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-98.22.1655.11">
+                           <div class="cit-metadata"><cite>Ovarian Cancer Meta-analysis Project. Cyclophosphamide plus cisplatin versus cyclophosphamide, doxorubicin and cisplatin chemotherapy
+                                 of ovarian carcinoma: a meta-analysis. <span class="cit-source">J Clin Oncol</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">9</span>:<span class="cit-fpage">1668</span>–74.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=9/9/1668"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(12)</span><a class="rev-xref-ref" href="#xref-ref-12-1" title="View reference (12) in text"
+                           id="ref-12">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.12">
+                           <div class="cit-metadata"><cite>A'Hern RP, Gore ME. Impact of doxorubicin on survival in advanced ovarian cancer. <span class="cit-source">J Clin Oncol</span> <span class="cit-pub-date">1995</span>;<span class="cit-vol">13</span>:<span class="cit-fpage">726</span>–32.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=13/3/726"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(13)</span><a class="rev-xref-ref" href="#xref-ref-13-1" title="View reference (13) in text"
+                           id="ref-13">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.13"
+                             data-doi="10.1093/jnci/92.9.699">
+                           <div class="cit-metadata"><cite>Piccart MJ, Bertelsen K, James K, Cassidy J, Mangioni C, Simonsen E, et al. Randomized intergroup trial of cisplatin-paclitaxel
+                                 versus cisplatin-cyclophosphamide in women with advanced epithelial ovarian cancer: three-year result. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">2000</span>;<span class="cit-vol">92</span>:<span class="cit-fpage">699</span>–708.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=92/9/699"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(14)</span><a class="rev-xref-ref" href="#xref-ref-14-1" title="View reference (14) in text"
+                           id="ref-14">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.14">
+                           <div class="cit-metadata"><cite>Muggia FM, Braly PS, Brady MF, Sutton G, Niemann TH, Lentz SL, et al. Phase III randomized study of cisplatin versus paclitaxel
+                                 versus cisplatin and paclitaxel in patients with suboptimal stage III or IV ovarian cancer: a Gynecologic Oncology Group Study.
+                                 <span class="cit-source">J Clin Oncol</span> <span class="cit-pub-date">2000</span>;<span class="cit-vol">18</span>:<span class="cit-fpage">106</span>–15.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=18/1/106"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(15)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-98.22.1655.15"
+                             data-doi="10.1200/JCO.2003.02.153">
+                           <div class="cit-metadata"><cite>Ozols RF, Bundy BN, Greer BE, Fowler JM, Clarke-Pearson D, Burger RA, et al. Phase III trial of carboplatin and paclitaxel
+                                 compared with cisplatin and paclitaxel in patients with optimally resected stage III ovarian cancer. <span class="cit-source">J Clin Oncol</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">3194</span>–200.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=21/17/3194"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(16)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-98.22.1655.16"
+                             data-doi="10.1093/jnci/djg036">
+                           <div class="cit-metadata"><cite>du Bois A, Luck HJ, Meier W, Adams HP, Mobus V, Costa S, et al. A randomized clinical trial of cisplatin/paclitaxel vs carboplatin/paclitaxel
+                                 as first-line treatment of ovarian cancer. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">95</span>:<span class="cit-fpage">1320</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=95/17/1320"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(17)</span><a class="rev-xref-ref" href="#xref-ref-17-1" title="View reference (17) in text"
+                           id="ref-17">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.17">
+                           <div class="cit-metadata"><cite>Neijt JP, Engelholm SA, Tuxen MK, Sorensen PG, Hansen M, Sessa C, et al. Exploratory phase III study of paclitaxel and cisplatin
+                                 versus paclitaxel and carboplatin in advanced ovarian cancer. <span class="cit-source">J Clin Oncol</span> <span class="cit-pub-date">2000</span>;<span class="cit-vol">18</span>:<span class="cit-fpage">3084</span>–92.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=18/17/3084"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(18)</span><a class="rev-xref-ref" href="#xref-ref-18-1" title="View reference (18) in text"
+                           id="ref-18">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.18"
+                             data-doi="10.1056/NEJMoa052985">
+                           <div class="cit-metadata"><cite>Armstrong DK, Bundy B, Wenzel L, Huang HQ, Baergen R, Lele S, et al. Intraperitoneal cisplatin and paclitaxel in ovarian cancer.
+                                 <span class="cit-source">N Engl J Med</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">354</span>:<span class="cit-fpage">34</span>–43.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJMoa052985&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16394300&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000234358600006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(19)</span><a class="rev-xref-ref" href="#xref-ref-19-1" title="View reference (19) in text"
+                           id="ref-19">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.19"
+                             data-doi="10.1136/bmj.331.7521.897">
+                           <div class="cit-metadata"><cite>Caldwell DM, Ades AE, Higgins JP. Simultaneous comparison of multiple treatments: combining direct and indirect evidence.
+                                 <span class="cit-source">BMJ</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">331</span>:<span class="cit-fpage">897</span>–900.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=FULL&amp;journalCode=bmj&amp;resid=331/7521/897"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(20)</span><a class="rev-xref-ref" href="#xref-ref-20-1" title="View reference (20) in text"
+                           id="ref-20">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.20"
+                             data-doi="10.1002/sim.1201">
+                           <div class="cit-metadata"><cite>Lumley T. Network meta-analysis for indirect treatment comparisons. <span class="cit-source">Stat Med</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">2313</span>–24.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/sim.1201&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12210616&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000177458600002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(21)</span><a class="rev-xref-ref" href="#xref-ref-21-1" title="View reference (21) in text"
+                           id="ref-21">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.21"
+                             data-doi="10.1001/jama.289.19.2534">
+                           <div class="cit-metadata"><cite>Psaty BM, Lumley T, Furberg CD, Schellenbaum G, Pahor M, Alderman MH, et al. Health outcomes associated with various antihypertensive
+                                 therapies used as first-line agents: a network meta-analysis. <span class="cit-source">JAMA</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">289</span>:<span class="cit-fpage">2534</span>–44.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.289.19.2534&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12759325&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000182976500022&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(22)</span><a class="rev-xref-ref" href="#xref-ref-22-1" title="View reference (22) in text"
+                           id="ref-22">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.22">
+                           <div class="cit-metadata unstructured">Cochrane Collaboration. Authors' handbook. Available at: <a href="http://www.cochrane.org">http://www.cochrane.org</a>. [Last accessed: October 5, 2006.]
+                           </div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(23)</span><a class="rev-xref-ref" href="#xref-ref-23-1" title="View reference (23) in text"
+                           id="ref-23">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.23"
+                             data-doi="10.1002/sim.1191">
+                           <div class="cit-metadata"><cite>Hopewell S, Clarke M, Lusher A, Lefebvre C, Westby M. A comparison of handsearching versus MEDLINE searching to identify reports
+                                 of randomized controlled trials. <span class="cit-source">Stat Med</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">1625</span>–34.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/sim.1191&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12111923&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000176016900009&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(24)</span><a class="rev-xref-ref" href="#xref-ref-24-1" title="View reference (24) in text"
+                           id="ref-24">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.24"
+                             data-doi="10.1002/(SICI)1097-0258(19981230)17:24&lt;2815::AID-SIM110&gt;3.0.CO;2-8">
+                           <div class="cit-metadata"><cite>Parmar MK, Torri V, Stewart L. Extracting summary statistics to perform meta-analyses of the published literature for survival
+                                 endpoints. <span class="cit-source">Stat Med</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">17</span>:<span class="cit-fpage">2815</span>–34.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/(SICI)1097-0258(19981230)17:24%3C2815::AID-SIM110%3E3.0.CO;2-8&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9921604&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000077527600003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(25)</span><a class="rev-xref-ref" href="#xref-ref-25-1" title="View reference (25) in text"
+                           id="ref-25">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.25"
+                             data-doi="10.7326/0003-4819-127-9-199711010-00008">
+                           <div class="cit-metadata"><cite>Lau J, Ioannidis, Schmid CH. Quantitative synthesis in systematic reviews. <span class="cit-source">Ann Intern Med</span> <span class="cit-pub-date">1997</span>;<span class="cit-vol">127</span>:<span class="cit-fpage">820</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.7326/0003-4819-127-9-199711010-00008&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9382404&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1997YD89800007&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(26)</span><a class="rev-xref-ref" href="#xref-ref-26-1" title="View reference (26) in text"
+                           id="ref-26">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.26"
+                             data-doi="10.1002/sim.1186">
+                           <div class="cit-metadata"><cite>Higgins JP, Thompson SG. Quantifying heterogeneity in a meta-analysis. <span class="cit-source">Stat Med</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">1539</span>–58.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/sim.1186&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12111919&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000176016900005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(27)</span><a class="rev-xref-ref" href="#xref-ref-27-1" title="View reference (27) in text"
+                           id="ref-27">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.27">
+                           <div class="cit-metadata"><cite>Glenny AM, Altman DG, Song F, Sakarovitch C, Deeks JJ, D'Amico R, et al. Indirect comparisons of competing interventions.
+                                 <span class="cit-source">Health Technol Assess</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">9</span>:<span class="cit-fpage">1</span>-iv.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=16303099&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(28)</span><a class="rev-xref-ref" href="#xref-ref-28-1" title="View reference (28) in text"
+                           id="ref-28">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.28"
+                             data-doi="10.1002/sim.1875">
+                           <div class="cit-metadata"><cite>Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. <span class="cit-source">Stat Med</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">23</span>:<span class="cit-fpage">3105</span>–24.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/sim.1875&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15449338&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000224307300002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(29)</span><a class="rev-xref-ref" href="#xref-ref-29-1" title="View reference (29) in text"
+                           id="ref-29">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.29"
+                             data-doi="10.1186/1471-2288-2-13">
+                           <div class="cit-metadata"><cite>Baker SG, Kramer BS. The transitive fallacy for randomized trials: if A bests B and B bests C in separate trials, is A better
+                                 than C? <span class="cit-source">BMC Med Res Methodol</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">2</span>:<span class="cit-fpage">13</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1186/1471-2288-2-13&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12429069&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(30)</span><a class="rev-xref-ref" href="#xref-ref-30-1" title="View reference (30) in text"
+                           id="ref-30">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.30">
+                           <div class="cit-metadata"><cite>Lumley T, Keech A. Meta-meta-analysis with confidence. <span class="cit-source">Lancet</span> <span class="cit-pub-date">1995</span>;<span class="cit-vol">346</span>:<span class="cit-fpage">576</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=7658798&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995RQ98600044&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(31)</span><a class="rev-xref-ref" href="#xref-ref-31-1" title="View reference (31) in text"
+                           id="ref-31">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.31"
+                             data-doi="10.1158/1078-0432.CCR-04-0683">
+                           <div class="cit-metadata"><cite>Herzog TJ. Recurrent ovarian cancer: how important is it to treat to disease progression? <span class="cit-source">Clin Cancer Res</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">10</span>:<span class="cit-fpage">7439</span>–49.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=clincanres&amp;resid=10/22/7439"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(32)</span><a class="rev-xref-ref" href="#xref-ref-32-1" title="View reference (32) in text"
+                           id="ref-32">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.32"
+                             data-doi="10.1016/S0140-6736(98)04119-1">
+                           <div class="cit-metadata"><cite>ICON2: randomised trial of single-agent carboplatin against three-drug combination of CAP (cyclophosphamide, doxorubicin,
+                                 and cisplatin) in women with ovarian cancer. ICON Collaborators. International Collaborative Ovarian Neoplasm Study. <span class="cit-source">Lancet</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">352</span>:<span class="cit-fpage">1571</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(98)04119-1&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9843101&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000076998900008&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(33)</span><a class="rev-xref-ref" href="#xref-ref-33-1" title="View reference (33) in text"
+                           id="ref-33">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.33"
+                             data-doi="10.1111/j.1525-1438.2005.15304.x">
+                           <div class="cit-metadata"><cite>Fujiwara K, Suzuki S, Ishikawa H, Oda T, Aotani E, Kohno I. Preliminary toxicity analysis of intraperitoneal carboplatin in
+                                 combination with intravenous paclitaxel chemotherapy for patients with carcinoma of the ovary, peritoneum, or fallopian tube.
+                                 <span class="cit-source">Int J Gynecol Cancer</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">15</span>:<span class="cit-fpage">426</span>–31.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1111/j.1525-1438.2005.15304.x&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15882165&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000228979300003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(34)</span><a class="rev-xref-ref" href="#xref-ref-34-1" title="View reference (34) in text"
+                           id="ref-34">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.34"
+                             data-doi="10.1016/S0895-4356(00)00311-5">
+                           <div class="cit-metadata"><cite>Trikalinos TA, Ioannidis JP. Predictive modeling and heterogeneity of baseline risk in meta-analysis of individual patient
+                                 data. <span class="cit-source">J Clin Epidemiol</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">54</span>:<span class="cit-fpage">245</span>–52.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0895-4356(00)00311-5&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11223322&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000167162300005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(35)</span><a class="rev-xref-ref" href="#xref-ref-35-1" title="View reference (35) in text"
+                           id="ref-35">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.35"
+                             data-doi="10.1016/S0140-6736(06)69615-3">
+                           <div class="cit-metadata"><cite>Ioannidis JPA. Indirect comparisons: the mesh and mess of clinical trials. <span class="cit-source">Lancet</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">368</span>:<span class="cit-fpage">1470</span>–2.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(06)69615-3&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=17071265&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000241582700005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(36)</span><a class="rev-xref-ref" href="#xref-ref-36-1" title="View reference (36) in text"
+                           id="ref-36">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.36"
+                             data-doi="10.1586/14737140.5.5.855">
+                           <div class="cit-metadata"><cite>Muggia F, Kosloff R. Investigational agents for epithelial ovarian cancer. <span class="cit-source">Expert Rev Anticancer Ther</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">5</span>:<span class="cit-fpage">855</span>–68.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1586/14737140.5.5.855&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16221055&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000240921900015&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(37)</span><a class="rev-xref-ref" href="#xref-ref-37-1" title="View reference (37) in text"
+                           id="ref-37">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.22.1655.37"
+                             data-doi="10.1038/nature04296">
+                           <div class="cit-metadata"><cite>Bild AH, Yao G, Chang JT, Wang Q, Potti A, Chasse D, et al. Oncogenic pathway signatures in human cancers as a guide to targeted
+                                 therapies. <span class="cit-source">Nature</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">439</span>:<span class="cit-fpage">353</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1038/nature04296&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16273092&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000234682100049&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/98/22/1647.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/98/22/1664.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/98/22.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (15 November 2006) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    98
+                                    </span><span class="slug-issue">
+                                    (22):
+                                    </span><span class="slug-pages">
+                                    1655-1663.
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/djj443" class="slug-doi">10.1093/jnci/djj443</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><a href="/content/98/22/1655.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/98/22/1655.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li><a href="/content/98/22/1655/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplementary-data">Supplementary Data</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=ARTICLES&amp;sortspec=date&amp;submit=Submit">Article</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;98/22/1655" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B98%2F22%2F1655&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/98/22/1655.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=98/22/1655&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/98/22/1655.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3B98%2F22%2F1655&amp;citation=Kyrgiou%20et%20al.%2098%20%2822%29:%201655&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B98%2F22%2F1655&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=17105988&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B98%2F22%2F1655">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B98%2F22%2F1655">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=Survival%20Benefits%20With%20Diverse%20Chemotherapy%20Regimens%20for%20Ovarian%20Cancer%3A%20Meta-analysis%20of%20Multiple%20Treatments%3A%20&amp;publicationDate=15%20November%202006&amp;author=Maria%20Kyrgiou%2C%20Georgia%20Salanti%2C%20Nicholas%20Pavlidis%2C%20Evangelos%20Paraskevaidis%2C%20John%20P.%20A.%20Ioannidis&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2Fdjj443&amp;volumeNum=98&amp;issueNum=22&amp;startPage=1655&amp;endPage=1663&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/98/22/1655.full?cited-by=yes&amp;legid=jnci;98/22/1655#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/98/22/1655" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/98/22/1655?access_num=/jnci/98/22/1655"
+                              rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F98%2F22%2F1655&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/98/22/1655.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AKyrgiou%20author%3AM.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Kyrgiou, M.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AIoannidis%20author%3AJ.P.A.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Ioannidis, J. P. A.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/98/22/1655.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=17105988&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Kyrgiou%20M&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Kyrgiou, M.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Salanti%20G&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Salanti, G.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Pavlidis%20N&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Pavlidis, N.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Paraskevaidis%20E&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Paraskevaidis, E.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Ioannidis%20JP&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Ioannidis, J. P. A.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/98/22/1655.full?related-urls=yes&amp;legid=jnci;98/22/1655#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B98%2F22%2F1655&amp;current-view-path=/content/98/22/1655.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/98/22/1655&amp;title=Survival%20Benefits%20With%20Diverse%20Chemotherapy%20Regimens%20for%20Ovarian%20Cancer%3A%20Meta-analysis%20of%20Multiple%20Treatments+--+Kyrgiou%20et%20al.%2098%20%2822%29%3A%201655+--+&amp;doi=10.1093/jnci/djj443&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/98/22/1655&amp;title=Survival%20Benefits%20With%20Diverse%20Chemotherapy%20Regimens%20for%20Ovarian%20Cancer%3A%20Meta-analysis%20of%20Multiple%20Treatments+--+Kyrgiou%20et%20al.%2098%20%2822%29%3A%201655+--+&amp;doi=10.1093/jnci/djj443&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/98/22/1655&amp;title=Survival%20Benefits%20With%20Diverse%20Chemotherapy%20Regimens%20for%20Ovarian%20Cancer%3A%20Meta-analysis%20of%20Multiple%20Treatments+--+Kyrgiou%20et%20al.%2098%20%2822%29%3A%201655+--+&amp;doi=10.1093/jnci/djj443&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/98/22/1655&amp;title=Survival%20Benefits%20With%20Diverse%20Chemotherapy%20Regimens%20for%20Ovarian%20Cancer%3A%20Meta-analysis%20of%20Multiple%20Treatments+--+Kyrgiou%20et%20al.%2098%20%2822%29%3A%201655+--+&amp;doi=10.1093/jnci/djj443&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/98/22/1655&amp;title=Survival%20Benefits%20With%20Diverse%20Chemotherapy%20Regimens%20for%20Ovarian%20Cancer%3A%20Meta-analysis%20of%20Multiple%20Treatments+--+Kyrgiou%20et%20al.%2098%20%2822%29%3A%201655+--+&amp;doi=10.1093/jnci/djj443&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/98/22/1655&amp;title=Survival%20Benefits%20With%20Diverse%20Chemotherapy%20Regimens%20for%20Ovarian%20Cancer%3A%20Meta-analysis%20of%20Multiple%20Treatments+--+Kyrgiou%20et%20al.%2098%20%2822%29%3A%201655+--+&amp;doi=10.1093/jnci/djj443&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#abstract-1">Abstract</a></li>
+                        <li><a href="#sec-1">M<span class="sc">ETHODS</span></a></li>
+                        <li><a href="#sec-5">R<span class="sc">ESULTS</span></a></li>
+                        <li><a href="#sec-10">D<span class="sc">ISCUSSION</span></a></li>
+                        <li><a href="#fn-group-1">Footnotes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/98/22/1655.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/98/22/1655.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

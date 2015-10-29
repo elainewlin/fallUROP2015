@@ -1,0 +1,2237 @@
+http://jnci.oxfordjournals.org/content/89/7/497.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Portal Vein Chemotherapy for Colorectal Cancer: a Meta-analysis of 4000 Patients in 10 Studies </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/89/7/497" />
+      <meta content="/jnci/89/7/497.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Portal Vein Chemotherapy for Colorectal Cancer: a Meta-analysis of 4000 Patients in 10 Studies"
+            name="DC.Title" />
+      <meta content="10.1093/jnci/89.7.497" name="DC.Identifier" />
+      <meta content="1997-04-02" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta content="Portal Vein Chemotherapy for Colorectal Cancer: a Meta-analysis of 4000 Patients in 10 Studies"
+            name="citation_title" />
+      <meta content="04/02/1997" name="citation_date" />
+      <meta content="89" name="citation_volume" />
+      <meta content="7" name="citation_issue" />
+      <meta content="497" name="citation_firstpage" />
+      <meta content="505" name="citation_lastpage" />
+      <meta content="89/7/497" name="citation_id" />
+      <meta content="89/7/497" name="citation_id_from_sass_path" />
+      <meta content="jnci;89/7/497" name="citation_mjid" />
+      <meta content="10.1093/jnci/89.7.497" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/89/7/497.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/89/7/497.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/89/7/497.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/89/7/497"
+            name="citation_public_url" />
+      <meta content="9086006" name="citation_pmid" />
+      <meta name="citation_section" content="Article" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/89/7/488.short" rel="prev" />
+      <link href="/content/89/7/506.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d28075913e1">var callbackToken='5370784B504068C';</script><script type="text/javascript" id="session-d28075913e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:15:02.045-07:00';
+            var gSessionId = 'KgIVsrku2pj@pB@@gnFQeQ';
+            var gAuthzRequired = 'false';
+            var gAuthnMethods1 = 'ip';
+            var gAuthnMethods2 = 'ip';
+            var gAuthnIPs = '18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/89.7.497");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("19970402");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F89%2F7%2F497.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/89/7.toc">
+                  <span xmlns="" class="volume-value">Volume 89</span>
+                  <span xmlns="" class="issue-value"> Issue 7</span></a></li>
+            <li>Pp. <span class="slug-pages">
+                  497-505.
+                  </span></li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/89/7/497.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Portal Vein Chemotherapy for Colorectal Cancer: a Meta-analysis of 4000 Patients in 10 Studies</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="last" id="contrib-1"><span class="collab" id="collab-1">Liver Infusion Meta-analysis Group</span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address>
+                           Imperial Cancer Research Fund/Medical Research Council Clinical Trial Service Unit, <span class="addr-line">Harkness Bldg., Radcliffe Infirmary, Oxford 0X2 6HE, U.K.</span>
+                           
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address>
+                           Meta-analysis Group in Cancer Secretariat, Department of Oncology, Hôpital Henri Mondor, <span class="addr-line">51 av du Maréchal de Lattre de Tassigny, 9400 Créteil, France</span>
+                           
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">
+                        <em>*Correspondence and reprint requests to:</em> Liver Infusion Meta-analysis Group Secretariat, Imperial Cancer Research Fund/Medical Research Council Clinical Trial Service
+                        Unit, Harkness Bldg., Radcliffe Infirmary, Oxford 0X2 6HE, U.K.; or Meta-analysis Group in Cancer Secretariat, Department
+                        of Oncology, Hôpital Henri Mondor, 51 av du Maréchal de Lattre de Tassigny, 9400 Créteil, France.
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                         hwp:start="1996-09-17"><span class="received-label">Received </span>September 17, 1996.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="rev-recd"
+                         hwp:start="1996-12-20"><span class="rev-recd-label">Revision received </span>December 20, 1996.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="1997-01-29"><span class="accepted-label">Accepted </span>January 29, 1997.
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-1" title="Materials and Methods" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Abstract</h2>
+                  
+                  <p id="p-3">
+                     <em>Background</em>: Systemic delivery of cytotoxic drugs yields relatively low doses in the liver, a major site of recurrence for colorectal
+                     cancer. Giving chemotherapy by means of continuous portal vein infusion (PVI) into the liver during the immediate postoperative
+                     period may improve therapeutic efficacy. <em>Purpose</em>: We undertook a meta-analysis to assess the effects on recurrence and survival of administering fluorouracil (5-FU)-based
+                     chemotherapy by PVI after colorectal cancer surgery. <em>Methods</em>: Data on mortality and recurrence were sought for all patients enrolled in randomized trials initiated before 1987 in which
+                     a few days (range, 5–7 days) of continuous postoperative PVI of cytotoxic drugs was compared with no further treatment. Data
+                     from 10 trials (a promising initial study and nine hypothesis-testing trials) involving about 4000 patients were available
+                     for analysis. The main cytotoxic drug in each trial was 5-FU (given with heparin); however, mitomycin C was co-administered
+                     in two of the trials. Four trials included an additional control group of patients treated with continuous noncytotoxic PVI
+                     of either heparin or urokinase alone; one trial included a second control group of patients treated with continuous systemic
+                     infusion of 5-FU. Reported P values are two-sided. <em>Results</em>: Among the 3499 patients randomly assigned to receive either cytotoxic PVI or no further treatment, 1557 deaths are known
+                     to have occurred. Survival with and without PVI appeared to be the same for the first 2 years; thereafter, it diverged significantly,
+                     with the absolute survival difference (i.e., improvement) associated with PVI at 5 years being 4.7% (standard deviation [SD]
+                     = 1.2%) (<em>P</em> = .006). When just the nine hypothesis-testing trials were considered, the absolute survival difference was 3.6% (SD = 1.2%)
+                     (<em>P</em> = .04). If, ignoring any potential for bias in stage assignment, attention was restricted to patients with Dukes' stage A,
+                     B, or C disease (88.3% of the total), the absolute effect on 5-year survival for all 10 trials increased to 6.0% (SD = 1.8%)
+                     (<em>P</em> = .001); this estimate remained statistically significant when the initial study was excluded (absolute survival difference
+                     = 4.8%; SD = 1.8%; <em>P</em> = .01). In contrast to the highly significant reduction in liver metastases seen in the initial study (79% reduction; SD
+                     = 15%; <em>P</em> = .00000007), the reduction found in the nine hypothesis-testing trials was not significant (14% reduction; SD = 10%; <em>P</em> = .2). In the trials with additional control groups, survival appeared to be better with cytotoxic PVI than with noncytotoxic
+                     PVI or with systemic cytotoxic drug infusion. Conclusions: PVI of 5-FU (with or without other cytotoxic drugs) for about 1
+                     week after surgery in patients with colorectal cancer may produce an absolute improvement in 5-year survival of a few percent.
+                     Although encouraging, this finding is not statistically secure, and additional evidence from randomized trials involving several
+                     thousand more patients is needed.
+                  </p>
+                  
+               </div>
+               <p id="p-4">Colorectal cancer is one of the most common malignant diseases, with about half a million deaths and more than 700 000 new
+                  cases diagnosed worldwide each year (<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1"><em>1</em></a>). Colorectal tumors can be resected in approximately three quarters of patients (<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2"><em>2</em></a>,<a id="xref-ref-3-1" class="xref-bibr" href="#ref-3"><em>3</em></a>), but, even if there is apparently curative resection, up to half will subsequently develop an incurable recurrence. For
+                  such a common disease, even treatments that are only moderately effective would be worth knowing about. For example, if a
+                  widely practicable adjuvant treatment were shown reliably to change 50% into 55% long-term survival, its widespread use would
+                  avoid many thousands of deaths each year. But, although improvements as small as 5% may be worthwhile, they are difficult
+                  to detect without large-scale randomized evidence (<a id="xref-ref-4-1" class="xref-bibr" href="#ref-4"><em>4</em></a>).
+               </p>
+               <p id="p-5">Systemic chemotherapy regimens involving fluorouracil (5FU) with or without other cytotoxic drugs appear, in general, to be
+                  of limited effectiveness in preventing the recurrence of colorectal cancer (<a id="xref-ref-5-1" class="xref-bibr" href="#ref-5"><em>5</em></a>,<a id="xref-ref-6-1" class="xref-bibr" href="#ref-6"><em>6</em></a>). This finding may be a consequence of the fact that 5-FU is effective only against cancer cells that are undergoing DNA
+                  synthesis. In addition, the majority of cancer cells will be unaffected by 5-FU bolus treatment, since the active metabolites
+                  of this compound have half-lives of only about 10 minutes. Improved survival has been seen when 5-FU is combined with levamisole
+                  (<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7"><em>7</em></a>)—an immunostimulant—but this result may be attributable to the large cumulative dose of 5-FU used in this regimen (<a id="xref-ref-8-1" class="xref-bibr" href="#ref-8"><em>8</em></a>). Co-administration of folinic acid, a 5-FU biomodulator, considerably enhances the activity of 5-FU, and improved survival
+                  is seen when this combination is used as an adjuvant treatment (<a id="xref-ref-9-1" class="xref-bibr" href="#ref-9"><em>9</em></a>,<a id="xref-ref-10-1" class="xref-bibr" href="#ref-10"><em>10</em></a>). Another consideration is that cytotoxic drugs administered systemically produce relatively low doses in the liver, which
+                  is an important site of disease recurrence (<a id="xref-ref-11-1" class="xref-bibr" href="#ref-11"><em>11</em></a>,<a id="xref-ref-12-1" class="xref-bibr" href="#ref-12"><em>12</em></a>). Hence, a continuous infusion of cytotoxic drugs into the liver via the portal vein, for at least a few days during the
+                  immediate postoperative period, has been proposed. Nonrandomized studies of portal vein infusion (PVI), using either thiotepa
+                  (<a id="xref-ref-13-1" class="xref-bibr" href="#ref-13"><em>13</em></a>) or mechlorethamine (<a id="xref-ref-14-1" class="xref-bibr" href="#ref-14"><em>14</em></a>), were undertaken in the 1950s but were abandoned because of concerns about toxicity. The first randomized trial to test
+                  cytotoxic PVI of 5-FU was initiated in 1975. Patients were randomly assigned to either surgery alone or to surgery plus a
+                  1-week continuous infusion of 5-FU and heparin given via a catheter that had been inserted into a tributary of the portal
+                  vein (<a id="xref-ref-15-1" class="xref-bibr" href="#ref-15"><em>15</em></a>). The early results from this trial were highly encouraging (<a id="xref-ref-16-1" class="xref-bibr" href="#ref-16"><em>16</em></a>), and, subsequently, at least 11 other randomized trials were begun between 1979 and 1984 (<a id="xref-ref-17-1" class="xref-bibr" href="#ref-17"><em>17</em></a>–<a id="xref-ref-22-1" class="xref-bibr" href="#ref-22"><em>22</em></a>). These studies were set up to detect large differences in survival similar to that reported in the original PVI study, so
+                  no one study was large enough to detect a more moderate, but perhaps still worthwhile, improvement in 5-year survival (e.g.,
+                  from 50% to 55%) (<a id="xref-ref-23-1" class="xref-bibr" href="#ref-23"><em>23</em></a>).
+               </p>
+               <p id="p-6">A previous meta-analysis, based on just the published data, suggested a reduction of about one third in the risk of death
+                  for patients allocated to liver infusion of 5-FU (<a id="xref-ref-6-2" class="xref-bibr" href="#ref-6"><em>6</em></a>). Reviews (<a id="xref-ref-24-1" class="xref-bibr" href="#ref-24"><em>24</em></a>,<a id="xref-ref-25-1" class="xref-bibr" href="#ref-25"><em>25</em></a>) of published results are, however, subject to various problems. In particular, some published reports exclude substantial
+                  numbers of randomly assigned patients who were later deemed ineligible either because they were found at laparotomy to have
+                  benign tumors or because they had clinically undetectable metastases or otherwise inoperable disease. Such patients allocated
+                  to PVI did not usually receive it, and, even if they had, PVI would probably have been ineffective against advanced disease.
+                  If such patients are included in an unbiased “intention-to-treat” comparison, they reduce the statistical power (<a id="xref-ref-23-2" class="xref-bibr" href="#ref-23"><em>23</em></a>); but, removing them might cause bias, especially if patients with unresectable disease are more likely to be excluded if
+                  they are allocated to PVI than if they are not (e.g., because of more thorough investigations of the liver). If such “upstaging”
+                  (or “stage migration”) did occur, then it would bias the stage-stratified results in favor of the PVI group because of the
+                  “Will Rogers phenomenon” (<a id="xref-ref-26-1" class="xref-bibr" href="#ref-26"><em>26</em></a>). Those patients with stage A, B, or C disease who are reclassified to stage D because of special extra investigations are
+                  likely to have a worse prognosis than the patients who remain as stage A, B, or C but a better prognosis than those who are
+                  already classified as stage D. Paradoxically, therefore, such upstaging would not only improve the average prognosis of patients
+                  classified as stage A to C but also would improve the prognosis of those classified as stage D. If no similar upstaging occurred
+                  for the control subjects, an analysis of survival stratified by stage—or, similarly, an analysis omitting patients classified
+                  as stage D—would be biased in favor of the PVI group. This bias can, however, be avoided by chiefly emphasizing the unstratified
+                  intention-to-treat analysis of all patients allocated to PVI (irrespective of whether they were subsequently found perioperatively
+                  to have unresectable disease) versus all allocated control subjects.
+               </p>
+               <p id="p-7">To help avoid these and other potential biases and to reduce random errors by having larger numbers to analyze (<a id="xref-ref-27-1" class="xref-bibr" href="#ref-27"><em>27</em></a>,<a id="xref-ref-28-1" class="xref-bibr" href="#ref-28"><em>28</em></a>), a collaboration between PVI trialists was established to seek individual patient data from all randomly assigned patients
+                  in all relevant trials. This report of that collaboration provides a more reliable assessment of the effect on survival and
+                  on disease recurrence of intraportal 5-FU liver infusion immediately after tumor resection for colorectal cancer than is available
+                  from any of the individual studies or from previous reviews.
+               </p>
+               <div class="section materials-methods" id="sec-1">
+                  <div class="section-nav"><a href="#abstract-1" title="Abstract" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-2" title="Statistical Methods" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>Materials and Methods</h2>
+                  
+                  <p id="p-8">All trials that included a randomization between a few days (range, 5–7 days) of continuous postoperative PVI of cytotoxic
+                     chemotherapy versus no further treatment were eligible for the overview if the trial began before 1987 and if the method of
+                     providing the randomization was one that should have precluded the possibility of prior knowledge of the treatment to be allocated.
+                     The trials were sought through computer-based literature searches of the Medline, Cancerlit, and Excerpta Medica databases;
+                     handsearching of selected cancer journals; hand-searching of abstract books from relevant cancer, oncology, and surgery meetings;
+                     checking the citations in published reports of identified trials and review articles; searching of registers of trials; and
+                     direct contact with trialists and other individuals.
+                  </p>
+                  
+                  <p id="p-9">Twelve relevant trials were found, involving a total of about 4200 patients. Nine trials tested liver infusion of 5-FU with
+                     heparin, one trial tested 5-fluorodeoxyuridine plus heparin, and two trials tested the combination of 5-FU, mitomycin C, and
+                     heparin. Data are not available from one of the studies (<a id="xref-ref-29-1" class="xref-bibr" href="#ref-29"><em>29</em></a>), which involved only about 100 patients, or from a trial of 5-FU PVI versus intravenous 5-FU, which did not have an untreated
+                     control arm and also involved only about 100 patients (<a id="xref-ref-30-1" class="xref-bibr" href="#ref-30"><em>30</em></a>). Data are available for the other 10 trials (the promising initial study and nine “hypothesis-testing” trials), involving
+                     about 4000 patients. The 5-FU was given as a continuous infusion through a tributary of the portal venous system, with the
+                     most usual dose being 0.5 or 0.6 g/m<sup>2</sup> per day for 7 days. Two studies (<a id="xref-ref-15-2" class="xref-bibr" href="#ref-15"><em>15</em></a>,<a id="xref-ref-18-1" class="xref-bibr" href="#ref-18"><em>18</em></a>) gave 5-FU at a fixed daily dose of1gtoall patients, which is equivalent to about 0.6 g/m2 for an average-sized patient,
+                     and one study (<a id="xref-ref-19-1" class="xref-bibr" href="#ref-19"><em>19</em></a>) used a higher dose of 5-FU (1 g/m<sup>2</sup> per day) for just 5 days. Heparin was given with the 5-FU to keep the catheters patent. It had been suggested that the anticoagulant
+                     effects of heparin might have contributed to the benefit reported in the first study, perhaps by preventing the seeding of
+                     micro-metastases released at surgery. Hence, three later studies (<a id="xref-ref-18-2" class="xref-bibr" href="#ref-18"><em>18</em></a>,<a id="xref-ref-19-2" class="xref-bibr" href="#ref-19"><em>19</em></a>) included a 7-day PVI of heparin alone as an additional control arm, and one (<a id="xref-ref-21-1" class="xref-bibr" href="#ref-21"><em>21</em></a>) included an additional control arm in which patients received a 24-hour PVI of urokinase. Another proposed hypothesis for
+                     PVI appearing to be so remarkably effective in the first study was that the timing (with treatment being given continuously
+                     and immediately postoperatively) rather than the route of administration might be of importance, and so the Australasian study
+                     included a third control arm with continuous 5-FU by peripheral intravenous infusion.
+                  </p>
+                  
+                  <p id="p-10">Individual patient data were sought from the principal investigator for all patients ever randomly assigned in each trial
+                     (including full details on those reclassified after randomization as having stage D disease or being otherwise “ineligible”).
+                     The data items requested were the patient identifier, the date of surgery, the site and Dukes' stage (<a id="xref-ref-31-1" class="xref-bibr" href="#ref-31"><em>31</em></a>) of the tumor, the sex and age of the patient, the date randomly assigned, the treatment allocated, the date and site of
+                     first recurrence (i.e., whether or not the liver was involved), the date of death or date last contacted, and the cause of
+                     death for patients who had died without any recorded recurrence. These data were checked centrally for internal consistency
+                     and for consistency with any published results. Where appropriate, requests for clarification of the trial design and queries
+                     about missing data or incomplete follow-up were sent back to the relevant trialist, and explanations were sought for any noteworthy
+                     imbalances in patient characteristics between the treatment groups within a particular trial.
+                  </p>
+                  
+               </div>
+               <div class="section" id="sec-2">
+                  <div class="section-nav"><a href="#sec-1" title="Materials and Methods" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-3" title="Results" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>Statistical Methods</h2>
+                  
+                  <p id="p-11">The methods used for the overview analyses and the format for the presentation of the results have been described elsewhere
+                     (<a id="xref-ref-32-1" class="xref-bibr" href="#ref-32"><em>32</em></a>,<a id="xref-ref-33-1" class="xref-bibr" href="#ref-33"><em>33</em></a>). Within each trial, the total number of events (e.g., liver recurrence, any recurrence, or death) observed (O) each year
+                     among patients allocated to liver infusion was compared with the number that would be expected (E) on the basis of the average
+                     outcome in the PVI and control groups. The difference will be negative if, in that year, the treated group fared better than
+                     the control group. Its variance (V) is calculated by standard methods (<a id="xref-ref-32-2" class="xref-bibr" href="#ref-32"><em>32</em></a>). These annual statistics were summated (yielding the “logrank” O - E and its V) to help assess the effect of treatment in
+                     that trial. The logrank statistics, one per trial, are then summed to provide an overall estimate of the effect of treatment.
+                     All <em>P</em> values are two-sided.
+                  </p>
+                  
+                  <p id="p-12">To describe the results of particular trials, or of an overview of several trials, odds ratios (ORs) can be calculated from
+                     the logrank statistics. (An OR of 0.9 would correspond to an odds reduction of 10%.) For Dukes' stage A or B cancer, where
+                     the background risk of death from the disease is only about one quarter, reductions of 10% or of 15% in the annual odds of
+                     death would correspond to absolute reductions of only about 2% or 3%, respectively, in the absolute risk of death (i.e., 75%
+                     survival would be increased to 77% or 78%). But, for stage C cancer, where about half of the patients will die of their disease,
+                     reductions of 10% or of 15% in the annual odds of death would correspond to absolute reductions of about 4% or 6%, respectively,
+                     in the absolute risk of death (i.e., 50% survival would be increased to 54% or 56%) (<a id="xref-ref-32-3" class="xref-bibr" href="#ref-32"><em>32</em></a>).
+                  </p>
+                  
+                  <p id="p-13">Calculations for noncolorectal cancer deaths were censored at recurrence, and, because the causes of deaths occurring after
+                     recurrence could not be ascertained reliably, the logrank statistics for colorectal cancer death were calculated by subtracting
+                     the logrank statistics for noncolorectal cancer deaths from the log-rank statistics for all-cause mortality (<a id="xref-ref-33-2" class="xref-bibr" href="#ref-33"><em>33</em></a>). All randomly assigned patients are included in the main intention-to-treat analyses irrespective of eligibility. For the
+                     subgroup comparisons in <a id="xref-fig-1-1" class="xref-fig" href="#F1">Table 1</a>, however, only the 3088 patients with stage A, B, or C disease are included to avoid potential confounding from differing
+                     numbers of ineligible patients in different subgroups. This restriction avoids confounding in comparisons between subgroups,
+                     but it might artificially inflate the apparent treatment benefit in all subgroups if selective stage migration has occurred
+                     (<em>see</em> introduction to this article).
+                  </p>
+                  
+               </div>
+               <div class="section results" id="sec-3">
+                  <div class="section-nav"><a href="#sec-2" title="Statistical Methods" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-7" title="Discussion" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>Results</h2>
+                  
+                  <div id="sec-4" class="subsection">
+                     
+                     <h3>PVI Versus No Further Treatment</h3>
+                     
+                     <p id="p-14">
+                        <strong>Survival.</strong> Of 3499 patients randomly assigned either to cytotoxic PVI or to no further treatment, 1557 (44.5%) are known to have died.
+                        <a id="xref-fig-2-1" class="xref-fig" href="#F2">Fig. 1</a> shows the mortality results of the first hypothesis-generating trial and of the nine subsequent trials. The substantial mortality
+                        reduction that was indicated by the first trial has not been seen in any of the subsequent trials. But, in eight of the nine,
+                        the PVI group did have a somewhat lower risk of death, and the subtotal (b) for these nine studies indicates a reduction in
+                        the annual odds of death of 11% (standard deviation [SD] 4 5%) that is itself of borderline conventional significance (<em>P</em> = .04). If all 10 trials are taken together, then the reduction in the annual odds of death becomes somewhat more significant
+                        (13.6% [SD = 4.9%]; <em>P</em> = .006). But, in the hypothesis-generating study and in two of the other studies (Düsseldorf and Seattle), data on ineligible
+                        patients could not be supplied for this overview; among the remaining seven studies, the mortality reduction is not quite
+                        conventionally significant (10% [SD = 5%]; <em>P</em> = .07). Hence, the overview provides suggestive, but not definite, evidence that cytotoxic PVI can reduce the annual risk
+                        of death by about 10% to 15%.
+                     </p>
+                     
+                     <p id="p-15">
+                        <a id="xref-fig-3-1" class="xref-fig" href="#F3">Fig. 2</a> shows the life table estimate for all randomly assigned patients in all 10 trials. This figure suggests that the survival
+                        benefit does not appear until some years after treatment, eventually resulting in an absolute improvement in survival of 4.7%
+                        (SD = 1.2%) (61.8% alive in the PVI group versus 57.1% in the control group, two-sided <em>P</em> = .006). However, with a survival benefit that is not highly statistically significant, this apparent late divergence of
+                        the survival curves could be largely due to the play of chance. In the nine hypothesis-testing studies, the difference in
+                        5-year survival was 3.6% (SD = 1.2%) (<em>P</em> = .04).
+                     </p>
+                     
+                     <p id="p-16">
+                        <strong>Survival by stage.</strong> The effect of PVI is subdivided in <a id="xref-fig-4-1" class="xref-fig" href="#F4">Fig. 3</a> according to the stage of disease. Of the 3499 patients studied, 3088 (88.3%) were classified as having stage A, B, or C
+                        disease, while 7.7% (271 of 3499) were reclassified at laparotomy as having “advanced” disease, including incompletely resectable
+                        locoregional disease as well as evidence of distant metastases. These patients with stage D disease are subdivided into two
+                        groups according to whether or not metastases were discovered in the liver during surgery. One hundred eight patients (3.1%
+                        of 3499) were found to have nonmalignant adenomas or, in a few cases, noncolorectal cancers, and the disease stage was unknown
+                        for 0.9% (32 of 3499) of the patients. There were, however, relatively few deaths among individuals in these categories, so
+                        their inclusion has little effect on the analyses.
+                     </p>
+                     
+                     <p id="p-17">When the survival analyses are stratified for stage, the reduction in the odds of death with PVI increases from 13.6% in the
+                        unstratified analyses of all 10 trials to 18.0%, and the <em>P</em> value becomes more extreme (changing from .006 to .0004). The changes stem partly from a slightly larger proportion of the
+                        PVI group being classified as having stage D disease (8.2% versus 7.2%) and partly from survival among patients with stage
+                        D disease in the PVI group being slightly better than survival among control patients (11% versus 6% alive). These differences
+                        are what might be expected if, in a biased manner, patients with stage A to C disease were more likely to be “upstaged” to
+                        stage D if they were allocated to the PVI group. But, contrary to the prior hypothesis, extra investigations of the liver
+                        in the PVIgroup did not result in more liver metastases being discovered: 4.5% in PVI patients versus 4.8% in control patients.
+                        Instead, the excess of patients with stage D disease was chiefly among those without overt liver involvement. In the three
+                        studies from which information on ineligible patients was not available, the extent of such stage migration could not be investigated.
+                     </p>
+                     
+                     <div id="F1" class="fig pos-anchor odd">
+                        <div class="fig-inline"><img alt=" Table 1. " src="497/F1.medium.gif" /></div>
+                        <div class="fig-caption"><span class="fig-label">
+                              <strong>Table 1.</strong>
+                              </span> 
+                           
+                           <p id="p-18" class="first-child">Reductions in the odds of death seen with cytotoxic portal vein infusion (PVI) compared with no further treatment (NFT) among
+                              3088 patients with Dukes' stage A, B, or C disease, by stage, site, age, and sex*,†
+                           </p>
+                           
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     
+                     <div id="F2" class="fig pos-anchor even">
+                        <div class="fig-inline"><img alt=" Fig. 1. " src="497/F2.medium.gif" /></div>
+                        <div class="fig-caption"><span class="fig-label">
+                              <strong>Fig. 1.</strong>
+                              </span> 
+                           
+                           <p id="p-19" class="first-child">Mortality by allocated treatment for all randomly assigned patients in 10 trials of portal vein infusion (PVI) of fluorouracil
+                              (5-FU) with or without mitomycin C versus control with no infusion. The odds reduction for each trial is plotted as a black
+                              square with a horizontal line indicating the 99% confidence (conf.) interval. The size of the square is proportional to the
+                              variance (Var.), since this indicates the amount of statistical information provided by the trial. The overall odds reduction
+                              is shown as a diamond, the width of which represents the 95% confidence interval for the overview. Cytotox. = cytotoxic; Obs.
+                              = O = observed; Exp. = E 4expected; % &amp; SD = odds reduction and standard deviation; 2p = two-sided <em>P</em> value; UK = United Kingdom; NCCTG = North Central Cancer Treatment Group; CP = Cancer Project; FMit = 5-FU plus mitomycin
+                              C; SAKK = Swiss Group for Clinical Cancer Research; CRAC I = Colorectal Adenocarcinoma Trial I; EORTC = European Organization
+                              for Research and Treatment of Cancer; NSABP = National Surgical Adjuvant Breast and Bowel Project; and <em>x</em>
+                              <sup>2</sup> = chi-squared. All <em>P</em> values are two-sided.
+                           </p>
+                           
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     
+                     <p id="p-20">If only the patients with stage A, B, or C disease are analyzed (i.e., ignoring the possibility of bias being introduced into
+                        the stage-specific analyses of some studies by stage migration), there is a more highly significant survival benefit for the
+                        PVI group (odds reduction = 19% [SD = 5.3%]; = 4 .0004). The absolute effect on the 5-year survival for patients with stage
+                        A, B, or C disease combined is 6.0% (SD = 1.8%]; <em>P</em> = .001) for all 10 trials, and it remains statistically significant if the hypothesis-generating trial is excluded (4.8%
+                        [SD = 1.8%]; <em>P</em> = .01). The effects for patients with stage A/B and for patients with stage C disease in just the nine hypothesis-testing
+                        studies are shown separately in <a id="xref-fig-5-1" class="xref-fig" href="#F5">Fig. 4</a>, although, as in <a id="xref-fig-4-2" class="xref-fig" href="#F4">Fig. 3</a>, it should be remembered that the apparent benefit of PVI in this stage-specific subgroup analysis will be exaggerated if
+                        stage migration did occur. The apparent absolute benefits appear similar, at about 5%, for patients with stage A or B disease
+                        as for patients with stage C disease.
+                     </p>
+                     
+                     <p id="p-21">
+                        <strong>Cause-specific mortality.</strong> Information was sought on the causes of death for patients who died without a recorded recurrence. Four hundred twenty such
+                        deaths were identified, and the reported cause was available for 295 of them. Fifty-seven of these 295 deaths were “postoperative”
+                        (defined for objectivity as any death occurring within 30 days of surgery), and they were about evenly divided between the
+                        treatment groups: 32 (1.8%) among the 1759 patients allocated to the PVI group versus 25 (1.4%) among the 1740 patients allocated
+                        to the control group. The deaths from known noncolorectal cancer causes were also evenly divided between the two treatment
+                        groups: 151 (8.6%) allocated to the PVI group versus 144 (8.3%) allocated to the control group. For the remaining deaths,
+                        however, most of which would have been due to colorectal cancer, there were significantly fewer in the PVI group than in the
+                        control group (odds reduction = 17% [SD = 5%]; <em>P</em> = .002). The reduction was significantly larger in the first U.K. study (55% [SD = 14%]) than in the nine subsequent studies
+                        (12% [SD = 6%]), but it was still conventionally significant (<em>P</em> = .04) in the latter.
+                     </p>
+                     
+                     <p id="p-22">
+                        <strong>Liver recurrence.</strong> Information on whether or not the liver was involved at first recurrence was provided from all trials: 36% (397 of 1111)
+                        of first recurrences were known to involve the liver. There is highly significant (<em>P</em> = .0003) heterogeneity between the effects of PVI observed in the 10 studies (<a id="xref-fig-6-1" class="xref-fig" href="#F6">Fig. 5</a>). A striking result (seven versus 43 liver recurrences) is seen only in the first study, and there is a highly significant
+                        (<em>P</em> = .000005) difference between this large reduction and the nonsignificant 14% (SD = 10%) reduction seen in the overview of
+                        the nine subsequent trials (the results of which are not significantly inconsistent with each other).
+                     </p>
+                     
+                  </div>
+                  
+                  <div id="sec-5" class="subsection">
+                     
+                     <h3>Additional Controls: PVI of Noncytotoxic Drugs and Peripheral Infusion of 5-FU</h3>
+                     
+                     <p id="p-23">Four of the 10 studies included a third arm of PVI with heparin alone or with urokinase. In <a id="xref-fig-7-1" class="xref-fig" href="#F7">Fig. 6</a>, a, the 417 patients in these additional control groups are compared with those receiving 5-FU plus heparin. Although no
+                        individual study shows a statistically significant survival difference, when the four results are combined there were statistically
+                        significantly fewer deaths (20% [SD = 10%] reduction; <em>P</em> = .04) with cytotoxic PVI than with noncytotoxic PVI. Three of these four studies used intraoperative randomization, and
+                        the same surgical procedure was used in each treatment group, so selective re-staging of patients in one group seems much
+                        less plausible. This conclusion is supported by a stage-stratified analysis that produces an identical 20% (SD = 10%) estimate
+                        of treatment benefit, as does an analysis including just patients with stage A, B, or C disease. In these four comparisons,
+                        there were also statistically significantly fewer liver recurrences among the 5-FU PVI patients (35% [SD = 17%] reduction;
+                        <em>P</em> = .04) and fewer deaths from colorectal cancer (24% [SD = 12%]; <em>P</em> = .04). The Australasian study included a third arm in which patients received a continuous infusion of 5-FU given by peripheral
+                        infusion instead of intraportally at the same dosage schedule, and there was a nonsignificant 14% (SD = 16%) reduction in
+                        mortality with intraportal treatment (<a id="xref-fig-7-2" class="xref-fig" href="#F7">Fig. 6</a>, b).
+                     </p>
+                     
+                     <div id="F3" class="fig pos-anchor odd">
+                        <div class="fig-inline"><img alt=" Fig. 2. " src="497/F3.medium.gif" /></div>
+                        <div class="fig-caption"><span class="fig-label">
+                              <strong>Fig. 2.</strong>
+                              </span> 
+                           
+                           <p id="p-24" class="first-child">Five-year survival for all 3499 patients in 10 studies of cytotoxic portal vein infusion. SD = standard deviation; 2p = two-sided
+                              <em>P</em> value.
+                           </p>
+                           
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     
+                     <div id="F4" class="fig pos-anchor even">
+                        <div class="fig-inline"><img alt="Fig. 3." src="497/F4.medium.gif" /></div>
+                        <div class="fig-caption"><span class="fig-label">Fig. 3.</span> 
+                           
+                           <p id="p-25" class="first-child">Mortality subtotals by disease stage in 10 trials of portal vein infusion (PVI) of fluorouracil with or without mitomycin
+                              C versus control with no infusion. “Liver +ve” indicates patients with liver metastases who did not undergo curative surgery;
+                              “liver -ve/uk” indicates other noncurative surgery; s.d. and SD = standard deviation. For a more complete explanation of symbols
+                              and definitions of other abbreviations, see legend to <a id="xref-fig-2-2" class="xref-fig" href="#F2">Fig. 1</a>. <em>See</em> (<a id="xref-ref-31-2" class="xref-bibr" href="#ref-31"><em>31</em></a>) for information about Dukes' staging system.
+                           </p>
+                           
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     
+                     <div id="F5" class="fig pos-anchor odd">
+                        <div class="fig-inline"><img alt="Fig. 4." src="497/F5.medium.gif" /></div>
+                        <div class="fig-caption"><span class="fig-label">Fig. 4.</span> 
+                           
+                           <p id="p-26" class="first-child">Five-year survival for the 2817 patients with stage A/B or C disease in nine hypothesis-testing studies of cytotoxic portal
+                              vein infusion, subdivided by Dukes' stage and treatment allocation. SD = standard deviation; 2p = two-sided <em>P</em> value. <em>See</em> (<a id="xref-ref-31-3" class="xref-bibr" href="#ref-31"><em>31</em></a>) for information about Dukes' staging system.
+                           </p>
+                           
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     
+                     <div id="F6" class="fig pos-anchor even">
+                        <div class="fig-inline"><img alt="Fig. 5." src="497/F6.medium.gif" /></div>
+                        <div class="fig-caption"><span class="fig-label">Fig. 5.</span> 
+                           
+                           <p id="p-27" class="first-child">Hepatic relapse as first event in 10 trials of portal vein infusion (PVI) of fluorouracil (5-FU) with or without mitomycin
+                              C versus control with no infusion (patients with Dukes' stage A, B, or C disease only). For a more complete explanation of
+                              symbols and definitions of abbreviations, <em>see</em> legend to <a id="xref-fig-2-3" class="xref-fig" href="#F2">Fig. 1</a>. All <em>P</em> values are two-sided.
+                           </p>
+                           
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     
+                     <div id="F7" class="fig pos-anchor odd">
+                        <div class="fig-inline"><img alt="Fig. 6." src="497/F7.medium.gif" /></div>
+                        <div class="fig-caption"><span class="fig-label">Fig. 6.</span> 
+                           
+                           <p id="p-28" class="first-child">Fig. 6. Mortality by allocated treatment for all randomly assigned patients in five trials of intraportal cytotoxic infusion
+                              versus intraportal noncytotoxic infusion or versus systemic cytotoxic infusion. Hep = heparin; UK (not bold) = urokinase.
+                              For a more complete explanation of symbols and definitions of other abbreviations, <em>see</em> legend to <a id="xref-fig-2-4" class="xref-fig" href="#F2">Fig. 1</a>.
+                           </p>
+                           
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     
+                  </div>
+                  
+                  <div id="sec-6" class="subsection">
+                     
+                     <h3>Effect of PVI in Different Subgroups of Patients</h3>
+                     
+                     <p id="p-29">The effects of 5-FU PVI on all-cause mortality and on deaths from colorectal cancer among the 3088 patients with stage A,
+                        B, or C disease are shown in <a id="xref-fig-1-2" class="xref-fig" href="#F1">Table 1</a> for various subgroups. Overall, PVI was associated with an 18% (SD = 5%) reduction in the annual risk of death from any cause
+                        and a 22% (SD = 6%) reduction in death from colorectal cancer. Each of these apparent treatment effects differs by only about
+                        3 SD from zero, and so subgroup analyses may well yield untrustworthy results. Hence, the best estimate of the proportional
+                        reduction in a particular subgroup may be that obtained indirectly, by extrapolation of the overall proportional reduction,
+                        rather than that obtained directly from the effect actually observed in that subgroup (<a id="xref-ref-4-2" class="xref-bibr" href="#ref-4"><em>4</em></a>). For example, the best estimate of the proportional reduction in the annual risk of death among each of the groups of patients
+                        with stage A, B, or C disease may well be the statistically more stable overall proportional risk reduction of 18% rather
+                        than the less stable reductions of 27%, 18%, and 18%, respectively, that were actually seen in these subgroups. Likewise,
+                        although the proportional reduction in the risk of death is highly significant in colon cancer (21% [SD = 6%]) but not in
+                        rectal cancer (4% [SD = 11%]), it should not be concluded that PVI is effective for one but not the other. This caution is
+                        given partly because a formal test of “interaction” (i.e., of whether there is a greater benefit from PVI among patients with
+                        colon cancer than among patients with rectal cancer) is not statistically significant (<em>P</em> = .17), but chiefly because, if there is any real benefit from PVI, then the difference between its effect in different subgroups
+                        is likely to be quantitative (i.e., a benefit in both subgroups, but a somewhat larger benefit for one) rather than qualitative
+                        (i.e., a benefit for one subgroup but no benefit or harm for another) (<a id="xref-ref-4-3" class="xref-bibr" href="#ref-4"><em>4</em></a>). The other subgroup comparisons, which assess treatment among patients of different ages and sexes, provide no good evidence
+                        even of quantitative interactions, with a statistically significant benefit seen even in the elderly patients (aged &gt;65 years).
+                     </p>
+                     
+                  </div>
+                  
+               </div>
+               <div class="section discussion" id="sec-7">
+                  <div class="section-nav"><a href="#sec-3" title="Results" class="prev-section-link"><span>Previous Section</span></a><a href="#notes-1" title="Notes" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>Discussion</h2>
+                  
+                  <p id="p-30">These analyses suggest that a continuous infusion of 5-FU, administered postoperatively through the portal vein for about
+                     1 week after surgery, may reduce the proportional risk of death over the next few years by about 10% or 15%, which might correspond
+                     to an absolute 5-year survival improvement of about 5%. The four studies in which intraportal 5-FU was compared with intraportal
+                     infusion of a noncytotoxic drug provide some further support for a real benefit of 5-FU by PVI. If the apparent survival benefit
+                     from such a convenient procedure is real, then the finding would be important. Catheterization of a tributary of the portal
+                     venous system is a relatively quick procedure that adds only about 10–15 minutes to the duration of colorectal cancer surgery,
+                     5-FU is an inexpensive drug, usually no extra days of hospitalization are required, and major side effects are rare.
+                  </p>
+                  
+                  <p id="p-31">However, although this overview brings together data from 3500 patients, the apparent survival benefit is not statistically
+                     definite enough to form a basis for recommendations about whether the treatment should be adopted into routine use. This equivocal
+                     conclusion stems partly from the fact that even a couple of thousand deaths are not enough to investigate reliably a 5% improvement
+                     in 5-year survival and partly because there is no entirely satisfactory way of analyzing the randomly assigned patients who
+                     had unresectable disease. Although there is no good evidence that the postrandomization classification of such patients was
+                     appreciably biased (and, in particular, no evidence for the prior concern that liver metastases might have been more likely
+                     to be identified at the time of surgery in the PVI arm), there are other ways in which bias could have been introduced (for
+                     example, the definition of “inoperable” might, in some cases, have been related to difficulties in cannulation) on which adequate
+                     data were not obtainable. So, the appropriate way of testing whether PVI of 5-FU really does influence survival is to analyze
+                     all randomly assigned patients in an intention-to-treat analysis, even though this may weaken the statistical power to detect
+                     a true survival difference. Ineligible patients also complicate description of the size of any benefits of PVI among eligible
+                     patients. Because, if stage migration has occurred, then the estimate of the survival benefit just among patients with stage
+                     A to C disease will be somewhat inflated. Conversely, intention-totreat analyses including patients with stage D disease,
+                     who are likely to derive little or no benefit from PVI, will underestimate any real benefit for those with less advanced disease.
+                     Future studies of cytotoxic PVI should, therefore, consider whether they can randomly assign patients intraoperatively to
+                     minimize the number of ineligible patients assigned to trial treatments.
+                  </p>
+                  
+                  <p id="p-32">Recently, it has been hypothesized that, if PVI of 5-FU is effective, it works chiefly because the drug is given perioperatively
+                     and by continuous infusion and not because of the route of administration. This revised hypothesis originated with the finding
+                     in the large study (<a id="xref-ref-22-2" class="xref-bibr" href="#ref-22"><em>22</em></a>) undertaken by the National Surgical Adjuvant Breast and Bowel Project (NSABP) that, although recurrences as a whole were
+                     significantly fewer in the PVI group, the apparent reduction was confined to nonliver metastases (with, indeed, slightly more
+                     liver recurrences in the PVI group: 49 versus 46; <a id="xref-fig-6-2" class="xref-fig" href="#F6">Fig. 5</a>). However, seven of the other studies found fewer liver recurrences among patients receiving PVI, including the Rotterdam
+                     study (<a id="xref-ref-21-2" class="xref-bibr" href="#ref-21"><em>21</em></a>), which found significantly fewer, and there is no significant difference between the effect in the NSABP study and the eight
+                     other hypothesis-testing studies. Thus, although PVI of 5-FU does not appear to reduce liver metastases to the extent suggested
+                     by the first study, the hypothesis-testing studies have not precluded a reduction of about one quarter in the risk of liver
+                     metastases. Also, a reduction in the numbers of extrahepatic metastases does not necessarily imply that the same effect could
+                     be achieved by giving 5-FU systemically. Dissemination to extrahepatic sites, such as lung and bone, can be the result of
+                     secondary metastasis from the liver (<a id="xref-ref-34-1" class="xref-bibr" href="#ref-34"><em>34</em></a>). So, reducing micrometastases in the liver could have some effect on subsequent metastasis to other sites. The report (<a id="xref-ref-35-1" class="xref-bibr" href="#ref-35"><em>35</em></a>) that much higher levels of active 5-FU metabolites are found in the liver when 5-FU is given regionally than when it is
+                     given systemically provides some support for the route of administration being important, but such theoretical arguments cannot
+                     provide reliable answers as to the actual clinical risks and benefits of such treatment.
+                  </p>
+                  
+                  <p id="p-33">Given the limited amount of data, it is difficult to compare the sizes of the benefits within different subgroups of trials
+                     or patients. There is inadequate information, for example, to investigate whether the addition of mitomycin C in some studies
+                     contributed to treatment efficacy. Furthermore, it is not known whether the apparently larger benefit among patients with
+                     colon cancer, rather than rectal cancer, is real or whether it is largely or wholly due to chance. One observation to note,
+                     though, is that colorectal cancer deaths are significantly reduced, even among patients who are more than 65 years of age.
+                     The median age for colorectal cancer in developed countries is more than 70 years. So, a moderately effective and well-tolerated
+                     treatment might be particularly useful for such patients.
+                  </p>
+                  
+                  <p id="p-34">The present results are encouraging but not definitive. If ongoing trials of cytotoxic PVI succeed in recruiting several thousand
+                     patients, then they will be able to define reliably the size of any survival benefit achievable with PVI. (The U.K. Adjuvant
+                     X-ray and Infusion Study [AXIS] trial has randomly assigned 3000 patients out of an eventual target of 4000, and a Chinese
+                     trial has randomly assigned intraoperatively 6000 patients out of an eventual target of at least 8000.) It may be that any
+                     benefits of PVI are comparable in size with those of the newer, prolonged systemic chemotherapy regimens such as 5-FU/folinic
+                     acid (<a id="xref-ref-9-2" class="xref-bibr" href="#ref-9"><em>9</em></a>,<a id="xref-ref-10-2" class="xref-bibr" href="#ref-10"><em>10</em></a>) or 5-FU/levamisole (<a id="xref-ref-7-2" class="xref-bibr" href="#ref-7"><em>7</em></a>)—in which case, the more convenient PVI might well be preferable—or it may be that greater benefit could be achieved by giving
+                     both PVI and systemic chemotherapy. If a 1-week continuous infusion of about 1 g/day of 5-FU by PVI does reduce mortality
+                     by 10%-15%, then it is likely that even greater benefit could be achieved by improving this regimen. For example, it could
+                     be given for longer or at a higher dose, or it could be given in combination with 5-FU biomodulators or other drugs. These
+                     and many other questions could be answered reliably by randomized trials that each involve several thousands of patients.
+                     But, unless entry into randomized trials becomes a more routine part of hospital practice than it has been over the past few
+                     decades, such trials are unlikely to be practicable.
+                  </p>
+                  
+               </div>
+               <div class="section notes" id="notes-1">
+                  <div class="section-nav"><a href="#sec-7" title="Discussion" class="prev-section-link"><span>Previous Section</span></a><a href="#fn-group-1" title="Footnotes" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>Notes</h2>
+                  
+                  <p id="p-35">The Secretariat and Writing Committee are as follows: R. Gray, M. Clarke, R. Collins, and R. Peto (Clinical Trial Service
+                     Unit, Oxford, U.K.); P. Piedbois (Hôpital Henri Mondor, Paris, France); and M. Buyse (International Institute for Drug Development,
+                     Brussels, Belgium).
+                  </p>
+                  
+                  <p id="p-36">The trial groups and trialists that collaborated in the meta-analysis are, in alphabetical order of group, institute, or location,
+                     as follows: B. Gray (Australasia); H. H. Gruenagel and M. Franzkowiak de Rodriguez (Düsseldorf, Evangelica Hospital); D. Nitti
+                     and T. Sahmoud (European Organization for Research and Treatment of Cancer); L. P. Fielding, J. Fry, and R. Hittinger (Large
+                     Bowel Cancer Project, U.K.); R. Beart, J. Ingle, M. Kahn, and M. O'Connell (North Central Cancer Treatment Group); H. Rockette
+                     and N. Wolmark (National Surgical Adjuvant Breast and Bowel Project, United States); J. Wereldsma, E. D. M. Bruggink, W. S.
+                     Meyer, J. A. Roukema, and W. van Putten (Rotterdam, The Netherlands); J. Crowley and J. Ryan (Virginia Mason Hospital, Seattle,
+                     WA); U. Metzger, U. Laffer, M. Castiglione, and R. Maibach (Swiss Group for Clinical Cancer Research); and I. Taylor (UK First
+                     Study).
+                  </p>
+                  
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <div class="section-nav"><a href="#notes-1" title="Notes" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn-supported-by" id="fn-1">
+                        
+                        <p id="p-1">Supported by the Imperial Cancer Research Fund, the Ligue Nationale Française Contre le Cancer, the Conseil Général du Val
+                           de Marne, and the BIOMED Programme of the European Community (grant PL 931247).
+                        </p>
+                        
+                     </li>
+                     <li class="fn-other" id="fn-2">
+                        
+                        <p id="p-2">We thank the thousands of patients who took part in these trials and so helped determine how best to treat colorectal cancer
+                           and the medical, statistical, and administrative trial investigators who carefully checked any queries and provided details
+                           on the trials. Vaughan Evans, Jon Godwin, Liz Greaves, and Gale Mead provided data processing, administrative, and secretarial
+                           support.
+                        </p>
+                        
+                     </li>
+                  </ul>
+               </div>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#fn-group-1" title="Footnotes" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">(1)</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference (1) in text"
+                           id="ref-1">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.1">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pisani</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Parkin</span>  <span class="cit-name-given-names">DM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Ferlay</span>  <span class="cit-name-given-names">J</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Estimates of the worldwide mortality from eighteen major cancers in 1985. Implications for prevention and projections of future
+                                    burden</span>. <abbr class="cit-jnl-abbrev">Int J Cancer</abbr> <span class="cit-pub-date">1993</span>;<span class="cit-vol">55</span>:<span class="cit-fpage">891</span>-<span class="cit-lpage">903</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=8253525&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1993MM08900003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Estimates%20of%20the%20worldwide%20mortality%20from%20eighteen%20major%20cancers%20in%201985.%20Implications%20for%20prevention%20and%20projections%20of%20future%20burden&amp;author=P%20Pisani&amp;author=DM%20Parkin&amp;author=J%20Ferlay&amp;publication_year=1993&amp;journal=Int%20J%20Cancer&amp;volume=55&amp;pages=891-903">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(2)</span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference (2) in text"
+                           id="ref-2">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.2">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Thomas</span>  <span class="cit-name-given-names">WH</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Larson</span>  <span class="cit-name-given-names">RA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wright</span>  <span class="cit-name-given-names">HK</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Cleveland</span>  <span class="cit-name-given-names">JC</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Analysis of 830 cases of rectal adenocarcinoma. 1. Progressively improved results of treatment</span>. <abbr class="cit-jnl-abbrev">Conn Med</abbr> <span class="cit-pub-date">1969</span>;<span class="cit-vol">33</span>:<span class="cit-fpage">569</span>-<span class="cit-lpage">70</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=5823555&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Analysis%20of%20830%20cases%20of%20rectal%20adenocarcinoma.%201.%20Progressively%20improved%20results%20of%20treatment&amp;author=WH%20Thomas&amp;author=RA%20Larson&amp;author=HK%20Wright&amp;author=JC%20Cleveland&amp;publication_year=1969&amp;journal=Conn%20Med&amp;volume=33&amp;pages=569-70">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(3)</span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference (3) in text"
+                           id="ref-3">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.3">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Ohman</span>  <span class="cit-name-given-names">U</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Colorectal carcinoma. A survey of 1345 cases 1950–1984</span>. <abbr class="cit-jnl-abbrev">Acta Chir Scand</abbr> <span class="cit-pub-date">1985</span>;<span class="cit-vol">151</span>:<span class="cit-fpage">675</span>-<span class="cit-lpage">9</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=4096172&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1985AYD3800004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Colorectal%20carcinoma.%20A%20survey%20of%201345%20cases%201950%E2%80%931984&amp;author=U%20Ohman&amp;publication_year=1985&amp;journal=Acta%20Chir%20Scand&amp;volume=151&amp;pages=675-9">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(4)</span><a class="rev-xref-ref" href="#xref-ref-4-1" title="View reference (4) in text"
+                           id="ref-4">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.4"
+                             data-doi="10.1016/0895-4356(94)00150-O">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Peto</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Collins</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Gray</span>  <span class="cit-name-given-names">R</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Large-scale randomized evidence: large simple, trials and overviews of trials</span>. <abbr class="cit-jnl-abbrev">J Clin Epidemiol</abbr> <span class="cit-pub-date">1995</span>;<span class="cit-vol">48</span>:<span class="cit-fpage">23</span>-<span class="cit-lpage">40</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0895-4356(94)00150-O&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7853045&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995QG57200006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Large-scale%20randomized%20evidence%3A%20large%20simple%2C%20trials%20and%20overviews%20of%20trials&amp;author=R%20Peto&amp;author=R%20Collins&amp;author=R%20Gray&amp;publication_year=1995&amp;journal=J%20Clin%20Epidemiol&amp;volume=48&amp;pages=23-40">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(5)</span><a class="rev-xref-ref" href="#xref-ref-5-1" title="View reference (5) in text"
+                           id="ref-5">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.5"
+                             data-doi="10.1001/jama.1988.03720240033031">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Buyse</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Zeleniuch-Jacquotte</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Chalmers</span>  <span class="cit-name-given-names">TC</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Adjuvant therapy of colorectal cancer. Why we still don't know</span>. <abbr class="cit-jnl-abbrev">JAMA</abbr> <span class="cit-pub-date">1988</span>;<span class="cit-vol">259</span>:<span class="cit-fpage">3571</span>-<span class="cit-lpage">8</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.1988.03720240033031&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3286920&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1988N776400025&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Adjuvant%20therapy%20of%20colorectal%20cancer.%20Why%20we%20still%20don%27t%20know&amp;author=M%20Buyse&amp;author=A%20Zeleniuch-Jacquotte&amp;author=TC%20Chalmers&amp;publication_year=1988&amp;journal=JAMA&amp;volume=259&amp;pages=3571-8">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(6)</span><a class="rev-xref-ref" href="#xref-ref-6-1" title="View reference (6) in text"
+                           id="ref-6">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.6">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Gray</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">James</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mossman</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Stenning</span>  <span class="cit-name-given-names">S</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">AXIS—a suitable case for treatment. UK Coordinating Committee on Cancer Research (UKCCCR) Colorectal Cancer Subcommittee</span>. <abbr class="cit-jnl-abbrev">Br J Cancer</abbr> <span class="cit-pub-date">1991</span>;<span class="cit-vol">63</span>:<span class="cit-fpage">841</span>-<span class="cit-lpage">5</span>. <span class="cit-comment">[editorial]</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=2069842&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1991FU82300002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=AXIS%E2%80%94a%20suitable%20case%20for%20treatment.%20UK%20Coordinating%20Committee%20on%20Cancer%20Research%20%28UKCCCR%29%20Colorectal%20Cancer%20Subcommittee&amp;author=R%20Gray&amp;author=R%20James&amp;author=J%20Mossman&amp;author=S%20Stenning&amp;publication_year=1991&amp;journal=Br%20J%20Cancer&amp;volume=63&amp;pages=841-5">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(7)</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference (7) in text"
+                           id="ref-7">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.7">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Moertel</span>  <span class="cit-name-given-names">CG</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fleming</span>  <span class="cit-name-given-names">TR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Macdonald</span>  <span class="cit-name-given-names">JS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Haller</span>  <span class="cit-name-given-names">DG</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Laurie</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Tangen</span>  <span class="cit-name-given-names">CM</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Fluorouracil plus levamisole as effective adjuvant therapy after resection of stage III colon carcinoma: a final report</span>. <abbr class="cit-jnl-abbrev">Ann Intern Med</abbr> <span class="cit-pub-date">1995</span>;<span class="cit-vol">122</span>:<span class="cit-fpage">321</span>-<span class="cit-lpage">6</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=7847642&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995QJ08500001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Fluorouracil%20plus%20levamisole%20as%20effective%20adjuvant%20therapy%20after%20resection%20of%20stage%20III%20colon%20carcinoma%3A%20a%20final%20report&amp;author=CG%20Moertel&amp;author=TR%20Fleming&amp;author=JS%20Macdonald&amp;author=DG%20Haller&amp;author=JA%20Laurie&amp;author=CM%20Tangen&amp;publication_year=1995&amp;journal=Ann%20Intern%20Med&amp;volume=122&amp;pages=321-6">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(8)</span><a class="rev-xref-ref" href="#xref-ref-8-1" title="View reference (8) in text"
+                           id="ref-8">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.8">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Zalcberg</span>  <span class="cit-name-given-names">JR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Siderov</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Simes</span>  <span class="cit-name-given-names">J</span></span></li>
+                              </ol><cite>; <span class="cit-auth cit-collab">on behalf of the Australasian Gastrointestinal Trials Group</span>. <span class="cit-article-title">The role of 5-fluorouracil dose in the adjuvant therapy of colorectal cancer</span>. <abbr class="cit-jnl-abbrev">Ann Oncol</abbr> <span class="cit-pub-date">1996</span>;<span class="cit-vol">7</span>:<span class="cit-fpage">41</span>-<span class="cit-lpage">6</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=annonc&amp;resid=7/1/41"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(9)</span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference (9) in text"
+                           id="ref-9">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.9"
+                             data-doi="10.1016/S0140-6736(95)90696-7">
+                           <div class="cit-metadata"><cite><span class="cit-auth cit-collab">International Multicentre Pooled Analysis of Colon Cancer Trials (IMPACT) investigators</span>. <span class="cit-article-title">Efficacy of adjuvant fluorouracil and folinic acid in colon cancer</span>. <abbr class="cit-jnl-abbrev">Lancet</abbr> <span class="cit-pub-date">1995</span>;<span class="cit-vol">345</span>:<span class="cit-fpage">939</span>-<span class="cit-lpage">44</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(95)90696-7&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7715291&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995QT91900006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(10)</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference (10) in text"
+                           id="ref-10">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.10">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wolmark</span>  <span class="cit-name-given-names">N</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rockette</span>  <span class="cit-name-given-names">H</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fisher</span>  <span class="cit-name-given-names">B</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wickerham</span>  <span class="cit-name-given-names">DL</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Redmond</span>  <span class="cit-name-given-names">C</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fisher</span>  <span class="cit-name-given-names">ER</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">The benefit of leucovorin-modulated fluorouracil as postoperative adjuvant therapy for primary colon cancer: results from
+                                    National Surgical Adjuvant Breast and Bowel Project Protocol C-03</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">1993</span>;<span class="cit-vol">11</span>:<span class="cit-fpage">1879</span>-<span class="cit-lpage">87</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=11/10/1879"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(11)</span><a class="rev-xref-ref" href="#xref-ref-11-1" title="View reference (11) in text"
+                           id="ref-11">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.11">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Cedarmark</span>  <span class="cit-name-given-names">BJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Blumenson</span>  <span class="cit-name-given-names">LE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pickren</span>  <span class="cit-name-given-names">JW</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Holyoke</span>  <span class="cit-name-given-names">DE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Elias</span>  <span class="cit-name-given-names">EG</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">The significance of metastases to the adrenal glands in adenocarcinoma of the colon and rectum</span>. <abbr class="cit-jnl-abbrev">Surg Gynecol Obstet</abbr> <span class="cit-pub-date">1977</span>;<span class="cit-vol">144</span>:<span class="cit-fpage">537</span>-<span class="cit-lpage">46</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=847609&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1977DA43000010&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=The%20significance%20of%20metastases%20to%20the%20adrenal%20glands%20in%20adenocarcinoma%20of%20the%20colon%20and%20rectum&amp;author=BJ%20Cedarmark&amp;author=LE%20Blumenson&amp;author=JW%20Pickren&amp;author=DE%20Holyoke&amp;author=EG%20Elias&amp;publication_year=1977&amp;journal=Surg%20Gynecol%20Obstet&amp;volume=144&amp;pages=537-46">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(12)</span><a class="rev-xref-ref" href="#xref-ref-12-1" title="View reference (12) in text"
+                           id="ref-12">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.12">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Goslin</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Steele</span>  <span class="cit-name-given-names">G</span>  <span class="cit-name-suffix">Jr</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Zamcheck</span>  <span class="cit-name-given-names">N</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mayer</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">MacIntyre</span>  <span class="cit-name-given-names">I</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Factors influencing survival in patients with hepatic metastases from adenocarcinoma of the colon or rectum</span>. <abbr class="cit-jnl-abbrev">Dis Colon Rectum</abbr> <span class="cit-pub-date">1982</span>;<span class="cit-vol">25</span>:<span class="cit-fpage">749</span>-<span class="cit-lpage">54</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=7172942&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1982PU91300001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Factors%20influencing%20survival%20in%20patients%20with%20hepatic%20metastases%20from%20adenocarcinoma%20of%20the%20colon%20or%20rectum&amp;author=R%20Goslin&amp;author=G%20Steele&amp;author=N%20Zamcheck&amp;author=R%20Mayer&amp;author=I%20MacIntyre&amp;publication_year=1982&amp;journal=Dis%20Colon%20Rectum&amp;volume=25&amp;pages=749-54">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(13)</span><a class="rev-xref-ref" href="#xref-ref-13-1" title="View reference (13) in text"
+                           id="ref-13">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.13">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Holden</span>  <span class="cit-name-given-names">WD</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Dixon</span>  <span class="cit-name-given-names">WJ</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">A study on the use of triethylenethiophosporamide as an adjuvant to surgery in the treatment of colorectal cancer</span>. <abbr class="cit-jnl-abbrev">Cancer Chemother Rep</abbr> <span class="cit-pub-date">1962</span>;<span class="cit-vol">16</span>:<span class="cit-fpage">129</span>-<span class="cit-lpage">34</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=13908313&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=A%20study%20on%20the%20use%20of%20triethylenethiophosporamide%20as%20an%20adjuvant%20to%20surgery%20in%20the%20treatment%20of%20colorectal%20cancer&amp;author=WD%20Holden&amp;author=WJ%20Dixon&amp;publication_year=1962&amp;journal=Cancer%20Chemother%20Rep&amp;volume=16&amp;pages=129-34">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(14)</span><a class="rev-xref-ref" href="#xref-ref-14-1" title="View reference (14) in text"
+                           id="ref-14">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.14">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Morales</span>  <span class="cit-name-given-names">F</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bell</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">McDonald</span>  <span class="cit-name-given-names">GO</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Cole</span>  <span class="cit-name-given-names">WH</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">The prophylactic treatment of cancer at the time of operation</span>. <abbr class="cit-jnl-abbrev">Ann Surg</abbr> <span class="cit-pub-date">1957</span>;<span class="cit-vol">146</span>:<span class="cit-fpage">588</span>-<span class="cit-lpage">95</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=13470750&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1957WF46600006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=The%20prophylactic%20treatment%20of%20cancer%20at%20the%20time%20of%20operation&amp;author=F%20Morales&amp;author=M%20Bell&amp;author=GO%20McDonald&amp;author=WH%20Cole&amp;publication_year=1957&amp;journal=Ann%20Surg&amp;volume=146&amp;pages=588-95">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(15)</span><a class="rev-xref-ref" href="#xref-ref-15-1" title="View reference (15) in text"
+                           id="ref-15">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.15">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Taylor</span>  <span class="cit-name-given-names">I</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Machin</span>  <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mullee</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Trotter</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Cooke</span>  <span class="cit-name-given-names">T</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">West</span>  <span class="cit-name-given-names">C</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">A randomized controlled trial of adjuvant portal vein cytotoxic perfusion in colorectal cancer</span>. <abbr class="cit-jnl-abbrev">Br J Surg</abbr> <span class="cit-pub-date">1985</span>;<span class="cit-vol">72</span>:<span class="cit-fpage">359</span>-<span class="cit-lpage">63</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=3888335&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1985AHW1900008&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=A%20randomized%20controlled%20trial%20of%20adjuvant%20portal%20vein%20cytotoxic%20perfusion%20in%20colorectal%20cancer&amp;author=I%20Taylor&amp;author=D%20Machin&amp;author=M%20Mullee&amp;author=G%20Trotter&amp;author=T%20Cooke&amp;author=C%20West&amp;publication_year=1985&amp;journal=Br%20J%20Surg&amp;volume=72&amp;pages=359-63">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(16)</span><a class="rev-xref-ref" href="#xref-ref-16-1" title="View reference (16) in text"
+                           id="ref-16">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.16">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Taylor</span>  <span class="cit-name-given-names">I</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rowling</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">West</span>  <span class="cit-name-given-names">C</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Adjuvant cytotoxic liver perfusion for colorectal cancer</span>. <abbr class="cit-jnl-abbrev">Br J Surg</abbr> <span class="cit-pub-date">1979</span>;<span class="cit-vol">66</span>:<span class="cit-fpage">833</span>-<span class="cit-lpage">7</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=509055&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1979JA18700001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Adjuvant%20cytotoxic%20liver%20perfusion%20for%20colorectal%20cancer&amp;author=I%20Taylor&amp;author=J%20Rowling&amp;author=C%20West&amp;publication_year=1979&amp;journal=Br%20J%20Surg&amp;volume=66&amp;pages=833-7">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(17)</span><a class="rev-xref-ref" href="#xref-ref-17-1" title="View reference (17) in text"
+                           id="ref-17">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.17"
+                             data-doi="10.1001/archsurg.1990.01410190095015">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Beart</span>  <span class="cit-name-given-names">RWJr</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Moertel</span>  <span class="cit-name-given-names">CG</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wieand</span>  <span class="cit-name-given-names">HS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Leigh</span>  <span class="cit-name-given-names">JE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Windschitl</span>  <span class="cit-name-given-names">HE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">vanHeerden</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Adjuvant therapy for resectable colorectal carcinoma with fluorouracil administered by portal vein infusion. A study of the
+                                    Mayo Clinic and the North Central Cancer Treatment Group</span>. <abbr class="cit-jnl-abbrev">Arch Surg</abbr> <span class="cit-pub-date">1990</span>;<span class="cit-vol">125</span>:<span class="cit-fpage">897</span>-<span class="cit-lpage">901</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/archsurg.1990.01410190095015&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=2369315&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1990DM63400014&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Adjuvant%20therapy%20for%20resectable%20colorectal%20carcinoma%20with%20fluorouracil%20administered%20by%20portal%20vein%20infusion.%20A%20study%20of%20the%20Mayo%20Clinic%20and%20the%20North%20Central%20Cancer%20Treatment%20Group&amp;author=RWJr%20Beart&amp;author=CG%20Moertel&amp;author=HS%20Wieand&amp;author=JE%20Leigh&amp;author=HE%20Windschitl&amp;author=JA%20vanHeerden&amp;publication_year=1990&amp;journal=Arch%20Surg&amp;volume=125&amp;pages=897-901">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(18)</span><a class="rev-xref-ref" href="#xref-ref-18-1" title="View reference (18) in text"
+                           id="ref-18">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.18"
+                             data-doi="10.1016/0140-6736(92)91708-G">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fielding</span>  <span class="cit-name-given-names">LP</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hittinger</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Grace</span>  <span class="cit-name-given-names">RH</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fry</span>  <span class="cit-name-given-names">JS</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Randomised controlled trial of adjuvant chemotherapy by portal-vein infusion after curative resection for colorectal adenocarcinoma</span>. <abbr class="cit-jnl-abbrev">Lancet</abbr> <span class="cit-pub-date">1992</span>;<span class="cit-vol">340</span>:<span class="cit-fpage">502</span>-<span class="cit-lpage">6</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0140-6736(92)91708-G&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=1354275&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1992JL23400002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Randomised%20controlled%20trial%20of%20adjuvant%20chemotherapy%20by%20portal-vein%20infusion%20after%20curative%20resection%20for%20colorectal%20adenocarcinoma&amp;author=LP%20Fielding&amp;author=R%20Hittinger&amp;author=RH%20Grace&amp;author=JS%20Fry&amp;publication_year=1992&amp;journal=Lancet&amp;volume=340&amp;pages=502-6">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(19)</span><a class="rev-xref-ref" href="#xref-ref-19-1" title="View reference (19) in text"
+                           id="ref-19">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.19">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Ryan</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Weiden</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Crowley</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bloch</span>  <span class="cit-name-given-names">K</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Adjuvant portal vein infusion for colorectal cancer: a 3-arm randomized trial</span>. <abbr class="cit-jnl-abbrev">Proc ASCO</abbr> <span class="cit-pub-date">1988</span>;<span class="cit-vol">7</span>:<span class="cit-fpage">95</span>. <span class="cit-comment">[abstract]</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Adjuvant%20portal%20vein%20infusion%20for%20colorectal%20cancer%3A%20a%203-arm%20randomized%20trial&amp;author=J%20Ryan&amp;author=P%20Weiden&amp;author=J%20Crowley&amp;author=K%20Bloch&amp;publication_year=1988&amp;journal=Proc%20ASCO&amp;volume=7&amp;pages=95">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(20)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-journal no-rev-xref" id="cit-89.7.497.20">
+                           <div class="cit-metadata"><cite><span class="cit-auth cit-collab">Swiss Group for Clinical Cancer Research (SAKK)</span>. <span class="cit-article-title">Long-term results of single course of adjuvant intraportal chemotherapy for colorectal cancer</span>. <abbr class="cit-jnl-abbrev">Lancet</abbr> <span class="cit-pub-date">1995</span>;<span class="cit-vol">345</span>:<span class="cit-fpage">349</span>-<span class="cit-lpage">53</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=7845115&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995QF72200008&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(21)</span><a class="rev-xref-ref" href="#xref-ref-21-1" title="View reference (21) in text"
+                           id="ref-21">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.21"
+                             data-doi="10.1002/1097-0142(19900201)65:3&lt;425::AID-CNCR2820650309&gt;3.0.CO;2-M">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wereldsma</span>  <span class="cit-name-given-names">JC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bruggink</span>  <span class="cit-name-given-names">ED</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Meijer</span>  <span class="cit-name-given-names">WS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Roukema</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">van Putten</span>  <span class="cit-name-given-names">WL</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Adjuvant portal liver infusion in colorectal cancer with 5-fluorouracil/heparin versus urokinase versus control. Results of
+                                    a prospective randomized clinical trial (Colorectal Adenocarcinoma Trial I)</span>. <abbr class="cit-jnl-abbrev">Cancer</abbr> <span class="cit-pub-date">1990</span>;<span class="cit-vol">65</span>:<span class="cit-fpage">425</span>-<span class="cit-lpage">32</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/1097-0142(19900201)65:3%3C425::AID-CNCR2820650309%3E3.0.CO;2-M&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=2404556&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Adjuvant%20portal%20liver%20infusion%20in%20colorectal%20cancer%20with%205-fluorouracil%2Fheparin%20versus%20urokinase%20versus%20control.%20Results%20of%20a%20prospective%20randomized%20clinical%20trial%20%28Colorectal%20Adenocarcinoma%20Trial%20I%29&amp;author=JC%20Wereldsma&amp;author=ED%20Bruggink&amp;author=WS%20Meijer&amp;author=JA%20Roukema&amp;author=WL%20van%20Putten&amp;publication_year=1990&amp;journal=Cancer&amp;volume=65&amp;pages=425-32">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(22)</span><a class="rev-xref-ref" href="#xref-ref-22-1" title="View reference (22) in text"
+                           id="ref-22">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.22">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wolmark</span>  <span class="cit-name-given-names">N</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rockette</span>  <span class="cit-name-given-names">H</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wickerham</span>  <span class="cit-name-given-names">DL</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fisher</span>  <span class="cit-name-given-names">B</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Redmond</span>  <span class="cit-name-given-names">C</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fisher</span>  <span class="cit-name-given-names">ER</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Adjuvant therapy of Dukes' A, B, and C adenocarcinoma of the colon with portal-vein fluorouracil hepatic infusion: preliminary
+                                    results of National Surgical Adjuvant Breast and Bowel Project Protocol C-02</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">1990</span>;<span class="cit-vol">8</span>:<span class="cit-fpage">1466</span>-<span class="cit-lpage">75</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=8/9/1466"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(23)</span><a class="rev-xref-ref" href="#xref-ref-23-1" title="View reference (23) in text"
+                           id="ref-23">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.23">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Peto</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pike</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Armitage</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Breslow</span>  <span class="cit-name-given-names">NE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Cox</span>  <span class="cit-name-given-names">DR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Howard</span>  <span class="cit-name-given-names">SV</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Design and analysis of randomised clinical trials requiring prolonged observation of each patient I: introduction and design</span>. <abbr class="cit-jnl-abbrev">Br J Cancer</abbr> <span class="cit-pub-date">1976</span>;<span class="cit-vol">34</span>:<span class="cit-fpage">585</span>-<span class="cit-lpage">612</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=795448&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1976CQ95300002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Design%20and%20analysis%20of%20randomised%20clinical%20trials%20requiring%20prolonged%20observation%20of%20each%20patient%20I%3A%20introduction%20and%20design&amp;author=R%20Peto&amp;author=M%20Pike&amp;author=P%20Armitage&amp;author=NE%20Breslow&amp;author=DR%20Cox&amp;author=SV%20Howard&amp;publication_year=1976&amp;journal=Br%20J%20Cancer&amp;volume=34&amp;pages=585-612">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(24)</span><a class="rev-xref-ref" href="#xref-ref-24-1" title="View reference (24) in text"
+                           id="ref-24">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.24">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Buyse</span>  <span class="cit-name-given-names">M</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Meta-analyses use and misuse</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr> <span class="cit-pub-date">1993</span>;<span class="cit-vol">11</span>:<span class="cit-fpage">38</span>. <span class="cit-comment">[letter]</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Meta-analyses%20use%20and%20misuse&amp;author=M%20Buyse&amp;publication_year=1993&amp;journal=J%20Clin%20Oncol&amp;volume=11&amp;pages=38">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(25)</span><a class="rev-xref-ref" href="#xref-ref-25-1" title="View reference (25) in text"
+                           id="ref-25">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.25">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Clarke</span>  <span class="cit-name-given-names">MJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Stewart</span>  <span class="cit-name-given-names">LA</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Obtaining data from randomized controlled trials: how much do we need for reliable and informative meta-analyses?</span> <abbr class="cit-jnl-abbrev">BMJ</abbr> <span class="cit-pub-date">1994</span>;<span class="cit-vol">309</span>:<span class="cit-fpage">1007</span>-<span class="cit-lpage">10</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=FULL&amp;journalCode=bmj&amp;resid=309/6960/1007"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(26)</span><a class="rev-xref-ref" href="#xref-ref-26-1" title="View reference (26) in text"
+                           id="ref-26">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.26">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Feinstein</span>  <span class="cit-name-given-names">AR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Sosin</span>  <span class="cit-name-given-names">DM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Wells</span>  <span class="cit-name-given-names">CK</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">The Will Rogers phenomenon. Stage migration and new diagnostic techniques as a source of misleading statistics for survival
+                                    in cancer</span>. <abbr class="cit-jnl-abbrev">N Engl J Med</abbr> <span class="cit-pub-date">1985</span>;<span class="cit-vol">312</span>:<span class="cit-fpage">1604</span>-<span class="cit-lpage">8</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=4000199&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1985AKG1600004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=The%20Will%20Rogers%20phenomenon.%20Stage%20migration%20and%20new%20diagnostic%20techniques%20as%20a%20source%20of%20misleading%20statistics%20for%20survival%20in%20cancer&amp;author=AR%20Feinstein&amp;author=DM%20Sosin&amp;author=CK%20Wells&amp;publication_year=1985&amp;journal=N%20Engl%20J%20Med&amp;volume=312&amp;pages=1604-8">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(27)</span><a class="rev-xref-ref" href="#xref-ref-27-1" title="View reference (27) in text"
+                           id="ref-27">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.27">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Collins</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Gray</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Godwin</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Peto</span>  <span class="cit-name-given-names">R</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Avoidance of large biases and large random errors in the assessment of moderate treatment effects: the need for systematic
+                                    overviews</span>. <abbr class="cit-jnl-abbrev">Stat Med</abbr> <span class="cit-pub-date">1987</span>;<span class="cit-vol">6</span>:<span class="cit-fpage">245</span>-<span class="cit-lpage">54</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=3616282&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1987H713900004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Avoidance%20of%20large%20biases%20and%20large%20random%20errors%20in%20the%20assessment%20of%20moderate%20treatment%20effects%3A%20the%20need%20for%20systematic%20overviews&amp;author=R%20Collins&amp;author=R%20Gray&amp;author=J%20Godwin&amp;author=R%20Peto&amp;publication_year=1987&amp;journal=Stat%20Med&amp;volume=6&amp;pages=245-54">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(28)</span><a class="rev-xref-ref" href="#xref-ref-28-1" title="View reference (28) in text"
+                           id="ref-28">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.28"
+                             data-doi="10.1016/0140-6736(93)93004-K">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Stewart</span>  <span class="cit-name-given-names">LA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Parmar</span>  <span class="cit-name-given-names">MK</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Meta-analysis of the literature or of individual patient data: is there a difference?</span> <abbr class="cit-jnl-abbrev">Lancet</abbr> <span class="cit-pub-date">1993</span>;<span class="cit-vol">341</span>:<span class="cit-fpage">418</span>-<span class="cit-lpage">22</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0140-6736(93)93004-K&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=8094183&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1993KM41600018&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Meta-analysis%20of%20the%20literature%20or%20of%20individual%20patient%20data%3A%20is%20there%20a%20difference%3F&amp;author=LA%20Stewart&amp;author=MK%20Parmar&amp;publication_year=1993&amp;journal=Lancet&amp;volume=341&amp;pages=418-22">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(29)</span><a class="rev-xref-ref" href="#xref-ref-29-1" title="View reference (29) in text"
+                           id="ref-29">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-confproc" id="cit-89.7.497.29">
+                           <div class="cit-metadata">
+                              <ol class="cit-ed-list">
+                                 <li><span class="cit-ed"><span class="cit-name-surname">Schlag</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-ed"><span class="cit-name-surname">Saeger</span>  <span class="cit-name-given-names">HD</span></span>, 
+                                 </li>
+                                 <li><span class="cit-ed"><span class="cit-name-surname">Friedl</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>, editors. <span class="cit-article-title">Perioperative adjuvant intraportal FUDR-chemotherapy does not influence prognosis of colon cancer patients</span>. <span class="cit-conf-name">In proceedings of the Sixth International Conference on the Adjuvant Therapy of Cancer</span>. <span class="cit-pub-date">1990</span>. <span class="cit-comment">[abstract]</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Perioperative%20adjuvant%20intraportal%20FUDR-chemotherapy%20does%20not%20influence%20prognosis%20of%20colon%20cancer%20patients&amp;author=P%20Schlag&amp;author=HD%20Saeger&amp;author=P%20Friedl&amp;publication_year=1990">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(30)</span><a class="rev-xref-ref" href="#xref-ref-30-1" title="View reference (30) in text"
+                           id="ref-30">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.30"
+                             data-doi="10.1007/BF00311529">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kimura</span>  <span class="cit-name-given-names">O</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kurayoshi</span>  <span class="cit-name-given-names">K</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hoshino</span>  <span class="cit-name-given-names">K</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Sugezawa</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Makino</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kaibara</span>  <span class="cit-name-given-names">N</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Prophylactic portal infusion chemotherapy as adjuvant therapy for the prevention of metachronous liver metastasis in colorectal
+                                    cancer</span>. <abbr class="cit-jnl-abbrev">Surg Today</abbr> <span class="cit-pub-date">1995</span>;<span class="cit-vol">25</span>:<span class="cit-fpage">211</span>-<span class="cit-lpage">6</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/BF00311529&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7640448&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995QX45900004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Prophylactic%20portal%20infusion%20chemotherapy%20as%20adjuvant%20therapy%20for%20the%20prevention%20of%20metachronous%20liver%20metastasis%20in%20colorectal%20cancer&amp;author=O%20Kimura&amp;author=K%20Kurayoshi&amp;author=K%20Hoshino&amp;author=A%20Sugezawa&amp;author=M%20Makino&amp;author=N%20Kaibara&amp;publication_year=1995&amp;journal=Surg%20Today&amp;volume=25&amp;pages=211-6">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(31)</span><a class="rev-xref-ref" href="#xref-ref-31-1" title="View reference (31) in text"
+                           id="ref-31">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.31"
+                             data-doi="10.1002/path.1700350303">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Dukes</span>  <span class="cit-name-given-names">CE</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">The classification of cancer of the rectum</span>. <abbr class="cit-jnl-abbrev">J Pathol</abbr> <span class="cit-pub-date">1932</span>;<span class="cit-vol">35</span>:<span class="cit-fpage">323</span>-<span class="cit-lpage">32</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/path.1700350303&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=000188408900002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=The%20classification%20of%20cancer%20of%20the%20rectum&amp;author=CE%20Dukes&amp;publication_year=1932&amp;journal=J%20Pathol&amp;volume=35&amp;pages=323-32">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(32)</span><a class="rev-xref-ref" href="#xref-ref-32-1" title="View reference (32) in text"
+                           id="ref-32">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.32">
+                           <div class="cit-metadata"><cite><span class="cit-auth cit-collab">Early Breast Cancer Trialists' Collaborative Group</span>. <span class="cit-article-title">Systemic treatment of early breast cancer by hormonal, cytotoxic, or immune therapy: 133 randomised trials involving 31,000
+                                    recurrences and 24,000 deaths among 75,000 women</span>. <abbr class="cit-jnl-abbrev">Lancet</abbr> <span class="cit-pub-date">1992</span>;<span class="cit-vol">339</span>:<span class="cit-fpage">71</span>-<span class="cit-lpage">85</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=1345869&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1992GZ15600001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(33)</span><a class="rev-xref-ref" href="#xref-ref-33-1" title="View reference (33) in text"
+                           id="ref-33">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.33"
+                             data-doi="10.1056/NEJM199511303332202">
+                           <div class="cit-metadata"><cite><span class="cit-auth cit-collab">Early Breast Cancer Trialists' Collaborative Group</span>. <span class="cit-article-title">Effects of radiotherapy and surgery in early breast cancer. An overview of the randomized trials</span>. <abbr class="cit-jnl-abbrev">N Engl J Med</abbr> <span class="cit-pub-date">1995</span>;<span class="cit-vol">333</span>:<span class="cit-fpage">1444</span>-<span class="cit-lpage">55</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJM199511303332202&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7477144&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995TG44500002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(34)</span><a class="rev-xref-ref" href="#xref-ref-34-1" title="View reference (34) in text"
+                           id="ref-34">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.34"
+                             data-doi="10.1002/path.1711500308">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Weiss</span>  <span class="cit-name-given-names">L</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Grundmann</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Torhorst</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hartveit</span>  <span class="cit-name-given-names">F</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Moberg</span>  <span class="cit-name-given-names">I</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Eder</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al</span></li>
+                              </ol><cite>. <span class="cit-article-title">Haematogenous metastatic patterns in colonic carcinoma: an analysis of 1541 necropsies</span>. <abbr class="cit-jnl-abbrev">J Pathol</abbr> <span class="cit-pub-date">1986</span>;<span class="cit-vol">150</span>:<span class="cit-fpage">195</span>-<span class="cit-lpage">203</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/path.1711500308&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3806280&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1986F211900007&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Haematogenous%20metastatic%20patterns%20in%20colonic%20carcinoma%3A%20an%20analysis%20of%201541%20necropsies&amp;author=L%20Weiss&amp;author=E%20Grundmann&amp;author=J%20Torhorst&amp;author=F%20Hartveit&amp;author=I%20Moberg&amp;author=M%20Eder&amp;publication_year=1986&amp;journal=J%20Pathol&amp;volume=150&amp;pages=195-203">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(35)</span><a class="rev-xref-ref" href="#xref-ref-35-1" title="View reference (35) in text"
+                           id="ref-35">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-journal" id="cit-89.7.497.35">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Goldberg</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kerr</span>  <span class="cit-name-given-names">DJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Willmott</span>  <span class="cit-name-given-names">N</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">McKillop</span>  <span class="cit-name-given-names">JH</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">McArdle</span>  <span class="cit-name-given-names">CS</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Pharmacokinetics and pharmacodynamics of locoregional 5 fluorouracil (5FU) in advanced colorectal liver metastases</span>. <abbr class="cit-jnl-abbrev">Br J Cancer</abbr> <span class="cit-pub-date">1988</span>;<span class="cit-vol">57</span>:<span class="cit-fpage">186</span>-<span class="cit-lpage">9</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=3358909&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1988M779700013&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Pharmacokinetics%20and%20pharmacodynamics%20of%20locoregional%205%20fluorouracil%20%285FU%29%20in%20advanced%20colorectal%20liver%20metastases&amp;author=JA%20Goldberg&amp;author=DJ%20Kerr&amp;author=N%20Willmott&amp;author=JH%20McKillop&amp;author=CS%20McArdle&amp;publication_year=1988&amp;journal=Br%20J%20Cancer&amp;volume=57&amp;pages=186-9">Google Scholar</a></div>
+                        </div>
+                        
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/89/7/488.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/89/7/506.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/89/7.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (1997) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    89
+                                    </span><span class="slug-issue">
+                                    (7):
+                                    </span><span class="slug-pages">
+                                    497-505.
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/89.7.497" class="slug-doi">10.1093/jnci/89.7.497</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><a href="/content/89/7/497.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/89/7/497.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=Articles&amp;sortspec=date&amp;submit=Submit">Article</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;89/7/497" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B89%2F7%2F497&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/89/7/497.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=89/7/497&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/89/7/497.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3B89.7.497&amp;citation=%2089%20%287%29:%20497&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B89%2F7%2F497&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=9086006&amp;link_type=MED_NBRS" class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B89%2F7%2F497">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B89%2F7%2F497">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=Portal%20Vein%20Chemotherapy%20for%20Colorectal%20Cancer%3A%20a%20Meta-analysis%20of%204000%20Patients%20in%2010%20Studies%3A%20&amp;publicationDate=04%2F02%2F1997&amp;author=&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2F89.7.497&amp;volumeNum=89&amp;issueNum=7&amp;startPage=497&amp;endPage=505&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/89/7/497.full?cited-by=yes&amp;legid=jnci;89/7/497#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/89/7/497" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/89/7/497?access_num=/jnci/89/7/497" rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F89%2F7%2F497&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/89/7/497.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=9086006&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/89/7/497.full?related-urls=yes&amp;legid=jnci;89/7/497#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B89%2F7%2F497&amp;current-view-path=/content/89/7/497.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/89/7/497&amp;title=Portal%20Vein%20Chemotherapy%20for%20Colorectal%20Cancer%3A%20a%20Meta-analysis%20of%204000%20Patients%20in%2010%20Studies+--+%2089%20%287%29%3A%20497+--+jnci&amp;doi=10.1093/jnci/89.7.497&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/89/7/497&amp;title=Portal%20Vein%20Chemotherapy%20for%20Colorectal%20Cancer%3A%20a%20Meta-analysis%20of%204000%20Patients%20in%2010%20Studies+--+%2089%20%287%29%3A%20497+--+jnci&amp;doi=10.1093/jnci/89.7.497&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/89/7/497&amp;title=Portal%20Vein%20Chemotherapy%20for%20Colorectal%20Cancer%3A%20a%20Meta-analysis%20of%204000%20Patients%20in%2010%20Studies+--+%2089%20%287%29%3A%20497+--+jnci&amp;doi=10.1093/jnci/89.7.497&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/89/7/497&amp;title=Portal%20Vein%20Chemotherapy%20for%20Colorectal%20Cancer%3A%20a%20Meta-analysis%20of%204000%20Patients%20in%2010%20Studies+--+%2089%20%287%29%3A%20497+--+jnci&amp;doi=10.1093/jnci/89.7.497&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/89/7/497&amp;title=Portal%20Vein%20Chemotherapy%20for%20Colorectal%20Cancer%3A%20a%20Meta-analysis%20of%204000%20Patients%20in%2010%20Studies+--+%2089%20%287%29%3A%20497+--+jnci&amp;doi=10.1093/jnci/89.7.497&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/89/7/497&amp;title=Portal%20Vein%20Chemotherapy%20for%20Colorectal%20Cancer%3A%20a%20Meta-analysis%20of%204000%20Patients%20in%2010%20Studies+--+%2089%20%287%29%3A%20497+--+jnci&amp;doi=10.1093/jnci/89.7.497&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#abstract-1">Abstract</a></li>
+                        <li><a href="#sec-1">Materials and Methods</a></li>
+                        <li><a href="#sec-2">Statistical Methods</a></li>
+                        <li><a href="#sec-3">Results</a></li>
+                        <li><a href="#sec-7">Discussion</a></li>
+                        <li><a href="#notes-1">Notes</a></li>
+                        <li><a href="#fn-group-1">Footnotes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/89/7/497.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/89/7/497.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

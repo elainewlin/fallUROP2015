@@ -1,0 +1,2246 @@
+http://jnci.oxfordjournals.org/content/98/15/1078.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Processed Meat Consumption and Stomach Cancer Risk: A Meta-Analysis </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/98/15/1078" />
+      <meta content="/jnci/98/15/1078.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Processed Meat Consumption and Stomach Cancer Risk: A Meta-Analysis"
+            name="DC.Title" />
+      <meta content="10.1093/jnci/djj301" name="DC.Identifier" />
+      <meta content="2006-08-02" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Susanna C. Larsson" name="DC.Contributor" />
+      <meta content="Nicola Orsini" name="DC.Contributor" />
+      <meta content="Alicja Wolk" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta name="citation_author" content="Susanna C. Larsson" />
+      <meta name="citation_author" content="Nicola Orsini" />
+      <meta name="citation_author" content="Alicja Wolk" />
+      <meta content="Processed Meat Consumption and Stomach Cancer Risk: A Meta-Analysis"
+            name="citation_title" />
+      <meta content="08/02/2006" name="citation_date" />
+      <meta content="98" name="citation_volume" />
+      <meta content="15" name="citation_issue" />
+      <meta content="1078" name="citation_firstpage" />
+      <meta content="1087" name="citation_lastpage" />
+      <meta content="98/15/1078" name="citation_id" />
+      <meta content="98/15/1078" name="citation_id_from_sass_path" />
+      <meta content="jnci;98/15/1078" name="citation_mjid" />
+      <meta content="10.1093/jnci/djj301" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/98/15/1078.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/98/15/1078.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/98/15/1078.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/98/15/1078"
+            name="citation_public_url" />
+      <meta content="16882945" name="citation_pmid" />
+      <meta name="citation_section" content="Article" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/98/15/1068.short" rel="prev" />
+      <link href="/content/98/15/1088.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d27478725e1">var callbackToken='5372DC853212E83';</script><script type="text/javascript" id="session-d27478725e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:15:34.212-07:00';
+            var gSessionId = 'Jk9djtsgt1vs0PFRHXBmsA';
+            var gAuthzRequired = 'false';
+            var gAuthnMethods1 = 'ip ip';
+            var gAuthnMethods2 = 'ip,ip';
+            var gAuthnIPs = '18.189.59.169,18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/djj301");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("2 August 2006");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F98%2F15%2F1078.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/98/15.toc">
+                  <span xmlns="" class="volume-value">Volume 98</span>
+                  <span xmlns="" class="issue-value"> Issue 15</span></a></li>
+            <li>Pp. <span class="slug-pages">
+                  1078-1087.
+                  </span></li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/98/15/1078.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Processed Meat Consumption and Stomach Cancer Risk: A Meta-Analysis</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Susanna+C.+Larsson&amp;sortspec=date&amp;submit=Submit">Susanna C. Larsson</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Nicola+Orsini&amp;sortspec=date&amp;submit=Submit">Nicola Orsini</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-3"><span class="name"><a class="name-search"
+                              href="/search?author1=Alicja+Wolk&amp;sortspec=date&amp;submit=Submit">Alicja Wolk</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><em>Affiliation of authors:</em> Division of Nutritional Epidemiology, The National Institute of Environmental Medicine, Karolinska Institutet, Stockholm,
+                           Sweden
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="fn" id="corresp-1"><em>Correspondence to:</em> Susanna C. Larsson, MSc, Division of Nutritional Epidemiology, The National Institute of Environmental Medicine, Karolinska
+                        Institutet, Box 210, SE-171 77, Stockholm, Sweden (e-mail: <span class="em-link"><span class="em-addr">susanna.larsson{at}ki.se</span></span>).
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                         hwp:start="2005-12-23"><span class="received-label">Received </span>December 23, 2005.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="rev-recd"
+                         hwp:start="2006-05-11"><span class="rev-recd-label">Revision received </span>May 11, 2006.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="2006-06-14"><span class="accepted-label">Accepted </span>June 14, 2006.
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-1" title="SUBJECTS AND METHODS" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Abstract</h2>
+                  
+                  <p id="p-1"><em>Background:</em> The relationship between processed meat consumption and the risk of stomach cancer is controversial. We conducted a meta-analysis
+                     to summarize available evidence from cohort and case–control studies on this issue. <em>Methods:</em> We searched Medline for studies of processed meat consumption and stomach cancer published from January 1966 through March
+                     2006. Random-effects models were used to pool the relative risks from individual studies. All statistical tests were two-sided.
+                     <em>Results:</em> Six prospective cohort studies (involving 2209 stomach cancer patients) and nine case–control studies (2495 case patients)
+                     were eligible for inclusion in the dose–response meta-analysis of processed meat consumption. The estimated summary relative
+                     risks of stomach cancer for an increase in processed meat consumption of 30 g/day, approximately half of an average serving,
+                     were 1.15 (95% confidence interval [CI] = 1.04 to 1.27) for the cohort studies and 1.38 (95% CI = 1.19 to 1.60) for the case–control
+                     studies. There was no statistically significant heterogeneity among the cohort studies (<em>P</em> = .42) or among the case–control studies (<em>P</em> = .19). In three cohort and four case–control studies that examined the association between bacon consumption and stomach
+                     cancer, the summary relative risk was 1.37 (95% CI = 1.17 to 1.61) for the highest versus lowest intake categories of bacon,
+                     without heterogeneity among these studies (<em>P</em> = .66). <em>Conclusion:</em> Increased consumption of processed meat is associated with an increased risk of stomach cancer. However, the possibility
+                     that the association may be confounded or modified by other factors cannot be ruled out.
+                  </p>
+                  
+               </div>
+               <p id="p-2">Despite a steady global decline in stomach cancer incidence and mortality over the last 50 years, this malignancy remains
+                  the second leading cause of cancer death worldwide <em>(<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">1</a>)</em>. In fact, stomach cancer accounts for nearly 10% of all cancer deaths and claims approximately 700 000 lives annually <em>(<a id="xref-ref-1-2" class="xref-bibr" href="#ref-1">1</a>)</em>. Because the prognosis is poor, identification of risk factors amenable for modification could have a marked impact on reducing
+                  stomach cancer morbidity and mortality. Infection with <em>Helicobacter pylori</em> is strongly implicated in stomach cancer etiology <em>(<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2">2</a>,<a id="xref-ref-3-1" class="xref-bibr" href="#ref-3">3</a>)</em>. Nevertheless, only a small proportion of people infected with the bacterium develop stomach cancer, suggesting that such
+                  infection is not sufficient itself to cause this malignancy.
+               </p>
+               <p id="p-3">The decline in incidence rates of stomach cancer has been proposed to be attributable, at least in part, to improvements in
+                  diet and food storage and, in particular, the introduction of refrigeration. In addition to increased year-round availability
+                  of fresh fruits and vegetables, refrigeration has reduced the need for salt and other methods of food preservation. Processed
+                  meat includes foods preserved by salting, smoking, or adding nitrates or nitrites. Diets high in salt could damage the gastric
+                  mucosa, leading to gastritis, increased DNA synthesis, and excessive cell replication <em>(<a id="xref-ref-4-1" class="xref-bibr" href="#ref-4">4</a>–<a id="xref-ref-6-1" class="xref-bibr" href="#ref-6">6</a>)</em>. Processed meat often contains, besides high amounts of salt, carcinogenic <em>N</em>-nitroso compounds <em>(<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">7</a>–<a id="xref-ref-9-1" class="xref-bibr" href="#ref-9">9</a>)</em>. Although an association between processed meat consumption and stomach cancer risk is biologically plausible, epidemiologic
+                  studies on this relationship have yielded inconsistent results.
+               </p>
+               <p id="p-4">A systematic and quantitative assessment of published findings on the association between processed meat consumption and risk
+                  of stomach cancer is not available. Therefore, we used meta-analysis as a systematic approach to summarize evidence from cohort
+                  and case–control studies on this issue.
+               </p>
+               <div class="section" id="sec-1">
+                  <div class="section-nav"><a href="#abstract-1" title="Abstract" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-6" title="RESULTS" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>S<span class="sc">UBJECTS AND</span> M<span class="sc">ETHODS</span></h2>
+                  
+                  
+                  <h3>Search Strategy</h3>
+                  
+                  <p id="p-5">To identify epidemiologic studies of processed meat consumption and risk of stomach cancer, we conducted a literature search
+                     in Medline for articles published in any language from January 1966 through March 2006. We used the following medical subject
+                     heading terms and/or text words: “meat” or “foods” combined with “stomach cancer,” “stomach neoplasm,” “gastric cancer,” or
+                     “gastric neoplasm.” We also searched the reference lists of pertinent publications manually to identify additional studies.
+                  </p>
+                  
+                  
+                  
+                  <h3>Study Selection</h3>
+                  
+                  <p id="p-6">To be included in our meta-analysis, studies had to 1) be a cohort or case–control study with stomach cancer incidence or
+                     mortality as the outcome and 2) provide relative risk estimates with confidence intervals (or information to compute them)
+                     of stomach cancer associated with processed meat consumption. Processed meat was taken to include any of the following meat
+                     items: bacon, sausage, hot dogs, salami, and ham. We considered “cured meat,” “preserved meat,” “salted meat,” and “smoked
+                     meat” as equivalent to “processed meat.”
+                  </p>
+                  
+                  <p id="p-7">We identified 11 prospective cohort studies <em>(<a id="xref-ref-10-1" class="xref-bibr" href="#ref-10">10</a>–<a id="xref-ref-20-1" class="xref-bibr" href="#ref-20">20</a>)</em> and 22 case–control studies <em>(<a id="xref-ref-21-1" class="xref-bibr" href="#ref-21">21</a>–<a id="xref-ref-42-1" class="xref-bibr" href="#ref-42">42</a>)</em> with data that were potentially eligible for inclusion in the meta-analysis. One cohort study <em>(<a id="xref-ref-10-2" class="xref-bibr" href="#ref-10">10</a>)</em> and three case–control studies <em>(<a id="xref-ref-27-1" class="xref-bibr" href="#ref-27">27</a>,<a id="xref-ref-32-1" class="xref-bibr" href="#ref-32">32</a>,<a id="xref-ref-34-1" class="xref-bibr" href="#ref-34">34</a>)</em> were excluded for the following reasons: no relative risks <em>(<a id="xref-ref-10-3" class="xref-bibr" href="#ref-10">10</a>)</em> or confidence intervals <em>(<a id="xref-ref-27-2" class="xref-bibr" href="#ref-27">27</a>)</em> were provided and could not be calculated, the relative risk was for 1 standard deviation difference in processed meat consumption
+                     <em>(<a id="xref-ref-32-2" class="xref-bibr" href="#ref-32">32</a>)</em>, or the exposure was nonspecific (mixed with eggs) <em>(<a id="xref-ref-34-2" class="xref-bibr" href="#ref-34">34</a>)</em>. The remaining 10 cohort studies <em>(<a id="xref-ref-11-1" class="xref-bibr" href="#ref-11">11</a>–<a id="xref-ref-20-2" class="xref-bibr" href="#ref-20">20</a>)</em> and 19 case–control studies <em>(<a id="xref-ref-21-2" class="xref-bibr" href="#ref-21">21</a>–<a id="xref-ref-26-1" class="xref-bibr" href="#ref-26">26</a>,<a id="xref-ref-28-1" class="xref-bibr" href="#ref-28">28</a>–<a id="xref-ref-31-1" class="xref-bibr" href="#ref-31">31</a>,<a id="xref-ref-33-1" class="xref-bibr" href="#ref-33">33</a>,<a id="xref-ref-35-1" class="xref-bibr" href="#ref-35">35</a>–<a id="xref-ref-42-2" class="xref-bibr" href="#ref-42">42</a>)</em> were included in the meta-analysis.
+                  </p>
+                  
+                  
+                  
+                  <h3>Data Extraction</h3>
+                  
+                  <p id="p-8">We extracted from each publication the following data: the first author's last name, the year of publication, the country
+                     in which the study was performed, study design, the sample size, the type of control subjects (in case–control studies), duration
+                     of follow-up (in cohort studies), variables controlled for by matching or in the multivariable model, and the relative risks
+                     with corresponding confidence intervals for each category of processed meat consumption and/or for processed meat consumption
+                     as a continuous variable. From each study, we extracted the relative risk estimates that reflected the greatest degree of
+                     control for potential confounders.
+                  </p>
+                  
+                  
+                  
+                  <h3>Statistical Analysis</h3>
+                  
+                  <p id="p-9">Relative risk (RR) was used as the measure of the association of processed meat consumption with stomach cancer risk. Because
+                     the absolute risk of stomach cancer is low, the odds ratios in case–control studies approximate the relative risks <em>(<a id="xref-ref-43-1" class="xref-bibr" href="#ref-43">43</a>)</em>; we therefore report all results as relative risks for simplicity. Relative risks from individual studies and corresponding
+                     standard errors (derived from the confidence intervals) were transformed to their natural logarithms to stabilize the variance
+                     and to normalize the distributions. We quantified the relationship between processed meat consumption and stomach cancer risk
+                     with the method of DerSimonian and Laird <em>(<a id="xref-ref-44-1" class="xref-bibr" href="#ref-44">44</a>)</em> by using the assumptions of a random effects model, which incorporates both within- and between-study variability. When separate
+                     relative risk estimates were provided for men and women <em>(<a id="xref-ref-15-1" class="xref-bibr" href="#ref-15">15</a>,<a id="xref-ref-18-1" class="xref-bibr" href="#ref-18">18</a>,<a id="xref-ref-40-1" class="xref-bibr" href="#ref-40">40</a>)</em>, we pooled the relative risks (weighted by the inverse of their variance) to obtain a single relative risk from each study.
+                     For one case–control study <em>(<a id="xref-ref-29-1" class="xref-bibr" href="#ref-29">29</a>)</em> that used two control groups, the relative risks based on comparison with population control subjects were used in the overall
+                     meta-analysis.
+                  </p>
+                  
+                  <p id="p-10">For the dose-response meta-analysis, we used the method proposed by Greenland and associates <em>(<a id="xref-ref-45-1" class="xref-bibr" href="#ref-45">45</a>,<a id="xref-ref-46-1" class="xref-bibr" href="#ref-46">46</a>)</em> to compute study-specific slopes (linear trends) from the correlated natural log of the relative risks across categories
+                     of processed meat consumption. This method requires that the distribution of case patients and control subjects (or person–time)
+                     and the relative risk with its variance estimate for at least three quantitative exposure categories be known. For studies
+                     that did not provide the number of case patients and control subjects in each exposure category <em>(<a id="xref-ref-15-2" class="xref-bibr" href="#ref-15">15</a>,<a id="xref-ref-25-1" class="xref-bibr" href="#ref-25">25</a>,<a id="xref-ref-29-2" class="xref-bibr" href="#ref-29">29</a>,<a id="xref-ref-34-3" class="xref-bibr" href="#ref-34">34</a>,<a id="xref-ref-36-1" class="xref-bibr" href="#ref-36">36</a>,<a id="xref-ref-39-1" class="xref-bibr" href="#ref-39">39</a>–<a id="xref-ref-41-1" class="xref-bibr" href="#ref-41">41</a>)</em>, we estimated the slopes using variance-weighted least-squares regression models. We rescaled processed meat consumption
+                     to grams per day using 50 g as the approximate average portion (serving) size <em>(<a id="xref-ref-47-1" class="xref-bibr" href="#ref-47">47</a>)</em>. For each study, the median or mean level of consumption for each category of processed meat was assigned to each corresponding
+                     relative risk. When the median or mean consumption per category was not presented in the article, we assigned the midpoint
+                     of the upper and lower boundaries in each category as the average consumption. If the upper boundary of the highest category
+                     was not provided, we assumed that it had the same amplitude as the preceding category. When the lowest category was open-ended,
+                     the lowest boundary was assumed to be zero. For three studies that reported relative risks for processed meat consumption
+                     as a continuous variable <em>(<a id="xref-ref-19-1" class="xref-bibr" href="#ref-19">19</a>–<a id="xref-ref-21-3" class="xref-bibr" href="#ref-21">21</a>)</em>, we used these relative risks in the dose–response analysis. We used an increase in processed meat consumption of 30 g/day,
+                     which is approximately half of an average serving. This cut point was chosen a priori; the same cut point had been used in
+                     a previous meta-analysis of processed meat consumption and risk of colorectal cancer <em>(<a id="xref-ref-47-2" class="xref-bibr" href="#ref-47">47</a>)</em>. We checked for nonlinearity of the dose–response relationship between processed meat consumption and stomach cancer by estimating
+                     polynomial models. However, the best-fitting model was a linear model.
+                  </p>
+                  
+                  <p id="p-11">Statistical heterogeneity among studies was evaluated using the <em>Q</em> and <em>I<sup>2</sup></em> statistics <em>(<a id="xref-ref-48-1" class="xref-bibr" href="#ref-48">48</a>)</em>. For the <em>Q</em> statistic, a <em>P</em>&lt;.1 was considered to be representative of statistically significant heterogeneity. <em>I</em><sup>2</sup> is the proportion of total variation contributed by between-study variation <em>(<a id="xref-ref-48-2" class="xref-bibr" href="#ref-48">48</a>)</em>. We conducted subgroup analyses by study design (cohort versus case–control), the type of control subjects (hospital-based
+                     versus population-based) in case–control studies, the location of the study (North America, Europe, or Asia), and publication
+                     year (before 2000 versus after). Separate analyses were performed for cohort and case–control studies when there was statistically
+                     significant heterogeneity in the summary results between these study designs. Publication bias was assessed with Egger's regression
+                     asymmetry test <em>(<a id="xref-ref-49-1" class="xref-bibr" href="#ref-49">49</a>)</em>; <em>P</em>&lt;.1 was considered to be representative of statistically significant publication bias. Statistical analyses were performed
+                     with Stata, version 9.0 (StataCorp, College Station, TX). All statistical tests were two-sided.
+                  </p>
+                  
+                  
+               </div>
+               <div class="section" id="sec-6">
+                  <div class="section-nav"><a href="#sec-1" title="SUBJECTS AND METHODS" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-12" title="DISCUSSION" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>R<span class="sc">ESULTS</span></h2>
+                  
+                  
+                  <h3>Study Characteristics</h3>
+                  
+                  <p id="p-12">Of the 10 prospective cohort studies, four were carried out in the United States (including one in Hawaii and one among men
+                     of Japanese ancestry), four in Europe, and two in Japan (<a id="xref-table-wrap-1-1" class="xref-table" href="#T1">Table 1</a>). The study population consisted of men and women in seven cohort studies, of only men in two studies, and of only women
+                     in one study. Sample sizes ranged from 3123 <em>(<a id="xref-ref-17-1" class="xref-bibr" href="#ref-17">17</a>)</em> to 970 045 <em>(<a id="xref-ref-15-3" class="xref-bibr" href="#ref-15">15</a>)</em>, and the number of stomach cancer cases varied from 68 <em>(<a id="xref-ref-14-1" class="xref-bibr" href="#ref-14">14</a>)</em> to 1349 <em>(<a id="xref-ref-15-4" class="xref-bibr" href="#ref-15">15</a>)</em>. In six studies, the outcome was stomach cancer incidence <em>(<a id="xref-ref-11-2" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-13-1" class="xref-bibr" href="#ref-13">13</a>,<a id="xref-ref-14-2" class="xref-bibr" href="#ref-14">14</a>,<a id="xref-ref-17-2" class="xref-bibr" href="#ref-17">17</a>,<a id="xref-ref-19-2" class="xref-bibr" href="#ref-19">19</a>,<a id="xref-ref-20-3" class="xref-bibr" href="#ref-20">20</a>),</em> and in four studies, the outcome was stomach cancer mortality <em>(<a id="xref-ref-12-1" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-15-5" class="xref-bibr" href="#ref-15">15</a>,<a id="xref-ref-16-1" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-18-2" class="xref-bibr" href="#ref-18">18</a>)</em>. The duration of follow-up was longer than 10 years in all but two studies <em>(<a id="xref-ref-17-3" class="xref-bibr" href="#ref-17">17</a>,<a id="xref-ref-19-3" class="xref-bibr" href="#ref-19">19</a>)</em>.
+                     
+                  </p>
+                  <div class="table pos-float" id="T1">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1078/T1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1078/T1.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 1.</strong> </span> 
+                        <p id="p-13" class="first-child">Characteristics of prospective cohort studies of processed meat consumption and stomach cancer risk*</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-17">Of the 19 case–control studies, three were conducted in the United States, seven in Europe, two in Japan, two in Uruguay,
+                     and one each in Canada, Taiwan, China, Puerto Rico, and Mexico (<a id="xref-table-wrap-2-1" class="xref-table" href="#T2">Table 2</a>). The number of case patients enrolled in these studies ranged from 109 <em>(<a id="xref-ref-28-2" class="xref-bibr" href="#ref-28">28</a>)</em> to 741 <em>(<a id="xref-ref-26-2" class="xref-bibr" href="#ref-26">26</a>)</em>, and the number of control subjects varied from 123 <em>(<a id="xref-ref-28-3" class="xref-bibr" href="#ref-28">28</a>)</em> to 36 490 <em>(<a id="xref-ref-39-2" class="xref-bibr" href="#ref-39">39</a>)</em>. Control subjects were drawn from the general population (10 studies), hospitals (eight studies), or both (one study).
+                     
+                  </p>
+                  <div class="table pos-float" id="T2">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1078/T2.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1078/T2.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 2.</strong> </span> 
+                        <p id="p-18" class="first-child">Characteristics of case–control studies of processed meat consumption and stomach cancer risk*</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  
+                  
+                  <h3>Processed Meat</h3>
+                  
+                  
+                  <h4>Highest versus lowest intake category.</h4>
+                  
+                  <p id="p-21">Seven cohort studies <em>(<a id="xref-ref-11-4" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-13-3" class="xref-bibr" href="#ref-13">13</a>–<a id="xref-ref-16-3" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-19-5" class="xref-bibr" href="#ref-19">19</a>,<a id="xref-ref-20-5" class="xref-bibr" href="#ref-20">20</a>)</em> and 14 case–control studies <em>(<a id="xref-ref-21-5" class="xref-bibr" href="#ref-21">21</a>,<a id="xref-ref-23-2" class="xref-bibr" href="#ref-23">23</a>–<a id="xref-ref-25-3" class="xref-bibr" href="#ref-25">25</a>,<a id="xref-ref-29-4" class="xref-bibr" href="#ref-29">29</a>,<a id="xref-ref-33-3" class="xref-bibr" href="#ref-33">33</a>,<a id="xref-ref-35-3" class="xref-bibr" href="#ref-35">35</a>–<a id="xref-ref-42-4" class="xref-bibr" href="#ref-42">42</a>)</em> examined the relationship between processed meat consumption and stomach cancer risk. For the meta-analysis comparing the
+                     highest with the lowest consumption categories, two case–control studies were excluded because processed meat consumption
+                     was analyzed as a continuous variable <em>(<a id="xref-ref-21-6" class="xref-bibr" href="#ref-21">21</a>)</em> or the study <em>(<a id="xref-ref-37-2" class="xref-bibr" href="#ref-37">37</a>)</em> was superseded by a later publication <em>(<a id="xref-ref-42-5" class="xref-bibr" href="#ref-42">42</a>)</em> based on the same population but with a larger sample size [the smaller study <em>(<a id="xref-ref-37-3" class="xref-bibr" href="#ref-37">37</a>)</em> was included in the dose–response meta-analysis because processed meat consumption was not quantified in the larger study
+                     <em>(<a id="xref-ref-42-6" class="xref-bibr" href="#ref-42">42</a>)</em>].
+                  </p>
+                  
+                  <p id="p-22">There was statistically significant heterogeneity between the cohort and case–control studies in the summary relative risks
+                     (<em>Q</em> = 2.85; <em>P</em> = .09). Combined, the seven cohort studies included 2277 stomach cancer patients. In these studies, the summary relative
+                     risk of stomach cancer was 1.24 (95% confidence interval [CI] = 0.98 to 1.56; <a id="xref-fig-1-1" class="xref-fig" href="#F1">Fig. 1</a>) for individuals in the highest relative to the lowest category of processed meat consumption. The corresponding summary
+                     relative risk for the 12 case–control studies (involving 3030 case patients) was 1.63 (95% CI = 1.31 to 2.01; <a id="xref-fig-2-1" class="xref-fig" href="#F2">Fig. 2</a>). Statistically significant heterogeneity was observed among the cohort studies (<em>Q</em> = 12.99; <em>P</em> = .04; <em>I</em><sup>2</sup> = 53.8%) and among the case–control studies (<em>Q</em> = 19.11; <em>P</em> = .06; <em>I</em><sup>2</sup> = 42.4%). Within each study design, the association between processed meat consumption and stomach cancer risk did not differ
+                     statistically significantly by the location of the study or publication year (<em>P</em>&gt;.1 for all). No publication bias was observed (<em>P</em> = .68 for cohort studies and <em>P</em> = .93 for case–control studies).
+                     
+                     
+                  </p>
+                  <div id="F1" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="1078/F1.expansion.html"><img alt="Fig. 1." src="1078/F1.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="1078/F1.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1078/F1.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/98/15/1078/F1">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 1.</strong></span> 
+                        <p id="p-23" class="first-child">Relative risks from cohort studies examining the association between processed meat consumption (highest versus lowest category)
+                           and risk of stomach cancer. <strong>Squares</strong> indicate study-specific relative risks (<strong>size of the square</strong> reflects the study-specific statistical weight, i.e., the inverse of the variance); <strong>horizontal lines</strong> indicate 95% confidence intervals; <strong>diamond</strong> indicates summary relative risk estimate with its corresponding 95% confidence interval. Test for heterogeneity: <em>Q</em> = 12.99, <em>P</em> = .04, <em>I</em><sup>2</sup> = 53.8%. All statistical tests were two-sided.
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  <div id="F2" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="1078/F2.expansion.html"><img alt="Fig. 2." src="1078/F2.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="1078/F2.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1078/F2.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/98/15/1078/F2">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 2.</strong></span> 
+                        <p id="p-24" class="first-child">Relative risks from case–control studies examining the association between processed meat consumption (highest versus lowest
+                           category) and risk of stomach cancer. <strong>Squares</strong> indicate study-specific relative risks (<strong>size of the square</strong> reflects the study-specific statistical weight, i.e., the inverse of the variance); <strong>horizontal lines</strong> indicate 95% confidence intervals; <strong>diamond</strong> indicates summary relative risk estimate with its corresponding 95% confidence interval. Test for heterogeneity: <em>Q</em> = 19.11, <em>P</em> = .06, <em>I</em><sup>2</sup> = 42.4%. All statistical tests were two-sided.
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  
+                  
+                  <h4>Dose–response meta-analysis.</h4>
+                  
+                  <p id="p-25">The dose–response meta-analysis of processed meat consumption included six cohort studies (<em>N</em> = 2209 cases) <em>(<a id="xref-ref-11-5" class="xref-bibr" href="#ref-11">11</a>,<a id="xref-ref-13-4" class="xref-bibr" href="#ref-13">13</a>,<a id="xref-ref-15-7" class="xref-bibr" href="#ref-15">15</a>,<a id="xref-ref-16-4" class="xref-bibr" href="#ref-16">16</a>,<a id="xref-ref-19-6" class="xref-bibr" href="#ref-19">19</a>,<a id="xref-ref-20-6" class="xref-bibr" href="#ref-20">20</a>)</em> and nine case–control studies (<em>N</em> = 2495 cases) <em>(<a id="xref-ref-21-7" class="xref-bibr" href="#ref-21">21</a>,<a id="xref-ref-25-4" class="xref-bibr" href="#ref-25">25</a>,<a id="xref-ref-29-5" class="xref-bibr" href="#ref-29">29</a>,<a id="xref-ref-33-4" class="xref-bibr" href="#ref-33">33</a>,<a id="xref-ref-35-4" class="xref-bibr" href="#ref-35">35</a>,<a id="xref-ref-37-4" class="xref-bibr" href="#ref-37">37</a>,<a id="xref-ref-39-4" class="xref-bibr" href="#ref-39">39</a>–<a id="xref-ref-41-3" class="xref-bibr" href="#ref-41">41</a>)</em>. One cohort study <em>(<a id="xref-ref-14-4" class="xref-bibr" href="#ref-14">14</a>)</em> and five case–control studies <em>(<a id="xref-ref-23-3" class="xref-bibr" href="#ref-23">23</a>,<a id="xref-ref-24-2" class="xref-bibr" href="#ref-24">24</a>,<a id="xref-ref-36-3" class="xref-bibr" href="#ref-36">36</a>,<a id="xref-ref-38-2" class="xref-bibr" href="#ref-38">38</a>,<a id="xref-ref-42-7" class="xref-bibr" href="#ref-42">42</a>)</em> were excluded because processed meat consumption could not be quantified <em>(<a id="xref-ref-14-5" class="xref-bibr" href="#ref-14">14</a>,<a id="xref-ref-24-3" class="xref-bibr" href="#ref-24">24</a>,<a id="xref-ref-38-3" class="xref-bibr" href="#ref-38">38</a>,<a id="xref-ref-42-8" class="xref-bibr" href="#ref-42">42</a>)</em> or because the range of exposure was very narrow <em>(<a id="xref-ref-23-4" class="xref-bibr" href="#ref-23">23</a>,<a id="xref-ref-36-4" class="xref-bibr" href="#ref-36">36</a>)</em>, leading to exaggerated regression coefficients.
+                  </p>
+                  
+                  <p id="p-26">The estimated summary relative risks of stomach cancer for an increase in processed meat consumption of 30 g/day were 1.15
+                     (95% CI = 1.04 to 1.27) for cohort studies and 1.38 (95% CI = 1.19 to 1.60) for case–control studies. There was no statistically
+                     significant heterogeneity among the cohort studies or among the case–control studies (<a id="xref-table-wrap-3-1" class="xref-table" href="#T3">Table 3</a>), but the estimated summary relative risk was statistically significantly higher for case–control than for cohort studies
+                     (<em>Q</em> = 3.97; <em>P</em> = .05). The association between processed meat consumption and stomach cancer risk was similar for population-based case–control
+                     and hospital based case–control studies (<em>Q</em> = 0.17; <em>P</em> = .68).
+                     
+                  </p>
+                  <div class="table pos-float" id="T3">
+                     <div class="table-inline">
+                        <div class="callout"><span>View this table:</span><ul class="callout-links">
+                              <li><a href="1078/T3.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1078/T3.expansion.html">In a new window</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="table-caption"><span class="table-label"><strong>Table 3.</strong> </span> 
+                        <p id="p-27" class="first-child">Estimated summary relative risks of stomach cancer for an increase in processed meat consumption of 30 g/day*</p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  
+                  
+                  <h4>Individual processed meat items.</h4>
+                  
+                  <p id="p-30">Bacon consumption was examined in three cohort studies <em>(<a id="xref-ref-12-3" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-17-5" class="xref-bibr" href="#ref-17">17</a>,<a id="xref-ref-20-7" class="xref-bibr" href="#ref-20">20</a>)</em> and four case–control studies <em>(<a id="xref-ref-25-5" class="xref-bibr" href="#ref-25">25</a>,<a id="xref-ref-30-2" class="xref-bibr" href="#ref-30">30</a>,<a id="xref-ref-31-3" class="xref-bibr" href="#ref-31">31</a>,<a id="xref-ref-40-3" class="xref-bibr" href="#ref-40">40</a>)</em>. All studies reported a positive association, and in two cohort studies <em>(<a id="xref-ref-17-6" class="xref-bibr" href="#ref-17">17</a>,<a id="xref-ref-20-8" class="xref-bibr" href="#ref-20">20</a>)</em> and one case–control study <em>(<a id="xref-ref-31-4" class="xref-bibr" href="#ref-31">31</a>)</em> the relationship was statistically significant (<a id="xref-fig-3-1" class="xref-fig" href="#F3">Fig. 3</a>). There was no statistically significant heterogeneity between the summary relative risks for cohort and case–control studies
+                     (<em>Q</em> = 0.00; <em>P</em> = .96). When all seven studies were analyzed together, the summary relative risk of stomach cancer was 1.37 (95% CI = 1.17
+                     to 1.61) for individuals in the highest category of bacon consumption compared with those in the lowest category. There was
+                     no statistically significant heterogeneity among the seven studies (<em>Q</em> = 4.13; <em>P</em> = .66; <em>I</em><sup>2</sup> = 0), and no publication bias was found (<em>P</em> = .51).
+                     
+                  </p>
+                  <div id="F3" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="1078/F3.expansion.html"><img alt="Fig. 3." src="1078/F3.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="1078/F3.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1078/F3.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/98/15/1078/F3">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 3.</strong></span> 
+                        <p id="p-31" class="first-child">Relative risks from cohort and case–control studies examining the association between bacon consumption (highest versus lowest
+                           category) and risk of stomach cancer. <strong>Squares</strong> indicate study-specific relative risks (<strong>size of the square</strong> reflects the study-specific statistical weight, i.e., the inverse of the variance); <strong>horizontal lines</strong> indicate 95% confidence intervals; <strong>diamond</strong> indicates summary relative risk estimate with its corresponding 95% confidence interval. Test for heterogeneity: cohort studies,
+                           <em>Q</em> = 0.35, <em>P</em> = .84, <em>I</em><sup>2 =</sup> 0; case–control studies, <em>Q</em> = 3.77, <em>P</em> = .29, <em>I</em><sup>2 =</sup> 20.4%. All statistical tests were two-sided.
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-32">Sausage consumption was evaluated in three cohort studies <em>(<a id="xref-ref-17-7" class="xref-bibr" href="#ref-17">17</a>,<a id="xref-ref-18-4" class="xref-bibr" href="#ref-18">18</a>,<a id="xref-ref-20-9" class="xref-bibr" href="#ref-20">20</a>)</em> and six case–control studies <em>(<a id="xref-ref-22-2" class="xref-bibr" href="#ref-22">22</a>,<a id="xref-ref-26-4" class="xref-bibr" href="#ref-26">26</a>,<a id="xref-ref-28-5" class="xref-bibr" href="#ref-28">28</a>,<a id="xref-ref-30-3" class="xref-bibr" href="#ref-30">30</a>,<a id="xref-ref-31-5" class="xref-bibr" href="#ref-31">31</a>,<a id="xref-ref-41-4" class="xref-bibr" href="#ref-41">41</a>)</em>. Three case–control studies reported a statistically significant positive association between sausage consumption and stomach
+                     cancer risk <em>(<a id="xref-ref-26-5" class="xref-bibr" href="#ref-26">26</a>,<a id="xref-ref-28-6" class="xref-bibr" href="#ref-28">28</a>,<a id="xref-ref-31-6" class="xref-bibr" href="#ref-31">31</a>)</em>, and two case–control <em>(<a id="xref-ref-22-3" class="xref-bibr" href="#ref-22">22</a>,<a id="xref-ref-41-5" class="xref-bibr" href="#ref-41">41</a>)</em> and two cohort studies <em>(<a id="xref-ref-18-5" class="xref-bibr" href="#ref-18">18</a>,<a id="xref-ref-20-10" class="xref-bibr" href="#ref-20">20</a>)</em> found non–statistically significant increased risks (<a id="xref-fig-4-1" class="xref-fig" href="#F4">Fig. 4</a>). There was no statistically significant heterogeneity between the summary relative risks for cohort and case–control studies
+                     (<em>Q</em> = 0.58; <em>P</em> = .45). Analysis of all nine studies showed a summary relative risk of 1.39 (95% CI = 1.12 to 1.73) for high versus low sausage
+                     consumption; however, there was statistically significant heterogeneity among studies (<em>Q</em> = 19.52; <em>P</em> = .01; <em>I</em><sup>2</sup> = 59.0%). Publication bias was observed for all studies (<em>P</em> =.03) but not by study type (<em>P</em> = .41 for cohort studies and <em>P</em> = .11 for case–control studies).
+                     
+                  </p>
+                  <div id="F4" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="1078/F4.expansion.html"><img alt="Fig. 4." src="1078/F4.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="1078/F4.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1078/F4.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/98/15/1078/F4">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 4.</strong></span> 
+                        <p id="p-33" class="first-child">Relative risks from cohort and case–control studies examining the association between sausage consumption (highest versus
+                           lowest category) and risk of stomach cancer. <strong>Squares</strong> indicate study-specific relative risks (<strong>size of the square</strong> reflects the study-specific statistical weight, i.e., the inverse of the variance); <strong>horizontal lines</strong> indicate 95% confidence intervals; <strong>diamond</strong> indicates summary relative risk estimate with its corresponding 95% confidence interval. Test for heterogeneity: cohort studies,
+                           <em>Q</em> = 3.65, <em>P</em> = .16, <em>I</em><sup>2 =</sup> 45.3%; case–control studies, <em>Q</em> = 15.21, <em>P</em> = .01, <em>I</em><sup>2 =</sup> 67.1%. All statistical tests were two-sided.
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  <p id="p-34">Ham consumption was investigated in two cohort studies <em>(<a id="xref-ref-17-8" class="xref-bibr" href="#ref-17">17</a>,<a id="xref-ref-20-11" class="xref-bibr" href="#ref-20">20</a>)</em> and three case–control studies <em>(<a id="xref-ref-22-4" class="xref-bibr" href="#ref-22">22</a>,<a id="xref-ref-25-6" class="xref-bibr" href="#ref-25">25</a>,<a id="xref-ref-31-7" class="xref-bibr" href="#ref-31">31</a>)</em>. Of the two cohort studies, one observed a non–statistically significant 48% (RR = 1.48; 95% CI = 0.99 to 2.22) increased
+                     risk of stomach cancer for high versus low ham consumption <em>(<a id="xref-ref-20-12" class="xref-bibr" href="#ref-20">20</a>)</em>, whereas the other cohort study <em>(<a id="xref-ref-17-9" class="xref-bibr" href="#ref-17">17</a>)</em> did not support such an association (RR = 0.77; 95% CI = 0.56 to 1.07). In the three case–control studies, there was a statistically
+                     significant 64% increased risk of stomach cancer for individuals in the highest relative to the lowest category of ham consumption
+                     (RR = 1.64, 95% CI = 1.31 to 2.06; <a id="xref-fig-5-1" class="xref-fig" href="#F5">Fig. 5</a>). The Egger's test of publication bias for case–control studies was of borderline statistical significance (<em>P</em> = .10).
+                     
+                  </p>
+                  <div id="F5" class="fig pos-float odd">
+                     <div class="fig-inline"><a href="1078/F5.expansion.html"><img alt="Fig. 5." src="1078/F5.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                              <li><a href="1078/F5.expansion.html">In this window</a></li>
+                              <li><a class="in-nw" href="1078/F5.expansion.html">In a new window</a></li>
+                           </ul>
+                           <ul class="fig-services">
+                              <li class="ppt-link"><a href="/powerpoint/98/15/1078/F5">Download as PowerPoint Slide</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="fig-caption"><span class="fig-label"><strong>Fig. 5.</strong></span> 
+                        <p id="p-35" class="first-child">Relative risks from case–control studies examining the association between ham consumption (highest versus lowest category)
+                           and risk of stomach cancer. <strong>Squares</strong> indicate study-specific relative risks (<strong>size of the square</strong> reflects the study-specific statistical weight, i.e., the inverse of the variance); <strong>horizontal lines</strong> indicate 95% confidence intervals; <strong>diamond</strong> indicates summary relative risk estimate with its corresponding 95% confidence interval. Test for heterogeneity: <em>Q</em> = 0.19, <em>P</em> = .91, <em>I</em><sup>2 =</sup> 0. All statistical tests were two-sided.
+                        </p>
+                        <div class="sb-div caption-clear"></div>
+                     </div>
+                  </div>
+                  
+                  
+                  
+               </div>
+               <div class="section" id="sec-12">
+                  <div class="section-nav"><a href="#sec-6" title="RESULTS" class="prev-section-link"><span>Previous Section</span></a><a href="#fn-group-1" title="Footnotes" class="next-section-link"><span>Next Section</span></a></div>
+                  
+                  <h2>D<span class="sc">ISCUSSION</span></h2>
+                  
+                  <p id="p-36">Findings of this meta-analysis support a positive relationship between processed meat consumption and risk of stomach cancer.
+                     Overall, an increase in processed meat consumption of 30 g/day was associated with statistically significant 15% and 38% increased
+                     risks of stomach cancer in cohort studies and case–control studies, respectively. Among the individual processed meat items,
+                     findings were most consistent for bacon consumption. Summary results indicate that there was a statistically significant 37%
+                     higher risk of stomach cancer among those in the highest relative to the lowest category of bacon consumption.
+                  </p>
+                  
+                  <p id="p-37">Our study has several limitations. First, as a meta-analysis of observational studies, it is prone to bias (e.g., recall and
+                     selection bias) inherent in the original studies. Prospective cohort studies are less susceptible to bias than case–control
+                     studies because, in the prospective design, information on exposures is collected before the diagnosis of the disease. The
+                     association between processed meat consumption and stomach cancer risk was statistically significantly stronger in the case–control
+                     studies than in the cohort studies. It is possible that the relationships reported from case–control studies may have been
+                     overstated due to recall or interviewer bias and possible prediagnostic early symptoms in cancer patients may have led to
+                     changes in dietary habits. Moreover, selection bias is of concern in the studies with low participation rates among control
+                     subjects <em>(<a id="xref-ref-21-8" class="xref-bibr" href="#ref-21">21</a>,<a id="xref-ref-29-7" class="xref-bibr" href="#ref-29">29</a>,<a id="xref-ref-40-4" class="xref-bibr" href="#ref-40">40</a>)</em> because those who participate are likely to be more health conscious and thus might consume less meat than nonrespondents.
+                  </p>
+                  
+                  <p id="p-38">A second limitation is that individual studies may have failed to control for potential confounders, which may introduce bias
+                     in an unpredictable direction. For example, infection with <em>H. pylori</em> is an established risk factor for gastric noncardia cancer <em>(<a id="xref-ref-3-2" class="xref-bibr" href="#ref-3">3</a>)</em>. No study controlled for <em>H. pylori</em> infection status, although one study <em>(<a id="xref-ref-19-7" class="xref-bibr" href="#ref-19">19</a>)</em> examined whether the association between processed meat consumption and stomach cancer risk was modified by <em>H. pylori</em> infection (see below). The two prospective studies that showed a statistically significant increased risk of stomach cancer
+                     associated with a high consumption of processed meat <em>(<a id="xref-ref-19-8" class="xref-bibr" href="#ref-19">19</a>,<a id="xref-ref-20-13" class="xref-bibr" href="#ref-20">20</a>)</em> both adjusted for major potential confounders, such as age, education, smoking, body size, and intakes of total energy, alcohol,
+                     fruits, and vegetables. In these studies, the age-adjusted relative risks for the highest compared with the lowest category
+                     of processed meat consumption [RR = 1.58, 95% CI = 1.09 to 2.29 <em>(<a id="xref-ref-19-9" class="xref-bibr" href="#ref-19">19</a>)</em> and RR = 1.69, 95% CI = 1.17 to 2.45 <em>(<a id="xref-ref-20-14" class="xref-bibr" href="#ref-20">20</a>)</em>, respectively] were similar to the multivariable relative risks [RR = 1.62, 95% CI = 1.08 to 2.41 <em>(<a id="xref-ref-19-10" class="xref-bibr" href="#ref-19">19</a>)</em> and RR = 1.66, 95% CI = 1.13 to 2.45 <em>(<a id="xref-ref-20-15" class="xref-bibr" href="#ref-20">20</a>)</em>, respectively], indicating a lack of confounding from the considered covariates. Of the case–control studies, only approximately
+                     half controlled for age, sex, and education (or socioeconomic status) <em>(<a id="xref-ref-22-5" class="xref-bibr" href="#ref-22">22</a>,<a id="xref-ref-26-6" class="xref-bibr" href="#ref-26">26</a>,<a id="xref-ref-30-4" class="xref-bibr" href="#ref-30">30</a>,<a id="xref-ref-35-5" class="xref-bibr" href="#ref-35">35</a>,<a id="xref-ref-38-4" class="xref-bibr" href="#ref-38">38</a>,<a id="xref-ref-40-5" class="xref-bibr" href="#ref-40">40</a>–<a id="xref-ref-42-9" class="xref-bibr" href="#ref-42">42</a>)</em> or for smoking <em>(<a id="xref-ref-29-8" class="xref-bibr" href="#ref-29">29</a>,<a id="xref-ref-35-6" class="xref-bibr" href="#ref-35">35</a>–<a id="xref-ref-41-6" class="xref-bibr" href="#ref-41">41</a>),</em> and only four adjusted for fruit and vegetable consumption <em>(<a id="xref-ref-22-6" class="xref-bibr" href="#ref-22">22</a>,<a id="xref-ref-23-5" class="xref-bibr" href="#ref-23">23</a>,<a id="xref-ref-25-7" class="xref-bibr" href="#ref-25">25</a>,<a id="xref-ref-40-6" class="xref-bibr" href="#ref-40">40</a>)</em>. Hence, the possibility of confounding from unaccounted nondietary and dietary risk factors for stomach cancer cannot be
+                     excluded.
+                  </p>
+                  
+                  <p id="p-39">A third limitation is that our results were likely to be affected by imprecise measurement of processed meat consumption and
+                     of potential confounders in the original studies. Categorization of main exposures and confounders that are measured with
+                     nondifferential error (independent of disease status) may induce differential misclassification and may bias the expected
+                     relative risk toward or away from the null value <em>(<a id="xref-ref-50-1" class="xref-bibr" href="#ref-50">50</a>–<a id="xref-ref-52-1" class="xref-bibr" href="#ref-52">52</a>)</em>. Thus, misclassification of processed meat consumption and of potential confounders in the studies included in this meta-analysis
+                     might have led to an overestimate or an underestimate of the summary relative risks.
+                  </p>
+                  
+                  <p id="p-40">A fourth limitation is that the consumption levels in the lowest and highest categories and the range of consumption varied
+                     across studies. These differences may have contributed to the heterogeneity among studies in the analysis of the highest versus
+                     the lowest intake categories. To account for the different ranges of processed meat consumption, we estimated for each study
+                     (that provided the required data) a relative risk for an increase in intake of 30 g/day.
+                  </p>
+                  
+                  <p id="p-41">Finally, as with any meta-analysis, possible publication bias is of concern. Only studies of sausage consumption showed statistically
+                     significant publication bias. Thus, the summary results may be an overestimate of the relative risk of stomach cancer associated
+                     with sausage consumption.
+                  </p>
+                  
+                  <p id="p-42">A positive relationship between processed meat consumption and risk of stomach cancer is biologically plausible. In addition
+                     to having high amounts of salt, processed meat often contains nitrite or nitrate and <em>N</em>-nitroso compounds <em>(<a id="xref-ref-7-2" class="xref-bibr" href="#ref-7">7</a>–<a id="xref-ref-9-2" class="xref-bibr" href="#ref-9">9</a>). N</em>-Nitroso compounds are potent carcinogens that can induce tumors in various animal species at several sites <em>(<a id="xref-ref-7-3" class="xref-bibr" href="#ref-7">7</a>,<a id="xref-ref-53-1" class="xref-bibr" href="#ref-53">53</a>). N</em>-Nitroso compounds are also formed endogenously in the stomach through nitrosation by nitrites of amines or amides. Sugimura
+                     and Fujimura <em>(<a id="xref-ref-54-1" class="xref-bibr" href="#ref-54">54</a>)</em> showed that gastric carcinomas were induced in rats in response to oral administration of an <em>N</em>-nitroso compound, <em>N</em>-methyl-<em>N</em>′-nitro-<em>N</em>-nitrosoguanidine. Furthermore, several epidemiologic studies have reported a statistically significant positive association
+                     between <em>N</em>-nitrosodimethylamine or nitrosamine intake with stomach cancer risk <em>(<a id="xref-ref-20-16" class="xref-bibr" href="#ref-20">20</a>,<a id="xref-ref-55-1" class="xref-bibr" href="#ref-55">55</a>–<a id="xref-ref-58-1" class="xref-bibr" href="#ref-58">58</a>)</em>. Although salt is not intrinsically carcinogenic, it may act as an irritant to the gastric mucosa, leading to gastritis,
+                     increased DNA synthesis, and cell proliferation <em>(<a id="xref-ref-4-2" class="xref-bibr" href="#ref-4">4</a>–<a id="xref-ref-6-2" class="xref-bibr" href="#ref-6">6</a>)</em>. Excess salt also makes the mucosa cells more susceptible to carcinogens from foods. In experimental studies with rats, salt
+                     enhances the carcinogenic effects of gastric carcinogens, such as the <em>N</em>-nitroso compound <em>N</em>-methyl-<em>N</em>′-nitro-<em>N</em>-nitrosoguanidine <em>(<a id="xref-ref-59-1" class="xref-bibr" href="#ref-59">59</a>–<a id="xref-ref-61-1" class="xref-bibr" href="#ref-61">61</a>)</em>.
+                  </p>
+                  
+                  <p id="p-43">It is possible that the relationship between processed meat consumption and stomach cancer risk is restricted to certain subgroups
+                     of the population, such as those with specific genetic polymorphisms coding for enzymes involved in the metabolism of <em>N</em>-nitroso compounds or those infected with <em>H. pylori</em>. In a nested case–control study within the European Prospective Investigation Into Cancer and Nutrition <em>(<a id="xref-ref-19-11" class="xref-bibr" href="#ref-19">19</a>)</em>, the positive association between processed meat consumption and stomach cancer risk appeared to be restricted to <em>H. pylori</em> antibody–positive subjects. An association with processed meat consumption may also be modified by intake of vitamins C and
+                     E, fruits, and vegetables because these dietary factors can reduce the formation of <em>N</em>-nitroso compounds in the stomach <em>(<a id="xref-ref-62-1" class="xref-bibr" href="#ref-62">62</a>)</em>. In the Swedish Mammography Cohort <em>(<a id="xref-ref-20-17" class="xref-bibr" href="#ref-20">20</a>)</em>, the positive association of processed meat consumption with stomach cancer risk was somewhat stronger among women with a
+                     low consumption of fruits and vegetables.
+                  </p>
+                  
+                  <p id="p-44">Four studies investigated whether the association between processed meat <em>(<a id="xref-ref-19-12" class="xref-bibr" href="#ref-19">19</a>,<a id="xref-ref-35-7" class="xref-bibr" href="#ref-35">35</a>,<a id="xref-ref-39-5" class="xref-bibr" href="#ref-39">39</a>)</em> or sausage <em>(<a id="xref-ref-26-7" class="xref-bibr" href="#ref-26">26</a>)</em> consumption and stomach cancer risk differed by histological subtype (intestinal versus diffuse); none showed any appreciable
+                     difference. In the only study that examined risk by anatomical subsite, high consumption of processed meat was associated
+                     with an increased risk of gastric noncardia cancer (highest versus lowest intake category, RR = 1.92; 95% CI = 1.11 to 3.33)
+                     but not of gastric cardia cancer (highest versus lowest intake category, RR = 1.14; 95% CI = 0.52 to 2.49) <em>(<a id="xref-ref-19-13" class="xref-bibr" href="#ref-19">19</a>)</em>.
+                  </p>
+                  
+                  <p id="p-45">In summary, findings of this meta-analysis support the hypothesis that high consumption of processed meat may be associated
+                     with an increased risk of stomach cancer. Future studies should control for more potential confounders and examine whether
+                     the association between processed meat consumption and stomach cancer risk is modified by other dietary factors, <em>H. pylori</em> infection status, or genetic polymorphisms. In addition, whether the association differs according to histologic subtype
+                     or anatomic subsite warrants further study.
+                  </p>
+                  
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <div class="section-nav"><a href="#sec-12" title="DISCUSSION" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn" id="fn-8">
+                        
+                        <p id="p-46">This study was supported by research grants from the Swedish Cancer Society (A. Wolk) and the Swedish Research Council/Longitudinal
+                           Studies (A. Wolk). The study sponsors had no role in the design, collection, analysis, or interpretation of the data, or in
+                           the writing or decision to submit the manuscript.
+                        </p>
+                        
+                     </li>
+                  </ul>
+               </div>
+               <ul>
+                  <li class="fn" id="copyright-statement-1">© The Author 2006. Published by Oxford University Press.</li>
+               </ul>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#fn-group-1" title="Footnotes" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">(1)</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference (1) in text"
+                           id="ref-1">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.1"
+                             data-doi="10.3322/canjclin.55.2.74">
+                           <div class="cit-metadata"><cite>Parkin DM, Bray F, Ferlay J, Pisani P. Global cancer statistics, 2002. <span class="cit-source">CA Cancer J Clin</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">55</span>:<span class="cit-fpage">74</span>–108.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.3322/canjclin.55.2.74&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15761078&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000231484000005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(2)</span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference (2) in text"
+                           id="ref-2">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.2">
+                           <div class="cit-metadata"><cite>International Agency for Research on Cancer. IARC monographs on the evaluation of carcinogenic risks to humans: Vol 61. Schistosomes,
+                                 liver flukes and <em>Helicobacter pylori.</em> Lyon (France): IARC Press; <span class="cit-pub-date">1994</span>.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(3)</span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference (3) in text"
+                           id="ref-3">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.3"
+                             data-doi="10.1136/gut.49.3.347">
+                           <div class="cit-metadata"><cite><em>Helicobacter</em> and Cancer Collaborative Group. Gastric cancer and <em>Helicobacter pylori</em>: a combined analysis of 12 case control studies nested within prospective cohorts. <span class="cit-source">Gut</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">49</span>:<span class="cit-fpage">347</span>–53.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=gutjnl&amp;resid=49/3/347"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(4)</span><a class="rev-xref-ref" href="#xref-ref-4-1" title="View reference (4) in text"
+                           id="ref-4">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.4"
+                             data-doi="10.1126/science.2136249">
+                           <div class="cit-metadata"><cite>Ames BN, Gold LS. Too many rodent carcinogens: mitogenesis increases mutagenesis. <span class="cit-source">Science</span> <span class="cit-pub-date">1990</span>;<span class="cit-vol">249</span>:<span class="cit-fpage">970</span>–1.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=PDF&amp;journalCode=sci&amp;resid=249/4972/970"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(5)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-98.15.1078.5">
+                           <div class="cit-metadata"><cite>Charnley G, Tannenbaum SR. Flow cytometric analysis of the effect of sodium chloride on gastric cancer risk in the rat. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">1985</span>;<span class="cit-vol">45</span>:<span class="cit-fpage">5608</span>–16.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=45/11_Part_2/5608"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(6)</span><a class="rev-xref-ref" href="#xref-ref-6-1" title="View reference (6) in text"
+                           id="ref-6">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.6">
+                           <div class="cit-metadata"><cite>Fox JG, Dangler CA, Taylor NS, King A, Koh TJ, Wang TC. High-salt diet induces gastric epithelial hyperplasia and parietal
+                                 cell loss, and enhances <em>Helicobacter pylori</em> colonization in C57BL/6 mice. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">59</span>:<span class="cit-fpage">4823</span>–8.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=59/19/4823"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(7)</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference (7) in text"
+                           id="ref-7">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.7"
+                             data-doi="10.1016/0165-1218(91)90123-4">
+                           <div class="cit-metadata"><cite>Tricker AR, Preussmann R. Carcinogenic N-nitrosamines in the diet: occurrence, formation, mechanisms and carcinogenic potential.
+                                 <span class="cit-source">Mutat Res</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">259</span>:<span class="cit-fpage">277</span>–89.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0165-1218(91)90123-4&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=2017213&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1991FH84500007&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(8)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-98.15.1078.8">
+                           <div class="cit-metadata"><cite>Hotchkiss JH. Preformed N-nitroso compounds in foods and beverages. <span class="cit-source">Cancer Surv</span> <span class="cit-pub-date">1989</span>;<span class="cit-vol">8</span>:<span class="cit-fpage">295</span>–321.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=2696582&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1989CJ09800006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(9)</span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference (9) in text"
+                           id="ref-9">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.9">
+                           <div class="cit-metadata"><cite>Scanlan RA. Formation and occurrence of nitrosamines in food. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">1983</span>;<span class="cit-vol">43</span> 5 Suppl:<span class="cit-fpage">2435S</span>–2440S.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=6831466&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(10)</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference (10) in text"
+                           id="ref-10">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.10">
+                           <div class="cit-metadata"><cite>Chyou PH, Nomura AM, Hankin JH, Stemmermann GN. A case-cohort study of diet and stomach cancer. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">1990</span>;<span class="cit-vol">50</span>:<span class="cit-fpage">7501</span>–4.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=50/23/7501"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(11)</span><a class="rev-xref-ref" href="#xref-ref-11-1" title="View reference (11) in text"
+                           id="ref-11">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.11">
+                           <div class="cit-metadata"><cite>Nomura A, Grove JS, Stemmermann GN, Severson RK. A prospective study of stomach cancer and its relation to diet, cigarettes,
+                                 and alcohol consumption. <span class="cit-source">Cancer Res</span> <span class="cit-pub-date">1990</span>;<span class="cit-vol">50</span>:<span class="cit-fpage">627</span>–31.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=50/3/627"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(12)</span><a class="rev-xref-ref" href="#xref-ref-12-1" title="View reference (12) in text"
+                           id="ref-12">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.12"
+                             data-doi="10.1002/1097-0142(19910801)68:3&lt;672::AID-CNCR2820680339&gt;3.0.CO;2-T">
+                           <div class="cit-metadata"><cite>Kneller RW, McLaughlin JK, Bjelke E, Schuman LM, Blot WJ, Wacholder S, et al. A cohort study of stomach cancer in a high-risk
+                                 American population. <span class="cit-source">Cancer</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">68</span>:<span class="cit-fpage">672</span>–8.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/1097-0142(19910801)68:3%3C672::AID-CNCR2820680339%3E3.0.CO;2-T&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=2065291&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1991FY16100038&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(13)</span><a class="rev-xref-ref" href="#xref-ref-13-1" title="View reference (13) in text"
+                           id="ref-13">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.13"
+                             data-doi="10.1093/ije/27.2.173">
+                           <div class="cit-metadata"><cite>Galanis DJ, Kolonel LN, Lee J, Nomura A. Intakes of selected foods and beverages and the incidence of gastric cancer among
+                                 the Japanese residents of Hawaii: a prospective study. <span class="cit-source">Int J Epidemiol</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">27</span>:<span class="cit-fpage">173</span>–80.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=intjepid&amp;resid=27/2/173"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(14)</span><a class="rev-xref-ref" href="#xref-ref-14-1" title="View reference (14) in text"
+                           id="ref-14">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.14"
+                             data-doi="10.1002/(SICI)1097-0215(19990315)80:6&lt;852::AID-IJC9&gt;3.0.CO;2-S">
+                           <div class="cit-metadata"><cite>Knekt P, Järvinen R, Dich J, Hakulinen T. Risk of colorectal and other gastro-intestinal cancers after exposure to nitrate,
+                                 nitrite and N-nitroso compounds: a follow-up study. <span class="cit-source">Int J Cancer</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">80</span>:<span class="cit-fpage">852</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/(SICI)1097-0215(19990315)80:6%3C852::AID-IJC9%3E3.0.CO;2-S&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10074917&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000078841600009&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(15)</span><a class="rev-xref-ref" href="#xref-ref-15-1" title="View reference (15) in text"
+                           id="ref-15">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.15">
+                           <div class="cit-metadata"><cite>McCullough ML, Robertson AS, Jacobs EJ, Chao A, Calle EE, Thun MJ. A prospective study of diet and stomach cancer mortality
+                                 in United States men and women. <span class="cit-source">Cancer Epidemiol Biomarkers Prev</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">10</span>:<span class="cit-fpage">1201</span>–5.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=10/11/1201"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(16)</span><a class="rev-xref-ref" href="#xref-ref-16-1" title="View reference (16) in text"
+                           id="ref-16">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.16"
+                             data-doi="10.1038/sj.bjc.6600415">
+                           <div class="cit-metadata"><cite>Ngoan LT, Mizoue T, Fujino Y, Tokui N, Yoshimura T. Dietary factors and stomach cancer mortality. <span class="cit-source">Br J Cancer</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">87</span>:<span class="cit-fpage">37</span>–42.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1038/sj.bjc.6600415&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12085253&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000176878400007&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(17)</span><a class="rev-xref-ref" href="#xref-ref-17-1" title="View reference (17) in text"
+                           id="ref-17">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.17"
+                             data-doi="10.1023/A:1024979314124">
+                           <div class="cit-metadata"><cite>van den Brandt PA, Botterweck AA, Goldbohm RA. Salt intake, cured meat consumption, refrigerator use and stomach cancer incidence:
+                                 a prospective cohort study (Netherlands). <span class="cit-source">Cancer Causes Control</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">14</span>:<span class="cit-fpage">427</span>–38.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1023/A:1024979314124&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12946037&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000184417300004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(18)</span><a class="rev-xref-ref" href="#xref-ref-18-1" title="View reference (18) in text"
+                           id="ref-18">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.18"
+                             data-doi="10.2188/jea.15.S98">
+                           <div class="cit-metadata"><cite>Tokui N, Yoshimura T, Fujino Y, Mizoue T, Hoshiyama Y, Yatsuya H, et al. Dietary habits and stomach cancer risk in the JACC
+                                 Study. <span class="cit-source">J Epidemiol</span> <span class="cit-pub-date">2005</span>;<span class="cit-vol">15</span> Suppl 2:<span class="cit-fpage">S98</span>–108.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.2188/jea.15.S98&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16127240&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000230968400003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(19)</span><a class="rev-xref-ref" href="#xref-ref-19-1" title="View reference (19) in text"
+                           id="ref-19">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.19">
+                           <div class="cit-metadata"><cite>González CA, Jakszyn P, Pera G, Agudo A, Bingham S, Palli D, et al. Meat intake and risk of stomach and esophageal adenocarcinoma
+                                 within the European Prospective Investigation Into Cancer and Nutrition (EPIC). <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">98</span>:<span class="cit-fpage">345</span>–54.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=98/5/345"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(20)</span><a class="rev-xref-ref" href="#xref-ref-20-1" title="View reference (20) in text"
+                           id="ref-20">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.20"
+                             data-doi="10.1002/ijc.21925">
+                           <div class="cit-metadata"><cite>Larsson SC, Bergkvist L, Wolk A. Processed meat consumption, dietary nitrosamines and stomach cancer risk in a cohort of Swedish
+                                 women. <span class="cit-source">Int J Cancer</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">119</span>:<span class="cit-fpage">915</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/ijc.21925&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16550597&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(21)</span><a class="rev-xref-ref" href="#xref-ref-21-1" title="View reference (21) in text"
+                           id="ref-21">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.21">
+                           <div class="cit-metadata"><cite>Risch HA, Jain M, Choi NW, Fodor JG, Pfeiffer CJ, Howe GR, et al. Dietary factors and the incidence of cancer of the stomach.
+                                 <span class="cit-source">Am J Epidemiol</span> <span class="cit-pub-date">1985</span>;<span class="cit-vol">122</span>:<span class="cit-fpage">947</span>–59.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=amjepid&amp;resid=122/6/947"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(22)</span><a class="rev-xref-ref" href="#xref-ref-22-1" title="View reference (22) in text"
+                           id="ref-22">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.22"
+                             data-doi="10.1002/ijc.2910400409">
+                           <div class="cit-metadata"><cite>La Vecchia C, Negri E, Decarli A, D'Avanzo B, Franceschi S. A case-control study of diet and gastric cancer in northern Italy.
+                                 <span class="cit-source">Int J Cancer</span> <span class="cit-pub-date">1987</span>;<span class="cit-vol">40</span>:<span class="cit-fpage">484</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/ijc.2910400409&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3117710&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1987K432200008&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(23)</span><a class="rev-xref-ref" href="#xref-ref-23-1" title="View reference (23) in text"
+                           id="ref-23">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.23">
+                           <div class="cit-metadata"><cite>Lee HH, Wu HY, Chuang YC, Chang AS, Chao HH, Chen KY, et al. Epidemiologic characteristics and multiple risk factors of stomach
+                                 cancer in Taiwan. <span class="cit-source">Anticancer Res</span> <span class="cit-pub-date">1990</span>;<span class="cit-vol">10</span>:<span class="cit-fpage">875</span>–81.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=2382983&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1990DT86900003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(24)</span><a class="rev-xref-ref" href="#xref-ref-24-1" title="View reference (24) in text"
+                           id="ref-24">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.24">
+                           <div class="cit-metadata"><cite>Boeing H, Frentzel-Beyme R, Berger M, Berndt V, Gores W, Korner M, et al. Case-control study on stomach cancer in Germany.
+                                 <span class="cit-source">Int J Cancer</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">47</span>:<span class="cit-fpage">858</span>–64.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=2010228&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1991FF50700011&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(25)</span><a class="rev-xref-ref" href="#xref-ref-25-1" title="View reference (25) in text"
+                           id="ref-25">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.25">
+                           <div class="cit-metadata"><cite>González CA, Sanz JM, Marcos G, Pita S, Brullet E, Saigi E, et al. Dietary factors and stomach cancer in Spain: a multi-centre
+                                 case-control study. <span class="cit-source">Int J Cancer</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">49</span>:<span class="cit-fpage">513</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=1917151&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1991GL72100006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(26)</span><a class="rev-xref-ref" href="#xref-ref-26-1" title="View reference (26) in text"
+                           id="ref-26">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.26"
+                             data-doi="10.1007/BF00052138">
+                           <div class="cit-metadata"><cite>Boeing H, Jedrychowski W, Wahrendorf J, Popiela T, Tobiasz-Adamczyk B, Kulig A. Dietary risk factors in intestinal and diffuse
+                                 types of stomach cancer: a multicenter case-control study in Poland. <span class="cit-source">Cancer Causes Control</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">2</span>:<span class="cit-fpage">227</span>–33.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/BF00052138&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=1873452&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1991FZ60700004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(27)</span><a class="rev-xref-ref" href="#xref-ref-27-1" title="View reference (27) in text"
+                           id="ref-27">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.27">
+                           <div class="cit-metadata"><cite>Tuyns AJ, Kaaks R, Haelterman M, Riboli E. Diet and gastric cancer: a case-control study in Belgium. <span class="cit-source">Int J Cancer</span> <span class="cit-pub-date">1992</span>;<span class="cit-vol">51</span>:<span class="cit-fpage">1</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=1563829&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1992HQ41700001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(28)</span><a class="rev-xref-ref" href="#xref-ref-28-1" title="View reference (28) in text"
+                           id="ref-28">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.28">
+                           <div class="cit-metadata"><cite>Sanchez-Diez A, Hernandez-Mejia R, Cueto-Espinar A. Study of the relation between diet and gastric cancer in a rural area
+                                 of the Province of Leon, Spain. <span class="cit-source">Eur J Epidemiol</span> <span class="cit-pub-date">1992</span>;<span class="cit-vol">8</span>:<span class="cit-fpage">233</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=1644141&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1992HQ88100011&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(29)</span><a class="rev-xref-ref" href="#xref-ref-29-1" title="View reference (29) in text"
+                           id="ref-29">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.29"
+                             data-doi="10.1007/BF00051357">
+                           <div class="cit-metadata"><cite>Hoshiyama Y, Sasaba T. A case-control study of stomach cancer and its relation to diet, cigarettes, and alcohol consumption
+                                 in Saitama Prefecture, Japan. <span class="cit-source">Cancer Causes Control</span> <span class="cit-pub-date">1992</span>;<span class="cit-vol">3</span>:<span class="cit-fpage">441</span>–8.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/BF00051357&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=1525325&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1992JL16900006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(30)</span><a class="rev-xref-ref" href="#xref-ref-30-1" title="View reference (30) in text"
+                           id="ref-30">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.30">
+                           <div class="cit-metadata"><cite>Hansson LE, Nyrén O, Bergström R, Wolk A, Lindgren A, Baron J, et al. Diet and risk of gastric cancer: a population-based
+                                 case-control study in Sweden. <span class="cit-source">Int J Cancer</span> <span class="cit-pub-date">1993</span>;<span class="cit-vol">55</span>:<span class="cit-fpage">181</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=8370614&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1993LX66500002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(31)</span><a class="rev-xref-ref" href="#xref-ref-31-1" title="View reference (31) in text"
+                           id="ref-31">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.31"
+                             data-doi="10.1093/ije/22.5.790">
+                           <div class="cit-metadata"><cite>Nazario CM, Szklo M, Diamond E, Roman-Franco A, Climent C, Suarez E, et al. Salt and gastric cancer: a case-control study
+                                 in Puerto Rico. <span class="cit-source">Int J Epidemiol</span> <span class="cit-pub-date">1993</span>;<span class="cit-vol">22</span>:<span class="cit-fpage">790</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=intjepid&amp;resid=22/5/790"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(32)</span><a class="rev-xref-ref" href="#xref-ref-32-1" title="View reference (32) in text"
+                           id="ref-32">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.32"
+                             data-doi="10.1002/(SICI)1097-0142(19970915)80:6&lt;1021::AID-CNCR3&gt;3.0.CO;2-C">
+                           <div class="cit-metadata"><cite>Harrison LE, Zhang ZF, Karpeh MS, Sun M, Kurtz RC. The role of dietary factors in the intestinal and diffuse histologic subtypes
+                                 of gastric adenocarcinoma: a case-control study in the U.S. <span class="cit-source">Cancer</span> <span class="cit-pub-date">1997</span>;<span class="cit-vol">80</span>:<span class="cit-fpage">1021</span>–8.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/(SICI)1097-0142(19970915)80:6%3C1021::AID-CNCR3%3E3.0.CO;2-C&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9305701&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1997XU94200003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(33)</span><a class="rev-xref-ref" href="#xref-ref-33-1" title="View reference (33) in text"
+                           id="ref-33">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.33"
+                             data-doi="10.1002/(SICI)1097-0215(19970328)71:1&lt;14::AID-IJC4&gt;3.0.CO;2-6">
+                           <div class="cit-metadata"><cite>Ward MH, Sinha R, Heineman EF, Rothman N, Markin R, Weisenburger DD, et al. Risk of adenocarcinoma of the stomach and esophagus
+                                 with meat cooking method and doneness preference. <span class="cit-source">Int J Cancer</span> <span class="cit-pub-date">1997</span>;<span class="cit-vol">71</span>:<span class="cit-fpage">14</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/(SICI)1097-0215(19970328)71:1%3C14::AID-IJC4%3E3.0.CO;2-6&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9096659&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1997WQ88400004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(34)</span><a class="rev-xref-ref" href="#xref-ref-34-1" title="View reference (34) in text"
+                           id="ref-34">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.34"
+                             data-doi="10.1002/(SICI)1097-0215(19980529)76:5&lt;659::AID-IJC8&gt;3.0.CO;2-P">
+                           <div class="cit-metadata"><cite>Ji BT, Chow WH, Yang G, McLaughlin JK, Zheng W, Shu XO, et al. Dietary habits and stomach cancer in Shanghai, China. <span class="cit-source">Int J Cancer</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">76</span>:<span class="cit-fpage">659</span>–64.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/(SICI)1097-0215(19980529)76:5%3C659::AID-IJC8%3E3.0.CO;2-P&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=9610722&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000073774500008&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(35)</span><a class="rev-xref-ref" href="#xref-ref-35-1" title="View reference (35) in text"
+                           id="ref-35">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.35">
+                           <div class="cit-metadata"><cite>Ward MH, Lopez-Carrillo L. Dietary factors and the risk of gastric cancer in Mexico City. <span class="cit-source">Am J Epidemiol</span> <span class="cit-pub-date">1999</span>;<span class="cit-vol">149</span>:<span class="cit-fpage">925</span>–32.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=amjepid&amp;resid=149/10/925"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(36)</span><a class="rev-xref-ref" href="#xref-ref-36-1" title="View reference (36) in text"
+                           id="ref-36">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.36"
+                             data-doi="10.1111/j.1349-7006.2001.tb02135.x">
+                           <div class="cit-metadata"><cite>Takezaki T, Gao CM, Wu JZ, Ding JH, Liu YT, Zhang Y, et al. Dietary protective and risk factors for esophageal and stomach
+                                 cancers in a low-epidemic area for stomach cancer in Jiangsu Province, China: comparison with those in a high-epidemic area.
+                                 <span class="cit-source">Jpn J Cancer Res</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">92</span>:<span class="cit-fpage">1157</span>–65.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1111/j.1349-7006.2001.tb02135.x&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=000172454000003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(37)</span><a class="rev-xref-ref" href="#xref-ref-37-1" title="View reference (37) in text"
+                           id="ref-37">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.37"
+                             data-doi="10.1207/S15327914NC402_5">
+                           <div class="cit-metadata"><cite>De Stefani E, Ronco A, Brennan P, Boffetta P. Meat consumption and risk of stomach cancer in Uruguay: a case-control study.
+                                 <span class="cit-source">Nutr Cancer</span> <span class="cit-pub-date">2001</span>;<span class="cit-vol">40</span>:<span class="cit-fpage">103</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1207/S15327914NC402_5&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11962244&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000174800600005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(38)</span><a class="rev-xref-ref" href="#xref-ref-38-1" title="View reference (38) in text"
+                           id="ref-38">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.38">
+                           <div class="cit-metadata"><cite>Chen H, Ward MH, Graubard BI, Heineman EF, Markin RM, Potischman NA, et al. Dietary patterns and adenocarcinoma of the esophagus
+                                 and distal stomach. <span class="cit-source">Am J Clin Nutr</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">75</span>:<span class="cit-fpage">137</span>–44.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=ajcn&amp;resid=75/1/137"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(39)</span><a class="rev-xref-ref" href="#xref-ref-39-1" title="View reference (39) in text"
+                           id="ref-39">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.39"
+                             data-doi="10.1016/S1047-2797(02)00269-7">
+                           <div class="cit-metadata"><cite>Ito LS, Inoue M, Tajima K, Yamamura Y, Kodera Y, Hirose K, et al. Dietary factors and the risk of gastric cancer among Japanese
+                                 women: a comparison between the differentiated and non-differentiated subtypes. <span class="cit-source">Ann Epidemiol</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">13</span>:<span class="cit-fpage">24</span>–31.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S1047-2797(02)00269-7&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12547482&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000180147700004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(40)</span><a class="rev-xref-ref" href="#xref-ref-40-1" title="View reference (40) in text"
+                           id="ref-40">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.40"
+                             data-doi="10.1023/A:1024887411846">
+                           <div class="cit-metadata"><cite>Nomura AM, Hankin JH, Kolonel LN, Wilkens LR, Goodman MT, Stemmermann GN. Case-control study of diet and other risk factors
+                                 for gastric cancer in Hawaii (United States). <span class="cit-source">Cancer Causes Control</span> <span class="cit-pub-date">2003</span>;<span class="cit-vol">14</span>:<span class="cit-fpage">547</span>–58.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1023/A:1024887411846&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12948286&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000184280300006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(41)</span><a class="rev-xref-ref" href="#xref-ref-41-1" title="View reference (41) in text"
+                           id="ref-41">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.41"
+                             data-doi="10.1207/s15327914nc4802_4">
+                           <div class="cit-metadata"><cite>Lissowska J, Gail MH, Pee D, Groves FD, Sobin LH, Nasierowska-Guttmejer A, et al. Diet and stomach cancer risk in Warsaw,
+                                 Poland. <span class="cit-source">Nutr Cancer</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">48</span>:<span class="cit-fpage">149</span>–59.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1207/s15327914nc4802_4&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15231449&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000223025100004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(42)</span><a class="rev-xref-ref" href="#xref-ref-42-1" title="View reference (42) in text"
+                           id="ref-42">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.42"
+                             data-doi="10.1007/s10120-004-0295-2">
+                           <div class="cit-metadata"><cite>De Stefani E, Correa P, Boffetta P, Deneo-Pellegrini H, Ronco AL, Mendilaharsu M. Dietary patterns and risk of gastric cancer:
+                                 a case-control study in Uruguay. <span class="cit-source">Gastric Cancer</span> <span class="cit-pub-date">2004</span>;<span class="cit-vol">7</span>:<span class="cit-fpage">211</span>–20.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/s10120-004-0295-2&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=15616769&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(43)</span><a class="rev-xref-ref" href="#xref-ref-43-1" title="View reference (43) in text"
+                           id="ref-43">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.43">
+                           <div class="cit-metadata"><cite>Greenland S. Quantitative methods in the review of epidemiologic literature. <span class="cit-source">Epidemiol Rev</span> <span class="cit-pub-date">1987</span>;<span class="cit-vol">9</span>:<span class="cit-fpage">1</span>–30.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=12315636&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(44)</span><a class="rev-xref-ref" href="#xref-ref-44-1" title="View reference (44) in text"
+                           id="ref-44">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.44"
+                             data-doi="10.1016/0197-2456(86)90046-2">
+                           <div class="cit-metadata"><cite>DerSimonian R, Laird N. Meta-analysis in clinical trials. <span class="cit-source">Control Clin Trials</span> <span class="cit-pub-date">1986</span>;<span class="cit-vol">7</span>:<span class="cit-fpage">177</span>–88.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0197-2456(86)90046-2&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3802833&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1986F013900001&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(45)</span><a class="rev-xref-ref" href="#xref-ref-45-1" title="View reference (45) in text"
+                           id="ref-45">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.45">
+                           <div class="cit-metadata"><cite>Greenland S, Longnecker MP. Methods for trend estimation from summarized dose-response data, with applications to meta-analysis.
+                                 <span class="cit-source">Am J Epidemiol</span> <span class="cit-pub-date">1992</span>;<span class="cit-vol">135</span>:<span class="cit-fpage">1301</span>–9.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=amjepid&amp;resid=135/11/1301"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(46)</span><a class="rev-xref-ref" href="#xref-ref-46-1" title="View reference (46) in text"
+                           id="ref-46">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.46">
+                           <div class="cit-metadata"><cite>Orsini N, Bellocco R, Greenland S. Generalized least squares for trend estimation of summarized dose-response data. <span class="cit-source">Stata J</span> <span class="cit-pub-date">2006</span>;<span class="cit-vol">6</span>:<span class="cit-fpage">40</span>–57.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(47)</span><a class="rev-xref-ref" href="#xref-ref-47-1" title="View reference (47) in text"
+                           id="ref-47">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.47"
+                             data-doi="10.1002/ijc.10126">
+                           <div class="cit-metadata"><cite>Norat T, Lukanova A, Ferrari P, Riboli E. Meat consumption and colorectal cancer risk: dose-response meta-analysis of epidemiological
+                                 studies. <span class="cit-source">Int J Cancer</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">98</span>:<span class="cit-fpage">241</span>–56.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/ijc.10126&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11857415&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000173901100014&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(48)</span><a class="rev-xref-ref" href="#xref-ref-48-1" title="View reference (48) in text"
+                           id="ref-48">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.48"
+                             data-doi="10.1002/sim.1186">
+                           <div class="cit-metadata"><cite>Higgins JP, Thompson SG. Quantifying heterogeneity in a meta-analysis. <span class="cit-source">Stat Med</span> <span class="cit-pub-date">2002</span>;<span class="cit-vol">21</span>:<span class="cit-fpage">1539</span>–58.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1002/sim.1186&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12111919&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000176016900005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(49)</span><a class="rev-xref-ref" href="#xref-ref-49-1" title="View reference (49) in text"
+                           id="ref-49">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.49"
+                             data-doi="10.1136/bmj.315.7109.629">
+                           <div class="cit-metadata"><cite>Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-analysis detected by a simple, graphical test. <span class="cit-source">BMJ</span> <span class="cit-pub-date">1997</span>;<span class="cit-vol">315</span>:<span class="cit-fpage">629</span>–34.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=bmj&amp;resid=315/7109/629"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(50)</span><a class="rev-xref-ref" href="#xref-ref-50-1" title="View reference (50) in text"
+                           id="ref-50">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.50">
+                           <div class="cit-metadata"><cite>Wacholder S, Dosemeci M, Lubin JH. Blind assignment of exposure does not always prevent differential misclassification. <span class="cit-source">Am J Epidemiol</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">134</span>:<span class="cit-fpage">433</span>–7.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=amjepid&amp;resid=134/4/433"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(51)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-98.15.1078.51">
+                           <div class="cit-metadata"><cite>Flegal KM, Keyl PM, Nieto FJ. Differential misclassification arising from nondifferential errors in exposure measurement.
+                                 <span class="cit-source">Am J Epidemiol</span> <span class="cit-pub-date">1991</span>;<span class="cit-vol">134</span>:<span class="cit-fpage">1233</span>–44.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=amjepid&amp;resid=134/10/1233"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(52)</span><a class="rev-xref-ref" href="#xref-ref-52-1" title="View reference (52) in text"
+                           id="ref-52">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.52"
+                             data-doi="10.1097/00001648-199503000-00012">
+                           <div class="cit-metadata"><cite>Wacholder S. When measurement errors correlate with truth: surprising effects of nondifferential misclassification. <span class="cit-source">Epidemiology</span> <span class="cit-pub-date">1995</span>;<span class="cit-vol">6</span>:<span class="cit-fpage">157</span>–61.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1097/00001648-199503000-00012&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7742402&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995QJ25900012&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(53)</span><a class="rev-xref-ref" href="#xref-ref-53-1" title="View reference (53) in text"
+                           id="ref-53">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.53">
+                           <div class="cit-metadata"><cite>International Agency for Research on Cancer. IARC monographs on the evaluation of the carcinogenic risk of chemicals to humans:
+                                 Vol 17. Some <em>N</em>-nitroso compounds. Lyon (France): IARC Press; <span class="cit-pub-date">1978</span>. p. 1–349.</cite></div>
+                           <div class="cit-extra"></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(54)</span><a class="rev-xref-ref" href="#xref-ref-54-1" title="View reference (54) in text"
+                           id="ref-54">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.54"
+                             data-doi="10.1038/216943a0">
+                           <div class="cit-metadata"><cite>Sugimura T, Fujimura S. Tumour production in glandular stomach of rat by <em>N</em>-methyl-<em>N</em>′-nitro-<em>N</em>-nitrosoguanidine. <span class="cit-source">Nature</span> <span class="cit-pub-date">1967</span>;<span class="cit-vol">216</span>:<span class="cit-fpage">943</span>–4.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1038/216943a0&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=6074981&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(55)</span><a class="rev-xref-ref" href="#xref-ref-55-1" title="View reference (55) in text"
+                           id="ref-55">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.55">
+                           <div class="cit-metadata"><cite>González CA, Riboli E, Badosa J, Batiste E, Cardona T, Pita S, et al. Nutritional factors and gastric cancer in Spain. <span class="cit-source">Am J Epidemiol</span> <span class="cit-pub-date">1994</span>;<span class="cit-vol">139</span>:<span class="cit-fpage">466</span>–73.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=amjepid&amp;resid=139/5/466"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(56)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-98.15.1078.56"
+                             data-doi="10.1007/BF01719947">
+                           <div class="cit-metadata"><cite>Pobel D, Riboli E, Cornee J, Hemon B, Guyader M. Nitrosamine, nitrate and nitrite in relation to gastric cancer: a case-control
+                                 study in Marseille, France. <span class="cit-source">Eur J Epidemiol</span> <span class="cit-pub-date">1995</span>;<span class="cit-vol">11</span>:<span class="cit-fpage">67</span>–73.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/BF01719947&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7489775&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995RF02400009&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(57)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-98.15.1078.57">
+                           <div class="cit-metadata"><cite>La Vecchia C, D'Avanzo B, Airoldi L, Braga C, Decarli A. Nitrosamine intake and gastric cancer risk. <span class="cit-source">Eur J Cancer Prev</span> <span class="cit-pub-date">1995</span>;<span class="cit-vol">4</span>:<span class="cit-fpage">469</span>–74.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=8580782&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1995TE29000005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(58)</span><a class="rev-xref-ref" href="#xref-ref-58-1" title="View reference (58) in text"
+                           id="ref-58">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.58">
+                           <div class="cit-metadata"><cite>De Stefani E, Boffetta P, Mendilaharsu M, Carzoglio J, Deneo-Pellegrini H. Dietary nitrosamines, heterocyclic amines, and
+                                 risk of gastric cancer: a case-control study in Uruguay. <span class="cit-source">Nutr Cancer</span> <span class="cit-pub-date">1998</span>;<span class="cit-vol">30</span>:<span class="cit-fpage">158</span>–62.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=9589435&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000073297700010&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(59)</span><a class="rev-xref-ref" href="#xref-ref-59-1" title="View reference (59) in text"
+                           id="ref-59">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.59"
+                             data-doi="10.1093/carcin/15.7.1429">
+                           <div class="cit-metadata"><cite>Takahashi M, Nishikawa A, Furukawa F, Enami T, Hasegawa T, Hayashi Y. Dose-dependent promoting effects of sodium chloride
+                                 (NaCl) on rat glandular stomach carcinogenesis initiated with <em>N</em>-methyl-<em>N</em>′-nitro-<em>N</em>-nitrosoguanidine. <span class="cit-source">Carcinogenesis</span> <span class="cit-pub-date">1994</span>;<span class="cit-vol">15</span>:<span class="cit-fpage">1429</span>–32.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=carcin&amp;resid=15/7/1429"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(60)</span>
+                        
+                        
+                        <div class="cit ref-cit ref-other no-rev-xref" id="cit-98.15.1078.60">
+                           <div class="cit-metadata"><cite>Tatematsu M, Takahashi M, Fukushima S, Hananouchi M, Shirai T. Effects in rats of sodium chloride on experimental gastric
+                                 cancers induced by <em>N</em>-methyl-<em>N</em>-nitro-<em>N</em>-nitrosoguanidine or 4-nitroquinoline-1-oxide. <span class="cit-source">J Natl Cancer Inst</span> <span class="cit-pub-date">1975</span>;<span class="cit-vol">55</span>:<span class="cit-fpage">101</span>–6.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=808633&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1975AL92400017&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(61)</span><a class="rev-xref-ref" href="#xref-ref-61-1" title="View reference (61) in text"
+                           id="ref-61">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.61">
+                           <div class="cit-metadata"><cite>Takahashi M, Kokubo T, Furukawa F, Kurokawa Y, Tatematsu M, Hayashi Y. Effect of high salt diet on rat gastric carcinogenesis
+                                 induced by <em>N</em>-methyl-<em>N</em>′-nitro-<em>N</em>-nitrosoguanidine. <span class="cit-source">Gann</span> <span class="cit-pub-date">1983</span>;<span class="cit-vol">74</span>:<span class="cit-fpage">28</span>–34.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=6840437&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1983QK04000005&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                     <li><span class="ref-label">(62)</span><a class="rev-xref-ref" href="#xref-ref-62-1" title="View reference (62) in text"
+                           id="ref-62">↵</a>
+                        
+                        
+                        <div class="cit ref-cit ref-other" id="cit-98.15.1078.62"
+                             data-doi="10.1016/0027-5107(88)90194-7">
+                           <div class="cit-metadata"><cite>Bartsch H, Ohshima H, Pignatelli B. Inhibitors of endogenous nitrosation: mechanisms and implications in human cancer prevention.
+                                 <span class="cit-source">Mutat Res</span> <span class="cit-pub-date">1988</span>;<span class="cit-vol">202</span>:<span class="cit-fpage">307</span>–24.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0027-5107(88)90194-7&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3057363&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1988R305900004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a></div>
+                        </div>
+                        
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/98/15/1068.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/98/15/1088.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/98/15.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (2 August 2006) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    98
+                                    </span><span class="slug-issue">
+                                    (15):
+                                    </span><span class="slug-pages">
+                                    1078-1087.
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/djj301" class="slug-doi">10.1093/jnci/djj301</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><a href="/content/98/15/1078.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/98/15/1078.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=ARTICLES&amp;sortspec=date&amp;submit=Submit">Article</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;98/15/1078" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B98%2F15%2F1078&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/98/15/1078.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=98/15/1078&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/98/15/1078.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3B98%2F15%2F1078&amp;citation=Larsson%20et%20al.%2098%20%2815%29:%201078&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B98%2F15%2F1078&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=16882945&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B98%2F15%2F1078">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B98%2F15%2F1078">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=Processed%20Meat%20Consumption%20and%20Stomach%20Cancer%20Risk%3A%20A%20Meta-Analysis%3A%20&amp;publicationDate=2%20August%202006&amp;author=Susanna%20C.%20Larsson%2C%20Nicola%20Orsini%2C%20Alicja%20Wolk&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2Fdjj301&amp;volumeNum=98&amp;issueNum=15&amp;startPage=1078&amp;endPage=1087&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/98/15/1078.full?cited-by=yes&amp;legid=jnci;98/15/1078#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/98/15/1078" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/98/15/1078?access_num=/jnci/98/15/1078"
+                              rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F98%2F15%2F1078&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/98/15/1078.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ALarsson%20author%3AS.C.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Larsson, S. C.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AWolk%20author%3AA.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Wolk, A.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/98/15/1078.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=16882945&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Larsson%20SC&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Larsson, S. C.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Orsini%20N&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Orsini, N.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Wolk%20A&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Wolk, A.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/98/15/1078.full?related-urls=yes&amp;legid=jnci;98/15/1078#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B98%2F15%2F1078&amp;current-view-path=/content/98/15/1078.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/98/15/1078&amp;title=Processed%20Meat%20Consumption%20and%20Stomach%20Cancer%20Risk%3A%20A%20Meta-Analysis+--+Larsson%20et%20al.%2098%20%2815%29%3A%201078+--+&amp;doi=10.1093/jnci/djj301&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/98/15/1078&amp;title=Processed%20Meat%20Consumption%20and%20Stomach%20Cancer%20Risk%3A%20A%20Meta-Analysis+--+Larsson%20et%20al.%2098%20%2815%29%3A%201078+--+&amp;doi=10.1093/jnci/djj301&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/98/15/1078&amp;title=Processed%20Meat%20Consumption%20and%20Stomach%20Cancer%20Risk%3A%20A%20Meta-Analysis+--+Larsson%20et%20al.%2098%20%2815%29%3A%201078+--+&amp;doi=10.1093/jnci/djj301&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/98/15/1078&amp;title=Processed%20Meat%20Consumption%20and%20Stomach%20Cancer%20Risk%3A%20A%20Meta-Analysis+--+Larsson%20et%20al.%2098%20%2815%29%3A%201078+--+&amp;doi=10.1093/jnci/djj301&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/98/15/1078&amp;title=Processed%20Meat%20Consumption%20and%20Stomach%20Cancer%20Risk%3A%20A%20Meta-Analysis+--+Larsson%20et%20al.%2098%20%2815%29%3A%201078+--+&amp;doi=10.1093/jnci/djj301&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/98/15/1078&amp;title=Processed%20Meat%20Consumption%20and%20Stomach%20Cancer%20Risk%3A%20A%20Meta-Analysis+--+Larsson%20et%20al.%2098%20%2815%29%3A%201078+--+&amp;doi=10.1093/jnci/djj301&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#abstract-1">Abstract</a></li>
+                        <li><a href="#sec-1">S<span class="sc">UBJECTS AND</span> M<span class="sc">ETHODS</span></a></li>
+                        <li><a href="#sec-6">R<span class="sc">ESULTS</span></a></li>
+                        <li><a href="#sec-12">D<span class="sc">ISCUSSION</span></a></li>
+                        <li><a href="#fn-group-1">Footnotes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/98/15/1078.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/98/15/1078.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

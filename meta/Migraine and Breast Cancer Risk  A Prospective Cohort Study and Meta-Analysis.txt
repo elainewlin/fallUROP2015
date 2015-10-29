@@ -1,0 +1,1961 @@
+http://jnci.oxfordjournals.org/content/107/1/dju381.full
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Migraine and Breast Cancer Risk: A Prospective Cohort Study and Meta-Analysis </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/full/107/1/dju381" />
+      <meta content="/jnci/107/1/dju381.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Migraine and Breast Cancer Risk: A Prospective Cohort Study and Meta-Analysis"
+            name="DC.Title" />
+      <meta content="10.1093/jnci/dju381" name="DC.Identifier" />
+      <meta content="2015-01-01" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Anke C. Winter" name="DC.Contributor" />
+      <meta content="Megan S. Rice" name="DC.Contributor" />
+      <meta content="Renée T. Fortner" name="DC.Contributor" />
+      <meta content="A. Heather Eliassen" name="DC.Contributor" />
+      <meta content="Tobias Kurth" name="DC.Contributor" />
+      <meta content="Rulla M. Tamimi" name="DC.Contributor" />
+      <meta content="Journal of the National Cancer Institute"
+            name="citation_journal_title" />
+      <meta content="JNCI J Natl Cancer Inst" name="citation_journal_abbrev" />
+      <meta content="0027-8874" name="citation_issn" />
+      <meta content="1460-2105" name="citation_issn" />
+      <meta name="citation_author" content="Anke C. Winter" />
+      <meta name="citation_author_institution"
+            content="&#xA;         Affiliations of authors: &#xA;         Division of Public Health Sciences, Department of Surgery, Washington University School of Medicine, St. Louis, MO (ACW); Channing Division of Network Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA (MSR, RTF, AHE, RMT); Department of Epidemiology, Harvard School of Public Health, Boston, MA (MSR, RTF, AHE, RMT); Division of Preventive Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA (TK); Team Neuroepidemiology, INSERM ​Research Center for Epidemiology and Biostatistics (U897), Bordeaux, France (TK); University of Bordeaux, Bordeaux, France (TK)." />
+      <meta name="citation_author" content="Megan S. Rice" />
+      <meta name="citation_author_institution"
+            content="&#xA;         Affiliations of authors: &#xA;         Division of Public Health Sciences, Department of Surgery, Washington University School of Medicine, St. Louis, MO (ACW); Channing Division of Network Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA (MSR, RTF, AHE, RMT); Department of Epidemiology, Harvard School of Public Health, Boston, MA (MSR, RTF, AHE, RMT); Division of Preventive Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA (TK); Team Neuroepidemiology, INSERM ​Research Center for Epidemiology and Biostatistics (U897), Bordeaux, France (TK); University of Bordeaux, Bordeaux, France (TK)." />
+      <meta name="citation_author" content="Renée T. Fortner" />
+      <meta name="citation_author_institution"
+            content="&#xA;         Affiliations of authors: &#xA;         Division of Public Health Sciences, Department of Surgery, Washington University School of Medicine, St. Louis, MO (ACW); Channing Division of Network Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA (MSR, RTF, AHE, RMT); Department of Epidemiology, Harvard School of Public Health, Boston, MA (MSR, RTF, AHE, RMT); Division of Preventive Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA (TK); Team Neuroepidemiology, INSERM ​Research Center for Epidemiology and Biostatistics (U897), Bordeaux, France (TK); University of Bordeaux, Bordeaux, France (TK)." />
+      <meta name="citation_author" content="A. Heather Eliassen" />
+      <meta name="citation_author_institution"
+            content="&#xA;         Affiliations of authors: &#xA;         Division of Public Health Sciences, Department of Surgery, Washington University School of Medicine, St. Louis, MO (ACW); Channing Division of Network Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA (MSR, RTF, AHE, RMT); Department of Epidemiology, Harvard School of Public Health, Boston, MA (MSR, RTF, AHE, RMT); Division of Preventive Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA (TK); Team Neuroepidemiology, INSERM ​Research Center for Epidemiology and Biostatistics (U897), Bordeaux, France (TK); University of Bordeaux, Bordeaux, France (TK)." />
+      <meta name="citation_author" content="Tobias Kurth" />
+      <meta name="citation_author_institution"
+            content="&#xA;         Affiliations of authors: &#xA;         Division of Public Health Sciences, Department of Surgery, Washington University School of Medicine, St. Louis, MO (ACW); Channing Division of Network Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA (MSR, RTF, AHE, RMT); Department of Epidemiology, Harvard School of Public Health, Boston, MA (MSR, RTF, AHE, RMT); Division of Preventive Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA (TK); Team Neuroepidemiology, INSERM ​Research Center for Epidemiology and Biostatistics (U897), Bordeaux, France (TK); University of Bordeaux, Bordeaux, France (TK)." />
+      <meta name="citation_author" content="Rulla M. Tamimi" />
+      <meta name="citation_author_institution"
+            content="&#xA;         Affiliations of authors: &#xA;         Division of Public Health Sciences, Department of Surgery, Washington University School of Medicine, St. Louis, MO (ACW); Channing Division of Network Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA (MSR, RTF, AHE, RMT); Department of Epidemiology, Harvard School of Public Health, Boston, MA (MSR, RTF, AHE, RMT); Division of Preventive Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA (TK); Team Neuroepidemiology, INSERM ​Research Center for Epidemiology and Biostatistics (U897), Bordeaux, France (TK); University of Bordeaux, Bordeaux, France (TK)." />
+      <meta content="Migraine and Breast Cancer Risk: A Prospective Cohort Study and Meta-Analysis"
+            name="citation_title" />
+      <meta content="01/01/2015" name="citation_date" />
+      <meta content="107" name="citation_volume" />
+      <meta content="1" name="citation_issue" />
+      <meta content="dju381" name="citation_firstpage" />
+      <meta content="107/1/dju381" name="citation_id" />
+      <meta content="107/1/dju381" name="citation_id_from_sass_path" />
+      <meta content="jnci;107/1/dju381" name="citation_mjid" />
+      <meta content="10.1093/jnci/dju381" name="citation_doi" />
+      <meta content="http://jnci.oxfordjournals.org/content/107/1/dju381.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/107/1/dju381.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jnci.oxfordjournals.org/content/107/1/dju381.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/107/1.cover.gif" name="issue_cover_image" />
+      <meta content="http://jnci.oxfordjournals.org/content/107/1/dju381"
+            name="citation_public_url" />
+      <meta content="25505231" name="citation_pmid" />
+      <meta name="citation_section" content="Article" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/107/1/dju385.short" rel="prev" />
+      <link href="/content/107/1/dju431.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-ac.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-publisher-page-content.css" /><script type="text/javascript" id="session-d28618167e1">var callbackToken='5370C185160EC52';</script><script type="text/javascript" id="session-d28618167e3">
+                      var subCode='oupjournal_sub';
+                    </script><script type="text/javascript">
+            var gAuthTimeStamp = '2015-10-27T12:17:19.738-07:00';
+            var gSessionId = 'odhdqlzZzQ6M3a1YJbMpZA';
+            var gAuthzRequired = 'true';
+            var gAuthnMethods1 = 'ip';
+            var gAuthnMethods2 = 'ip';
+            var gAuthnIPs = '18.189.59.169';
+            var gAuthnIndividuals = '';
+            var gAuthnInstitutions = '10005282,10072538,10328193,100274300,10082403,05094000,10093227,153074108,10080507,21879000,10095822,10081742,10082405,10004595,10019502,10082401,07635000,10082404,06602000';
+            </script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-site.js"></script><script type="text/javascript" src="/local/js/local-js-vars.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-modalwin-vars.js"></script><script type="text/javascript"
+              src="/publisher/js/hw-publisher-article-dynamic-elements.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-content.js"></script><script type="text/javascript" src="/shared/js/util/hw-mathjax.js"></script><script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+              tex2jax: {
+                inlineMath: [["$","$"],["\\(","\\)"]],
+                processClass: "tex2jax_process|mathjax"
+              }
+            });
+          MathJax.Hub.Queue(function() {
+            gColTempResize = true;
+            fixColHeights(1);
+            gColTempResize = false;
+          });
+       </script><script type="text/javascript"
+              src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">
+	    
+	    
+	    
+	    var siqDOI = encodeURIComponent("10.1093/jnci/dju381");
+	    var siqIsOpenAccess = encodeURIComponent("");
+	    var siqPubDate = encodeURIComponent("20150101");
+
+	    if (siqDOI.length == 0) {
+	        siqDOI = "UNKNOWN";
+	    }
+	    
+	    
+		
+		
+	    if (gAuthnIndividuals.length != 0) {
+		if (gAuthnInstitutions.length != 0) {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals
+		        + ',' + gAuthnInstitutions);
+		} else {
+		    authnEntity = encodeURIComponent(gAuthnIndividuals);
+		}
+	    } else {
+	        authnEntity = encodeURIComponent(gAuthnInstitutions);
+	    }
+
+	    var commonString =
+		'authSessionId=' + gSessionId + String.fromCharCode(0x26)
+		+ 'authzRequired=' + gAuthzRequired + String.fromCharCode(0x26)
+		+ 'authentication_method=' + encodeURIComponent(gAuthnMethods2) + String.fromCharCode(0x26)
+		+ 'authnIPs=' + gAuthnIPs + String.fromCharCode(0x26)
+		+ 'authnInstitutions=' + authnEntity;
+
+		
+		
+		
+		
+
+	    var gPageId = "pageid-content";
+	    var gVariant = "full-text";
+
+	    
+		// Not completely done
+		var eventType = "full-text";
+		var accessType;
+		if (siqIsOpenAccess == 'true') {
+		    accessType = 'SOA';
+		} else {
+		    accessType = 'subscription';
+		}
+		    
+		var NTPT_PGEXTRA =
+		    commonString + String.fromCharCode(0x26)
+		    + 'event_type=' + eventType + String.fromCharCode(0x26)
+		    + 'publication_date=' + siqPubDate + String.fromCharCode(0x26)
+		    + 'access_type=' + accessType + String.fromCharCode(0x26)
+		    + 'doi=' + siqDOI ;
+		    
+		
+
+	    // alert("NTPT_PGEXTRA is " + NTPT_PGEXTRA);
+	</script><link rel="stylesheet" type="text/css" media="all" href="/resource/css/hw20.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-header.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-footer.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/resource/css/h20-oup-sidebars.css" />
+      <link type="text/css" media="all" rel="stylesheet" href="/site/resource/jnci_h20.css" />
+      <link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print" /><script type="text/javascript" src="/resource/js/main.js"></script><link rel="stylesheet" type="text/css" media="all"
+            href="http://oi-underbar.ifactory.com/underbar/css/pf_oiunderbar.css" />
+      <link rel="stylesheet" type="text/css" media="screen"
+            href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" /><script type="text/javascript" src="/resource/js/oup_ad_size.js"></script></head>
+   <body class="general_page journal jnci">
+      <div class="hw-gen-page pagetype-content hw-pub-id-article" id="pageid-content"
+           itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <noscript>
+            <p>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of
+               cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/">Find out more</a></p>
+         </noscript>
+         
+         
+         <p class="hide">
+            <a href="#content">Skip Navigation</a>
+            
+         </p>
+         
+         
+         <div id="secondary_nav">
+            <strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span>Oxford Journals</span></a></strong>
+            
+            <ul>
+               <li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span>Contact Us</span></a></li>
+               <li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span>My Basket</span></a></li>
+               <li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span>My 
+                        
+                        Account</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="header">
+            
+            <h1 id="page_title" title="JNCI J Natl Cancer Inst"><a href="/"><span>
+                     JNCI J Natl Cancer Inst
+                     </span></a></h1>
+            
+         </div>
+         
+         
+         <div id="primary_nav">
+            
+            <ul>
+               <li id="nav_about_this_journal" title="About This Journal">
+                  <a href="http://www.oxfordjournals.org/jnci/about.html">
+                     
+                     <span>About This Journal</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span>Contact This Journal</span></a></li>
+               <li id="nav_subscriptions" title="Subscriptions">
+                  <a href="http://www.oxfordjournals.org/jnci/access_purchase/buy_online.html">
+                     
+                     <span>Subscriptions</span>
+                     </a>
+                  
+               </li>
+               <li id="nav_current_issue" title="Current"><a href="/content/current"><span>View Current Issue (Volume 107 Issue 10 October 2015)</span></a></li>
+               <li id="nav_archive" title="Archive"><a href="/content/by/year"><span>Archive</span></a></li>
+               <li id="nav_search" title="Search"><a href="/search"><span>Search</span></a></li>
+            </ul>
+            
+         </div>
+         
+         
+         <div id="user_nav">
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring">
+                  
+                  <ul>
+                     <li class="subscr-ref">Institution:  MIT Libraries</li>
+                     <li class="no-left-border">
+                        <a href="/login?uri=http%3A%2F%2Fjnci.oxfordjournals.org%2Fcontent%2F107%2F1%2Fdju381.full">
+                           Sign In as Personal Subscriber
+                           </a>
+                        
+                     </li>
+                  </ul>           
+                  
+               </div>   
+               
+            </div>
+            
+         </div>
+         
+         
+         <ul id="site-breadcrumbs">
+            <li class="first"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http%3A%2F%2Fwww.oxfordjournals.org">Oxford Journals</a></li>
+            <li><span class="breadcrumb_subjects"><a href="http://www.oxfordjournals.org/subject/medicine/"
+                     class="breadcrumb_subject">Medicine &amp; Health</a></span></li>
+            <li><a href="/">JNCI J Natl Cancer Inst</a></li>
+            <li><a href="/content/107/1.toc">
+                  <span xmlns="" class="volume-value">Volume 107</span>
+                  <span xmlns="" class="issue-value"> Issue 1</span></a></li>
+            <li class="last">10.1093/jnci/dju381</li>
+         </ul>
+         
+         
+         
+         
+         <div id="oas_top" class="ad_hidden">
+            <iframe id="id_advertframe_top"
+                    src="/resource/htmlfiles/advert.html?p=Top&amp;u=jnci.oxfordjournals.org/content/107/1/dju381.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         <a name="content"></a>
+         
+         
+         <div id="h20_page"></div>
+         
+         <div id="content-block">
+            <div class="article fulltext-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Migraine and Breast Cancer Risk: A Prospective Cohort Study and Meta-Analysis</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Anke+C.+Winter&amp;sortspec=date&amp;submit=Submit">Anke C. Winter</a></span><a id="xref-corresp-1-1" class="xref-corresp" href="#corresp-1">*</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Megan+S.+Rice&amp;sortspec=date&amp;submit=Submit">Megan S. Rice</a></span><a id="xref-corresp-1-2" class="xref-corresp" href="#corresp-1">*</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Ren%C3%A9e+T.+Fortner&amp;sortspec=date&amp;submit=Submit">Renée T. Fortner</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=A.+Heather+Eliassen&amp;sortspec=date&amp;submit=Submit">A. Heather Eliassen</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Tobias+Kurth&amp;sortspec=date&amp;submit=Submit">Tobias Kurth</a></span><a id="xref-corresp-2-1" class="xref-corresp" href="#corresp-2">†</a> and 
+                     </li>
+                     <li class="last" id="contrib-6"><span class="name"><a class="name-search"
+                              href="/search?author1=Rulla+M.+Tamimi&amp;sortspec=date&amp;submit=Submit">Rulla M. Tamimi</a></span><a id="xref-corresp-2-2" class="xref-corresp" href="#corresp-2">†</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><strong>Affiliations of authors:</strong> <span class="institution">Division of Public Health Sciences, Department of Surgery, Washington University School of Medicine</span>, <span class="addr-line">St. Louis, MO</span> (ACW); <span class="institution">Channing Division of Network Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School</span>, <span class="addr-line">Boston, MA</span> (MSR, RTF, AHE, RMT); <span class="institution">Department of Epidemiology, Harvard School of Public Health</span>, <span class="addr-line">Boston, MA</span> (MSR, RTF, AHE, RMT); <span class="institution">Division of Preventive Medicine, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School</span>, <span class="addr-line">Boston, MA</span> (TK); <span class="institution">Team Neuroepidemiology, INSERM ​Research Center for Epidemiology and Biostatistics (U897)</span>, <span class="addr-line">Bordeaux</span>, France (TK); <span class="institution">University of Bordeaux</span>, <span class="addr-line">Bordeaux</span>, France (TK).
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1"><a class="rev-xref" href="#xref-corresp-1-1">↵</a>* Authors contributed equally to this work.
+                     </li>
+                     <li class="corresp" id="corresp-2"><a class="rev-xref" href="#xref-corresp-2-1">↵</a>† Authors jointly directed this work.
+                     </li>
+                     <li class="corresp" id="corresp-3"><strong>Correspondence to:</strong><br /> Rulla M. Tamimi, ScD, Channing Division of Network Medicine, 181 Longwood Ave, Boston, MA 02115 (e-mail: <span class="em-link"><span class="em-addr">rulla.tamimi{at}channing.harvard.edu</span></span>).
+                     </li>
+                  </ol>
+                  <ul class="history-list">
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                         hwp:start="2014-01-06"><span class="received-label">Received </span>January 6, 2014.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="rev-recd"
+                         hwp:start="2014-07-23"><span class="rev-recd-label">Revision received </span>July 23, 2014.
+                     </li>
+                     <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                         hwp:start="2014-10-20"><span class="accepted-label">Accepted </span>October 20, 2014.
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#sec-5" title="Methods" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Abstract</h2>
+                  <div id="sec-1" class="subsection">
+                     <p id="p-1"><strong>Background:</strong> The evidence for an association between migraine and breast cancer risk is inconclusive. While female sex hormones have been
+                        proposed as one underlying mechanism, data on sex hormone levels in migraineurs are sparse.
+                     </p>
+                  </div>
+                  <div id="sec-2" class="subsection">
+                     <p id="p-2"><strong>Methods:</strong> We prospectively evaluated the association between migraine and breast cancer risk among 115378 Nurses’ Health Study II participants
+                        using Cox proportional hazards models. Differences in endogenous sex hormone levels according to migraine status were assessed
+                        among 2034 premenopausal women using linear regression. We performed a meta-analysis of studies investigating the association
+                        between migraine and invasive breast cancer risk published through October 2013. All statistical tests were two-sided.
+                     </p>
+                  </div>
+                  <div id="sec-3" class="subsection">
+                     <p id="p-3"><strong>Results:</strong> Seventeen thousand six hundred ninety-six women (15.3%) reported a physician’s diagnosis of migraine at baseline. Over 20
+                        years of follow-up, 833 in situ and 3091 invasive breast malignancies occurred. Migraine was not associated with total (hazard
+                        ratio [HR] = 0.96, 95% confidence interval [CI] = 0.88 to 1.04), in situ (HR = 0.97, 95% CI = 0.82 to 1.15), or invasive breast
+                        cancer risk (HR = 0.95, 95% CI = 0.87 to 1.04). Endogenous sex hormone levels did not differ according to migraine status.
+                        In the meta-analysis, migraine was associated with a lower risk of breast cancer overall (pooled risk ratio [RR] = 0.84, 95%
+                        CI = 0.73 to 0.98). However, this inverse association was apparent only among case-control studies (pooled RR = 0.72, 95%
+                        CI = 0.66 to 0.79), and not among cohort studies (pooled RR = 0.98, 95% CI = 0.87 to 1.10).
+                     </p>
+                  </div>
+                  <div id="sec-4" class="subsection">
+                     <p id="p-4"><strong>Conclusion:</strong> In this large cohort study, migraine was not associated with breast cancer risk or differences in endogenous sex hormone
+                        levels. While case-control studies suggest an inverse association between migraine and breast cancer risk, prospective cohort
+                        studies do not support an association in pooled analyses.
+                     </p>
+                  </div>
+               </div>
+               <p id="p-5">Migraine, a common primary headache disorder, is a heterogeneous disease primarily affecting women (<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">1</a>). There is increasing evidence that migraine is linked to diverse comorbidities (<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2">2</a>), and an association between migraine and breast cancer has been proposed. In two large case-control studies, migraineurs
+                  had a 26% to 33% lower risk of invasive breast cancer and a prospective cohort study suggested a more modest 11% lower risk
+                  (<a id="xref-ref-3-1" class="xref-bibr" href="#ref-3">3–5</a>). However, a recently published large prospective cohort study did not observe an association (<a id="xref-ref-6-1" class="xref-bibr" href="#ref-6">6</a>).
+               </p>
+               <p id="p-6" class="indent">The mechanisms by which migraine may be associated with breast cancer remain unclear. Since fluctuating estrogen levels may
+                  trigger migraine attacks and endogenous hormones are linked to breast cancer (<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">7–9</a>), it has been hypothesized that pathways involving female sex hormones may play a role in the association (<a id="xref-ref-3-2" class="xref-bibr" href="#ref-3">3–5</a>). Some small clinic-based studies among premenopausal women suggest that migraineurs may have different sex hormone levels,
+                  however, the results are inconsistent (<a id="xref-ref-10-1" class="xref-bibr" href="#ref-10">10–14</a>). Some studies reported higher estrogen levels among migraineurs (<a id="xref-ref-10-2" class="xref-bibr" href="#ref-10">10–12</a>), while other studies did not observe a difference (<a id="xref-ref-13-1" class="xref-bibr" href="#ref-13">13</a>). Further large-scale studies are warranted to unveil potential associations between migraine and breast cancer.
+               </p>
+               <p id="p-7" class="indent">Therefore, our aims in this study are three-fold: 1) to evaluate the association between migraine and incident breast cancer
+                  in a large prospective cohort, 2) to assess whether migraineurs have different circulating endogenous sex hormone levels,
+                  and 3) to perform a meta-analysis of the current evidence on migraine and invasive breast cancer risk.
+               </p>
+               <div class="section methods" id="sec-5">
+                  <div class="section-nav"><a href="#abstract-1" title="Abstract" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-18" title="Results" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2 class="">Methods</h2>
+                  <div id="sec-6" class="subsection">
+                     <h3>Nurses’ Health Study II</h3>
+                     <div id="sec-7" class="subsection">
+                        <h4>Study Population</h4>
+                        <p id="p-8">Established in 1989, the Nurses<strong>’</strong> Health Study II (NHS II) is an ongoing cohort study of 116 430 US nurses who were age 25 to 42 years at baseline. Every two
+                           years, information on reproductive variables, lifestyle factors, and disease outcomes was collected via questionnaires. Follow-up
+                           rates at each questionnaire cycle consistently have been 85% to 90%.
+                        </p>
+                     </div>
+                     <div id="sec-8" class="subsection">
+                        <h4>Assessment of Migraine</h4>
+                        <p id="p-9">Women first reported whether they had been diagnosed with migraine by a physician on the 1989 baseline questionnaire; this
+                           information was updated in 1993 and 1995. Once a woman reported a diagnosis of migraine she was considered a migraineur for
+                           all of the following follow-up cycles. In another study of female health professionals, agreement between self-reported migraine
+                           and 2004 diagnostic criteria of the International Headache Society was high (87%) (<a id="xref-ref-15-1" class="xref-bibr" href="#ref-15">15</a>).
+                        </p>
+                     </div>
+                     <div id="sec-9" class="subsection">
+                        <h4>Assessment of Breast Cancer</h4>
+                        <p id="p-10">Breast cancer case patients were identified on biennial questionnaires or through death records. Participants (or next of
+                           kin) were asked for permission to collect relevant medical records. Study investigators, blinded to migraine status, reviewed
+                           the records and abstracted data on tumor characteristics. A diagnosis of breast cancer confirmed by the participant, but not
+                           confirmed by medical records, was included as a case in this analysis, as we confirm 99% of reported case patients for whom
+                           we are able to obtain medical records. All diagnoses included in the analyses were confirmed by the participant; we were able
+                           to obtain medical records and confirm 90% of these cases. Data abstracted from pathology reports were used to distinguish
+                           between in situ and invasive malignancies and to classify invasive tumors by joint estrogen receptor (ER) and progesterone
+                           receptor (PR) status (ER+/PR+, ER+/PR-, and ER-/PR-) as well as histologic subtypes (ductal, lobular, both ductal, and lobular).
+                           Our primary outcome was defined as invasive or in situ breast cancer.
+                        </p>
+                     </div>
+                     <div id="sec-10" class="subsection">
+                        <h4>Ascertainment of Endogenous Serum Hormone Levels</h4>
+                        <p id="p-11">From 1996<strong>–</strong>1999, 29 611 NHSII members age 32 to 45 years provided a blood sample. The methods of this substudy have been previously described
+                           (<a id="xref-ref-16-1" class="xref-bibr" href="#ref-16">16</a>). Briefly, 18 521 premenopausal women who were not currently pregnant, breastfed in the last six months, or on oral contraceptives
+                           (OCs) were asked to provide a follicular sample (days 3<strong>–</strong>5 of their menstrual cycle) and a luteal sample (7<strong>–</strong>9 days before the anticipated start of the next menstrual period). Eleven thousand ninety women provided untimed blood samples.
+                        </p>
+                        <p id="p-12" class="indent">As previously described in detail (<a id="xref-ref-17-1" class="xref-bibr" href="#ref-17">17</a>), we included 2052 premenopausal control patients from several prior nested case-control studies in the NHSII, including
+                           control patients from studies of breast cancer (<em>n</em> = 1268), ovarian cancer (<em>n</em> = 46), endometriosis (<em>n</em> = 592), and rheumatoid arthritis (<em>n</em> = 19), or participants in hormone reproducibility studies (<em>n</em> = 109) with previously measured hormone levels in our cross-sectional study.
+                        </p>
+                        <p id="p-13" class="indent">Hormone assay methods for estrogens, androgens, progesterone, and prolactin have been described in detail elsewhere (<a id="xref-ref-17-2" class="xref-bibr" href="#ref-17">17</a>,<a id="xref-ref-18-1" class="xref-bibr" href="#ref-18">18</a>). Briefly, plasma levels were assayed in up to nine batches and were measured in: 1) luteal and follicular samples (estrone,
+                           estradiol, estrone sulfate), 2) luteal and/or follicular as well as untimed samples (prolactin), 3) luteal samples only (progesterone),
+                           and 4) luteal and untimed samples (testosterone, androstenedione, dehydroepiandrosterone [DHEA], DHEA-sulfate [DHEAS], sex-hormone
+                           binding globulin [SHBG]). In prolactin analyses, we used the average prolactin level of the follicular and luteal sample in
+                           women who provided blood samples at both time points, as previously published (<a id="xref-ref-19-1" class="xref-bibr" href="#ref-19">19</a>). The methods of Sodergard were used to calculate free estradiol and free testosterone levels (<a id="xref-ref-20-1" class="xref-bibr" href="#ref-20">20</a>).
+                        </p>
+                        <p id="p-14" class="indent">The study was approved by the Committee on the Use of Human Subjects in Research at the Brigham and Women’s Hospital. Informed
+                           consent was implied by receipt of completed questionnaires and blood samples.
+                        </p>
+                     </div>
+                  </div>
+                  <div id="sec-11" class="subsection">
+                     <h3>Statistical Analysis</h3>
+                     <div id="sec-12" class="subsection">
+                        <h4>Breast Cancer Risk</h4>
+                        <p id="p-15">For the analysis of breast cancer risk, women with a cancer diagnosis (except nonmelanoma skin cancer) prior to 1989 were
+                           excluded (<em>n</em> = 1052), leaving a total of 115 378 women. Participants accrued person-time from the time of the return of the 1989 questionnaire
+                           until the date of breast cancer diagnosis, diagnosis of other cancer (except nonmelanoma skin cancer), death, or the end of
+                           follow-up (June 1, 2009), whichever occurred first. We used Cox proportional hazards regression, with age in months and two-year
+                           questionnaire cycle as the time scale, to estimate the hazard ratios (HRs) and 95% confidence intervals (CIs). The initial
+                           model adjusted for age and time period, and the multivariable model adjusted for the following factors: body mass index (BMI)
+                           (continuous), family history of breast cancer (yes, no), parity (nulliparous, 1, 2, ≥3 children), age at first birth (&lt;25,
+                           25–29, ≥30 years), breastfeeding (0–6, 6–18, ≥18 months, missing), OC use (never, &lt;1, 1–5, ≥5 years), age at menarche (&lt;12,
+                           12, 13, ≥14 years), smoking status (never, past, current), alcohol intake (none, 0–5, ≥5g/day), nonsteroidal anti-inflammatory
+                           drug (NSAID) use (never, past, current), menopausal status (premenopausal, postmenopausal, dubious), and postmenopausal hormone
+                           (PMH) use (estrogen only, estrogen and progesterone, other). To assess whether results varied by menopausal status (premenopausal,
+                           postmenopausal), BMI (&lt;25, ≥25kg/m<sup><strong>2</strong></sup>), NSAID use (never, past, current), PMH use (never, ever) and OC use (never, ever), we compared models with and without the
+                           interaction terms using the likelihood ratio test. As a sensitivity analysis, we classified women according to migraine status
+                           at baseline only. We also restricted to breast cancer cases that were confirmed upon medial record review in sensitivity analyses.
+                           The proportional hazards assumption was tested by comparing a model with interaction terms between migraine and age (dichotomized
+                           at age 45 years) to a model without interaction terms using the likelihood ratio test. We did not observe a statistically
+                           significant violation of proportional hazards.
+                        </p>
+                     </div>
+                     <div id="sec-13" class="subsection">
+                        <h4>Premenopausal Hormone Levels</h4>
+                        <p id="p-16">After exclusion of up to 13 outlying values (range: 0 [estrone sulfate, DHEA, DHEAS] to 13 [prolactin]) determined using the
+                           generalized extreme studentized deviate many-outlier detection method (<a id="xref-ref-21-1" class="xref-bibr" href="#ref-21">21</a>), 2034 women who were control patients in prior nested matched case-control studies were included in our analyses. All hormone
+                           levels were adjusted for batch according to the methods described by Rosner et al. (<a id="xref-ref-22-1" class="xref-bibr" href="#ref-22">22</a>). Hormone levels were log-transformed, and generalized linear models were used to determine the percent difference in the
+                           adjusted geometric means comparing migraineurs to non-migraineurs. All models were adjusted for matching factors including
+                           age at (continuous)/time of day of blood draw (1–8 a.m., 9 a.m. to noon, 1–4 p.m., 5 p.m. to 12 a.m.), fasting status (&lt;10,
+                           ≥10 hours; follicular and luteal phase), and race/ethnicity (Caucasian, other). In addition, all models were adjusted for
+                           potential confounders including: BMI (continuous), duration of OC use (never, &lt;1, 1–5, ≥5 years), parity (nulliparous, 1,
+                           2, ≥3 children), age at first birth (&lt;25, 25–29, ≥30 years), smoking history (never, past, current), alcohol intake (none,
+                           0–5, ≥5g/day), and regular use of NSAIDs (yes, no). Models for luteal, random, and average of timed samples were also adjusted
+                           for date of blood draw (continuous), as well as the difference between luteal blood draw date and date of next menstrual period
+                           (3–7, 8–21 days, unknown/untimed). We conducted a priori sensitivity analyses restricted to ovulatory cycles for luteal estrogens
+                           (defined as mid-luteal progesterone ≥400ng/dL).
+                        </p>
+                        <p id="p-17" class="indent">All NHS II analyses were performed with SAS version 9.2 (SAS, Cary, NC). All <em>P</em> values were two-sided and a <em>P</em> value under .05 was considered statistically significant.
+                        </p>
+                     </div>
+                  </div>
+                  <div id="sec-14" class="subsection">
+                     <h3>Meta-Analysis</h3>
+                     <p id="p-18">We used the Meta-Analysis of Observational Studies in Epidemiology (MOOSE) guidelines for this meta-analysis (<a id="xref-ref-23-1" class="xref-bibr" href="#ref-23">23</a>).
+                     </p>
+                     <div id="sec-15" class="subsection">
+                        <h4>Data Sources and Search Strategy</h4>
+                        <p id="p-19">Two investigators (ACW and MSR) independently conducted literature searches in the MEDLINE, EMBASE, and Science Citation Index
+                           databases from the earliest available online year of indexing up through October 2013 without language restriction using the
+                           keyword “migraine” combined with the terms “breast neoplasms,” “breast,” “cancer,” or “breast cancer.”
+                        </p>
+                     </div>
+                     <div id="sec-16" class="subsection">
+                        <h4>Study Selection and Data Extraction</h4>
+                        <p id="p-20">We defined a priori the following study inclusion criteria. Only studies that provided an effect estimate and standard error
+                           (SE) or sufficient data to calculate these factors were included. One investigator (MSR) abstracted effect estimates and <em>P</em> values or 95% confidence intervals from the articles and entered the information in a database. The abstracted data was verified
+                           by a second investigator (ACW).
+                        </p>
+                     </div>
+                     <div id="sec-17" class="subsection">
+                        <h4>Statistical Analyses</h4>
+                        <p id="p-21">We performed a meta-analysis of the association between migraine and invasive breast cancer. Furthermore, we ran stratified
+                           analyses according to study design, joint hormone receptor status, and histologic subtype. We used estimates adjusted for
+                           multiple confounders when available and made the assumption that the odds ratios (ORs) from case-control studies approximated
+                           hazard ratios. Standard errors were calculated from the 95% confidence intervals or <em>P</em> values. We decided a priori to run random effect models to calculate the summary relative risk (RR) estimates and 95% confidence
+                           intervals. To evaluate heterogeneity between studies, we performed the DerSimonian and Laird Q test and additionally calculated
+                           the I<sup><strong>2</strong></sup> statistic. Publication bias was assessed using Begg’s and Egger’s tests. We performed meta-regression analyses to evaluate
+                           whether effect estimates differed according to study design (case-control vs cohort study), hormone receptor status (ER+/PR-
+                           or ER-/PR- vs ER+/PR+), and histologic subtype (lobular vs ductal).
+                        </p>
+                        <p id="p-22" class="indent">All analyses for the meta-analysis were performed using Stata/SE version 12 for Windows. All <em>P</em> values were two-tailed and a <em>P</em> value under .05 was considered statistically significant.
+                        </p>
+                     </div>
+                  </div>
+               </div>
+               <div class="section" id="sec-18">
+                  <div class="section-nav"><a href="#sec-5" title="Methods" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-21" title="Discussion" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2 class="">Results</h2>
+                  <div id="sec-19" class="subsection">
+                     <h3>Cohort Study</h3>
+                     <p id="p-23">On the baseline questionnaire, 17 696 women (15.3%) reported a physician’s diagnosis of migraine with an additional 6% of
+                        women reporting newly diagnosed migraine by 1995. At baseline, migraineurs drank less alcohol and were more likely to have
+                        used OCs, to have ever smoked, and to regularly use NSAIDs (<a id="xref-table-wrap-1-1" class="xref-table" href="#T1">Table 1</a>).
+                     </p>
+                     <div id="T1" class="table pos-float">
+                        <div class="table-inline">
+                           <div class="callout"><span>View this table:</span><ul class="callout-links">
+                                 <li><a href="dju381/T1.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="dju381/T1.expansion.html">In a new window</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="table-caption"><span class="table-label">Table 1.</span> 
+                           <p id="p-24" class="first-child">Characteristics of the study population by migraine status in 1989, NHSII</p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <p id="p-26" class="indent">Over 20 years of follow-up 3924 women were diagnosed with breast cancer (833 in situ and 3091 invasive tumors). Based on available
+                        pathology record information for 2306 invasive malignancies, there were 1593 ER+/PR+, 245 ER+/PR-, and 468 ER-/PR- tumors.
+                        Of the 2577 invasive tumors with medical record data on histology, 2197 invasive tumors were classified as ductal, 239 as
+                        lobular, and 141 as both ductal and lobular.
+                     </p>
+                     <p id="p-27" class="indent">Migraine status was not associated with total breast cancer (HR = 0.96, 95% CI = 0.88 to 1.04), in situ breast cancer (HR
+                        = 0.97, 95% CI = 0.82 to 1.15), invasive breast cancer risk (HR = 0.95, 95% CI = 0.87 to 1.04), or for any tumors defined
+                        by ER/PR status (<a id="xref-table-wrap-2-1" class="xref-table" href="#T2">Table 2</a>). There was a similar statistically nonsignificant inverse association between migraine and invasive ductal and lobular breast
+                        cancer, however, migraine was associated with a statistically significant increase in risk for tumors that were classified
+                        as both ductal and lobular (HR = 1.54, 95% CI = 1.06 to 2.23). The association between migraine and total breast cancer did
+                        not vary statistically significantly by menopausal status, BMI, NSAID use, PMH use, and OC use (<em>P</em>
+                        <sub>heterogeneity</sub> ≥ .14) (<a href="http://jnci.oxfordjournals.org/lookup/suppl/doi:10.1093/jnci/dju381/-/DC1">Supplementary Table 1</a>, available online). Effect estimates were similar when we classified migraine status by status at baseline only as well as
+                        when we restricted our case definition to those confirmed upon medical record review (data not shown).
+                     </p>
+                     <div id="T2" class="table pos-float">
+                        <div class="table-inline">
+                           <div class="callout"><span>View this table:</span><ul class="callout-links">
+                                 <li><a href="dju381/T2.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="dju381/T2.expansion.html">In a new window</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="table-caption"><span class="table-label">Table 2.</span> 
+                           <p id="p-28" class="first-child">Age and multivariable-adjusted HRs for the association between migraine and breast cancer subtypes</p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <p id="p-31" class="indent">We did not observe statistically significant differences in endogenous hormone levels by migraine status in a sample of 2034
+                        premenopausal women in the blood subcohort (<a id="xref-table-wrap-3-1" class="xref-table" href="#T3">Table 3</a>).
+                     </p>
+                     <div id="T3" class="table pos-float">
+                        <div class="table-inline">
+                           <div class="callout"><span>View this table:</span><ul class="callout-links">
+                                 <li><a href="dju381/T3.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="dju381/T3.expansion.html">In a new window</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="table-caption"><span class="table-label">Table 3.</span> 
+                           <p id="p-32" class="first-child">Adjusted geometric mean levels of hormones by migraine status among 2034 premenopausal women in the NHSII</p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                  </div>
+                  <div id="sec-20" class="subsection">
+                     <h3>Meta-Analysis</h3>
+                     <p id="p-36">Each investigator independently identified a total of 585 records (MEDLINE: 64 records, EMBASE: 456 records, Science Citation
+                        Index: 65 records), 82 of which were duplicate records for a total of 503 unique records. After title and abstract review,
+                        494 records were excluded and nine articles retrieved for more detailed review. Five of these records (four full articles
+                        [3–6] and one conference abstract [24]) met our inclusion criteria (<a href="http://jnci.oxfordjournals.org/lookup/suppl/doi:10.1093/jnci/dju381/-/DC1">Supplementary Figure 1</a>, available online). In addition to the four full articles retrieved from the database search, we included the results of
+                        the present study in the primary meta-analysis. The conference abstract was excluded from our primary analyses but was included
+                        in a sensitivity analysis.
+                     </p>
+                     <p id="p-37" class="indent">
+                        <a href="http://jnci.oxfordjournals.org/lookup/suppl/doi:10.1093/jnci/dju381/-/DC1">Supplementary Table 2</a> (available online) summarizes the characteristics of the six studies. One case-control study did not report an overall adjusted
+                        effect estimate for invasive breast cancer, and we therefore included the ORs for ductal and lobular invasive tumors in our
+                        main pooled analysis (<a id="xref-ref-5-1" class="xref-bibr" href="#ref-5">5</a>).
+                     </p>
+                     <p id="p-38" class="indent">Overall, migraine was associated with a statistically significantly lower risk of invasive breast cancer in the five studies
+                        combined (pooled RR = 0.84, 95% CI = 0.73 to 0.98) (<a id="xref-fig-1-1" class="xref-fig" href="#F1">Figure 1</a>). The association was similar for ductal and lobular breast cancer (<em>P</em>
+                        <sub>difference</sub> = .41). While there was a statistically significant inverse association with ER+/PR+ tumors (pooled RR = 0.80, 95% CI = 0.68
+                        to 0.94), there was no association with ER-/PR- tumors (<em>P</em>
+                        <sub>difference</sub> = .12). When we stratified our analysis by study design, there was a statistically significant inverse association in the
+                        two pooled case-control studies (pooled RR = 0.72, 95% CI = 0.66 to 0.79), but no association between migraine and invasive
+                        breast cancer in the three pooled prospective cohort studies (pooled RR = 0.98, 95% CI = 0.87 to 1.10, <em>P</em>
+                        <sub>difference</sub> = .02) (<a id="xref-table-wrap-4-1" class="xref-table" href="#T4">Table 4</a>). There was substantial heterogeneity between studies (I<sup>2</sup> = 87%) that persisted when we restricted to prospective cohort studies (I = 72%). Overall, we found no evidence for publication
+                        bias based on the Begg’s (<em>P</em> = .71) or Egger’s test statistic (<em>P</em> = .28), and the overall pooled effect estimate for the association between migraine and invasive breast cancer was not substantially
+                        altered after including the conference abstract information (pooled RR = 0.83, 95% CI = 0.73 to 0.95).
+                     </p>
+                     <div id="F1" class="fig pos-float type-figure  odd">
+                        <div class="fig-inline"><a href="dju381/F1.expansion.html"><img alt="Figure 1." src="dju381/F1.small.gif" /></a><div class="callout"><span>View larger version:</span><ul class="callout-links">
+                                 <li><a href="dju381/F1.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="dju381/F1.expansion.html">In a new window</a></li>
+                              </ul>
+                              <ul class="fig-services">
+                                 <li class="ppt-link"><a href="/powerpoint/107/1/dju381/F1">Download as PowerPoint Slide</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="fig-caption"><span class="fig-label">Figure 1.</span> 
+                           <p id="p-39" class="first-child">Forest plot of the association between migraine and invasive breast cancer in five studies stratified by study design. Random
+                              effect models were used. Additional information on study characteristics is summarized in <a href="http://jnci.oxfordjournals.org/lookup/suppl/doi:10.1093/jnci/dju381/-/DC1">Supplementary Table 2</a>. CI = confidence interval; CARE = Women’s Contraceptive and Reproductive Experience Study; NHSII = Nurses’ Health Study II;
+                              RR = risk ratio; WHI = Women’s Health Initiative; WHS = Women’s Health Study.
+                           </p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                     <div id="T4" class="table pos-float">
+                        <div class="table-inline">
+                           <div class="callout"><span>View this table:</span><ul class="callout-links">
+                                 <li><a href="dju381/T4.expansion.html">In this window</a></li>
+                                 <li><a class="in-nw" href="dju381/T4.expansion.html">In a new window</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="table-caption"><span class="table-label">Table 4.</span> 
+                           <p id="p-40" class="first-child">Pooled relative risks for the association between migraine and invasive breast cancer in five studies</p>
+                           <div class="sb-div caption-clear"></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="section" id="sec-21">
+                  <div class="section-nav"><a href="#sec-18" title="Results" class="prev-section-link"><span>Previous Section</span></a><a href="#sec-22" title="Funding" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2 class="">Discussion</h2>
+                  <p id="p-42">In this large prospective cohort study of over 115 000 female nurses, self-reported physician’s diagnosis of migraine was
+                     not associated with breast cancer risk. Premenopausal endogenous plasma sex hormone levels did not vary according to migraine
+                     status. In the meta-analysis that included data from four previous studies as well as the current study, the pooled effect
+                     estimate suggested a 16% lower risk of invasive breast cancer for migraineurs with evidence of high between-study heterogeneity.
+                     When stratifying by study design, the association between migraine and invasive breast cancer risk was only apparent in case-control
+                     studies.
+                  </p>
+                  <p id="p-43" class="indent">Our finding of a lack of a statistically significant inverse association between migraine and incident breast cancer is consistent
+                     with results of a previously published prospective cohort study. Among 39 696 pre- and postmenopausal women participating
+                     in the Women’s Health Study (WHS), there was no statistically significant association between breast cancer and any migraine
+                     (HR = 1.10, 95% CI = 0.99 to 1.22) or for active migraine with or without aura (HR = 1.07, 95% CI = 0.89 to 1.29 and HR =
+                     1.14, 95% CI = 0.98 to 1.33, respectively) (<a id="xref-ref-6-2" class="xref-bibr" href="#ref-6">6</a>). Similar to our findings, there were no relationships between migraine and breast cancer risk according to hormone receptor
+                     status or histology subtype.
+                  </p>
+                  <p id="p-44" class="indent">Among 91 116 postmenopausal women participating in the Women’s Health Initiative Observational Study (WHI-OS), migraine was
+                     associated with a statistically significant 11% lower risk of breast cancer (HR = 0.89, 95% CI = 0.80–0.98) which was more
+                     pronounced, though not statistically different, among older women (<a id="xref-ref-3-3" class="xref-bibr" href="#ref-3">3</a>). In addition, the association with invasive breast cancer differed according to hormone receptor status with the lowest
+                     HR for ER+/PR+ malignancies (HR = 0.83, 95% CI = 0.71–0.97). Similar to our study, migraine status was defined as self-reported
+                     physician’s diagnosis. Participants in the WHI-OS were older at baseline compared with the NHSII, however migraine and breast
+                     cancer risk were not associated when we stratified our analyses according to age or menopausal status. These findings are
+                     in line with results from the WHS, which did not observe statistically significant differences in the association by menopausal
+                     status or age (<a id="xref-ref-6-3" class="xref-bibr" href="#ref-6">6</a>).
+                  </p>
+                  <p id="p-45" class="indent">In the two previously published case-control studies (<a id="xref-ref-4-1" class="xref-bibr" href="#ref-4">4</a>,<a id="xref-ref-5-2" class="xref-bibr" href="#ref-5">5</a>), migraine was associated with 26% and 33% lower risk of invasive breast cancer. One potential reason for the striking difference
+                     in results compared with our findings may be study design. In both case-control studies, case patients were identified through
+                     cancer registries and control patients were selected using random digit dialing. A standardized interview was performed, and
+                     women were asked about exposures including a physician’s diagnosis of migraine occurring before the date of their breast cancer
+                     diagnosis or reference date. Breast cancer case patients may have underreported migraine history relative to control patients,
+                     possibly because of the effect of treatment on migraine symptoms (<a id="xref-ref-25-1" class="xref-bibr" href="#ref-25">25</a>), or controls may have over-reported migraine history. However, this is speculative and there may be other factors, such
+                     as unmeasured confounding, selection bias, or chance, contributing to the difference by study design.
+                  </p>
+                  <p id="p-46" class="indent">In the meta-analysis of four previous studies and the NHSII results, we found an overall statistically significant modest
+                     inverse association between migraine and invasive breast cancer. However, this result should be interpreted carefully, as
+                     there is substantial heterogeneity across studies. Study design could be identified as one possible source of heterogeneity.
+                     In addition, there is some suggestion for subtle heterogeneity by hormone-receptor status. However, there was also statistically
+                     significant heterogeneity within cohort studies and there may be other potential sources of heterogeneity we were unable to
+                     identify and test for because of the overall small number of studies.
+                  </p>
+                  <p id="p-47" class="indent">Several small clinic-based studies (n = 22–142) among premenopausal women evaluated the association between various endogenous
+                     circulating hormone levels and migraine status (<a id="xref-ref-10-3" class="xref-bibr" href="#ref-10">10–14</a>). Among the various endogenous hormones, estrogen and progesterone have been studied most frequently. Some studies reported
+                     higher mean estrogen levels among migraineurs (<a id="xref-ref-10-4" class="xref-bibr" href="#ref-10">10–12</a>), while another study supported our finding of no difference in estrogen levels according to migraine status (<a id="xref-ref-13-2" class="xref-bibr" href="#ref-13">13</a>). The previous evidence on progesterone is inconsistent across studies with studies showing no difference (<a id="xref-ref-12-1" class="xref-bibr" href="#ref-12">12</a>,<a id="xref-ref-13-3" class="xref-bibr" href="#ref-13">13</a>) or either higher (<a id="xref-ref-10-5" class="xref-bibr" href="#ref-10">10</a>) or lower progesterone levels among migraineurs (<a id="xref-ref-11-1" class="xref-bibr" href="#ref-11">11</a>). Factors that may have contributed to the inconsistency across studies include variation in assays, study populations, migraine
+                     subtypes, and sampling times and procedures. Similar to our findings, previous studies do not report statistically significant
+                     differences in prolactin (<a id="xref-ref-10-6" class="xref-bibr" href="#ref-10">10</a>,<a id="xref-ref-11-2" class="xref-bibr" href="#ref-11">11</a>), testosterone (<a id="xref-ref-14-1" class="xref-bibr" href="#ref-14">14</a>), or DHEA-S (<a id="xref-ref-14-2" class="xref-bibr" href="#ref-14">14</a>) levels by migraine status.
+                  </p>
+                  <p id="p-48" class="indent">This study has several strengths, including the large sample size, confirmation of breast cancer by medical record review,
+                     and prospectively collected data on migraine history, as well as known and suspected breast cancer risk factors. Furthermore,
+                     the collection of endogenous sex hormone levels was carefully timed according to the follicular and luteal phases of the menstrual
+                     cycle, which allowed us to perform phase-specific analyses in a large sample of premenopausal women.
+                  </p>
+                  <p id="p-49" class="indent">The following limitations should be considered when interpreting our results. First, migraine information was self-reported
+                     and misclassification is possible. However, the prevalence of migraine in the NHSII is similar to the prevalence observed
+                     in other population-based studies (<a id="xref-ref-26-1" class="xref-bibr" href="#ref-26">26</a>). In addition, migraine history was collected prior to breast cancer diagnosis; therefore, any misclassification should be
+                     nondifferential. Second, measures of follicular and luteal endogenous hormone levels were based on blood samples collected
+                     at one point in time and may not be representative of long-term average hormone levels. However, in our reproducibility study,
+                     levels of most hormones at specific points in the menstrual cycle were representative over a three-year period, with the exception
+                     of progesterone (<a id="xref-ref-27-1" class="xref-bibr" href="#ref-27">27</a>). Third, the NHSII consists of predominately non-Hispanic white nurses; that may limit the generalizability of our results
+                     to other populations.
+                  </p>
+                  <p id="p-50" class="indent">In summary, results from this large prospective cohort study do not support an inverse association between migraine and incident
+                     breast cancer. In addition, women with migraine do not have different premenopausal endogenous sex hormone levels compared
+                     with women without migraine. While data from two case-control studies suggest an inverse association between migraine and
+                     breast cancer risk, data from recent large prospective cohort studies do not support an association in pooled analyses.
+                  </p>
+               </div>
+               <div class="section" id="sec-22">
+                  <div class="section-nav"><a href="#sec-21" title="Discussion" class="prev-section-link"><span>Previous Section</span></a><a href="#notes-1" title="Notes" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2 class="">Funding</h2>
+                  <p id="p-51">This work was supported by the <span class="funding-source">National Institutes of Health</span>
+                     (<span class="award-id" id="award-id-1">UM1 CA176726</span>, <span class="award-id" id="award-id-2">R01 CA67262</span>, and <span class="award-id" id="award-id-3">T32 CA09001</span> to MSR and RTF) and by funds from Washington University School of Medicine, the Barnes-Jewish Hospital Foundation, and Siteman
+                     Cancer Center to ACW.
+                  </p>
+               </div>
+               <div class="section notes" id="notes-1">
+                  <div class="section-nav"><a href="#sec-22" title="Funding" class="prev-section-link"><span>Previous Section</span></a><a href="#ref-list-1" title="References" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Notes</h2>
+                  <p id="p-52">We would like to thank the participants of the Nurses’ Health Study II for their continuing contributions. We thank the following
+                     state cancer registries for their help: AL, AZ, AR, CA, CO, CT, DE, FL, GA, ID, IL, IN, IA, KY, LA, ME, MD, MA, MI, NE, NH,
+                     NJ, NY, NC, ND, OH, OK, OR, PA, RI, SC, TN, TX, VA, WA, WY.
+                  </p>
+                  <p id="p-53">The funding agencies played no role in the design of the study, the collection, analysis, or interpretation of the data, the
+                     writing of the manuscript, nor the decision to submit the manuscript for publication.
+                  </p>
+                  <p id="p-54">Drs. Winter, Rice, Fortner, and Eliassen have nothing to disclose. Dr. Kurth has received investigator-initiated research
+                     funding from the French National Research Agency, the US National Institutes of Health, Merck, the Migraine Research Foundation,
+                     and the Parkinson’s Disease Foundation. He has received honoraria from Allergan, and the American Academy of Neurology for
+                     educational lectures, and from the BMJ and Cephalalgia for editorial services. R. M. Tamimi was a consultant/advisory board
+                     member of Pfizer.
+                  </p>
+               </div>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1">© The Author 2014. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</li>
+               </ul>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#notes-1" title="Notes" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2 class="">References</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label">1.</span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference 1. in text"
+                           id="ref-1">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.1">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Lipton</span>  <span class="cit-name-given-names">RB</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bigal</span>  <span class="cit-name-given-names">ME</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">The epidemiology of migraine</span>. <abbr class="cit-jnl-abbrev">Am J Med</abbr>. <span class="cit-pub-date">2005</span>;<span class="cit-vol">118</span>(<span class="cit-supplement">Suppl 1</span>):<span class="cit-fpage">3S</span>–<span class="cit-lpage">10S</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=The%20epidemiology%20of%20migraine&amp;author=RB%20Lipton&amp;author=ME%20Bigal&amp;publication_year=2005&amp;journal=Am%20J%20Med&amp;volume=118&amp;pages=3S-10S">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">2.</span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference 2. in text"
+                           id="ref-2">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.2"
+                             data-doi="10.1007/s00415-008-0984-6">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Diener</span>  <span class="cit-name-given-names">HC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kuper</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kurth</span>  <span class="cit-name-given-names">T</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Migraine-associated risks and comorbidity</span>. <abbr class="cit-jnl-abbrev">J Neurol</abbr>. <span class="cit-pub-date">2008</span>;<span class="cit-vol">255</span>(<span class="cit-issue">9</span>):<span class="cit-fpage">1290</span>–<span class="cit-lpage">1301</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/s00415-008-0984-6&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=18958572&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000259980900002&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Migraine-associated%20risks%20and%20comorbidity&amp;author=HC%20Diener&amp;author=M%20Kuper&amp;author=T%20Kurth&amp;publication_year=2008&amp;journal=J%20Neurol&amp;volume=255&amp;issue=9&amp;pages=1290-1301">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">3.</span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference 3. in text"
+                           id="ref-3">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.3"
+                             data-doi="10.1200/JCO.2009.25.0423">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Li</span>  <span class="cit-name-given-names">CI</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mathes</span>  <span class="cit-name-given-names">RW</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bluhm</span>  <span class="cit-name-given-names">EC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Migraine history and breast cancer risk among postmenopausal women</span>. <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr>. <span class="cit-pub-date">2010</span>;<span class="cit-vol">28</span>(<span class="cit-issue">6</span>):<span class="cit-fpage">1005</span>–<span class="cit-lpage">1010</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=28/6/1005"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">4.</span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference 4. in text"
+                           id="ref-4">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.4"
+                             data-doi="10.1158/1055-9965.EPI-09-0291">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Li</span>  <span class="cit-name-given-names">CI</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mathes</span>  <span class="cit-name-given-names">RW</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Malone</span>  <span class="cit-name-given-names">KE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Relationship between migraine history and breast cancer risk among premenopausal and postmenopausal women</span>. <abbr class="cit-jnl-abbrev">Cancer Epidemiol Biomarkers Prev</abbr>. <span class="cit-pub-date">2009</span>;<span class="cit-vol">18</span>(<span class="cit-issue">7</span>):<span class="cit-fpage">2030</span>–<span class="cit-lpage">1034</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=18/7/2030"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">5.</span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference 5. in text"
+                           id="ref-5">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.5"
+                             data-doi="10.1158/1055-9965.EPI-08-0527">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Mathes</span>  <span class="cit-name-given-names">RW</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Malone</span>  <span class="cit-name-given-names">KE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Daling</span>  <span class="cit-name-given-names">JR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Migraine in postmenopausal women and the risk of invasive breast cancer</span>. <abbr class="cit-jnl-abbrev">Cancer Epidemiol Biomarkers Prev</abbr>. <span class="cit-pub-date">2008</span>;<span class="cit-vol">17</span>(<span class="cit-issue">11</span>):<span class="cit-fpage">3116</span>–<span class="cit-lpage">3122</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=17/11/3116"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">6.</span><a class="rev-xref-ref" href="#xref-ref-6-1" title="View reference 6. in text"
+                           id="ref-6">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.6"
+                             data-doi="10.1007/s10552-012-0092-x">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Winter</span>  <span class="cit-name-given-names">AC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rexrode</span>  <span class="cit-name-given-names">KM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Lee</span>  <span class="cit-name-given-names">IM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Buring</span>  <span class="cit-name-given-names">JE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Tamimi</span>  <span class="cit-name-given-names">RM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kurth</span>  <span class="cit-name-given-names">T</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Migraine and subsequent risk of breast cancer: a prospective cohort study</span>. <abbr class="cit-jnl-abbrev">Cancer Causes Control</abbr>. <span class="cit-pub-date">2013</span>;<span class="cit-vol">24</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">81</span>–<span class="cit-lpage">89</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/s10552-012-0092-x&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=23143336&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000312778000009&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Migraine%20and%20subsequent%20risk%20of%20breast%20cancer%3A%20a%20prospective%20cohort%20study&amp;author=AC%20Winter&amp;author=KM%20Rexrode&amp;author=IM%20Lee&amp;author=JE%20Buring&amp;author=RM%20Tamimi&amp;author=T%20Kurth&amp;publication_year=2013&amp;journal=Cancer%20Causes%20Control&amp;volume=24&amp;issue=1&amp;pages=81-89">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">7.</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference 7. in text"
+                           id="ref-7">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.7"
+                             data-doi="10.1001/jama.295.15.1824">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Brandes</span>  <span class="cit-name-given-names">JL</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">The influence of estrogen on migraine: a systematic review</span>. <abbr class="cit-jnl-abbrev">JAMA</abbr>. <span class="cit-pub-date">2006</span>;<span class="cit-vol">295</span>(<span class="cit-issue">15</span>):<span class="cit-fpage">1824</span>–<span class="cit-lpage">1830</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.295.15.1824&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16622144&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000236886900025&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=The%20influence%20of%20estrogen%20on%20migraine%3A%20a%20systematic%20review&amp;author=JL%20Brandes&amp;publication_year=2006&amp;journal=JAMA&amp;volume=295&amp;issue=15&amp;pages=1824-1830">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">8.</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference 8. in text"
+                           id="ref-8">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.8"
+                             data-doi="10.1093/jnci/90.17.1292">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hankinson</span>  <span class="cit-name-given-names">SE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Willett</span>  <span class="cit-name-given-names">WC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Manson</span>  <span class="cit-name-given-names">JE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Plasma sex steroid hormone levels and risk of breast cancer in postmenopausal women</span>. <abbr class="cit-jnl-abbrev">J Natl Cancer Inst</abbr>. <span class="cit-pub-date">1998</span>;<span class="cit-vol">90</span>(<span class="cit-issue">17</span>):<span class="cit-fpage">1292</span>–<span class="cit-lpage">1299</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jnci&amp;resid=90/17/1292"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">9.</span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference 9. in text"
+                           id="ref-9">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.9"
+                             data-doi="10.1016/S1470-2045(13)70301-2">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Key</span>  <span class="cit-name-given-names">TJ</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Appleby</span>  <span class="cit-name-given-names">PN</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Reeves</span>  <span class="cit-name-given-names">GK</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Sex hormones and risk of breast cancer in premenopausal women: a collaborative reanalysis of individual participant data from
+                                    seven prospective studies</span>. <abbr class="cit-jnl-abbrev">Lancet Oncol</abbr>. <span class="cit-pub-date">2013</span>;<span class="cit-vol">14</span>(<span class="cit-issue">10</span>):<span class="cit-fpage">1009</span>–<span class="cit-lpage">1019</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S1470-2045(13)70301-2&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=23890780&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000323942500047&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Sex%20hormones%20and%20risk%20of%20breast%20cancer%20in%20premenopausal%20women%3A%20a%20collaborative%20reanalysis%20of%20individual%20participant%20data%20from%20seven%20prospective%20studies&amp;author=TJ%20Key&amp;author=PN%20Appleby&amp;author=GK%20Reeves&amp;publication_year=2013&amp;journal=Lancet%20Oncol&amp;volume=14&amp;issue=10&amp;pages=1009-1019">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">10.</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference 10. in text"
+                           id="ref-10">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.10"
+                             data-doi="10.1016/S0140-6736(75)91558-5">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Epstein</span>  <span class="cit-name-given-names">MT</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hockaday</span>  <span class="cit-name-given-names">JM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hockaday</span>  <span class="cit-name-given-names">TD</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Migraine and reporoductive hormones throughout the menstrual cycle</span>. <abbr class="cit-jnl-abbrev">Lancet</abbr>. <span class="cit-pub-date">1975</span>;<span class="cit-vol">1</span>(<span class="cit-issue">7906</span>):<span class="cit-fpage">543</span>–<span class="cit-lpage">548</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S0140-6736(75)91558-5&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=47017&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1975V829200003&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Migraine%20and%20reporoductive%20hormones%20throughout%20the%20menstrual%20cycle&amp;author=MT%20Epstein&amp;author=JM%20Hockaday&amp;author=TD%20Hockaday&amp;publication_year=1975&amp;journal=Lancet&amp;volume=1&amp;issue=7906&amp;pages=543-548">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">11.</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference 11. in text"
+                           id="ref-11">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.11"
+                             data-doi="10.1046/j.1468-2982.1986.0601043.x">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Murialdo</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Martignoni</span>  <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">De Maria</span>  <span class="cit-name-given-names">A</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Changes in the dopaminergic control of prolactin secretion and in ovarian steroids in migraine</span>. <abbr class="cit-jnl-abbrev">Cephalalgia</abbr>. <span class="cit-pub-date">1986</span>;<span class="cit-vol">6</span>(<span class="cit-issue">1</span>):<span class="cit-fpage">43</span>–<span class="cit-lpage">49</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=spcep&amp;resid=6/1/43"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">12.</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference 12. in text"
+                           id="ref-12">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.12"
+                             data-doi="10.1046/j.1468-2982.1990.1003147.x">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Nagel-Leiby</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Welch</span>  <span class="cit-name-given-names">KM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Grunfeld</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">D’Andrea</span>  <span class="cit-name-given-names">G</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Ovarian steroid levels in migraine with and without aura</span>. <abbr class="cit-jnl-abbrev">Cephalalgia</abbr>. <span class="cit-pub-date">1990</span>;<span class="cit-vol">10</span>(<span class="cit-issue">3</span>):<span class="cit-fpage">147</span>–<span class="cit-lpage">152</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=spcep&amp;resid=10/3/147"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">13.</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference 13. in text"
+                           id="ref-13">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.13">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">de Lourdes Figuerola</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Levin</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Leston</span>  <span class="cit-name-given-names">J</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Barontini</span>  <span class="cit-name-given-names">M</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Plasma met-enkephalin and catecholamine changes during the menstrual cycle and pain episode in menstrual migraine</span>. <abbr class="cit-jnl-abbrev">Funct Neurol</abbr>. <span class="cit-pub-date">1997</span>;<span class="cit-vol">12</span>(<span class="cit-issue">2</span>):<span class="cit-fpage">69</span>–<span class="cit-lpage">75</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=9238340&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Plasma%20met-enkephalin%20and%20catecholamine%20changes%20during%20the%20menstrual%20cycle%20and%20pain%20episode%20in%20menstrual%20migraine&amp;author=M%20de%20Lourdes%20Figuerola&amp;author=G%20Levin&amp;author=J%20Leston&amp;author=M%20Barontini&amp;publication_year=1997&amp;journal=Funct%20Neurol&amp;volume=12&amp;issue=2&amp;pages=69-75">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">14.</span><a class="rev-xref-ref" href="#xref-ref-10-1" title="View reference 14. in text"
+                           id="ref-14">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.14"
+                             data-doi="10.1007/s10194-006-0274-6">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Patacchioli</span>  <span class="cit-name-given-names">FR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Monnazzi</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Simeoni</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Salivary cortisol, dehydroepiandrosterone-sulphate (DHEA-S) and testosterone in women with chronic migraine</span>. <abbr class="cit-jnl-abbrev">J Headache Pain</abbr>. <span class="cit-pub-date">2006</span>;<span class="cit-vol">7</span>(<span class="cit-issue">2</span>):<span class="cit-fpage">90</span>–<span class="cit-lpage">94</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/s10194-006-0274-6&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16575505&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Salivary%20cortisol%2C%20dehydroepiandrosterone-sulphate%20%28DHEA-S%29%20and%20testosterone%20in%20women%20with%20chronic%20migraine&amp;author=FR%20Patacchioli&amp;author=P%20Monnazzi&amp;author=S%20Simeoni&amp;publication_year=2006&amp;journal=J%20Headache%20Pain&amp;volume=7&amp;issue=2&amp;pages=90-94">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">15.</span><a class="rev-xref-ref" href="#xref-ref-15-1" title="View reference 15. in text"
+                           id="ref-15">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.15"
+                             data-doi="10.1111/j.1468-2982.2008.01835.x">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Schurks</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Buring</span>  <span class="cit-name-given-names">JE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kurth</span>  <span class="cit-name-given-names">T</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Agreement of self-reported migraine with ICHD-II criteria in the Women’s Health Study</span>. <abbr class="cit-jnl-abbrev">Cephalalgia</abbr>. <span class="cit-pub-date">2009</span>;<span class="cit-vol">29</span>(<span class="cit-issue">10</span>):<span class="cit-fpage">1086</span>–<span class="cit-lpage">1090</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=spcep&amp;resid=29/10/1086"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">16.</span><a class="rev-xref-ref" href="#xref-ref-16-1" title="View reference 16. in text"
+                           id="ref-16">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.16"
+                             data-doi="10.1200/JCO.2005.03.7432">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Eliassen</span>  <span class="cit-name-given-names">AH</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Missmer</span>  <span class="cit-name-given-names">SA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Tworoger</span>  <span class="cit-name-given-names">SS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hankinson</span>  <span class="cit-name-given-names">SE</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Endogenous steroid hormone concentrations and risk of breast cancer: does the association vary by a woman’s predicted breast
+                                    cancer risk?</span>
+                                 <abbr class="cit-jnl-abbrev">J Clin Oncol</abbr>. <span class="cit-pub-date">2006</span>;<span class="cit-vol">24</span>(<span class="cit-issue">12</span>):<span class="cit-fpage">1823</span>–<span class="cit-lpage">1830</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jco&amp;resid=24/12/1823"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">17.</span><a class="rev-xref-ref" href="#xref-ref-17-1" title="View reference 17. in text"
+                           id="ref-17">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.17"
+                             data-doi="10.1007/s10552-013-0186-0">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bauer</span>  <span class="cit-name-given-names">SR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fortner</span>  <span class="cit-name-given-names">RT</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Gates</span>  <span class="cit-name-given-names">MA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Eliassen</span>  <span class="cit-name-given-names">AH</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hankinson</span>  <span class="cit-name-given-names">SE</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Tworoger</span>  <span class="cit-name-given-names">SS</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Analgesic use in relation to sex hormone and prolactin concentrations in premenopausal women</span>. <abbr class="cit-jnl-abbrev">Cancer Causes Control</abbr>. <span class="cit-pub-date">2013</span>;<span class="cit-vol">24</span>(<span class="cit-issue">6</span>):<span class="cit-fpage">1087</span>–<span class="cit-lpage">1097</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1007/s10552-013-0186-0&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=23515936&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000318372400004&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Analgesic%20use%20in%20relation%20to%20sex%20hormone%20and%20prolactin%20concentrations%20in%20premenopausal%20women&amp;author=SR%20Bauer&amp;author=RT%20Fortner&amp;author=MA%20Gates&amp;author=AH%20Eliassen&amp;author=SE%20Hankinson&amp;author=SS%20Tworoger&amp;publication_year=2013&amp;journal=Cancer%20Causes%20Control&amp;volume=24&amp;issue=6&amp;pages=1087-1097">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">18.</span><a class="rev-xref-ref" href="#xref-ref-18-1" title="View reference 18. in text"
+                           id="ref-18">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.18"
+                             data-doi="10.1186/bcr3394">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Fortner</span>  <span class="cit-name-given-names">RT</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Eliassen</span>  <span class="cit-name-given-names">AH</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Spiegelman</span>  <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Willett</span>  <span class="cit-name-given-names">WC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Barbieri</span>  <span class="cit-name-given-names">RL</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hankinson</span>  <span class="cit-name-given-names">SE</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Premenopausal endogenous steroid hormones and breast cancer risk: results from the Nurses’ Health Study II</span>. <abbr class="cit-jnl-abbrev">Breast Cancer Res</abbr>. <span class="cit-pub-date">2013</span>;<span class="cit-vol">15</span>(<span class="cit-issue">2</span>):<span class="cit-fpage">R19</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1186/bcr3394&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=23497468&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Premenopausal%20endogenous%20steroid%20hormones%20and%20breast%20cancer%20risk%3A%20results%20from%20the%20Nurses%E2%80%99%20Health%20Study%20II&amp;author=RT%20Fortner&amp;author=AH%20Eliassen&amp;author=D%20Spiegelman&amp;author=WC%20Willett&amp;author=RL%20Barbieri&amp;author=SE%20Hankinson&amp;publication_year=2013&amp;journal=Breast%20Cancer%20Res&amp;volume=15&amp;issue=2&amp;pages=R19">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">19.</span><a class="rev-xref-ref" href="#xref-ref-19-1" title="View reference 19. in text"
+                           id="ref-19">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.19"
+                             data-doi="10.1158/0008-5472.CAN-05-3369">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Tworoger</span>  <span class="cit-name-given-names">SS</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Sluss</span>  <span class="cit-name-given-names">P</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hankinson</span>  <span class="cit-name-given-names">SE</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Association between plasma prolactin concentrations and risk of breast cancer among predominately premenopausal women</span>. <abbr class="cit-jnl-abbrev">Cancer Res</abbr>. <span class="cit-pub-date">2006</span>;<span class="cit-vol">66</span>(<span class="cit-issue">4</span>):<span class="cit-fpage">2476</span>–<span class="cit-lpage">2482</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=canres&amp;resid=66/4/2476"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">20.</span><a class="rev-xref-ref" href="#xref-ref-20-1" title="View reference 20. in text"
+                           id="ref-20">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.20"
+                             data-doi="10.1016/0022-4731(82)90038-3">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Sodergard</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Backstrom</span>  <span class="cit-name-given-names">T</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Shanbhag</span>  <span class="cit-name-given-names">V</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Carstensen</span>  <span class="cit-name-given-names">H</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Calculation of free and bound fractions of testosterone and estradiol-17 beta to human plasma proteins at body temperature</span>. <abbr class="cit-jnl-abbrev">J Steroid Biochem</abbr>. <span class="cit-pub-date">1982</span>;<span class="cit-vol">16</span>(<span class="cit-issue">6</span>):<span class="cit-fpage">801</span>–<span class="cit-lpage">810</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0022-4731(82)90038-3&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=7202083&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1982NV73300016&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Calculation%20of%20free%20and%20bound%20fractions%20of%20testosterone%20and%20estradiol-17%20beta%20to%20human%20plasma%20proteins%20at%20body%20temperature&amp;author=R%20Sodergard&amp;author=T%20Backstrom&amp;author=V%20Shanbhag&amp;author=H%20Carstensen&amp;publication_year=1982&amp;journal=J%20Steroid%20Biochem&amp;volume=16&amp;issue=6&amp;pages=801-810">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">21.</span><a class="rev-xref-ref" href="#xref-ref-21-1" title="View reference 21. in text"
+                           id="ref-21">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.21">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rosner</span>  <span class="cit-name-given-names">B</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Percentage points for a generalized ESD many-outlier procedure</span>. <abbr class="cit-jnl-abbrev">Technometrics</abbr>. <span class="cit-pub-date">1983</span>;(<span class="cit-issue">25</span>):<span class="cit-fpage">165</span>–<span class="cit-lpage">172</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Percentage%20points%20for%20a%20generalized%20ESD%20many-outlier%20procedure&amp;author=B%20Rosner&amp;publication_year=1983&amp;journal=Technometrics&amp;issue=25&amp;pages=165-172">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">22.</span><a class="rev-xref-ref" href="#xref-ref-22-1" title="View reference 22. in text"
+                           id="ref-22">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.22"
+                             data-doi="10.1093/aje/kwm348">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Rosner</span>  <span class="cit-name-given-names">B</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Cook</span>  <span class="cit-name-given-names">N</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Portman</span>  <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Daniels</span>  <span class="cit-name-given-names">S</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Falkner</span>  <span class="cit-name-given-names">B</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Determination of blood pressure percentiles in normal-weight children: some methodological issues</span>. <abbr class="cit-jnl-abbrev">Am J Epidemiol</abbr>. <span class="cit-pub-date">2008</span>;<span class="cit-vol">167</span>(<span class="cit-issue">6</span>):<span class="cit-fpage">653</span>–<span class="cit-lpage">666</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=amjepid&amp;resid=167/6/653"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">23.</span><a class="rev-xref-ref" href="#xref-ref-23-1" title="View reference 23. in text"
+                           id="ref-23">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.23"
+                             data-doi="10.1001/jama.283.15.2008">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Stroup</span>  <span class="cit-name-given-names">DF</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Berlin</span>  <span class="cit-name-given-names">JA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Morton</span>  <span class="cit-name-given-names">SC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-etal">et al.</span></li>
+                              </ol><cite>
+                                 <span class="cit-article-title">Meta-analysis of observational studies in epidemiology: a proposal for reporting. Meta-analysis Of Observational Studies in
+                                    Epidemiology (MOOSE) group</span>. <abbr class="cit-jnl-abbrev">JAMA</abbr>. <span class="cit-pub-date">2000</span>;<span class="cit-vol">283</span>(<span class="cit-issue">15</span>):<span class="cit-fpage">2008</span>–<span class="cit-lpage">2012</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.283.15.2008&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=10789670&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000086436600037&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Meta-analysis%20of%20observational%20studies%20in%20epidemiology%3A%20a%20proposal%20for%20reporting.%20Meta-analysis%20Of%20Observational%20Studies%20in%20Epidemiology%20%28MOOSE%29%20group&amp;author=DF%20Stroup&amp;author=JA%20Berlin&amp;author=SC%20Morton&amp;publication_year=2000&amp;journal=JAMA&amp;volume=283&amp;issue=15&amp;pages=2008-2012">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">24.</span><div class="cit ref-cit ref-journal no-rev-xref" id="cit-107.1.dju381.24">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Whiteman</span>  <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Marchbanks</span>  <span class="cit-name-given-names">P</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Migraine history and risk of breast cancer</span>. <abbr class="cit-jnl-abbrev">Am J Epidemiol</abbr>. <span class="cit-pub-date">2010</span>;<span class="cit-vol">171</span>:<span class="cit-fpage">S22</span>–<span class="cit-lpage">S22</span>.</cite></div>
+                           <div class="cit-extra"><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Migraine%20history%20and%20risk%20of%20breast%20cancer&amp;author=M%20Whiteman&amp;author=P%20Marchbanks&amp;publication_year=2010&amp;journal=Am%20J%20Epidemiol&amp;volume=171&amp;pages=S22-S22">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">25.</span><a class="rev-xref-ref" href="#xref-ref-25-1" title="View reference 25. in text"
+                           id="ref-25">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.25"
+                             data-doi="10.1111/j.1526-4610.2009.01594.x">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Smitherman</span>  <span class="cit-name-given-names">TA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kolivas</span>  <span class="cit-name-given-names">ED</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Resolution of menstrually related migraine following aggressive treatment for breast cancer</span>. <abbr class="cit-jnl-abbrev">Headache</abbr>. <span class="cit-pub-date">2010</span>;<span class="cit-vol">50</span>(<span class="cit-issue">3</span>):<span class="cit-fpage">485</span>–<span class="cit-lpage">488</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1111/j.1526-4610.2009.01594.x&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=20039954&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000275097400016&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Resolution%20of%20menstrually%20related%20migraine%20following%20aggressive%20treatment%20for%20breast%20cancer&amp;author=TA%20Smitherman&amp;author=ED%20Kolivas&amp;publication_year=2010&amp;journal=Headache&amp;volume=50&amp;issue=3&amp;pages=485-488">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">26.</span><a class="rev-xref-ref" href="#xref-ref-26-1" title="View reference 26. in text"
+                           id="ref-26">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.26"
+                             data-doi="10.1001/jama.296.3.283">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Kurth</span>  <span class="cit-name-given-names">T</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Gaziano</span>  <span class="cit-name-given-names">JM</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Cook</span>  <span class="cit-name-given-names">NR</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Logroscino</span>  <span class="cit-name-given-names">G</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Diener</span>  <span class="cit-name-given-names">HC</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Buring</span>  <span class="cit-name-given-names">JE</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Migraine and risk of cardiovascular disease in women</span>. <abbr class="cit-jnl-abbrev">JAMA</abbr>. <span class="cit-pub-date">2006</span>;<span class="cit-vol">296</span>(<span class="cit-issue">3</span>):<span class="cit-fpage">283</span>–<span class="cit-lpage">291</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1001/jama.296.3.283&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=16849661&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000239089900020&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Migraine%20and%20risk%20of%20cardiovascular%20disease%20in%20women&amp;author=T%20Kurth&amp;author=JM%20Gaziano&amp;author=NR%20Cook&amp;author=G%20Logroscino&amp;author=HC%20Diener&amp;author=JE%20Buring&amp;publication_year=2006&amp;journal=JAMA&amp;volume=296&amp;issue=3&amp;pages=283-291">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label">27.</span><a class="rev-xref-ref" href="#xref-ref-27-1" title="View reference 27. in text"
+                           id="ref-27">↵</a><div class="cit ref-cit ref-journal" id="cit-107.1.dju381.27"
+                             data-doi="10.1158/1055-9965.EPI-05-0848">
+                           <div class="cit-metadata">
+                              <ol class="cit-auth-list">
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Missmer</span>  <span class="cit-name-given-names">SA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Spiegelman</span>  <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Bertone-Johnson</span>  <span class="cit-name-given-names">ER</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Barbieri</span>  <span class="cit-name-given-names">RL</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Pollak</span>  <span class="cit-name-given-names">MN</span></span>, 
+                                 </li>
+                                 <li><span class="cit-auth"><span class="cit-name-surname">Hankinson</span>  <span class="cit-name-given-names">SE</span></span></li>
+                              </ol><cite>. <span class="cit-article-title">Reproducibility of plasma steroid hormones, prolactin, and insulin-like growth factor levels among premenopausal women over
+                                    a 2- to 3-year period</span>. <abbr class="cit-jnl-abbrev">Cancer Epidemiol Biomarkers Prev</abbr>. <span class="cit-pub-date">2006</span>;<span class="cit-vol">15</span>(<span class="cit-issue">5</span>):<span class="cit-fpage">972</span>–<span class="cit-lpage">978</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=cebp&amp;resid=15/5/972"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div id="related">
+               <h2>Related articles</h2>
+               <ul class="related-list">
+                  <div class="cit">
+                     <div class="cit-metadata"><span class="cit-first-element cit-section">Memo to the Media<span class="cit-sep cit-sep-after-article-section">:</span> </span><span class="cit-title">Migraine was not associated with BC in a pooled analysis of prospective cohort studies </span> <cite><abbr title="Journal of the National Cancer Institute" class="site-title">JNCI J Natl Cancer Inst</abbr> <span class="cit-print-date"><span class="cit-sep cit-sep-before-article-print-date">(</span>2015<span class="cit-sep cit-sep-after-article-print-date">)</span> </span><span class="cit-vol">107 </span><span class="cit-issue"><span class="cit-sep cit-sep-before-article-issue">(</span>1<span class="cit-sep cit-sep-after-article-issue">):</span> </span><span class="cit-elocation">dju431 </span><span class="cit-doi"><span class="cit-sep cit-sep-before-article-doi"> doi:</span>10.1093/jnci/dju431 </span><span class="cit-online-date"><span class="cit-sep cit-sep-before-article-online-date">First published online </span>December 12, 2014 </span><span class="cit-page-count"><span class="cit-sep cit-sep-before-article-page-count">(</span>1<span class="cit-sep cit-sep-after-article-page-count"> pages)</span> </span></cite>  
+                     </div>
+                     <div class="cit-extra"><span class="accesscheck jnci;107/1/dju431 pdf_extract,full,reprint"></span> 
+                        <ul class="cit-views">
+                           <li class="first-item"><a href="/content/107/1/dju431.extract" rel="extract">Extract</a></li>
+                           <li><a href="/content/107/1/dju431.full" rel="full-text">Full Text (HTML)</a></li>
+                           <li class="last-item"><a href="/content/107/1/dju431.full.pdf+html" rel="full-text.pdf">Full Text (PDF)</a></li>
+                        </ul>  
+                     </div> 
+                  </div>
+               </ul>
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/107/1/dju385.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/107/1/dju431.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/107/1.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              <cite>
+                                 <abbr title="JNCI Journal of the National Cancer Institute" class="slug-jnl-abbrev">
+                                    <nlm:abbrev-journal-title xmlns:nlm="http://schema.highwire.org/NLM/Journal" abbrev-type="publisher">JNCI J Natl Cancer Inst</nlm:abbrev-journal-title></abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    (2015) 
+                                    </span>
+                                 
+                                 <span class="slug-vol">
+                                    107
+                                    </span><span class="slug-issue">
+                                    (1):
+                                    </span><span class="slug-elocation">
+                                    
+                                    dju381
+                                    </span>
+                                 <span class="slug-doi-wrapper">
+                                    
+                                    doi:
+                                    
+                                    <span title="10.1093/jnci/dju381" class="slug-doi">10.1093/jnci/dju381</span>
+                                    </span>
+                                 </cite>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><a href="/content/107/1/dju381.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        <li class="notice full-text-view-link"><span class="variant-indicator">» <span>Full Text (HTML)</span></span><span class="free">Free</span></li>
+                        <li class="notice full-text-pdf-view-link"><a href="/content/107/1/dju381.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li><a href="/content/107/1/dju381/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplementary-data">Supplementary Data</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Classifications</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=Article&amp;sortspec=date&amp;submit=Submit">Article</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=jnci;107/1/dju381" rel="nofollow">Article metrics</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=jnci%3B107%2F1%2Fdju381&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/107/1/dju381.full">Alert me when cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=107/1/dju381&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://jnci.oxfordjournals.org/content/107/1/dju381.full">Alert me if corrected</a></li>
+                        <li class="similar-link"><a href="/search?qbe=jnci%3Bdju381&amp;citation=Winter%20et%20al.%20107%20%281%29&amp;submit=yes">Find similar articles</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=jnci%3B107%2F1%2Fdju381&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=25505231&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="folder-link icon-link"><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=jnci%3B107%2F1%2Fdju381">Add to my archive</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=jnci%3B107%2F1%2Fdju381">Download citation</a></li>
+                        <li><a class="request-permissions"
+                              href="https://s100.copyright.com/AppDispatchServlet?publisherName=oup&amp;publication=jnci&amp;title=Migraine%20and%20Breast%20Cancer%20Risk%3A%20A%20Prospective%20Cohort%20Study%20and%20Meta-Analysis%3A%20&amp;publicationDate=01%2F01%2F2015&amp;author=Anke%20C.%20Winter%2C%20Megan%20S.%20Rice%2C%20Ren%C3%A9e%20T.%20Fortner%2C%20A.%20Heather%20Eliassen%2C%20Tobias%20Kurth%2C%20Rulla%20M.%20Tamimi&amp;copyright=Oxford%20University%20Press&amp;contentID=10.1093%2Fjnci%2Fdju381&amp;volumeNum=107&amp;issueNum=1&amp;startPage=&amp;endPage=&amp;orderBeanReset=true"
+                              target="_blank">Request Permissions</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/107/1/dju381.full?cited-by=yes&amp;legid=jnci;107/1/dju381#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/cgi/crossref-forward-links/107/1/dju381" rel="external-nw"
+                              id="cb-crossref-citing-articles">Citing articles via CrossRef</a></li>
+                        <li><a href="/scopus-links/jnci/107/1/dju381?access_num=/jnci/107/1/dju381"
+                              rel="external-nw"
+                              id="cb-scopus-citing-articles">Citing articles via Scopus</a></li>
+                        <li><a href="/external-ref?access_num=%2Fjnci%2F107%2F1%2Fdju381&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/107/1/dju381.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AWinter%20author%3AA.C.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Winter, A. C.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ATamimi%20author%3AR.M.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Tamimi, R. M.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://jnci.oxfordjournals.org/content/107/1/dju381.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed</span></h4>
+                     <ol>
+                        <li class="cb-art-pm-cite cite-link icon-link"><a href="/external-ref?access_num=25505231&amp;link_type=PUBMED"
+                              class="cb-art-pm-cite cite-link icon-link">PubMed citation</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Winter%20AC&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Winter, A. C.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Rice%20MS&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Rice, M. S.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Fortner%20RT&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Fortner, R. T.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Eliassen%20AH&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Eliassen, A. H.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Kurth%20T&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Kurth, T.</a></li>
+                        <li class="cb-art-pm-auth author-link"><a href="/external-ref?access_num=Tamimi%20RM&amp;link_type=AUTHORSEARCH"
+                              class="cb-art-pm-auth author-link">Articles by  Tamimi, R. M.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="#related">Related articles in this journal</a></li>
+                        <li><a href="/content/107/1/dju381.full?related-urls=yes&amp;legid=jnci;107/1/dju381#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=jnci%3B107%2F1%2Fdju381&amp;current-view-path=/content/107/1/dju381.full">
+                              Email this article</a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/107/1/dju381&amp;title=Migraine%20and%20Breast%20Cancer%20Risk%3A%20A%20Prospective%20Cohort%20Study%20and%20Meta-Analysis+--+Winter%20et%20al.%20107%20%281%29+--+jnci&amp;doi=10.1093/jnci/dju381&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/107/1/dju381&amp;title=Migraine%20and%20Breast%20Cancer%20Risk%3A%20A%20Prospective%20Cohort%20Study%20and%20Meta-Analysis+--+Winter%20et%20al.%20107%20%281%29+--+jnci&amp;doi=10.1093/jnci/dju381&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/short/107/1/dju381&amp;title=Migraine%20and%20Breast%20Cancer%20Risk%3A%20A%20Prospective%20Cohort%20Study%20and%20Meta-Analysis+--+Winter%20et%20al.%20107%20%281%29+--+jnci&amp;doi=10.1093/jnci/dju381&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/107/1/dju381&amp;title=Migraine%20and%20Breast%20Cancer%20Risk%3A%20A%20Prospective%20Cohort%20Study%20and%20Meta-Analysis+--+Winter%20et%20al.%20107%20%281%29+--+jnci&amp;doi=10.1093/jnci/dju381&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-mendeley"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/107/1/dju381&amp;title=Migraine%20and%20Breast%20Cancer%20Risk%3A%20A%20Prospective%20Cohort%20Study%20and%20Meta-Analysis+--+Winter%20et%20al.%20107%20%281%29+--+jnci&amp;doi=10.1093/jnci/dju381&amp;link_type=MENDELEY"><img src="/shared/img/common/social-bookmarking/mendeley.gif" alt="Add to Mendeley"
+                                            title="Mendeley" /></a><span class="soc-bm-link-text">Mendeley</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://jnci.oxfordjournals.org/cgi/content/long/107/1/dju381&amp;title=Migraine%20and%20Breast%20Cancer%20Risk%3A%20A%20Prospective%20Cohort%20Study%20and%20Meta-Analysis+--+Winter%20et%20al.%20107%20%281%29+--+jnci&amp;doi=10.1093/jnci/dju381&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#abstract-1">Abstract</a></li>
+                        <li><a href="#sec-5">Methods</a></li>
+                        <li><a href="#sec-18">Results</a></li>
+                        <li><a href="#sec-21">Discussion</a></li>
+                        <li><a href="#sec-22">Funding</a></li>
+                        <li><a href="#notes-1">Notes</a></li>
+                        <li><a href="#ref-list-1">References</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div id="col-3-qs" class="sidebar-qs">
+               
+               
+               <form class="searchbox" action="/search" method="get">
+                  <p>Search this journal:</p>
+                  <div>
+                     	
+                     	
+                     	<input value="" type="text" name="fulltext" id="header-qs-input" />
+                     <input type="hidden" name="submit" value="yes" />
+                     
+                     <input class="inline_button" type="image" alt="Go" src="/publisher/img/buttons/go.gif" />
+                     
+                     <div class="adv-search-link"><a href="/search">Advanced »</a></div>
+                     
+                     
+                  </div>
+               </form>
+               
+            </div>
+            <div class="cb-contents">
+               
+               <div id="sidebar-current-issue" class="content-box">
+                  	
+                  <h3 class="cb-contents-header">Current Issue</h3>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           	      <a href="/content/current"><span>
+                                 		  <span class="current-issue-date">
+                                    October 2015
+                                    </span><span class="toc-citation-volume">
+                                    
+                                    107
+                                    </span><span class="toc-citation-issue">(10)</span>
+                                 		  
+                                 		</span></a>
+                           	    
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section">
+                     	  
+                     <ol>
+                        <li>
+                           <a href="/content/current"><img src="/content/107/10.cover.gif" alt="JNCI J Natl Cancer Inst" id="cover" /></a>
+                           
+                        </li>
+                     </ol>
+                     	
+                  </div>
+                  	
+                  <div class="cb-section sidebar-etoc-link">
+                     	  
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues</a></li>
+                     </ol>
+                     	
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="second">
+               
+               <div class="ad_hidden" id="oas_right1">
+                  <iframe id="id_advertframe_right1"
+                          src="/resource/htmlfiles/advert.html?p=Right1&amp;u=jnci.oxfordjournals.org/content/107/1/dju381.full"
+                          width="0"
+                          height="0"
+                          frameborder="0"
+                          scrolling="no"
+                          class="resize_ad"></iframe>
+                  
+               </div>
+               
+               <div class="features">
+                  
+                  <div class="feature separator_after first">
+                     
+                     <h2 id="the_journal" title="The Journal"><span>The Journal</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/about.html" rel=""
+                              title="About this journal">About this journal</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/contact_us.html" rel=""
+                              title="Contact Us">Contact Us</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/rights_permissions.html"
+                              rel=""
+                              title="Rights &amp; Permissions">Rights &amp; Permissions</a>
+                           
+                        </li>
+                        <li>
+                           <a href="HTTP://www.oxfordjournals.org/access_purchase/dispatch_dates.html#JNCI.JP"
+                              rel=""
+                              title="Dispatch date of next issue">Dispatch date of next issue</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://publicationethics.org/" rel=""
+                              title="This journal is a member of the Committee on Publication Ethics (COPE)">This journal is a member of the Committee on Publication Ethics (COPE)</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/mobile_faqs.html" rel=""
+                              title="We are mobile – find out more">We are mobile – find out more</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?t730=&amp;t732=469986&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102"
+                              rel=""
+                              title="Journals Career Network">Journals Career Network</a>
+                           
+                        </li>
+                     </ul>
+                     
+                     <p>
+                        <a href="http://www.oxfordjournals.org/our_journals/jnci/episodes_2012.html">
+                           <img alt="Podcast Logo" style="float:left"
+                                src="http://www.oxfordjournals.org/podcasts/podcast_icon_35x35.gif" />JNCI Podcast</a>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Connect with us!</h3>
+                     <a href="https://twitter.com/JNCI_Now">
+                        <img class="small_margin" alt="Connect with us on Twitter!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/connect_twitter.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     <a href="https://www.facebook.com/thejnci">
+                        <img class="small_margin" alt="Connect with us on Facebook!"
+                             src="http://www.oxfordjournals.org/our_journals/phisci/facebook.png"
+                             style="vertical-align: top; float: left; " />
+                        </a>
+                     
+                     <p>
+                        <br />
+                        <br />
+                        
+                     </p>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Editor-in-Chief</h3>
+                     
+                     <p>Carmen J. Allegra</p>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/editorial_board.html"
+                              rel=""
+                              title="View full editorial board">View full editorial board</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature separator_after">
+                     
+                     <h3>Impact factor: 12.583</h3>
+                     
+                     <h3 class="five_year">5-Yr impact factor: 13.584</h3>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h3>For the Media</h3>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/press_room.html" rel=""
+                              title="JNCI PRESS ROOM">JNCI PRESS ROOM</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="for_authors" title="For Authors"><span>For Authors</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/our_journals/jnci/for_authors/index.html"
+                              rel=""
+                              title="Instructions to authors">Instructions to authors</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/access_purchase/self-archiving_policyb.html"
+                              rel=""
+                              title="Self Archiving/Public Access Policy">Self Archiving/Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/ ">
+                        <img alt="Open access options for authors - visit Oxford Open"
+                             src="http://www.oxfordjournals.org/resource/image/promos/oxford_open_small.gif" />
+                        </a>
+                     <a href="http://www.oxfordjournals.org/oxfordopen/funder_policies/">
+                        <img alt="RCUK Wellcome Trust Open Access"
+                             src="http://www.oxfordjournals.org/resource/image/wellcome-trust-180x100.jpg" />
+                        </a>
+                     
+                     <p>Open access options for authors - visit <a href="http://www.oxfordjournals.org/oxfordopen/">Oxford Open</a>
+                        
+                     </p>
+                     <a href="http://publicaccess.nih.gov/submit_process_journals.htm">
+                        <img alt="PMC Logo" src="http://www.oxfordjournals.org/resource/image/pmc-logo.gif" />
+                        </a>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://publicaccess.nih.gov/submit_process_journals.htm" rel=""
+                              title="This journal enables compliance with the NIH Public Access Policy">This journal enables compliance with the NIH Public Access Policy</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="alerting_services" title="Alerting Services"><span>Alerting Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email table of contents">Email table of contents</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/cgi/alerts/etoc" rel="" title="Email Advance Access">Email Advance Access</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://jnci.oxfordjournals.org/help/citetrack/index.dtl" rel=""
+                              title="CiteTrack">CiteTrack</a>
+                           
+                        </li>
+                        <li>
+                           <a href="/rss" rel="" title="XML RSS feed">XML RSS feed</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+                  <div class="feature">
+                     
+                     <h2 id="corporate_services" title="Corporate Services"><span>Corporate Services</span></h2>
+                     
+                     <ul class="emphasised">
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/advertising.html" rel=""
+                              title="Advertising sales">Advertising sales</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/reprints.html" rel=""
+                              title="Reprints">Reprints</a>
+                           
+                        </li>
+                        <li>
+                           <a href="http://www.oxfordjournals.org/corporate_services/classifiedadinprint.html"
+                              rel=""
+                              title="Classified Advertising">Classified Advertising</a>
+                           
+                        </li>
+                     </ul>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript">var taxonomies = ["MED00300"];</script>
+               </div>
+            
+            <div class="most-links-box js-marker">
+               
+               <div class="most-header">
+                  
+                  <h3>Most</h3>
+                  
+               </div>
+               
+               <ul>
+                  <li class="most-cur-sel">
+                     <h4>Most Read</h4>
+                     	  
+                     <div class="most-list">
+                        	    
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/6/443?rss=1&amp;ssource=mfr">Breast Density and Cancer Risk: What Is the Relationship?</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/9/713?rss=1&amp;ssource=mfr">The Female Prostate</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/91/14/1194?rss=1&amp;ssource=mfr">Tobacco Smoke Carcinogens and Lung Cancer</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/107/6/djv048?rss=1&amp;ssource=mfr">Annual Report to the Nation on the Status of Cancer, 1975-2011, Featuring Incidence of Breast Cancer Subtypes by Race/Ethnicity,
+                                 Poverty, and State</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/105/23/1799?rss=1&amp;ssource=mfr">Elevated Plasma Vitamin B12 Levels as a Marker for Cancer: A Population-Based Cohort Study</a></li>
+                        </ol>
+                        	    <a href="http://jnci.oxfordjournals.org/reports/mfr1.dtl" class="view-all">» View all Most Read articles</a>
+                        	  
+                     </div>
+                     	
+                  </li>
+                  <li>
+                     <h4>Most Cited</h4>
+                     	
+                     <div class="most-list">
+                        	  
+                        <ol>
+                           <li class="first-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/92/3/205?rss=1&amp;ssource=mfc">New Guidelines to Evaluate the Response to Treatment in Solid Tumors</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/90/18/1371?rss=1&amp;ssource=mfc">Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/85/5/365?rss=1&amp;ssource=mfc">The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International
+                                 Clinical Trials in Oncology</a></li>
+                           <li><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/13/1107?rss=1&amp;ssource=mfc">New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening</a></li>
+                           <li class="last-item"><a href="http://jnci.oxfordjournals.org/cgi/content/short/82/1/4?rss=1&amp;ssource=mfc">What Is the Evidence That Tumors Are Angiogenesis Dependent?</a></li>
+                        </ol>
+                        	  <a href="http://jnci.oxfordjournals.org/reports/mfc1.dtl" class="view-all">» View all Most Cited articles</a>
+                        	
+                     </div>
+                     
+                  </li>
+               </ul>
+               
+            </div>
+            
+            
+            
+         </div>
+         
+         
+         
+         <div id="oas_bottom" class="ad_hidden">
+            <iframe id="id_advertframe_bottom"
+                    src="/resource/htmlfiles/advert.html?p=Bottom&amp;u=jnci.oxfordjournals.org/content/107/1/dju381.full"
+                    width="0"
+                    height="0"
+                    frameborder="0"
+                    scrolling="no"
+                    class="resize_ad"></iframe>
+            
+         </div>
+         
+         
+         
+         
+         
+         
+         <div id="secondary_footer">
+            
+            <div id="issn">Online ISSN 1460-2105 - Print ISSN 0027-8874</div>
+            
+            
+            <div id="copyright"><a href="http://www.oxfordjournals.org/our_journals/terms.html">Copyright ©</a> 
+               <span>2015</span> Oxford University Press
+               
+            </div>
+            
+         </div>
+         
+         <div id="primary_footer">
+            
+            <div id="site_logo">
+               <strong><span>Oxford Journals</span></strong>
+               <em><span>Oxford University Press</span></em>
+               
+            </div>
+            
+            
+            <div id="third_nav">
+               
+               <ul>
+                  <li><a href="http://www.oxfordjournals.org/site_map.html">Site Map</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/privacy_policy.html">Privacy Policy</a></li>
+                  <li><a href="http://global.oup.com/cookiepolicy/?siteid=journals">Cookie Policy</a></li>
+                  <li><a href="http://www.oxfordjournals.org/legal/legal_notices.html">Legal Notices</a></li>
+                  <li><a href="http://www.oxfordjournals.org/faq/">Frequently Asked Questions</a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <div id="other_oup_sites">
+               
+               <form action="http://www.oxfordjournals.org/service/redirect">
+                  <div>
+                     <label for="site_list">Other Oxford University Press sites:</label>
+                     <select name="url" id="site_list">
+                        <option value="http://www.oup.com">Oxford University Press</option>
+                        <option value="http://www.oxfordjournals.org/china/">Oxford Journals China</option>
+                        <option value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+                        <option value="http://www.oup.com/uk/academic">Academic &amp; Professional books</option>
+                        <option value="http://www.oup.com/oxed">Children's &amp; Schools Books</option>
+                        <option value="http://www.oup.com/uk/dictionaries">Dictionaries &amp; Reference</option>
+                        <option value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+                        <option value="http://www.oup.com/uk/digital_reference">Digital Reference</option>
+                        <option value="http://www.oup.com/elt/">English Language Teaching</option>
+                        <option value="http://www.oup.com/uk/textbooks">Higher Education Textbooks</option>
+                        <option value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+                        <option value="http://www.oup.com/uk/law">Law</option>
+                        <option value="http://www.oup.com/uk/medicine">Medicine</option>
+                        <option value="http://www.oup.com/uk/music">Music</option>
+                        <option value="http://www.oup.com/online">Online Products &amp; Publishing</option>
+                        <option value="http://oxfordbibliographiesonline.com">Oxford Bibliographies Online</option>
+                        <option value="http://oxforddictionaries.com">Oxford Dictionaries Online</option>
+                        <option value="http://www.oed.com">Oxford English Dictionary</option>
+                        <option value="http://www.oxfordlanguagedictionaries.com">Oxford Language Dictionaries Online</option>
+                        <option value="http://www.oxfordscholarship.com">Oxford Scholarship Online</option>
+                        <option value="http://www.oup.com/uk/reference">Reference</option>
+                        <option value="http://www.oup.com/uk/rights">Rights and Permissions</option>
+                        <option value="http://www.oup.com/uk/booksellers">Resources for Retailers &amp; Wholesalers</option>
+                        <option value="http://www.oup.com/uk/corporate">Resources for the Healthcare Industry</option>
+                        <option value="http://www.oup.com/vsi">Very Short Introductions</option>
+                        <option value="http://www.oup.com/worldsclassics">World's Classics</option></select>
+                     
+                     <input type="image" src="/resource/image/buttons/go.gif" alt="Go"
+                            class="inline_button" />
+                     
+                  </div>
+               </form>
+               
+            </div>
+            
+         </div>
+         <script type="text/javascript"
+                 src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"
+                 defer="defer"></script>
+         
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jquery-ui.min.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/jcarousellite.js"
+                 type="text/javascript"></script>
+         <script defer="defer"
+                 src="http://oi-underbar.ifactory.com/underbar/js/pf_oiunderbarinit.js"
+                 type="text/javascript"></script>
+         <script defer="defer" src="/resource/js/underbar_local.js" type="text/javascript"></script>
+         <script defer="defer" type="text/javascript">
+    function fnc_onDomLoaded() {
+        var query_context = getQueryContext();
+        PF_initOIUnderbar(query_context,":QS:default","","JRN"); 
+        PF_insertOIUnderbar(0);
+    };
+    if (window.addEventListener) { 
+        window.addEventListener('load', fnc_onDomLoaded, false); 
+    } else if (window.attachEvent) { 
+        window.attachEvent('onload', fnc_onDomLoaded); 
+    } 
+</script>
+         <noscript><img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1"
+                 border="0"
+                 hspace="0"
+                 vspace="0"
+                 alt="" /></noscript><script type="text/javascript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-16");
+        pageTracker._setDomainName(".oxfordjournals.org");
+        pageTracker._trackPageview();
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

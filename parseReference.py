@@ -1,11 +1,9 @@
 from bs4 import BeautifulSoup
-import urllib2
-import requests
 import re
 import html5lib
 import os
 import reader
-
+import search
 '''
 Given a URL and the HTML at the URL, returns all of the references, including the HTML tags.
 Finds all of the references at the end for general websites
@@ -89,7 +87,7 @@ def getNums(articleRefs):
                 incrementKeyCount(i)
         else:
             incrementKeyCount(int(a))
-    return articleRefNums.keys()
+    return articleRefNums
 
 folder = 'meta'
 
@@ -98,21 +96,35 @@ annotatedMeta.tsv contains article titles and the human-annotated key words
 Given a title of an article, returns the key words
 '''
 def findKeyWord(title):
-    annotated = annotatedMeta.tsv
+    lines = [line.strip('\r\n') for line in open('annotated meta.tsv')]
+    for line in lines:
+        if title in line:
+            return line.split('\t')[1]
+
+'''
 for f in os.listdir(folder):
     fileName = '{}/{}'.format(folder, f)
-    metaName = f.strip(".txt")
-    allMetaRefs = [metaName] + findEndRef(fileName)
-    inArticleRefs = getNums(findInArticleRef(fileName))
-  #  print inArticleRefs
-    '''
-    print metaName
-    print len(allMetaRefs)
-    print len(inArticleRefs)
-    '''
 
-
-
-
-
-
+    txt = ".txt"
+    if txt in f:
+        metaName = f.strip(txt)
+    else:
+        continue
+  #  allMetaRefs = [metaName] + findEndRef(fileName)
+  #  inArticleRefs = getNums(findInArticleRef(fileName))
+    toSearch = findKeyWord(metaName)
+    url = search.generateURL(toSearch)
+    titles = map(removeTags,search.getTitles(url))
+    print titles
+'''
+test = 'A Systematic Review and Meta-Analysis of the Pharmacological Treatment of Cancer-Related Fatigue.txt'
+fileName = '{}/{}'.format(folder, test)
+print findInArticleRef(fileName)
+blah = getNums(findInArticleRef(fileName))
+print blah
+count = 0
+for i in blah:
+    if blah[i] > 1:
+        print i
+        count += 1
+print count

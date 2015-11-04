@@ -3,7 +3,6 @@ import re
 import html5lib
 import os
 import reader
-import search
 '''
 Given a URL and the HTML at the URL, returns all of the references, including the HTML tags.
 Finds all of the references at the end for general websites
@@ -32,6 +31,7 @@ def findEndRef(url, text):
             return sites[site]
     return 'ERROR: site not seen before'
 '''
+
 '''
 Removes all html tags and white space from a bs4 tag.
 '''
@@ -40,11 +40,13 @@ def removeTags(htmlTag):
     tag = re.compile(r'<[^>]+>')
     string = tag.sub('', string)
     string = re.sub('\s+', " ", string) #removes white space
-     #regular expression to deal with unicode
+     #regular expression to deal with unicode??
     return string
 
 '''
 Given a file name, returns a list of all references at the end of an article.
+input: name of the file
+output: list of references at the end of the article
 '''
 def findEndRef(fileName):
     text = reader.readFile(fileName)
@@ -55,76 +57,57 @@ def findEndRef(fileName):
 
 '''
 Given the HTML code of an article, returns a list the numbers to the references made in the article.
+input: name of the file
+ouput: list of the in text citations to articles i.e. [1,2-4,5]
 '''
 def findInArticleRef(fileName):
     text = reader.readFile(fileName)
     soup = BeautifulSoup(text, 'html5lib')
     inText = soup.findAll("a", {"class", "xref-bibr"})
     inText = map(removeTags, inText)
-    inText = map(lambda string: re.sub('\xe2\x80\x93',"-", string), inText)
-    inText = map(lambda string: re.sub(r'[^0-9/-]+','',string), inText)
+    inText = map(lambda string: re.sub('\xe2\x80\x93',"-", string), inText) #deals with unicode dashes
+    inText = map(lambda string: re.sub(r'[^0-9/-]+','',string), inText) #deletes not numbers
     return inText
 
-
-#get the numbers of the references in the article
-#PROBLEM: cannot tell which articles are being summarized
-def getNums(articleRefs):
-
-    articleRefNums = {}
+'''
+Get the reference numbers of all of the articles referenced within the meta article
+input: list of the in text citations to articles
+output: dictionary where keys are articles referenced, values are how many times each article occurred
+'''
+def getArticleCounts(articleRefs):
+    articleCounts = {}
     def incrementKeyCount(key):
-        if key in articleRefNums:
-            articleRefNums[key] += 1
+        if key in articleCounts:
+            articleCounts[key] += 1
         else:
-            articleRefNums[key] = 1
+            articleCounts[key] = 1
 
     def convertInt(string):
         return [int(s) for s in str.split() if s.isdigit()]
     for a in articleRefs:
-        if '-' in a:
+        if '-' in a: #dealing with ranges such as 9-13
             first = int(a.split('-')[0])
             last = int(a.split('-')[1])
             for i in xrange(first, last+1):
                 incrementKeyCount(i)
         else:
             incrementKeyCount(int(a))
-    return articleRefNums
+    return articleCounts
+
+'''
+Returns the list of all numbers referenced in the article that occur more than once.
+We say that these are the articles being summarized.
+'''
+def getMetaNums(fileName):
+    allArticles = getArticleCounts(findInArticleRef(fileName))
+    meta = [article for article in allArticles if allArticles[article] > 1]
+    return meta
 
 folder = 'meta'
-
-'''
-annotatedMeta.tsv contains article titles and the human-annotated key words
-Given a title of an article, returns the key words
-'''
-def findKeyWord(title):
-    lines = [line.strip('\r\n') for line in open('annotated meta.tsv')]
-    for line in lines:
-        if title in line:
-            return line.split('\t')[1]
-
-'''
-for f in os.listdir(folder):
-    fileName = '{}/{}'.format(folder, f)
-
-    txt = ".txt"
-    if txt in f:
-        metaName = f.strip(txt)
-    else:
-        continue
-  #  allMetaRefs = [metaName] + findEndRef(fileName)
-  #  inArticleRefs = getNums(findInArticleRef(fileName))
-    toSearch = findKeyWord(metaName)
-    url = search.generateURL(toSearch)
-    titles = map(removeTags,search.getTitles(url))
-    print titles
-'''
 test = 'A Systematic Review and Meta-Analysis of the Pharmacological Treatment of Cancer-Related Fatigue.txt'
 fileName = '{}/{}'.format(folder, test)
-print findInArticleRef(fileName)
-blah = getNums(findInArticleRef(fileName))
-print blah
-count = 0
-for i in blah:
-    if blah[i] > 1:
-        print i
-        count += 1
-print count
+metaNums = getMetaNums(fileName)
+allReferences = findEndRef(fileName)
+metaReferences = [allReferences[num-1] for num in metaNums] #metaNums is 1 indexed, arrays are 0 indexed
+print metaNums
+print metaReferences

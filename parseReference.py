@@ -103,11 +103,13 @@ def getMetaNums(fileName):
     meta = [article for article in allArticles if allArticles[article] > 1]
     return meta
 
-folder = 'meta'
-test = 'A Systematic Review and Meta-Analysis of the Pharmacological Treatment of Cancer-Related Fatigue.txt'
-fileName = '{}/{}'.format(folder, test)
-metaNums = getMetaNums(fileName)
-allReferences = findEndRef(fileName)
-metaReferences = [allReferences[num-1] for num in metaNums] #metaNums is 1 indexed, arrays are 0 indexed
-print metaNums
-print metaReferences
+'''
+Given a file name, returns the list of all meta articles referenced
+'''
+def getMetaReferences(fileName):
+    folder = 'meta'
+    fileName = '{}/{}'.format(folder, fileName)
+    metaNums = getMetaNums(fileName)
+    allReferences = findEndRef(fileName)
+    metaReferences = [allReferences[num-1] for num in metaNums] #metaNums is 1 indexed, arrays are 0 indexed
+    return metaReferences

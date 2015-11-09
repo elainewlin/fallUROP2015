@@ -32,15 +32,20 @@ def getTitles(url):
     return links
 
 #test = 'Meta-Analysis of Soy Intake and Breast Cancer Risk.txt'
-for fileName in os.listdir(os.getcwd()+"/meta"):
-    if ".txt" in fileName and len(fileName) > 8: #HACKY, FIX
-        query = findKeyWord(fileName) 
-        url = generateURL(query)
-        print url
-        searchResults = getTitles(url)
-        metaReferences = parseReference.getMetaReferences(fileName)
-        for meta in metaReferences:
-            for result in searchResults:
-                if result in meta:
-                    print result
+
+#for fileName in os.listdir(os.getcwd()+"/meta"):
+ #   if ".txt" in fileName and len(fileName) > 8: #HACKY, FIX
+
+def compareMetaSearch(fileName):
+    query = findKeyWord(fileName) 
+    url = generateURL(query)
+    print url
+    searchResults = getTitles(url)
+    metaReferences = parseReference.getMetaReferences(fileName)
+    for meta in metaReferences:
+        for result in searchResults:
+            if result in meta:
+                print result
 #print getTitles(testURL)
+test = 'Meta-analyses of Observational and Genetic Association Studies of Folate Intakes or Levels and Breast Cancer Risk.txt'
+compareMetaSearch(test)
